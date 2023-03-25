@@ -1882,23 +1882,23 @@ Sholazar Basin 28046
 32296
 32334
     Recorded: 32337
-32356
+Area 52 32356
     Recorded: 32359
     Recorded: 32360???
     Recorded: 32362???
-32379
-32380
-32381
-32382
-32383
-32385
+A, SW 32379
+A, SW 32380
+A, SW 32381
+H, Org 32382
+H, Org 32383
+H, Org 32385
     Recorded: 32403
-32405
-32407
+Area 52 32405
+Gadgetzan 32407
     Recorded: 32412
-32413
+A, Dalaran 32413
     Recorded: 32415
-32416
+A, Dalaran 32416
     Recorded: 32419
     Recorded: 32420
 32421
@@ -1920,37 +1920,37 @@ Sholazar Basin 28046
 32639
 32641
 32642
-32763
-32764
-32765
-32773
-32774
-32832
-32834
-32836
-32837
-33018
-33019
-33026
+Dragonblight 32763
+H, AV, Might not exist 32764
+H, AV, Might not exist 32765
+A, Howling Fjord 32773
+H, Howling Fjord 32774
+H, Orgrimmar 32832
+A, SW 32834
+A, Starter towns, Noblegarden 32836
+H, Starter towns, Noblegarden 32837
+H, Howling Fjord 33018
+H, Howling Fjord 33019
+Dalaran 33026
     Recorded: 33027
-33238
-33239
-33307
-33310
-33553
-33554
-33555
-33556
-33557
-33594
-33595
-33596
-33597
-33598
-33599
-33600
-33601
-33602
+A, Quest reward companion 33238
+H, Quest reward companion 33239
+A, Icecrown 33307
+A, Icecrown 33310
+H, Storm Peaks 33553
+H, Storm Peaks 33554
+H, Storm Peaks 33555
+H, Storm Peaks 33556
+H, Storm Peaks 33557
+Icecrown 33594
+Icecrown 33595
+Icecrown 33596
+Icecrown 33597
+Icecrown 33598
+Icecrown 33599
+Icecrown 33600
+Icecrown 33601
+Icecrown 33602
     Recorded: 33630
     Recorded: 33631
     Recorded: 33633
@@ -1962,7 +1962,7 @@ Sholazar Basin 28046
     Recorded: 33639
     Recorded: 33640
     Recorded: 33641
-33644
+Icecrown 33644
 33645
 33650
 33653
@@ -2062,76 +2062,76 @@ Sholazar Basin 28046
 34881
 34885
     Recorded: 35099
-35101
-35131
-35132
-35337
-35338
-35340
-35341
-35342
-35343
-35494
-35495
-35496
-35497
-35498
-35500
-35507
+A, Honor Hold 35101
+A, Valiance Keep 35131
+H, Warsong Hold 35132
+A, SW Gates, Pilgrim's Bounty 35337
+A, Darnassus Gates, Pilgrim's Bounty 35338
+A, IF Gates, Pilgrim's Bounty 35340
+H, UC Courtyard, Pilgrim's Bounty 35341
+H, Org Gates, Pilgrim's Bounty 35342
+H, TB Gates, Pilgrim's Bounty 35343
+A, Dalaran 35494
+H, Dalaran 35495
+Dalaran 35496
+Dalaran 35497
+Dalaran 35498
+Dalaran 35500
+A, Dalaran 35507
     Recorded: 35508
-35573
-35574
-35575
-35576
-35577
-35578
-35579
-35580
-35642
-35790
-35826
-37242
-37305
-37315
-37318
-37320
-37342
-37344
-37348
-37349
-37373
-37399
-37420
-37427
-37433
-37485
-37486
-37674
-37687
-37688
-37696
-37903
-37904
-37935
-37936
-37941
-37942
-37991
-37992
-37993
-37997
-37998
-37999
-38054
-38181
-38182
-38283
-38284
-38316
-38840
-38841
-38858
-39172
-39173
-40160
-40607
+A, Icecrown 35573
+H, Icecrown 35574
+A, Icecrown 35575
+H, Icecrown 35576
+A, Icecrown 35577
+H, Icecrown 35578
+A, Icecrown 35579
+H, Icecrown 35580
+Engineering 35642
+Dalaran 35790
+Dalaran 35826
+A, AV, Might not exist 37242
+H, AV, Might not exist 37305
+A, AV, Might not exist 37315
+H, AV, Might not exist 37318
+H, AV, Might not exist 37320
+H, Hillsbrad, Might not exist 37342
+A, AV, Might not exist 37344
+A, AV, Might not exist 37348
+A, AV, Might not exist 37349
+H, AV, Might not exist 37373
+H, AV, Might not exist 37399
+A, AV, Might not exist 37420
+A, AV, Might not exist 37427
+A, Hillsbrad, Might not exist 37433
+H, AV, Might not exist 37485
+H, AV, Might not exist 37486
+Capitals, Love is in the Air 37674
+ICC 37687
+ICC 37688
+ICC 37696
+A, ICC 37903
+A, ICC 37904
+H, ICC 37935
+H, ICC 37936
+H, Dalaran 37941
+A, Dalaran 37942
+H, ICC 37991
+H, ICC 37992
+H, ICC 37993
+A, ICC 37997
+A, ICC 37998
+A, ICC 37999
+ICC 38054
+H, ICC 38181
+A, ICC 38182
+A, ICC 38283
+H, ICC 38284
+ICC 38316
+A, ICC 38840
+H, ICC 38841
+ICC 38858
+A, Wintergrasp? 39172
+H, Wintergrasp? 39173
+Dalaran 40160
+A, SW? 40607
