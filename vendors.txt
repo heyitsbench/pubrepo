@@ -553,85 +553,85 @@ A, Theramore 4896
 A, Theramore 4897
 A, Theramore 4899
     Recorded: 4954
-4981
-5049
-5052
-5100
-5101
-5102
-5103
-5106
-5107
-5108
-5109
-5110
-5111
-5112
-5119
-5120
-5121
-5122
-5123
-5124
-5125
-5126
-5128
-5129
-5132
-5133
-5134
-5135
-5138
-5139
-5140
-5151
-5152
-5154
-5155
-5156
-5158
-5160
-5162
-5163
-5169
-5170
-5175
-5178
-5188
+A, SW 4981
+A, IF 5049
+H, UC 5052
+A, IF 5100
+A, IF 5101
+A, IF 5102
+A, IF 5103
+A, IF 5106
+A, IF 5107
+A, IF 5108
+A, IF 5109
+A, IF 5110
+A, IF 5111
+A, IF 5112
+A, IF 5119
+A, IF 5120
+A, IF 5121
+A, IF 5122
+A, IF 5123
+A, IF 5124
+A, IF 5125
+A, IF 5126
+A, IF 5128
+A, IF 5129
+A, IF 5132
+A, IF 5133
+A, AV 5134
+A, AV 5135
+A, IF 5138
+A, AV 5139
+A, IF 5140
+A, IF 5151
+A, IF 5152
+A, IF 5154
+A, IF 5155
+A, IF 5156
+A, IF 5158
+A, IF 5160
+A, IF 5162
+A, IF 5163
+A, IF 5169
+A, IF 5170
+A, IF 5175
+A, IF 5178
+H, Org 5188
     Recorded: 5189
 H, UC 5190
 A, Darnassus 5191
 A, SW 5193
     Recorded: 5411
-5483
-5494
-5503
-5508
-5509
-5510
-5512
-5514
-5519
-5565
-5569
-5570
+A, SW 5483
+A, SW 5494
+A, SW 5503
+A, Blasted Lands 5508
+A, SW 5509
+A, SW 5510
+A, SW 5512
+A, SW 5514
+A, SW 5519
+A, SW 5565
+A, IF 5569
+A, IF 5570
     Recorded: 5594
-5611
-5620
-5688
-5748
-5754
-5757
-5758
-5783
-5812
-5814
-5816
-5817
-5819
-5820
-5821
-5848
+H, Org 5611
+A, Lakeshire 5620
+H, Brill 5688
+H, Silverpine 5748
+H, UC 5754
+H, Silverpine 5757
+H, Silverpine 5758
+Barrens 5783
+H, Org 5812
+H, Grom'gol 5814
+H, Org 5816
+H, Org 5817
+H, UC 5819
+H, UC 5820
+H, UC 5821
+A, Barrens 5848
     Recorded: 5870
     Recorded: 5871
     Recorded: 5886
@@ -639,35 +639,35 @@ H, Mulgore 5940
 H, Durotar 5942
     Recorded: 5944
     Recorded: 6028
-6091
-6272
-6298
-6300
-6301
-6367
-6495
-6496
-6548
+A, Shadowglen 6091
+A, Theramore 6272
+A, Darkshore 6298
+A, Darkshore 6300
+A, Darkshore 6301
+A, Elwynn 6367
+Shimmering Flats 6495
+Shimmering Flats 6496
+Shimmering Flats 6548
     Recorded: 6567
     Recorded: 6568
     Recorded: 6574
-6576
-6727
-6730
-6731
-6734
-6735
-6736
-6737
-6738
+A, Feralas 6576
+A, Lakeshire 6727
+Shimmering Flats 6730
+A, Ashenvale 6731
+A, Thelsamar 6734
+A, Darnassus 6735
+A, Dolanaar 6736
+A, Darkshore 6737
+A, Astranaar 6738
     Recorded: 6739
 A, SW 6740
 H, UC 6741
     Recorded: 6746
-6747
-6777
-6779
-6790
+H, Mulgore 6747
+Alterac 6777
+Alterac 6779
+A, Darkshire 6790
     Recorded: 6791
     Recorded: 6807
 H, Razor Hill 6928
@@ -681,27 +681,27 @@ H, UC 7683
     Recorded: 7733
 A, Feralas 7736
     Recorded: 7737
-7744
-7772
-7775
-7852
+A, Hinterlands 7744
+Feralas 7772
+Feralas 7775
+A, Feralas 7852
     Recorded: 7854
 A, Feralas 7879
     Recorded: 7940
-7941
-7942
-7943
-7945
-7947
-7952
-7955
-7976
-7978
-8116
-8117
-8118
-8121
-8122
+A, Feralas 7941
+A, Feralas 7942
+A, Feralas 7943
+A, Feralas 7945
+A, Feralas 7947
+H, Durotar 7952
+A, Kharanos 7955
+A, IF 7976
+A, IF 7978
+Booty Bay, Midsummer Fire Festival? 8116
+A, IF, Midsummer Fire Festival? 8117
+A, SW, Midsummer Fire Festival? 8118
+Ratchet, Midsummer Fire Festival? 8121
+H, Org, Midsummer Fire Festival? 8122
     Recorded: 8125
     Recorded: 8129
     Recorded: 8131
@@ -709,18 +709,18 @@ A, Feralas 7879
     Recorded: 8139
     Recorded: 8143
     Recorded: 8145
-8150
-8152
-8157
+A, Desolace 8150
+H, Desolace 8152
+A, Feralas 8157
     Recorded: 8158
     Recorded: 8159
-8160
-8161
+A, Hinterlands 8160
+A, Hinterlands 8161
     Recorded: 8176
     Recorded: 8177
-8178
-8305
-8307
+A, Blasted Lands 8178
+Wetlands 8305
+H, Barrens 8307
     Recorded: 8358
     Recorded: 8359
     Recorded: 8360
@@ -729,22 +729,22 @@ A, Feralas 7879
     Recorded: 8363
     Recorded: 8364
     Recorded: 8398
-8401
-8403
-8404
-8508
-8665
-8666
-8678
-8679
-8681
-8878
-8931
-8934
-8999
-9087
-9099
-9179
+H, TB 8401
+H, UC 8403
+H, Org 8404
+A, Dun Morogh 8508
+A, Darnassus 8665
+A, SW 8666
+Azshara 8678
+STV 8679
+A, IF 8681
+H, Desolace 8878
+A, Sentinel Hill 8931
+A, Sentinel Hill 8934
+Removed? 8999
+H, TB 9087
+A, IF 9099
+Badlands 9179
     Recorded: 9356
 Blackrock Bar 9499
     Recorded: 9501
@@ -770,9 +770,9 @@ A, Winterspring 10618
 WPL 10856
 WPL 10857
     Recorded: 11038
-11056
-11057
-11103
+A, WPL 11056
+H, WPL 11057
+A, Desolace 11103
     Recorded: 11106
 Removed? 11111
     Recorded: 11116
@@ -786,13 +786,13 @@ A, Astranaar 11137
     Recorded: 11187
     Recorded: 11188
     Recorded: 11189
-11278
-11287
-11536
-11555
-11557
-11703
-11874
+Scholomance Island 11278
+Scholomance Island 11287
+Light's Hope 11536
+Timbermaw, Winterspring 11555
+Timbermaw, Winterspring11557
+A, Searing Gorge 11703
+Swamp of Sorrows 11874
     Recorded: 12019
     Recorded: 12021
     Recorded: 12022
@@ -809,61 +809,61 @@ A, Astranaar 11137
 A, AV 12096
 H, AV 12097
     Recorded: 12196
-12245
-12246
-12384
-12777
-12778
-12781
-12782
-12783
-12784
-12785
-12788
-12792
-12793
-12794
-12795
-12796
-12799
-12805
-12919
+Desolace 12245
+Desolace 12246
+EPL 12384
+A, BGs/SW? 12777
+A, SW 12778
+A, SW 12781
+A, BGs/SW? 12782
+A, SW 12783
+A, SW 12784
+A, SW 12785
+H, Org 12788
+H, BGs/Org? 12792
+H, Org 12793
+H, Org 12794
+H, Org 12795
+H, Org 12796
+H, Org 12799
+A, SW? 12805
+Dustwallow Marsh 12919
     Recorded: 12941
-12942
-12943
-12944
-12956
-12957
-12958
+A, WPL 12942
+H, WPL 12943
+BRD 12944
+Un'goro 12956
+Azshara 12957
+Hinterlands 12958
     Recorded: 12959
 A, Desolace 12960
     Recorded: 12962
-13018
-13216
-13217
-13218
-13219
-13418
-13420
-13429
-13430
-13431
-13432
-13433
-13434
-13435
-13436
+A, Deeprun Tram 13018
+A, AV 13216
+A, Alterac 13217
+H, Alterac 13218
+H, Alterac 13219
+Org, Winter Veil? 13418
+Org, Winter Veil? 13420
+UC, Winter Veil? 13429
+UC, Winter Veil? 13430
+TB, Winter Veil? 13431
+TB, Winter Veil? 13432
+IF, Winter Veil? 13433
+IF, Winter Veil? 13434
+SW, Winter Veil? 13435
+SW, Winter Veil? 13436
     Recorded: 13476
-14301
-14322
-14337
-14371
-14437
-14450
-14480
-14481
-14522
-14581
+A, Ashenvale 14301
+King, Dire Maul 14322
+Engineering 14337
+Shen'dralar, Dire Maul 14371
+Burning Steppes 14437
+A, SW 14450
+H, Org, Children's Week? 14480
+A, SW, Children's Week? 14481
+Shadow Potion, Felwood 14522
+H, BGs? 14581
     Recorded: 14624
 Feralas 14637
     Recorded: 14731
@@ -871,18 +871,18 @@ Feralas 14637
     Recorded: 14738
     Recorded: 14739
     Recorded: 14740
-14753
-14754
-14844
-14845
-14846
-14847
-14860
-14921
-14961
-14962
-14963
-14964
+A, Barrens 14753
+H, Barrens 14754
+Darkmoon Faire 14844
+Darkmoon Faire 14845
+Darkmoon Faire 14846
+Darkmoon Faire 14847
+Darkmoon Faire 14860
+STV 14921
+Alterac 14961
+Alterac 14962
+Ashenvale 14963
+Barrens 14964
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
 Arathi 15124
@@ -1153,20 +1153,20 @@ H, Hellfire 19315
 Aldor, Shattrath 19321
     Recorded: 19330
     Recorded: 19331
-19333
-19339
-19342
-19343
-19345
-19348
-19351
-19352
-19370
-19371
-19372
-19373
-19374
-19383
+H, SMV 19333
+H, SMV 19339
+H, SMV 19342
+H, Terokkar 19343
+H, Terokkar 19345
+H, Terokkar 19348
+A, SMV 19351
+A, SMV 19352
+A, SMV 19370
+A, SMV 19371
+A, SMV 19372
+A, SMV 19373
+A, SMV 19374
+H?, Zangarmarsh 19383
     Recorded: 19435
     Recorded: 19436
 19450
