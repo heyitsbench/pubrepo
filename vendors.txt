@@ -229,8 +229,8 @@ A, Arathi 2816
     Recorded: 2848
     Recorded: 2849
     Recorded: 2908
-2910
-2942
+A, Badlands 2910
+Removed? 2942
     Recorded: 2997
     Recorded: 2999
     Recorded: 3000
@@ -252,35 +252,35 @@ A, Arathi 2816
     Recorded: 3025
     Recorded: 3027
     Recorded: 3029
-3053
-3072
-3073
-3074
-3075
-3076
-3077
-3078
-3079
-3080
-3081
-3085
-3086
-3088
-3089
-3090
-3091
+Shimmering Flats 3053
+H, Mulgore 3072
+H, Mulgore 3073
+H, Mulgore 3074
+H, Mulgore 3075
+H, Mulgore 3076
+H, Mulgore 3077
+H, Mulgore 3078
+H, Mulgore 3079
+H, Mulgore 3080
+H, Mulgore 3081
+A, Lakeshire 3085
+A, Lakeshire 3086
+A, Lakeshire 3088
+A, Lakeshire 3089
+A, Lakeshire 3090
+A, Lakeshire 3091
     Recorded: 3092
     Recorded: 3093
     Recorded: 3095
-3096
-3097
-3133
-3134
-3135
-3138
-3158
-3159
-3160
+Redridge 3096
+A, Redridge 3097
+A, Darkshire 3133
+Duskwood 3134
+A, Darkshire 3135
+A, Darkshire 3138
+H, Durotar 3158
+H, Durotar 3159
+H, Durotar 3160
 3161
 3162
 3163
@@ -351,10 +351,10 @@ A, Arathi 2816
     Recorded: 3489
     Recorded: 3490
     Recorded: 3491
-3492
-3493
+Ratchet 3492
+Ratchet 3493
     Recorded: 3495
-3497
+Ratchet 3497
     Recorded: 3498
     Recorded: 3499
     Recorded: 3500
