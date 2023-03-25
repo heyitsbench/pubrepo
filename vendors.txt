@@ -358,60 +358,60 @@ Ratchet 3497
     Recorded: 3498
     Recorded: 3499
     Recorded: 3500
-3518
-3522
-3528
-3529
-3530
-3532
-3534
-3536
+A, SW 3518
+H, Tirisfal 3522
+A, Silverpine 3528
+Hostile 3529
+A, Silverpine 3530
+A, Silverpine 3532
+Greymane Wall 3534
+Durnholde Keep 3536
     Recorded: 3537
     Recorded: 3539
-3540
-3541
-3542
-3543
+A, Southshore 3540
+A, Southshore 3541
+A, Southshore 3542
+A, Southshore 3543
     Recorded: 3544
-3546
-3547
-3548
-3550
+A, Blasted Lands 3546
+H, Brill 3547
+H, Brill 3548
+H, Tirisfal 3550
     Recorded: 3551
     Recorded: 3552
     Recorded: 3553
     Recorded: 3554
     Recorded: 3556
-3561
-3562
+A, Darnassus 3561
+A, Darnassus 3562
     Recorded: 3572
-3577
-3578
-3587
-3588
-3589
-3590
-3591
-3592
-3608
-3609
-3610
-3611
-3612
-3613
-3614
+A, Silverpine 3577
+A, Dalaran 3578
+A, Shadowglen 3587
+A, Shadowglen 3588
+A, Shadowglen 3589
+A, Shadowglen 3590
+A, Shadowglen 3591
+A, Shadowglen 3592
+A, Dolanaar 3608
+A, Dolanaar 3609
+A, Dolanaar 3610
+A, Dolanaar 3611
+A, Dolanaar 3612
+A, Dolanaar 3613
+A, Dolanaar 3614
     Recorded: 3621
-3625
+H, AV 3625
     Recorded: 3658
-3682
-3683
-3684
-3685
-3689
-3700
+H, Barrens 3682
+Barrens 3683
+Barrens 3684
+H, Mulgore 3685
+H, Barrens 3689
+A, Feralas 3700
     Recorded: 3705
     Recorded: 3708
-3779
+A, Winterspring 3779
 3881
 3882
 3883
