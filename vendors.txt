@@ -1038,20 +1038,20 @@ A, Exodar 17584
     Recorded: 17656
 A, Honor Hold 17657
 A, Bloodmyst 17667
-Zangarmarsh 17904
+    Recorded: 17904
 A, Azuremyst 17929
 A, Azuremyst 17930
 A, Zangarmarsh 18005
 A, Zangarmarsh 18006
 A, Zangarmarsh 18009
 A, Zangarmarsh 18010
-H, Zangarmarsh 18011
-H, Zangarmarsh 18015
-H, Zangarmarsh 18017
-H, Zangarmarsh 18018
+    Recorded: 18011
+    Recorded: 18015
+    Recorded: 18017
+    Recorded: 18018
 A, Zangarmarsh 18019
-H, Zangarmarsh 18243
-H, Zangarmarsh 18245
+    Recorded: 18243
+    Recorded: 18245
 A, Zangarmarsh 18251
 Karazhan Door 18255
 A, Honor Hold 18266
@@ -1065,7 +1065,7 @@ A, Bloodmyst 18427
     Recorded: 18484
     Recorded: 18525
     Recorded: 18542
-H, Zangarmarsh 18564
+    Recorded: 18564
 A, Zangarmarsh 18581
 Old Hillsbrad 18664
 Old Hillsbrad 18672
@@ -1088,9 +1088,9 @@ A, Halaa 18822
 Removed? 18898
     Recorded: 18905
 A, Hellfire 18906
-Zangarmarsh 18907
+    Recorded: 18907
 A, Zangarmarsh 18908
-Zangarmarsh 18911
+    Recorded: 18911
 H, Nagrand 18913
 A, Nagrand 18914
     Recorded: 18926
@@ -1105,8 +1105,8 @@ H, Eversong Woods 18954
 A, Honor Hold 18987
     Recorded: 18988
 A, Hellfire 18990
-H, Hellfire 18991
-Zangarmarsh 18993
+    N/A? 18991
+    Recorded: 18993
     Recorded: 18997
     Recorded: 18998
 A, Hellfire 19001
@@ -1151,7 +1151,7 @@ Shattrath 19194
     Recorded: 19245
 A, Terokkar 19296
 A, Hellfire 19314
-H, Hellfire 19315
+    Recorded: 19315
 Aldor, Shattrath 19321
     Recorded: 19330
     Recorded: 19331
@@ -1168,49 +1168,49 @@ A, SMV 19371
 A, SMV 19372
 A, SMV 19373
 A, SMV 19374
-H?, Zangarmarsh 19383
+    Recorded: 19383
     Recorded: 19435
     Recorded: 19436
-H, Blade's Edge 19450
+    Recorded: 19450
 A, Dark Portal 19451
 A, Dark Portal 19452
-H, Blade's Edge 19470
-H, Blade's Edge 19471
-H, Blade's Edge 19472
-H, Blade's Edge 19473
-H, Blade's Edge 19474
-H, Blade's Edge 19479
+    Recorded: 19470
+    Recorded: 19471
+    Recorded: 19472
+    Recorded: 19473
+    Recorded: 19474
+    Recorded: 19479
 A, Blade's Edge 19495
 A, Blade's Edge 19497
 A, Blade's Edge 19498
 A, Blade's Edge 19499
-Scryers, SMV 19517
-Scryers, SMV 19518
-Scryers, SMV 19520
-Scryers, SMV 19521
+    Recorded: 19517
+    Recorded: 19518
+    Recorded: 19520
+    Recorded: 19521
 Aldor, SMV 19526
 Aldor, SMV 19528
 Aldor, SMV 19530
-Netherstorm 19531
+    Recorded: 19531
 Aldor, SMV 19532
-Netherstorm 19533
-Netherstorm 19534
-Netherstorm 19535
-Netherstorm 19536
-Netherstorm 19537
-Netherstorm 19538
-Netherstorm 19539
-Netherstorm 19540
-H, Hellfire 19559
-H, Hellfire 19560
-H, Hellfire 19561
-H, Hellfire 19562
-Area 52 19572
-Area 52 19573
-Area 52 19574
-Area 52 19575
-Area 52 19617
-Scryers, SMV 19625
+    Recorded: 19533
+    Recorded: 19534
+    Recorded: 19535
+    Recorded: 19536
+    Recorded: 19537
+    Recorded: 19538
+    Recorded: 19539
+    Recorded: 19540
+    Recorded: 19559
+    Recorded: 19560
+    Recorded: 19561
+    Recorded: 19562
+    Recorded: 19572
+    Recorded: 19573
+    Recorded: 19574
+    Recorded: 19575
+    Recorded: 19617
+    Recorded: 19625
 Aldor, SMV 19649
     Recorded: 19661
     Recorded: 19662
@@ -1223,31 +1223,31 @@ Auchindoun 19718
 A, Zangarmarsh 19722
     Recorded: 19772
 A, Terokkar 19773
-H, Hellfire 19836
-H, Blade's Edge 19837
-Blade's Edge 19857
+    Recorded: 19836
+    Recorded: 19837
+    Recorded: 19857
 Auchindoun 19879
     Recorded: 19932
 A, Zangarmarsh 20028
     Recorded: 20080
     Recorded: 20081
     Recorded: 20082
-Netherstorm 20092
+    Recorded: 20092
 A, Nagrand 20096
 H, Nagrand 20097
-Netherstorm 20112
+    Recorded: 20112
 A, Exodar 20121
-Netherstorm 20194
+    Recorded: 20194
 A, Hellfire 20231
 A, Nagrand 20240
 H, Nagrand 20241
-Netherstorm 20242
-Blade's Edge 20249
-Blade's Edge 20250
+    Recorded: 20242
+    Recorded: 20249
+    Recorded: 20250
     Recorded: 20278
 Old Hillsbrad, Southshore 20377
 Old Hillsbrad, Southshore 20378
-Netherstorm 20463
+    Recorded: 20463
 H, Terokkar 20494
 A, SMV 20510
     Recorded: 20613
@@ -1258,26 +1258,26 @@ Aldor, Shattrath 20807
     Recorded: 20891
     Recorded: 20892
     Recorded: 20893
-Blade's Edge 20915
-Blade's Edge 20916
-Blade's Edge 20917
-Netherstorm 20980
-Netherstorm 20981
+    Recorded: 20915
+    Recorded: 20916
+    Recorded: 20917
+    Recorded: 20980
+    Recorded: 20981
 Auchindoun 20986
-Netherstorm 20989
+    Recorded: 20989
 A, Exodar 21019
-H, Blade's Edge 21082
-H, Blade's Edge 21083
-H, Blade's Edge 21084
-H, Blade's Edge 21085
-H, Blade's Edge 21086
+    Recorded: 21082
+    Recorded: 21083
+    Recorded: 21084
+    Recorded: 21085
+    Recorded: 21086
 A, Blade's Edge 21110
 A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
 A, Bloodmyst 21145
-Zangarmarsh 21172
-SMV 21183
+    Recorded: 21172
+    Recorded: 21183
     Recorded: 21432
 H, Halaa 21474
 H, Halaa 21483
@@ -1287,7 +1287,7 @@ A, Halaa 21487
 A, Halaa 21488
     Recorded: 21643
     Recorded: 21655
-Scryers, Shadowmoon 21744
+    Recorded: 21744
 Aldor, Shadowmoon 21746
     Recorded: 21905
 Aldor, Shattrath 21906
@@ -1297,13 +1297,13 @@ Wyrmcult, Blade's Edge 22099
     Recorded: 22213
     Recorded: 22225
 A, Honor Hold 22227
-Ogri'la 22264
-Ogri'la 22266
-Ogri'la 22270
-Ogri'la 22271
+    Recorded: 22264
+    Recorded: 22266
+    Recorded: 22270
+    Recorded: 22271
 Terokkar 22476
-Netherstorm 22479
-Netherstorm 22491
+    Recorded: 22479
+    Recorded: 22491
 A, AV 22646
 H, AV 22648
 H, AV 22650
@@ -1327,24 +1327,24 @@ Silvermoon, Feast of Winter Veil 23011
 Silvermoon, Feast of Winter Veil 23012
 Shattrath, Feast of Winter Veil 23064
 Shattrath, Feast of Winter Veil 23065
-Ogri'la 23110
-Ogri'la 23112
+    Recorded: 23110
+    Recorded: 23112
 Netherwing, SMV 23143
 Netherwing, SMV 23144
 Netherwing, SMV 23145
 Black Temple 23157
 Black Temple 23159
-Ogri'la 23208
+    Recorded: 23208
 Blade's Edge 23243
 Blade's Edge 23244
 Blade's Edge 23245
     Recorded: 23263
 Skettis 23363
-Skettis 23367
-Zangarmarsh 23373
+    Recorded: 23367
+    Recorded: 23373
 Hyjal 23381
 Area 52 23396
-Ogri'la 23428
+    Recorded: 23428
 Hyjal 23437
 A, SW? 23446
 H, Silvermoon? 23447
@@ -1382,6 +1382,7 @@ Zul'Aman 23897
 A, Howling Fjord 23908
 A, Howling Fjord 23937
     Recorded: 23995
+    Removed? 23995
 H, Howling Fjord 24028
 H, Howling Fjord 24033
 A, Howling Fjord 24052
@@ -1442,7 +1443,7 @@ Barrens 25089
 Nagrand 25176
 Gadgetzan 25177
 Gadgetzan 25178
-Blade's Edge 25179
+    Recorded: 25179
 Aldor, Shattrath 25195
     Recorded: 25196
 Borean Tundra 25206
@@ -1479,7 +1480,7 @@ A, Grizzly Hills 26375
 Likely removed 26378
 A, Grizzly Hills 26382
 Likely removed 26383
-Blade's Edge 26384
+    Removed? 26384
 A, Grizzly Hills 26388
 A, SW? 26393
 A, SW? 26394
@@ -1642,7 +1643,7 @@ Sholazar Basin 28038
 Sholazar Basin 28040
 Sholazar Basin 28046
 BRD 28225
-Area 52 28344
+    Recorded: 28344
 A, SW 28347
 EPL 28500
 Zul'Drak 28589
@@ -1879,11 +1880,14 @@ A, Alterac 32112
 Dalaran 32172
 Dalaran 32216
     Recorded: 32253
-Dalarn 32287
+Dalaran 32287
 A, Wintergrasp 32294
 H, Wintergrasp 32296
 Dalaran 32334
     Recorded: 32337
+    Recorded: 32354?
+    Recorded: 32355?
+    Recorded: 32356?
 Area 52 32356
     Recorded: 32359
     Recorded: 32360???
