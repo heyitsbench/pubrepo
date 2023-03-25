@@ -1294,48 +1294,48 @@ Wyrmcult, Blade's Edge 22099
     Recorded: 22212
     Recorded: 22213
     Recorded: 22225
-22227
-22264
-22266
-22270
-22271
-22476
-22479
-22491
-22646
-22648
-22650
-22651
-22652
-22653
-22654
-22655
-22658
-22659
-22660
-22661
-22680
-22681
-22682
-22695
-23007
-23009
-23010
-23011
-23012
-23064
-23065
-23110
-23112
-23143
-23144
-23145
-23157
-23159
-23208
-23243
-23244
-23245
+A, Honor Hold 22227
+Ogri'la 22264
+Ogri'la 22266
+Ogri'la 22270
+Ogri'la 22271
+Terokkar 22476
+Netherstorm 22479
+Netherstorm 22491
+A, AV 22646
+H, AV 22648
+H, AV 22650
+A, AV 22651
+A, AV 22652
+A, AV 22653
+H, AV 22654
+H, AV 22655
+A, AV 22658
+A, AV 22659
+H, AV 22660
+H, AV 22661
+A, AV 22680
+H, AV 22681
+H, Alterac 22682
+A, Alterac 22695
+Nagrand 23007
+Exodar, Feast of Winter Veil 23009
+Exodar, Feast of Winter Veil 23010
+Silvermoon, Feast of Winter Veil 23011
+Silvermoon, Feast of Winter Veil 23012
+Shattrath, Feast of Winter Veil 23064
+Shattrath, Feast of Winter Veil 23065
+Ogri'la 23110
+Ogri'la 23112
+Netherwing, SMV 23143
+Netherwing, SMV 23144
+Netherwing, SMV 23145
+Black Temple 23157
+Black Temple 23159
+Ogri'la 23208
+Blade's Edge 23243
+Blade's Edge 23244
+Blade's Edge 23245
     Recorded: 23263
 Skettis 23363
 Skettis 23367
@@ -1392,33 +1392,33 @@ H, Howling Fjord 24148
 H, Howling Fjord 24149
 H, Howling Fjord 24188
     Recorded: 24208
-24291
-24313
-24330
-24333
-24341
-24342
-24343
-24347
-24348
-24349
-24356
-24357
-24392
-24408
-24409
-24468
-24495
-24501
-24510
-24520
-24539
-24545
-24780
-24834
-24843
-24934
-24935
+H, Howling Fjord 24291
+H, Howling Fjord 24313
+H, Howling Fjord 24330
+A, Howling Fjord 24333
+H, Howling Fjord 24341
+H, Howling Fjord 24342
+H, Howling Fjord 24343
+H, Howling Fjord 24347
+H, Howling Fjord 24348
+H, Howling Fjord 24349
+A, Howling Fjord 24356
+A, Valiance Keep 24357
+Area 52 24392
+Zul'Aman 24408
+Zul'Aman 24409
+A, IF Gates, Brewfest 24468
+H, Org Gates, Brewfest 24495
+H, Capitals, Brewfest 24501
+H, Org Gates, Brewfest 24510
+H, Org? 24520
+Howling Fjord 24539
+Shattrath, Brewfest 24545
+Engineering 24780
+A, Dun Morogh 24834
+A, Dun Morogh 24843
+H Zeppelin 24934
+H Zeppelin 24935
     Recorded: 24975
 A, Darkshore 24993
 A, Darkshore 24995
@@ -1473,22 +1473,22 @@ Test realm? 26308
 Test realm? 26309
 Area 52 26352
 A, Grizzly Hills 26374
-26375
-26378
-26382
-26383
-26384
-26388
-26393
-26394
-26395
-26396
-26397
-26398
-26474
-26484
-26567
-26568
+A, Grizzly Hills 26375
+Likely removed 26378
+A, Grizzly Hills 26382
+Likely removed 26383
+Blade's Edge 26384
+A, Grizzly Hills 26388
+A, SW? 26393
+A, SW? 26394
+A, SW? 26395
+H, Org? 26396
+H, Org? 26397
+H, Org? 26398
+Grizzly Hills 26474
+Grizzly Hills 26484
+H, Dragonblight 26567
+H, Dragonblight 26568
 26569
 26596
 26598
@@ -1648,12 +1648,12 @@ Sholazar Basin 28046
 28685
 28686
     Recorded: 28687
-28691
-28692
-28701
-28707
-28714
-28715
+Dalaran 28691
+Dalaran 28692
+Dalaran 28701
+Dalaran 28707
+Dalaran 28714
+Dalaran 28715
     Recorded: 28716
 Dalaran 28718
 Dalaran 28721
@@ -1699,16 +1699,16 @@ Dalaran 28726
 28951
 28989
     Recorded: 28990
-28991
-28992
-28993
-28994
-28995
+Dalaran 28991
+Dalaran 28992
+Dalaran 28993
+Dalaran 28994
+Dalaran 28995
     Recorded: 28997
-29014
-29015
-29035
-29037
+Sholazar Basin 29014
+Sholazar Basin 29015
+Sholazar Basin 29035
+Sholazar Basin 29037
     Recorded: 29049
 29121
 29122
@@ -1816,12 +1816,12 @@ Dalaran 28726
 30723
     Recorded: 30724
     Recorded: 30727
-30729
-30730
-30731
-30732
-30733
-30734
+H, UC 30729
+A, SW 30730
+A, Darnassus 30731
+A, Exodar 30732
+A, IF 30733
+A, Honor Hold 30734
     Recorded: 30735
 30792
 30796
@@ -1839,12 +1839,12 @@ Dalaran 28726
 31025
 31027
     Recorded: 31031
-31032
-31051
-31101
-31115
-31238
-31247
+A, Dalaran 31032
+A, Wintergrasp 31051
+H, Wintergrasp 31101
+Crystalsong Forest 31115
+Dalaran 31238
+Storm Peaks 31247
     Recorded: 31557
 A, Dalaran 31579
 A, Dalaran 31580
