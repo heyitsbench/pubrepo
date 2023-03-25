@@ -252,6 +252,7 @@ Removed? 2942
     Recorded: 3025
     Recorded: 3027
     Recorded: 3029
+    Recorded: 3044
 Shimmering Flats 3053
 H, Mulgore 3072
 H, Mulgore 3073
@@ -619,6 +620,7 @@ A, IF 5570
 H, Org 5611
 A, Lakeshire 5620
 H, Brill 5688
+    Recorded: 5698
 H, Silverpine 5748
 H, UC 5754
 H, Silverpine 5757
@@ -1489,155 +1491,155 @@ Grizzly Hills 26474
 Grizzly Hills 26484
 H, Dragonblight 26567
 H, Dragonblight 26568
-26569
-26596
-26598
-26599
-26600
-26680
-26697
-26707
-26709
-26718
-26720
-26724
-26738
-26739
-26740
-26741
+H, Dragonblight 26569
+A, Borean Tundra 26596
+A, Borean Tundra 26598
+A, Borean Tundra 26599
+A, Borean Tundra 26600
+H, Grizzly Hills 26680
+H, Borean Tundra 26697
+H, Grizzly Hills 26707
+H, Borean Tundra 26709
+H, Borean Tundra 26718
+H, Borean Tundra 26720
+Likely removed 26724
+Likely removed 26738
+Likely removed 26739
+Likely removed 26740
+Likely removed 26741
 Likely removed 26742
-26743
-26744
-26745
-26747
-26748
-26749
-26751
-26752
-26753
-26754
-26755
-26756
-26757
-26758
-26759
-26765
-26868
-26898
-26900
-26901
-26908
-26916
-26934
-26936
-26938
-26939
-26941
-26945
-26947
-26950
-26959
-26968
-26977
-26984
-26995
-27011
-27012
-27019
-27021
-27022
-27025
-27026
-27027
-27030
-27031
-27032
-27037
-27038
+Likely removed 26743
+Likely removed 26744
+Likely removed 26745
+Likely removed 26747
+Likely removed 26748
+Likely removed 26749
+Likely removed 26751
+Likely removed 26752
+Likely removed 26753
+Likely removed 26754
+Likely removed 26755
+Likely removed 26756
+Likely removed 26757
+Likely removed 26758
+Likely removed 26759
+Likely removed 26765
+H, Grizzly Hills 26868
+Dragonblight 26898
+A, Howling Fjord 26900
+A, Howling Fjord 26901
+A, Howling Fjord 26908
+A, Howling Fjord 26916
+A, Howling Fjord 26934
+H, Grizzly Hills 26936
+H, Warsong Hold 26938
+H, Grizzly Hills 26939
+H, Warsong Hold 26941
+H, Warsong Hold 26945
+H, Warsong Hold, Removed? 26947
+H, Grizzly Hills 26950
+H, Howling Fjord 26959
+H, Warsong Hold 26968
+H, Warsong Hold 26977
+H, Howling Fjord 26984
+A, Valiance Keep 26995
+A, Valiance Keep 27011
+A, Valiance Keep 27012
+H, Dragonblight 27019
+H, Dragonblight 27021
+H, Dragonblight 27022
+H, Dragonblight 27025
+H, Dragonblight 27026
+H, Dragonblight 27027
+H, Dragonblight 27030
+H, Dragonblight 27031
+H, Dragonblight 27032
+H, Grizzly Hills 27037
+A, Dragonblight 27038
 A, Dragonblight 27039
-27041
-27042
-27043
-27044
-27045
-27051
-27052
-27053
-27054
-27055
-27057
-27058
-27062
-27063
-27066
-27067
-27069
-27070
-27071
-27088
-27089
-27125
-27132
-27133
-27134
-27137
-27138
-27139
-27140
-27141
-27142
-27143
-27144
-27145
-27146
-27147
-27148
-27149
-27151
-27174
-27176
-27181
-27182
-27184
-27185
-27186
-27187
-27188
-27190
-27193
-27195
-27267
-27291
-27478
-27489
+A, Dragonblight 27041
+A, Dragonblight 27042
+A, Dragonblight 27043
+A, Dragonblight 27044
+A, Dragonblight 27045
+A, Dragonblight 27051
+A, Dragonblight 27052
+A, Dragonblight 27053
+A, Dragonblight 27054
+A, Dragonblight 27055
+A, Dragonblight 27057
+H, Borean Tundra 27058
+A, Grizzly Hills 27062
+H, Borean Tundra 27063
+A, Grizzly Hills 27066
+H, Borean Tundra 27067
+H, Borean Tundra 27069
+A, Grizzly Hills 27070
+A, Grizzly Hills 27071
+A, Grizzly Hills 27088
+A, Grizzly Hills 27089
+H, Grizzly Hills 27125
+H, Grizzly Hills 27132
+H, Grizzly Hills 27133
+H, Grizzly Hills 27134
+Borean Tundra 27137
+Borean Tundra 27138
+Borean Tundra 27139
+Borean Tundra 27140
+Borean Tundra 27141
+Borean Tundra 27142
+Borean Tundra 27143
+Howling Fjord 27144
+Howling Fjord 27145
+Howling Fjord 27146
+Borean Tundra 27147
+Howling Fjord 27148
+Howling Fjord 27149
+Howling Fjord 27151
+Dragonblight 27174
+Dragonblight 27176
+Dragonblight 27181
+Dragonblight 27182
+Dragonblight 27184
+Dragonblight 27185
+Borean Tundra 27186
+Borean Tundra 27187
+Borean Tundra 27188
+Borean Tundra 27190
+Borean Tundra 27193
+Borean Tundra 27195
+H, Dragonblight 27267
+Borean Tundra 27291
+A, IF, Brewfest 27478
+H, Org, Brewfest 27489
     Recorded: 27666
     Recorded: 27667
     Recorded: 27668
 Aldor, Shattrath 27711
 Shattrath 27721
     Recorded: 27722
-27730
-27760
-27806
-27810
-27811
-27812
-27813
-27814
-27815
-27816
-27817
-27818
-27819
-27820
-27914
-27935
-27938
-27940
-27943
-27950
-28038
-28040
+H, Grizzly Hills 27730
+A, Grizzly Hills 27760
+IF/Org, Brew of the Month Jan 27806
+IF/Org, Brew of the Month Feb 27810
+IF/Org, Brew of the Month Mar 27811
+IF/Org, Brew of the Month Apr 27812
+IF/Org, Brew of the Month May 27813
+IF/Org, Brew of the Month Jun 27814
+IF/Org, Brew of the Month Jul 27815
+IF/Org, Brew of the Month Aug 27816
+IF/Org, Brew of the Month Sep 27817
+IF/Org, Brew of the Month Oct 27818
+IF/Org, Brew of the Month Nov 27819
+IF/Org, Brew of the Month Dec 27820
+Promotional companion? 27914
+Wyrmrest Temple 27935
+Wyrmrest Temple 27938
+Wyrmrest Temple 27940
+Wyrmrest Temple 27943
+Wyrmrest Temple 27950
+Sholazar Basin 28038
+Sholazar Basin 28040
 Sholazar Basin 28046
 BRD 28225
 Area 52 28344
@@ -1662,42 +1664,42 @@ Dalaran 28722
 Dalaran 28725
 Dalaran 28726
     Recorded: 28727
-28728
-28742
-28760
-28776
-28791
-28792
-28794
-28796
-28797
-28798
-28799
-28800
-28806
-28807
-28809
-28810
-28811
-28812
-28813
-28827
-28828
-28829
-28830
-28831
-28832
-28855
-28866
-28867
-28868
-28869
-28870
-28871
-28872
-28943
-28951
-28989
+Dalaran 28728
+Dalaran 28742
+DK Zone? 28760
+Dalaran 28776
+Zul'Drak 28791
+Zul'Drak 28792
+Zul'Drak 28794
+Zul'Drak 28796
+Zul'Drak 28797
+Zul'Drak 28798
+Zul'Drak 28799
+Zul'Drak 28800
+Zul'Drak 28806
+Zul'Drak 28807
+Zul'Drak 28809
+Zul'Drak 28810
+Zul'Drak 28811
+Zul'Drak 28812
+Zul'Drak 28813
+Zul'Drak 28827
+Zul'Drak 28828
+Zul'Drak 28829
+Zul'Drak 28830
+Zul'Drak 28831
+Zul'Drak 28832
+Zul'Drak 28855
+Zul'Drak 28866
+Zul'Drak 28867
+Zul'Drak 28868
+Zul'Drak 28869
+Zul'Drak 28870
+Zul'Drak 28871
+Zul'Drak 28872
+DK Zone? 28943
+Dalaran 28951
+Dalaran 28989
     Recorded: 28990
 Dalaran 28991
 Dalaran 28992
@@ -1710,42 +1712,42 @@ Sholazar Basin 29015
 Sholazar Basin 29035
 Sholazar Basin 29037
     Recorded: 29049
-29121
-29122
-29203
-29205
-29207
-29208
-29244
-29252
-29253
-29261
-29270
-29275
-29277
-29288
-29291
-29476
-29478
-29491
-29493
-29494
-29495
-29496
-29497
-29499
-29510
-29511
-29512
-29523
-29527
-29528
-29529
-29532
-29535
-29537
-29538
-29547
+Sholazar Basin 29121
+Sholazar Basin 29122
+EPL 29203
+EPL 29205
+EPL 29207
+EPL 29208
+A, Grizzly Hills 29244
+A, Grizzly Hills 29252
+H, Grizzly Hills 29253
+Dalaran 29261
+A, Grizzly Hills 29270
+A, Grizzly Hills 29275
+Grizzly Hills 29277
+A, SW 29288
+A, SW 29291
+Dalaran 29476
+Dalaran 29478
+Dalaran 29491
+Dalaran 29493
+Dalaran 29494
+Dalaran 29495
+Dalaran 29496
+Dalaran 29497
+Dalaran 29499
+Dalaran 29510
+Dalaran 29511
+Dalaran 29512
+Dalaran 29523
+Dalaran 29527
+Dalaran 29528
+Dalaran 29529
+Dalaran 29532
+Dalaran 29535
+Dalaran 29537
+Dalaran 29538
+Dalaran 29547
     Recorded: 29548
 Engineering 29561
 Zul'Drak 29583
@@ -1780,40 +1782,40 @@ H, Storm Peaks 29969
 H, Storm Peaks 29970
 H, Storm Peaks 29971
 Storm Peaks 30005
-30006
-30010
-30011
-30067
-30069
-30070
-30098
-30239
-30241
-30244
-30253
-30254
-30255
-30256
-30257
-30306
-30307
-30309
-30310
-30311
-30336
-30345
-30346
-30431
-30434
-30436
-30437
-30438
-30439
-30472
-30488
-30489
-30572
-30723
+Storm Peaks 30006
+Storm Peaks 30010
+Storm Peaks 30011
+Icecrown 30067
+Icecrown 30069
+Icecrown 30070
+Zul'Drak 30098
+H, Crystalsong Forest 30239
+A, Crystalsong Forest 30241
+A, Crystalsong Forest 30244
+H, Crystalsong Forest 30253
+H, Crystalsong Forest 30254
+A, Crystalsong Forest 30255
+H, Crystalsong Forest 30256
+A, Crystalsong Forest 30257
+Icecrown 30306
+Icecrown 30307
+Icecrown 30309
+Icecrown 30310
+Icecrown 30311
+Icecrown 30336
+A, Icecrown 30345
+A, Icecrown 30346
+Crystalsong Forest 30431
+Crystalsong Forest 30434
+Crystalsong Forest 30436
+Crystalsong Forest 30437
+Crystalsong Forest 30438
+Crystalsong Forest 30439
+H, Storm Peaks 30472
+A, Wintergrasp 30488
+A, Wintergrasp 30489
+Zul'Drak 30572
+H, Org 30723
     Recorded: 30724
     Recorded: 30727
 H, UC 30729
@@ -1901,25 +1903,25 @@ A, Dalaran 32413
 A, Dalaran 32416
     Recorded: 32419
     Recorded: 32420
-32421
-32424
-32426
-32477
-32478
-32509
-32514
-32515
-32533
-32538
-32540
-32564
-32565
-32594
-32631
-32638
-32639
-32641
-32642
+A, Dalaran 32421
+A, Dalaran 32424
+A, Dalaran 32426
+Storm Peaks 32477
+Storm Peaks 32478
+Dalaran 32509
+Dalaran 32514
+Dalaran 32515
+Wyrmrest Temple 32533
+Icecrown 32538
+Storm Peaks 32540
+A, Valiance Keep 32564
+H, Warsong Hold 32565
+Storm Peaks 32594
+Dalaran 32631
+A, Mammoth Mount 32638
+A, Mammoth Mount 32639
+H, Mammoth Mount 32641
+H, Mammoth Mount 32642
 Dragonblight 32763
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
@@ -1963,91 +1965,91 @@ Icecrown 33602
     Recorded: 33640
     Recorded: 33641
 Icecrown 33644
-33645
-33650
-33653
-33657
-33666
-33669
-33674
-33675
-33676
-33677
-33678
-33679
-33680
-33681
-33682
-33683
-33684
-33853
-33865
-33866
-33867
-33868
-33869
-33871
-33872
-33915
-33916
-33917
-33918
-33919
-33920
-33921
-33922
-33923
-33924
-33925
-33926
-33927
-33928
-33931
-33933
-33934
-33935
-33936
-33937
-33938
-33939
-33940
-33941
+Icecrown 33645
+A, Icecrown 33650
+A, Icecrown 33653
+A, Icecrown 33657
+Ulduar 33666
+Ulduar 33669
+Aldor, Shattrath 33674
+Aldor, Shattrath 33675
+Aldor, Shattrath 33676
+Aldor, Shattrath 33677
+Aldor, Shattrath 33678
+Aldor, Shattrath 33679
+Aldor, Shattrath 33680
+Aldor, Shattrath 33681
+Aldor, Shattrath 33682
+Aldor, Shattrath 33683
+Aldor, Shattrath 33684
+Icecrown 33853
+Icecrown 33865
+Icecrown 33866
+Removed? 33867
+Icecrown 33868
+Icecrown 33869
+Icecrown 33871
+Icecrown 33872
+Gadgetzan 33915
+Area 52 33916
+Gadgetzan 33917
+Area 52 33918
+Area 52 33919
+Gadgetzan 33920
+Dalaran 33921
+Dalaran 33922
+Dalaran 33923
+Gadgetzan 33924
+Dalaran 33925
+Dalaran 33926
+Dalaran 33927
+Gadgetzan 33928
+Area 52 33931
+Area 52 33933
+Gadgetzan 33934
+Gadgetzan 33935
+Dalaran 33936
+Dalaran 33937
+Dalaran 33938
+Gadgetzan 33939
+Area 52 33940
+Area 52 33941
     Recorded: 33963
-33964
-33996
-34036
-34037
-34038
-34039
-34040
-34043
-34058
-34059
-34060
-34061
-34062
-34063
-34073
-34074
-34075
-34076
-34077
-34078
-34079
-34080
-34081
-34082
-34083
-34084
-34087
-34088
-34089
-34090
-34091
-34092
-34093
-34094
-34095
+A, Dalaran 33964
+H, Brill 33996
+H, Org? 34036
+H, Org? 34037
+H, Org 34038
+H, Org? 34039
+H, Org? 34040
+H, Org 34043
+H, Org? 34058
+H, Org? 34059
+H, Org 34060
+H, Org? 34061
+H, Org? 34062
+H, Org 34063
+A, SW? 34073
+A, SW? 34074
+A, SW 34075
+A, SW? 34076
+A, SW? 34077
+A, SW 34078
+A, SW? 34079
+A, SW? 34080
+A, SW 34081
+A, SW? 34082
+A, SW? 34083
+A, SW 34084
+Dalaran 34087
+Gadgetzan 34088
+Area 52 34089
+Gadgetzan 34090
+Area 52 34091
+Dalaran 34092
+Gadgetzan 34093
+Area 52 34094
+Dalaran 34095
     Recorded: 34252
 Capitals, Day of the Dead 34382
 A, IF Gates, Pilgrim's Bounty 34645
