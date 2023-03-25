@@ -41,17 +41,17 @@ A, Lakeshire 956
 A, Elwynn 958
 A, Elwynn 959
 A, Darkshire 960
-                980
-                981
-                982
-                983
-                984
-                989
+    Recorded: 980
+    Recorded: 981
+    Recorded: 982
+    Recorded: 983
+    Recorded: 984
+    Recorded: 989
 A, Coldridge 1104
-                1146
-                1147
-                1148
-                1149
+    Recorded: 1146
+    Recorded: 1147
+    Recorded: 1148
+    Recorded: 1149
 A, Elwynn 1198
 A, Northshire 1213
 A, Loch Modan 1214
@@ -112,8 +112,8 @@ A, SW 1349
 A, SW 1350
 A, SW 1351
 A, Loch Modan 1362
-                1381
-                1407
+    Recorded: 1381
+    Recorded: 1407
 A, Menethil Harbor 1441
 A, Menethil Harbor 1448
 A, Menethil Harbor 1450
@@ -164,7 +164,7 @@ H, Brill 2134
 H, UC 2135
 H, UC 2136
 H, UC 2137
-                2140
+    Recorded: 2140
 H, AV 2225
 A, Hillsbrad 2264
 A, Hillsbrad 2265
@@ -177,81 +177,81 @@ A, Southshore 2366
 A, Southshore 2380
 A, Southshore 2381
 A, Southshore 2383
-                2388
-                2393
-                2394
-                2397
-                2401
+    Recorded: 2388
+    Recorded: 2393
+    Recorded: 2394
+    Recorded: 2397
+    Recorded: 2401
 A, Hillsbrad 2404
 Alterac 2480
 Duskwood 2481
-                2482
+    Recorded: 2482
 STV 2483
-                2622
-                2626
-                2663
-                2664
+    Recorded: 2622
+    Recorded: 2626
+    Recorded: 2663
+    Recorded: 2664
 A, Darkshire 2668
 A, Darkshire 2669
-                2670
-                2672
+    Recorded: 2670
+    Recorded: 2672
 A, Wetlands 2679
 A, Wetlands 2682
 A, Gnomeregan? 2683
 Alterac 2684
-                2685
+    Recorded: 2685
 STV 2687
 Hinterlands 2688
 A, Redridge 2697
 H, Hillsbrad 2698
-                2699
+    Recorded: 2699
 A, Felwood 2803
 A, Arathi 2805
-                Felwood 2806
+    Recorded: Felwood 2806
 A, Arathi 2808
 A, Arathi 2810
 A, Arathi 2812
 A, Arathi 2814
 A, Arathi 2816
-                2819
-                2820
-                2821
-                2832
-                2838
-                2839
-                2840
-                2842
-                2843
-                2844
-                2845
-                2846
-                2847
-                2848
-                2849
-                2908
+    Recorded: 2819
+    Recorded: 2820
+    Recorded: 2821
+    Recorded: 2832
+    Recorded: 2838
+    Recorded: 2839
+    Recorded: 2840
+    Recorded: 2842
+    Recorded: 2843
+    Recorded: 2844
+    Recorded: 2845
+    Recorded: 2846
+    Recorded: 2847
+    Recorded: 2848
+    Recorded: 2849
+    Recorded: 2908
 2910
 2942
-                2997
-                2999
-                3000
-                3002
-                3003
-                3005
-                3010
-                3012
-                3014
-                3015
-                3016
-                3017
-                3018
-                3019
-                3020
-                3021
-                3022
-                3023
-                3025
-                3027
-                3029
+    Recorded: 2997
+    Recorded: 2999
+    Recorded: 3000
+    Recorded: 3002
+    Recorded: 3003
+    Recorded: 3005
+    Recorded: 3010
+    Recorded: 3012
+    Recorded: 3014
+    Recorded: 3015
+    Recorded: 3016
+    Recorded: 3017
+    Recorded: 3018
+    Recorded: 3019
+    Recorded: 3020
+    Recorded: 3021
+    Recorded: 3022
+    Recorded: 3023
+    Recorded: 3025
+    Recorded: 3027
+    Recorded: 3029
 3053
 3072
 3073
@@ -269,9 +269,9 @@ A, Arathi 2816
 3089
 3090
 3091
-                3092
-                3093
-                3095
+    Recorded: 3092
+    Recorded: 3093
+    Recorded: 3095
 3096
 3097
 3133
@@ -338,26 +338,26 @@ A, Arathi 2816
 3411
 3413
 3443
-                3477
-                3479
-                3480
-                3481
-                3482
-                3483
-                3485
-                3486
-                3487
-                3488
-                3489
-                3490
-                3491
+    Recorded: 3477
+    Recorded: 3479
+    Recorded: 3480
+    Recorded: 3481
+    Recorded: 3482
+    Recorded: 3483
+    Recorded: 3485
+    Recorded: 3486
+    Recorded: 3487
+    Recorded: 3488
+    Recorded: 3489
+    Recorded: 3490
+    Recorded: 3491
 3492
 3493
-                3495
+    Recorded: 3495
 3497
-                3498
-                3499
-                3500
+    Recorded: 3498
+    Recorded: 3499
+    Recorded: 3500
 3518
 3522
 3528
@@ -366,25 +366,25 @@ A, Arathi 2816
 3532
 3534
 3536
-                3537
-                3539
+    Recorded: 3537
+    Recorded: 3539
 3540
 3541
 3542
 3543
-                3544
+    Recorded: 3544
 3546
 3547
 3548
 3550
-                3551
-                3552
-                3553
-                3554
-                3556
+    Recorded: 3551
+    Recorded: 3552
+    Recorded: 3553
+    Recorded: 3554
+    Recorded: 3556
 3561
 3562
-                3572
+    Recorded: 3572
 3577
 3578
 3587
@@ -400,24 +400,24 @@ A, Arathi 2816
 3612
 3613
 3614
-                3621
+    Recorded: 3621
 3625
-                3658
+    Recorded: 3658
 3682
 3683
 3684
 3685
 3689
 3700
-                3705
-                3708
+    Recorded: 3705
+    Recorded: 3708
 3779
 3881
 3882
 3883
 3884
 3933
-                3934
+    Recorded: 3934
 3935
 3937
 3948
@@ -435,8 +435,8 @@ A, Arathi 2816
 3969
 3970
 4043
-                4082
-                4083
+    Recorded: 4082
+    Recorded: 4083
 4084
 4085
 4086
@@ -454,7 +454,7 @@ A, Arathi 2816
 4181
 4182
 4183
-                4184
+    Recorded: 4184
 4185
 4186
 4187
@@ -533,13 +533,13 @@ A, Arathi 2816
 4731
 4775
 4782
-                4875
+    Recorded: 4875
 4876
-                4877
-                4878
-                4879
-                4883
-                4884
+    Recorded: 4877
+    Recorded: 4878
+    Recorded: 4879
+    Recorded: 4883
+    Recorded: 4884
 4885
 4886
 4888
@@ -552,7 +552,7 @@ A, Arathi 2816
 4896
 4897
 4899
-                4954
+    Recorded: 4954
 4981
 5049
 5052
@@ -598,11 +598,11 @@ A, Arathi 2816
 5175
 5178
 5188
-                5189
+    Recorded: 5189
 5190
 5191
 5193
-                5411
+    Recorded: 5411
 5483
 5494
 5503
@@ -615,7 +615,7 @@ A, Arathi 2816
 5565
 5569
 5570
-                5594
+    Recorded: 5594
 5611
 5620
 5688
@@ -632,13 +632,13 @@ A, Arathi 2816
 5820
 5821
 5848
-                5870
-                5871
-                5886
+    Recorded: 5870
+    Recorded: 5871
+    Recorded: 5886
 5940
 5942
-                5944
-                6028
+    Recorded: 5944
+    Recorded: 6028
 6091
 6272
 6298
@@ -648,9 +648,9 @@ A, Arathi 2816
 6495
 6496
 6548
-                6567
-                6568
-                6574
+    Recorded: 6567
+    Recorded: 6568
+    Recorded: 6574
 6576
 6727
 6730
@@ -660,34 +660,34 @@ A, Arathi 2816
 6736
 6737
 6738
-                6739
+    Recorded: 6739
 6740
 6741
-                6746
+    Recorded: 6746
 6747
 6777
 6779
 6790
-                6791
-                6807
+    Recorded: 6791
+    Recorded: 6807
 6928
 6929
-                6930
-                7485
+    Recorded: 6930
+    Recorded: 7485
 7564
 7683
-                7714
-                7731
-                7733
+    Recorded: 7714
+    Recorded: 7731
+    Recorded: 7733
 7736
-                7737
+    Recorded: 7737
 7744
 7772
 7775
 7852
-                7854
+    Recorded: 7854
 7879
-                7940
+    Recorded: 7940
 7941
 7942
 7943
@@ -702,33 +702,33 @@ A, Arathi 2816
 8118
 8121
 8122
-                8125
-                8129
-                8131
-                8137
-                8139
-                8143
-                8145
+    Recorded: 8125
+    Recorded: 8129
+    Recorded: 8131
+    Recorded: 8137
+    Recorded: 8139
+    Recorded: 8143
+    Recorded: 8145
 8150
 8152
 8157
-                8158
-                8159
+    Recorded: 8158
+    Recorded: 8159
 8160
 8161
-                8176
-                8177
+    Recorded: 8176
+    Recorded: 8177
 8178
 8305
 8307
-                8358
-                8359
-                8360
-                8361
-                8362
-                8363
-                8364
-                8398
+    Recorded: 8358
+    Recorded: 8359
+    Recorded: 8360
+    Recorded: 8361
+    Recorded: 8362
+    Recorded: 8363
+    Recorded: 8364
+    Recorded: 8398
 8401
 8403
 8404
@@ -745,47 +745,47 @@ A, Arathi 2816
 9087
 9099
 9179
-                9356
+    Recorded: 9356
 9499
-                9501
-                9544
-                9548
-                9549
-                9551
-                9552
-                9553
-                9555
+    Recorded: 9501
+    Recorded: 9544
+    Recorded: 9548
+    Recorded: 9549
+    Recorded: 9551
+    Recorded: 9552
+    Recorded: 9553
+    Recorded: 9555
 9636
 A, Gnomeregan 9676
 A, Rut'theran 10118
 A, Darkshore 10216
 A, Feralas 10293
-                10361
+    Recorded: 10361
 H, AV 10364
 H, AV 10367
 H, Durotar 10369
-                10379
-                10380
+    Recorded: 10379
+    Recorded: 10380
 A, Winterspring 10618
 WPL 10856
 WPL 10857
-                11038
+    Recorded: 11038
 11056
 11057
 11103
-                11106
+    Recorded: 11106
 11111
-                11116
-                11118
+    Recorded: 11116
+    Recorded: 11118
 11137
-                11182
-                11183
-                11184
-                11185
-                11186
-                11187
-                11188
-                11189
+    Recorded: 11182
+    Recorded: 11183
+    Recorded: 11184
+    Recorded: 11185
+    Recorded: 11186
+    Recorded: 11187
+    Recorded: 11188
+    Recorded: 11189
 11278
 11287
 11536
@@ -793,22 +793,22 @@ WPL 10857
 11557
 11703
 11874
-                12019
-                12021
-                12022
-                12023
-                12024
-                12026
-                12027
-                12028
-                12029
-                12031
-                12033
-                12043
-                12045
+    Recorded: 12019
+    Recorded: 12021
+    Recorded: 12022
+    Recorded: 12023
+    Recorded: 12024
+    Recorded: 12026
+    Recorded: 12027
+    Recorded: 12028
+    Recorded: 12029
+    Recorded: 12031
+    Recorded: 12033
+    Recorded: 12043
+    Recorded: 12045
 12096
 12097
-                12196
+    Recorded: 12196
 12245
 12246
 12384
@@ -828,16 +828,16 @@ WPL 10857
 12799
 12805
 12919
-                12941
+    Recorded: 12941
 12942
 12943
 12944
 12956
 12957
 12958
-                12959
+    Recorded: 12959
 12960
-                12962
+    Recorded: 12962
 13018
 13216
 13217
@@ -853,7 +853,7 @@ WPL 10857
 13434
 13435
 13436
-                13476
+    Recorded: 13476
 14301
 14322
 14337
@@ -864,13 +864,13 @@ WPL 10857
 14481
 14522
 14581
-                14624
+    Recorded: 14624
 14637
-                14731
-                14737
-                14738
-                14739
-                14740
+    Recorded: 14731
+    Recorded: 14737
+    Recorded: 14738
+    Recorded: 14739
+    Recorded: 14740
 14753
 14754
 14844
@@ -886,99 +886,99 @@ WPL 10857
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
 Arathi 15124
-                15125
-                15126
+    Recorded: 15125
+    Recorded: 15126
 A, Arathi 15127
-                15165
-                15174
-                15175
-                15176
-                15179
+    Recorded: 15165
+    Recorded: 15174
+    Recorded: 15175
+    Recorded: 15176
+    Recorded: 15179
 H, UC 15197
 Unknown 15198
 A, Hillsbrad 15199
-                15287
-                15289
-                15291
-                15292
+    Recorded: 15287
+    Recorded: 15289
+    Recorded: 15291
+    Recorded: 15292
 Silithus 15293
 H, Org, Hallows End 15309
 A, Felwood 15315
-                15350
+    Recorded: 15350
 A, capitals 15351
 A, IF, Hallow's End 15353
 H, Org, Hallow's End 15354
-                15397
-                15400
-                15419
-                15433
+    Recorded: 15397
+    Recorded: 15400
+    Recorded: 15419
+    Recorded: 15433
 AQ20 15471
 Moonglade, Lunar Festival 15864
 Moonglade, Lunar Festival 15898
 Moonglade, Lunar Festival 15909
 Winterspring 16015
-                16186
-                16187
-                16191
+    Recorded: 16186
+    Recorded: 16187
+    Recorded: 16191
 H, Tranquillien, Ghostlands 16224
-                16253
-                16256
-                16257
-                16258
-                16259
-                16260
-                16261
-                16262
-                16263
-                16264
-                16268
-                16274
-                16366
-                16367
+    Recorded: 16253
+    Recorded: 16256
+    Recorded: 16257
+    Recorded: 16258
+    Recorded: 16259
+    Recorded: 16260
+    Recorded: 16261
+    Recorded: 16262
+    Recorded: 16263
+    Recorded: 16264
+    Recorded: 16268
+    Recorded: 16274
+    Recorded: 16366
+    Recorded: 16367
 Light's Hope 16376
 Karazhan 16388
-                16442
-                16443
-                16444
+    Recorded: 16442
+    Recorded: 16443
+    Recorded: 16444
 A, Stonetalon 16458
-                16528
-                16542
+    Recorded: 16528
+    Recorded: 16542
 Silithus 16543
 A, Azuremyst 16553
-                16583
-                16585
-                16588
-                16602
-                16610
-                16611
-                16612
-                16613
-                16618
-                16619
-                16620
-                16623
-                16624
-                16625
-                16626
-                16631
+    Recorded: 16583
+    Recorded: 16585
+    Recorded: 16588
+    Recorded: 16602
+    Recorded: 16610
+    Recorded: 16611
+    Recorded: 16612
+    Recorded: 16613
+    Recorded: 16618
+    Recorded: 16619
+    Recorded: 16620
+    Recorded: 16623
+    Recorded: 16624
+    Recorded: 16625
+    Recorded: 16626
+    Recorded: 16631
 A, Exodar 16632
-                16635
-                16636
-                16637
-                16638
-                16641
-                16650
+    Recorded: 16635
+    Recorded: 16636
+    Recorded: 16637
+    Recorded: 16638
+    Recorded: 16641
+    Recorded: 16650
 A, Exodar 16657
-                16664
-                16666
-                16670
-                16677
-                16678
-                16683
-                16689
-                16690
-                16691
-                16693
+    Recorded: 16664
+    Recorded: 16666
+    Recorded: 16670
+    Recorded: 16677
+    Recorded: 16678
+    Recorded: 16683
+    Recorded: 16689
+    Recorded: 16690
+    Recorded: 16691
+    Recorded: 16693
 A, Exodar 16705
 A, Exodar 16706
 A, Exodar 16708
@@ -1003,13 +1003,13 @@ A, Exodar 16765
 A, Exodar 16766
 A, Exodar 16767
 A, Exodar 16768
-                16782
+    Recorded: 16782
 Unknown, Scourge Invasion 16786
 A, Hellfire 16798
 A, Honor Hold 16823
 A, Honor Hold 16826
 A, Honor Hold 16829
-                16860
+    Recorded: 16860
 A, Azuremyst 16917
 A, Azuremyst 16918
 A, Azuremyst 16919
@@ -1018,7 +1018,7 @@ A, Azuremyst 17101
 A, Azuremyst 17222
 A, Azuremyst 17245
 A, Azuremyst 17246
-                17277
+    Recorded: 17277
 A, Ashenvale 17412
 A, Bloodmyst 17421
 A, Azuremyst 17446
@@ -1029,11 +1029,11 @@ A, Exodar 17512
 Karazhan 17518
 A, Bloodmyst 17553
 A, Exodar 17584
-                17585
-                17598
-                17630
-                17655
-                17656
+    Recorded: 17585
+    Recorded: 17598
+    Recorded: 17630
+    Recorded: 17655
+    Recorded: 17656
 A, Honor Hold 17657
 A, Bloodmyst 17667
 Zangarmarsh 17904
@@ -1053,26 +1053,26 @@ H, Zangarmarsh 18245
 A, Zangarmarsh 18251
 Karazhan Door 18255
 A, Honor Hold 18266
-                18267
-                18277
+    Recorded: 18267
+    Recorded: 18277
 Nagrand 18278
-                18347
+    Recorded: 18347
 Zangarmarsh, Sporeggar 18382
-                18426
+    Recorded: 18426
 A, Bloodmyst 18427
-                18484
-                18525
-                18542
+    Recorded: 18484
+    Recorded: 18525
+    Recorded: 18542
 H, Zangarmarsh 18564
 A, Zangarmarsh 18581
 Old Hillsbrad 18664
 Old Hillsbrad 18672
-                18749
-                18751
-                18752
-                18753
-                18754
-                18756
+    Recorded: 18749
+    Recorded: 18751
+    Recorded: 18752
+    Recorded: 18753
+    Recorded: 18754
+    Recorded: 18756
 A, Honor Hold 18771
 A, Honor Hold 18772
 A, Honor Hold 18773
@@ -1084,29 +1084,29 @@ A, Bloodmyst 18811
 H, Halaa 18821
 A, Halaa 18822
 Removed? 18898
-                18905
+    Recorded: 18905
 A, Hellfire 18906
 Zangarmarsh 18907
 A, Zangarmarsh 18908
 Zangarmarsh 18911
 H, Nagrand 18913
 A, Nagrand 18914
-                18926
-                18929
+    Recorded: 18926
+    Recorded: 18929
 H, Eversong Woods 18947
-                18951
+    Recorded: 18951
 H, Eversong Woods 18954
-                18957
-                18959
-                18960
-                18962
+    Recorded: 18957
+    Recorded: 18959
+    Recorded: 18960
+    Recorded: 18962
 A, Honor Hold 18987
-                18988
+    Recorded: 18988
 A, Hellfire 18990
 H, Hellfire 18991
 Zangarmarsh 18993
-                18997
-                18998
+    Recorded: 18997
+    Recorded: 18998
 A, Hellfire 19001
 A, Hellfire 19004
 H, Nagrand 19011
@@ -1120,39 +1120,39 @@ A, Nagrand 19021
 A, Terokkar 19038
 A, Terokkar 19042
 Aldor, Shattrath 19043
-                19045
-                19047
-                19049
+    Recorded: 19045
+    Recorded: 19047
+    Recorded: 19049
 Aldor, Shattrath 19050
 A, Terokkar 19053
 A, Terokkar 19056
 Aldor, Shattrath 19065
-                19074
-                19182
-                19186
+    Recorded: 19074
+    Recorded: 19182
+    Recorded: 19186
 Shattrath 19194
-                19195
-                19196
-                19197
-                19213
-                19223
-                19227
-                19232
-                19234
-                19235
-                19236
-                19238
-                19239
-                19240
-                19243
-                19244
-                19245
+    Recorded: 19195
+    Recorded: 19196
+    Recorded: 19197
+    Recorded: 19213
+    Recorded: 19223
+    Recorded: 19227
+    Recorded: 19232
+    Recorded: 19234
+    Recorded: 19235
+    Recorded: 19236
+    Recorded: 19238
+    Recorded: 19239
+    Recorded: 19240
+    Recorded: 19243
+    Recorded: 19244
+    Recorded: 19245
 A, Terokkar 19296
 A, Hellfire 19314
 H, Hellfire 19315
 Aldor, Shattrath 19321
-                19330
-                19331
+    Recorded: 19330
+    Recorded: 19331
 19333
 19339
 19342
@@ -1167,8 +1167,8 @@ Aldor, Shattrath 19321
 19373
 19374
 19383
-                19435
-                19436
+    Recorded: 19435
+    Recorded: 19436
 19450
 19451
 19452
@@ -1210,26 +1210,26 @@ Aldor, Shattrath 19321
 19617
 19625
 19649
-                19661
-                19662
-                19663
-                19664
-                19678
+    Recorded: 19661
+    Recorded: 19662
+    Recorded: 19663
+    Recorded: 19664
+    Recorded: 19678
 19679
 19694
 19718
 19722
-                19772
+    Recorded: 19772
 19773
 19836
 19837
 19857
 19879
-                19932
+    Recorded: 19932
 20028
-                20080
-                20081
-                20082
+    Recorded: 20080
+    Recorded: 20081
+    Recorded: 20082
 20092
 20096
 20097
@@ -1242,20 +1242,20 @@ Aldor, Shattrath 19321
 20242
 20249
 20250
-                20278
+    Recorded: 20278
 20377
 20378
 20463
 20494
 20510
-                20613
+    Recorded: 20613
 Aldor, Shattrath 20616
 Aldor, Shattrath 20807
-                20808
-                20890
-                20891
-                20892
-                20893
+    Recorded: 20808
+    Recorded: 20890
+    Recorded: 20891
+    Recorded: 20892
+    Recorded: 20893
 20915
 20916
 20917
@@ -1276,24 +1276,24 @@ Aldor, Shattrath 20807
 21145
 21172
 21183
-                21432
+    Recorded: 21432
 21474
 21483
 21484
 21485
 21487
 21488
-                21643
-                21655
+    Recorded: 21643
+    Recorded: 21655
 Scryers, Shadowmoon 21744
 Aldor, Shadowmoon 21746
-                21905
+    Recorded: 21905
 Aldor, Shattrath 21906
 Wyrmcult, Blade's Edge 22099
-                22208
-                22212
-                22213
-                22225
+    Recorded: 22208
+    Recorded: 22212
+    Recorded: 22213
+    Recorded: 22225
 22227
 22264
 22266
@@ -1336,7 +1336,7 @@ Wyrmcult, Blade's Edge 22099
 23243
 23244
 23245
-                23263
+    Recorded: 23263
 23363
 23367
 23373
@@ -1357,29 +1357,29 @@ A? IF Gates, Brewfest 23521
 A? IF Gates, Brewfest 23522
 A? IF Gates, Brewfest 23525
 H? Capital Gates, Brewfest 23533
-                23560
-                23571
-                23573
+    Recorded: 23560
+    Recorded: 23571
+    Recorded: 23573
 H? Org Gates, Brewfest 23603
 H? Org Gates, Brewfest 23604
 H? Org Gates, Brewfest 23605
 H? Org Gates, Brewfest 23606
-                23699
+    Recorded: 23699
 A, Ironforge Gates, Brewfest 23710
-                23724
+    Recorded: 23724
 A, Howling Fjord 23731
 A, Howling Fjord 23732
 A, Howling Fjord 23734
 A, Howling Fjord 23735
 A, Howling Fjord 23737
-                23748
+    Recorded: 23748
 A, Howling Fjord 23802
 A, Howling Fjord 23862
 A, Theramore 23896
 Zul'Aman 23897
 A, Howling Fjord 23908
 A, Howling Fjord 23937
-                23995
+    Recorded: 23995
 H, Howling Fjord 24028
 H, Howling Fjord 24033
 A, Howling Fjord 24052
@@ -1391,7 +1391,7 @@ A, Howling Fjord 24053
 24148
 24149
 24188
-                24208
+    Recorded: 24208
 24291
 24313
 24330
@@ -1419,19 +1419,19 @@ A, Howling Fjord 24053
 24843
 24934
 24935
-                24975
+    Recorded: 24975
 24993
 24995
 25010
 25012
 25019
 25020
-                25032
-                25034
-                25035
-                25036
-                25039
-                25043
+    Recorded: 25032
+    Recorded: 25034
+    Recorded: 25035
+    Recorded: 25036
+    Recorded: 25039
+    Recorded: 25043
 25046
 25051
 25052
@@ -1442,7 +1442,7 @@ A, Howling Fjord 24053
 25178
 25179
 25195
-                25196
+    Recorded: 25196
 Borean Tundra 25206
 A, Valiance Keep 25245
 A, Valiance Keep 25248
@@ -1450,14 +1450,14 @@ A, Valiance Keep 25248
 25278
 25314
 25736
-                25950
-                25976
-                25977
+    Recorded: 25950
+    Recorded: 25976
+    Recorded: 25977
 26081
-                26089
-                26090
-                26091
-                26092
+    Recorded: 26089
+    Recorded: 26090
+    Recorded: 26091
+    Recorded: 26092
 26110
 26123
 26124
@@ -1610,12 +1610,12 @@ A, Dragonblight 27039
 27291
 27478
 27489
-                27666
-                27667
-                27668
+    Recorded: 27666
+    Recorded: 27667
+    Recorded: 27668
 27711
 27721
-                27722
+    Recorded: 27722
 27730
 27760
 27806
@@ -1647,21 +1647,21 @@ Sholazar Basin 28046
 28682
 28685
 28686
-                28687
+    Recorded: 28687
 28691
 28692
 28701
 28707
 28714
 28715
-                28716
+    Recorded: 28716
 28718
 28721
 28722
-                28723
+    Recorded: 28723
 28725
 28726
-                28727
+    Recorded: 28727
 28728
 28742
 28760
@@ -1698,18 +1698,18 @@ Sholazar Basin 28046
 28943
 28951
 28989
-                28990
+    Recorded: 28990
 28991
 28992
 28993
 28994
 28995
-                28997
+    Recorded: 28997
 29014
 29015
 29035
 29037
-                29049
+    Recorded: 29049
 29121
 29122
 29203
@@ -1746,7 +1746,7 @@ Sholazar Basin 28046
 29537
 29538
 29547
-                29548
+    Recorded: 29548
 29561
 29583
 29587
@@ -1755,8 +1755,8 @@ Sholazar Basin 28046
 29688
 29702
 29703
-                29714
-                29715
+    Recorded: 29714
+    Recorded: 29715
 29716
 29744
 29904
@@ -1814,15 +1814,15 @@ Sholazar Basin 28046
 30489
 30572
 30723
-                30724
-                30727
+    Recorded: 30724
+    Recorded: 30727
 30729
 30730
 30731
 30732
 30733
 30734
-                30735
+    Recorded: 30735
 30792
 30796
 30797
@@ -1838,18 +1838,18 @@ Sholazar Basin 28046
 31024
 31025
 31027
-                31031
+    Recorded: 31031
 31032
 31051
 31101
 31115
 31238
 31247
-                31557
+    Recorded: 31557
 31579
 31580
-                31581
-                31582
+    Recorded: 31581
+    Recorded: 31582
 31776
 31781
 31804
@@ -1876,31 +1876,31 @@ Sholazar Basin 28046
 32112
 32172
 32216
-                32253
+    Recorded: 32253
 32287
 32294
 32296
 32334
-                32337
+    Recorded: 32337
 32356
-                32359
-                32360???
-                32362???
+    Recorded: 32359
+    Recorded: 32360???
+    Recorded: 32362???
 32379
 32380
 32381
 32382
 32383
 32385
-                32403
+    Recorded: 32403
 32405
 32407
-                32412
+    Recorded: 32412
 32413
-                32415
+    Recorded: 32415
 32416
-                32419
-                32420
+    Recorded: 32419
+    Recorded: 32420
 32421
 32424
 32426
@@ -1932,7 +1932,7 @@ Sholazar Basin 28046
 33018
 33019
 33026
-                33027
+    Recorded: 33027
 33238
 33239
 33307
@@ -1951,17 +1951,17 @@ Sholazar Basin 28046
 33600
 33601
 33602
-                33630
-                33631
-                33633
-                33634
-                33635
-                33636
-                33637
-                33638
-                33639
-                33640
-                33641
+    Recorded: 33630
+    Recorded: 33631
+    Recorded: 33633
+    Recorded: 33634
+    Recorded: 33635
+    Recorded: 33636
+    Recorded: 33637
+    Recorded: 33638
+    Recorded: 33639
+    Recorded: 33640
+    Recorded: 33641
 33644
 33645
 33650
@@ -2012,7 +2012,7 @@ Sholazar Basin 28046
 33939
 33940
 33941
-                33963
+    Recorded: 33963
 33964
 33996
 34036
@@ -2048,7 +2048,7 @@ Sholazar Basin 28046
 34093
 34094
 34095
-                34252
+    Recorded: 34252
 34382
 34645
 34681
@@ -2061,7 +2061,7 @@ Sholazar Basin 28046
 34787
 34881
 34885
-                35099
+    Recorded: 35099
 35101
 35131
 35132
@@ -2078,7 +2078,7 @@ Sholazar Basin 28046
 35498
 35500
 35507
-                35508
+    Recorded: 35508
 35573
 35574
 35575
