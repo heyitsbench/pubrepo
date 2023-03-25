@@ -1639,14 +1639,14 @@ Shattrath 27721
 28038
 28040
 Sholazar Basin 28046
-28225
-28344
-28347
-28500
-28589
-28682
-28685
-28686
+BRD 28225
+Area 52 28344
+A, SW 28347
+EPL 28500
+Zul'Drak 28589
+A, Dalaran 28682
+Dalaran 28685
+A, Dalaran 28686
     Recorded: 28687
 Dalaran 28691
 Dalaran 28692
@@ -1747,39 +1747,39 @@ Sholazar Basin 29037
 29538
 29547
     Recorded: 29548
-29561
-29583
-29587
-29628
-29636
-29688
-29702
-29703
+Engineering 29561
+Zul'Drak 29583
+EPL 29587
+Dalaran 29628
+Dalaran 29636
+Zul'Drak 29688
+Dalaran 29702
+Dalaran 29703
     Recorded: 29714
     Recorded: 29715
-29716
-29744
-29904
-29905
-29907
-29908
-29909
-29922
-29923
-29925
-29926
-29944
-29945
-29947
-29961
-29962
-29963
-29964
-29968
-29969
-29970
-29971
-30005
+Dalaran 29716
+A, Storm Peaks 29744
+Storm Peaks 29904
+Storm Peaks 29905
+Storm Peaks 29907
+Storm Peaks 29908
+Storm Peaks 29909
+A, Storm Peaks 29922
+A, Storm Peaks 29923
+A, Storm Peaks 29925
+A, Storm Peaks 29926
+H, Storm Peaks 29944
+H, Storm Peaks 29945
+H, Storm Peaks 29947
+Storm Peaks 29961
+Storm Peaks 29962
+Storm Peaks 29963
+Storm Peaks 29964
+H, Storm Peaks 29968
+H, Storm Peaks 29969
+H, Storm Peaks 29970
+H, Storm Peaks 29971
+Storm Peaks 30005
 30006
 30010
 30011
@@ -1823,21 +1823,21 @@ A, Exodar 30732
 A, IF 30733
 A, Honor Hold 30734
     Recorded: 30735
-30792
-30796
-30797
-30799
-30801
-30825
-30827
-30885
-31017
-31019
-31021
-31022
-31024
-31025
-31027
+Ogri'la 30792
+Ogri'la 30796
+Ogri'la 30797
+Ogri'la 30799
+Ogri'la 30801
+H, Icecrown 30825
+H, Icecrown 30827
+Dalaran 30885
+Culling of Stratholme 31017
+Culling of Stratholme 31019
+Culling of Stratholme 31021
+Culling of Stratholme 31022
+Culling of Stratholme 31024
+Culling of Stratholme 31025
+Culling of Stratholme 31027
     Recorded: 31031
 A, Dalaran 31032
 A, Wintergrasp 31051
@@ -1850,32 +1850,32 @@ A, Dalaran 31579
 A, Dalaran 31580
     Recorded: 31581
     Recorded: 31582
-31776
-31781
-31804
-31805
-31863
-31864
-31865
-31910
-31911
-31916
-31926
-31986
-31996
-31999
-32001
-32022
-32024
-32028
-32029
-32052
-32078
-32099
-32106
-32112
-32172
-32216
+A, Icecrown 31776
+H, Icecrown 31781
+Dragonblight 31804
+Dragonblight 31805
+Dalaran 31863
+Dalaran 31864
+Dalaran 31865
+Sholazar Basin 31910
+Sholazar Basin 31911
+Howling Fjord 31916
+A, AV 31926
+H, AV 31986
+A, AV 31996
+H, AV 31999
+H, AV 32001
+H, Alterac 32022
+A, AV 32024
+A, AV 32028
+A, AV 32029
+H, AV 32052
+H, AV 32078
+A, AV 32099
+A, AV 32106
+A, Alterac 32112
+Dalaran 32172
+Dalaran 32216
     Recorded: 32253
 Dalarn 32287
 A, Wintergrasp 32294
@@ -2049,18 +2049,18 @@ Icecrown 33644
 34094
 34095
     Recorded: 34252
-34382
-34645
-34681
-34682
-34683
-34684
-34685
-34772
-34783
-34787
-34881
-34885
+Capitals, Day of the Dead 34382
+A, IF Gates, Pilgrim's Bounty 34645
+A, Darnassus Gates, Pilgrim's Bounty 34681
+A, SW Gates, Pilgrim's Bounty 34682
+H, UC Courtyard, Pilgrim's Bounty 34683
+H, TB Gates, Pilgrim's Bounty 34684
+H, Org Gates, Pilgrim's Bounty 34685
+H, Storm Peaks 34772
+A, Exodar Gates, Pilgrim's Bounty 34783
+H, Silvermoon Gates, Pilgrim's Bounty 34787
+A, Icecrown 34881
+Icecrown 34885
     Recorded: 35099
 A, Honor Hold 35101
 A, Valiance Keep 35131
