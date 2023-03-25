@@ -41,17 +41,17 @@ A, Lakeshire 956
 A, Elwynn 958
 A, Elwynn 959
 A, Darkshire 960
-H, Stonard 980
-H, Stonard 981
-H, Stonard 982
-H, Stonard 983
-H, Stonard 984
-H, Stonard 989
+                980
+                981
+                982
+                983
+                984
+                989
 A, Coldridge 1104
-H, Grom'gol 1146
-H, Grom'gol 1147
-H, Grom'gol 1148
-H, Grom'gol 1149
+                1146
+                1147
+                1148
+                1149
 A, Elwynn 1198
 A, Northshire 1213
 A, Loch Modan 1214
@@ -112,8 +112,8 @@ A, SW 1349
 A, SW 1350
 A, SW 1351
 A, Loch Modan 1362
-H, Grom'gol 1381
-H, Kargath 1407
+                1381
+                1407
 A, Menethil Harbor 1441
 A, Menethil Harbor 1448
 A, Menethil Harbor 1450
@@ -164,7 +164,7 @@ H, Brill 2134
 H, UC 2135
 H, UC 2136
 H, UC 2137
-H, Silverpine 2140
+                2140
 H, AV 2225
 A, Hillsbrad 2264
 A, Hillsbrad 2265
@@ -177,34 +177,34 @@ A, Southshore 2366
 A, Southshore 2380
 A, Southshore 2381
 A, Southshore 2383
-H, Alterac 2388
-H, Alterac 2393
-H, Tarren Mill 2394
-H, Alterac 2397
-H, Alterac 2401
+                2388
+                2393
+                2394
+                2397
+                2401
 A, Hillsbrad 2404
 Alterac 2480
 Duskwood 2481
-Booty Bay 2482
+                2482
 STV 2483
-Booty Bay 2622
-Booty Bay 2626
-Booty Bay 2663
-Booty Bay 2664
+                2622
+                2626
+                2663
+                2664
 A, Darkshire 2668
 A, Darkshire 2669
-Booty Bay 2670
-Booty Bay Shore 2672
+                2670
+                2672
 A, Wetlands 2679
 A, Wetlands 2682
 A, Gnomeregan? 2683
 Alterac 2684
-Booty Bay 2685
+                2685
 STV 2687
 Hinterlands 2688
 A, Redridge 2697
 H, Hillsbrad 2698
-Booty Bay 2699
+                2699
 A, Felwood 2803
 A, Arathi 2805
                 Felwood 2806
@@ -213,22 +213,22 @@ A, Arathi 2810
 A, Arathi 2812
 A, Arathi 2814
 A, Arathi 2816
-H, Arathi 2819
-H, Arathi 2820
-2821
-2832
-2838
-2839
-2840
-2842
-2843
-2844
-2845
-2846
-2847
-2848
-2849
-2908
+                2819
+                2820
+                2821
+                2832
+                2838
+                2839
+                2840
+                2842
+                2843
+                2844
+                2845
+                2846
+                2847
+                2848
+                2849
+                2908
 2910
 2942
                 2997
@@ -366,22 +366,22 @@ H, Arathi 2820
 3532
 3534
 3536
-3537
-3539
+                3537
+                3539
 3540
 3541
 3542
 3543
-3544
+                3544
 3546
 3547
 3548
 3550
-3551
-3552
-3553
-3554
-3556
+                3551
+                3552
+                3553
+                3554
+                3556
 3561
 3562
                 3572
@@ -410,7 +410,7 @@ H, Arathi 2820
 3689
 3700
                 3705
-3708
+                3708
 3779
 3881
 3882
@@ -552,7 +552,7 @@ H, Arathi 2820
 4896
 4897
 4899
-4954
+                4954
 4981
 5049
 5052
@@ -634,7 +634,7 @@ H, Arathi 2820
 5848
                 5870
                 5871
-5886
+                5886
 5940
 5942
                 5944
@@ -650,7 +650,7 @@ H, Arathi 2820
 6548
                 6567
                 6568
-6574
+                6574
 6576
 6727
 6730
@@ -660,7 +660,7 @@ H, Arathi 2820
 6736
 6737
 6738
-6739
+                6739
 6740
 6741
                 6746
@@ -669,11 +669,11 @@ H, Arathi 2820
 6779
 6790
                 6791
-6807
+                6807
 6928
 6929
-6930
-7485
+                6930
+                7485
 7564
 7683
                 7714
@@ -716,8 +716,8 @@ H, Arathi 2820
                 8159
 8160
 8161
-8176
-8177
+                8176
+                8177
 8178
 8305
 8307
@@ -745,16 +745,16 @@ H, Arathi 2820
 9087
 9099
 9179
-9356
+                9356
 9499
-9501
-9544
+                9501
+                9544
                 9548
                 9549
                 9551
                 9552
-9553
-9555
+                9553
+                9555
 9636
 A, Gnomeregan 9676
 A, Rut'theran 10118
@@ -769,7 +769,7 @@ H, Durotar 10369
 A, Winterspring 10618
 WPL 10856
 WPL 10857
-11038
+                11038
 11056
 11057
 11103
@@ -828,7 +828,7 @@ WPL 10857
 12799
 12805
 12919
-12941
+                12941
 12942
 12943
 12944
@@ -864,13 +864,13 @@ WPL 10857
 14481
 14522
 14581
-14624
+                14624
 14637
-14731
-14737
-14738
-14739
-14740
+                14731
+                14737
+                14738
+                14739
+                14740
 14753
 14754
 14844
@@ -886,8 +886,8 @@ WPL 10857
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
 Arathi 15124
-Arathi 15125
-H, Arathi 15126
+                15125
+                15126
 A, Arathi 15127
                 15165
                 15174
@@ -922,7 +922,7 @@ Winterspring 16015
                 16191
 H, Tranquillien, Ghostlands 16224
                 16253
-Light's Hope 16256
+                16256
                 16257
                 16258
                 16259
@@ -1030,7 +1030,7 @@ Karazhan 17518
 A, Bloodmyst 17553
 A, Exodar 17584
                 17585
-H, Hinterlands 17598
+                17598
                 17630
                 17655
                 17656
@@ -1357,7 +1357,7 @@ A? IF Gates, Brewfest 23521
 A? IF Gates, Brewfest 23522
 A? IF Gates, Brewfest 23525
 H? Capital Gates, Brewfest 23533
-Zul'Aman Entrance 23560
+                23560
                 23571
                 23573
 H? Org Gates, Brewfest 23603
@@ -1366,13 +1366,13 @@ H? Org Gates, Brewfest 23605
 H? Org Gates, Brewfest 23606
                 23699
 A, Ironforge Gates, Brewfest 23710
-Zul'Aman Entrance 23724
+                23724
 A, Howling Fjord 23731
 A, Howling Fjord 23732
 A, Howling Fjord 23734
 A, Howling Fjord 23735
 A, Howling Fjord 23737
-Zul'Aman Entrance 23748
+                23748
 A, Howling Fjord 23802
 A, Howling Fjord 23862
 A, Theramore 23896
@@ -1419,19 +1419,19 @@ A, Howling Fjord 24053
 24843
 24934
 24935
-24975
+                24975
 24993
 24995
 25010
 25012
 25019
 25020
-25032
-25034
-25035
-25036
-25039
-25043
+                25032
+                25034
+                25035
+                25036
+                25039
+                25043
 25046
 25051
 25052
@@ -1450,14 +1450,14 @@ A, Valiance Keep 25248
 25278
 25314
 25736
-25950
-25976
-25977
+                25950
+                25976
+                25977
 26081
-26089
-26090
-26091
-26092
+                26089
+                26090
+                26091
+                26092
 26110
 26123
 26124
