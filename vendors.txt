@@ -281,16 +281,16 @@ A, Darkshire 3138
 H, Durotar 3158
 H, Durotar 3159
 H, Durotar 3160
-3161
-3162
-3163
-3164
-3165
-3166
-3167
-3168
-3177
-3178
+H, Durotar 3161
+A, Dun Morogh 3162
+H, Razor Hill 3163
+H, Razor Hill 3164
+H, Razor Hill 3165
+H, Razor Hill 3166
+H, Razor Hill 3167
+H, Razor Hill 3168
+A, Dun Morogh 3177
+A, Menethil Harbor 3178
 3180
 3186
 3187
