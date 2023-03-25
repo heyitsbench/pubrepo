@@ -207,7 +207,7 @@ H, Hillsbrad 2698
     Recorded: 2699
 A, Felwood 2803
 A, Arathi 2805
-    Recorded: Felwood 2806
+    Recorded: 2806
 A, Arathi 2808
 A, Arathi 2810
 A, Arathi 2812
