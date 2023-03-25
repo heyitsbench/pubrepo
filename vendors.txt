@@ -291,53 +291,53 @@ H, Razor Hill 3167
 H, Razor Hill 3168
 A, Dun Morogh 3177
 A, Menethil Harbor 3178
-3180
-3186
-3187
-3291
-3298
-3312
-3313
-3314
-3315
-3316
-3317
-3319
-3321
-3322
-3323
-3329
-3330
-3331
-3333
-3334
-3335
-3342
-3343
-3346
-3348
-3349
-3350
-3351
-3356
-3358
-3359
-3360
-3361
-3362
-3364
-3366
-3367
-3368
-3369
-3392
-3400
-3405
-3409
-3410
-3411
-3413
-3443
+Wetlands 3180
+H, Durotar 3186
+H, Durotar 3187
+A, Loch Modan 3291
+A, Burning Steppes 3298
+H, Org 3312
+H, Org 3313
+H, Org 3314
+H, Org 3315
+H, Org 3316
+H, Org 3317
+H, Org 3319
+H, Org 3321
+H, Org 3322
+H, Org 3323
+H, Org 3329
+H, Org 3330
+H, Org 3331
+H, Org 3333
+H, Org 3334
+H, Org 3335
+H, Org 3342
+H, AV 3343
+H, Org 3346
+H, Org 3348
+H, Org 3349
+H, Org 3350
+H, Org 3351
+H, Org 3356
+H, Org 3358
+H, Org 3359
+H, Org 3360
+H, Org 3361
+H, Org 3362
+H, Org 3364
+H, Org 3366
+H, Org 3367
+H, Org 3368
+H, Org 3369
+A, Barrens 3392
+H, Org 3400
+H, Org 3405
+H, Org 3409
+H, Org 3410
+H, Stonetalon 3411
+H, Org 3413
+H, Barrens 3443
     Recorded: 3477
     Recorded: 3479
     Recorded: 3480
@@ -412,48 +412,48 @@ A, Feralas 3700
     Recorded: 3705
     Recorded: 3708
 A, Winterspring 3779
-3881
-3882
-3883
-3884
-3933
+H, Razor Hill 3881
+H, Durotar 3882
+H, Mulgore 3883
+H, Mulgore 3884
+H, Durotar 3933
     Recorded: 3934
-3935
-3937
-3948
-3951
-3952
-3953
-3954
-3955
-3956
-3958
-3959
-3960
-3961
-3962
-3969
-3970
-4043
+A, Goldshire 3935
+A, Elwynn 3937
+A, Thelsamar 3948
+A, Ashenvale 3951
+A, Astranaar 3952
+A, Astranaar 3953
+A, Astranaar 3954
+A, Ashenvale 3955
+A, Ashenvale 3956
+A, Astranaar 3958
+A, Astranaar 3959
+A, Ashenvale 3960
+A, Astranaar 3961
+A, Astranaar 3962
+A, Astranaar 3969
+A, Astranaar 3970
+H, Org 4043
     Recorded: 4082
     Recorded: 4083
-4084
-4085
-4086
-4164
-4167
-4168
-4169
-4170
-4171
-4172
-4173
-4175
-4177
-4180
-4181
-4182
-4183
+A, Stonetalon 4084
+Stonetalon 4085
+Stonetalon 4086
+A, Darnassus 4164
+A, Darnassus 4167
+A, Darnassus 4168
+A, Darnassus 4169
+A, Darnassus 4170
+A, Darnassus 4171
+A, Darnassus 4172
+A, Darnassus 4173
+A, Darnassus 4175
+A, Darnassus 4177
+A, Darnassus 4180
+A, Darnassus 4181
+A, Darkshore 4182
+A, Darkshore 4183
     Recorded: 4184
 4185
 4186
@@ -534,24 +534,24 @@ A, Winterspring 3779
 4775
 4782
     Recorded: 4875
-4876
+H, Thousand Needles 4876
     Recorded: 4877
     Recorded: 4878
     Recorded: 4879
     Recorded: 4883
     Recorded: 4884
-4885
-4886
-4888
-4889
-4890
-4891
-4892
-4893
-4894
-4896
-4897
-4899
+A, Theramore 4885
+A, Theramore 4886
+A, Theramore 4888
+A, Theramore 4889
+A, Theramore 4890
+A, Theramore 4891
+A, Theramore 4892
+A, Theramore 4893
+A, Theramore 4894
+A, Theramore 4896
+A, Theramore 4897
+A, Theramore 4899
     Recorded: 4954
 4981
 5049
@@ -599,9 +599,9 @@ A, Winterspring 3779
 5178
 5188
     Recorded: 5189
-5190
-5191
-5193
+H, UC 5190
+A, Darnassus 5191
+A, SW 5193
     Recorded: 5411
 5483
 5494
@@ -635,8 +635,8 @@ A, Winterspring 3779
     Recorded: 5870
     Recorded: 5871
     Recorded: 5886
-5940
-5942
+H, Mulgore 5940
+H, Durotar 5942
     Recorded: 5944
     Recorded: 6028
 6091
@@ -661,8 +661,8 @@ A, Winterspring 3779
 6737
 6738
     Recorded: 6739
-6740
-6741
+A, SW 6740
+H, UC 6741
     Recorded: 6746
 6747
 6777
@@ -670,23 +670,23 @@ A, Winterspring 3779
 6790
     Recorded: 6791
     Recorded: 6807
-6928
-6929
+H, Razor Hill 6928
+H, Org 6929
     Recorded: 6930
     Recorded: 7485
-7564
-7683
+Gadgetzan 7564
+H, UC 7683
     Recorded: 7714
     Recorded: 7731
     Recorded: 7733
-7736
+A, Feralas 7736
     Recorded: 7737
 7744
 7772
 7775
 7852
     Recorded: 7854
-7879
+A, Feralas 7879
     Recorded: 7940
 7941
 7942
@@ -746,7 +746,7 @@ A, Winterspring 3779
 9099
 9179
     Recorded: 9356
-9499
+Blackrock Bar 9499
     Recorded: 9501
     Recorded: 9544
     Recorded: 9548
@@ -755,7 +755,7 @@ A, Winterspring 3779
     Recorded: 9552
     Recorded: 9553
     Recorded: 9555
-9636
+H, Desolace 9636
 A, Gnomeregan 9676
 A, Rut'theran 10118
 A, Darkshore 10216
@@ -774,10 +774,10 @@ WPL 10857
 11057
 11103
     Recorded: 11106
-11111
+Removed? 11111
     Recorded: 11116
     Recorded: 11118
-11137
+A, Astranaar 11137
     Recorded: 11182
     Recorded: 11183
     Recorded: 11184
@@ -806,8 +806,8 @@ WPL 10857
     Recorded: 12033
     Recorded: 12043
     Recorded: 12045
-12096
-12097
+A, AV 12096
+H, AV 12097
     Recorded: 12196
 12245
 12246
@@ -836,7 +836,7 @@ WPL 10857
 12957
 12958
     Recorded: 12959
-12960
+A, Desolace 12960
     Recorded: 12962
 13018
 13216
@@ -865,7 +865,7 @@ WPL 10857
 14522
 14581
     Recorded: 14624
-14637
+Feralas 14637
     Recorded: 14731
     Recorded: 14737
     Recorded: 14738
