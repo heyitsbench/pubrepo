@@ -455,84 +455,84 @@ A, Darnassus 4181
 A, Darkshore 4182
 A, Darkshore 4183
     Recorded: 4184
-4185
-4186
-4187
-4188
-4189
-4190
-4191
-4192
-4194
-4195
-4200
-4203
-4207
-4216
-4217
-4220
-4221
-4222
-4223
-4225
-4226
-4228
-4229
-4230
-4231
-4232
-4233
-4234
-4235
-4236
-4240
-4241
-4255
-4256
-4257
-4259
-4265
-4266
-4305
-4307
-4453
-4553
-4554
-4555
-4556
-4557
-4558
-4559
-4560
-4561
-4562
-4569
-4570
-4571
-4574
-4575
-4577
-4580
-4581
-4585
-4587
-4589
-4590
-4592
-4597
-4599
-4600
-4601
-4602
-4603
-4604
-4610
-4615
-4617
-4730
-4731
-4775
-4782
+A, Darkshore 4185
+A, Darkshore 4186
+A, Darkshore 4187
+A, Stonetalon 4188
+A, Darkshore 4189
+A, Darkshore 4190
+A, Darkshore 4191
+A, Darkshore 4192
+A, Darkshore 4194
+A, Darkshore 4195
+A, Darkshore 4200
+A, Darnassus 4203
+Removed? 4207
+A, Darnassus 4216
+A, Darnassus 4217
+A, Darnassus 4220
+A, Darnassus 4221
+A, Darnassus 4222
+A, Darnassus 4223
+A, Darnassus 4225
+A, Darnassus 4226
+A, Darnassus 4228
+A, Darnassus 4229
+A, Darnassus 4230
+A, Darnassus 4231
+A, Darnassus 4232
+A, Darnassus 4233
+A, Darnassus 4234
+A, Darnassus 4235
+A, Darnassus 4236
+A, Darnassus 4240
+A, Darnassus 4241
+A, AV 4255
+A, IF 4256
+A, AV 4257
+A, IF 4259
+A, Dolanaar 4265
+A, Dolanaar 4266
+A, Westfall 4305
+A, Darkshore 4307
+Shimmering Flats 4453
+H, UC 4553
+H, UC 4554
+H, UC 4555
+H, UC 4556
+H, UC 4557
+H, UC 4558
+H, UC 4559
+H, UC 4560
+H, UC 4561
+H, UC 4562
+H, UC 4569
+H, UC 4570
+H, UC 4571
+H, UC 4574
+H, UC 4575
+H, UC 4577
+H, UC 4580
+H, UC 4581
+H, UC 4585
+H, UC 4587
+H, UC 4589
+H, UC 4590
+H, UC 4592
+H, UC 4597
+H, UC 4599
+H, UC 4600
+H, UC 4601
+H, UC 4602
+H, UC 4603
+H, UC 4604
+H, UC 4610
+H, UC 4615
+H, UC 4617
+A, Darnassus 4730
+H, Brill 4731
+H, UC 4775
+A, Hinterlands 4782
     Recorded: 4875
 H, Thousand Needles 4876
     Recorded: 4877
