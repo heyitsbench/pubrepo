@@ -1217,9 +1217,9 @@ Aldor, SMV 19649
     Recorded: 19663
     Recorded: 19664
     Recorded: 19678
-Auchindoun 19679
+    Recorded: 19679
 A, Zangarmarsh 19694
-Auchindoun 19718
+    Recorded: 19718
 A, Zangarmarsh 19722
     Recorded: 19772
 A, Terokkar 19773
@@ -1263,7 +1263,7 @@ Aldor, Shattrath 20807
     Recorded: 20917
     Recorded: 20980
     Recorded: 20981
-Auchindoun 20986
+    Recorded: 20986
     Recorded: 20989
 A, Exodar 21019
     Recorded: 21082
@@ -1301,7 +1301,7 @@ A, Honor Hold 22227
     Recorded: 22266
     Recorded: 22270
     Recorded: 22271
-Terokkar 22476
+    Recorded: 22476
     Recorded: 22479
     Recorded: 22491
 A, AV 22646
@@ -1449,8 +1449,8 @@ Aldor, Shattrath 25195
 Borean Tundra 25206
 A, Valiance Keep 25245
 A, Valiance Keep 25248
-H, Warsong Hold 25274
-H, Warsong Hold 25278
+    Recorded: 25274
+    Recorded: 25278
 Coldarra 25314
 H, Borean Tundra 25736
     Recorded: 25950
@@ -1533,15 +1533,15 @@ A, Howling Fjord 26908
 A, Howling Fjord 26916
 A, Howling Fjord 26934
 H, Grizzly Hills 26936
-H, Warsong Hold 26938
+    Recorded: 26938
 H, Grizzly Hills 26939
-H, Warsong Hold 26941
-H, Warsong Hold 26945
+    Recorded: 26941
+    Recorded: 26945
 H, Warsong Hold, Removed? 26947
 H, Grizzly Hills 26950
 H, Howling Fjord 26959
-H, Warsong Hold 26968
-H, Warsong Hold 26977
+    Recorded: 26968
+    Recorded: 26977
 H, Howling Fjord 26984
 A, Valiance Keep 26995
 A, Valiance Keep 27011
@@ -1583,11 +1583,11 @@ H, Grizzly Hills 27125
 H, Grizzly Hills 27132
 H, Grizzly Hills 27133
 H, Grizzly Hills 27134
-Borean Tundra 27137
+    Recorded: 27137
 Borean Tundra 27138
-Borean Tundra 27139
+    Recorded: 27139
 Borean Tundra 27140
-Borean Tundra 27141
+    Recorded: 27141
 Borean Tundra 27142
 Borean Tundra 27143
 Howling Fjord 27144
@@ -1651,12 +1651,12 @@ A, Dalaran 28682
 Dalaran 28685
 A, Dalaran 28686
     Recorded: 28687
-Dalaran 28691
-Dalaran 28692
+    Recorded: 28691
+    Recorded: 28692
 Dalaran 28701
 Dalaran 28707
-Dalaran 28714
-Dalaran 28715
+    Recorded: 28714
+    Recorded: 28715
     Recorded: 28716
 Dalaran 28718
 Dalaran 28721
@@ -1666,9 +1666,9 @@ Dalaran 28725
 Dalaran 28726
     Recorded: 28727
 Dalaran 28728
-Dalaran 28742
+    Recorded: 28742
 DK Zone? 28760
-Dalaran 28776
+    Recorded: 28776
 Zul'Drak 28791
 Zul'Drak 28792
 Zul'Drak 28794
@@ -1699,14 +1699,14 @@ Zul'Drak 28870
 Zul'Drak 28871
 Zul'Drak 28872
 DK Zone? 28943
-Dalaran 28951
-Dalaran 28989
+    Recorded: 28951
+    Recorded: 28989
     Recorded: 28990
-Dalaran 28991
-Dalaran 28992
-Dalaran 28993
-Dalaran 28994
-Dalaran 28995
+    Recorded: 28991
+    Recorded: 28992
+    Recorded: 28993
+    Recorded: 28994
+    Recorded: 28995
     Recorded: 28997
 Sholazar Basin 29014
 Sholazar Basin 29015
@@ -1728,39 +1728,39 @@ A, Grizzly Hills 29275
 Grizzly Hills 29277
 A, SW 29288
 A, SW 29291
-Dalaran 29476
-Dalaran 29478
-Dalaran 29491
-Dalaran 29493
-Dalaran 29494
-Dalaran 29495
-Dalaran 29496
-Dalaran 29497
-Dalaran 29499
+    Recorded: 29476
+    Recorded: 29478
+    Recorded: 29491
+    Recorded: 29493
+    Recorded: 29494
+    Recorded: 29495
+    Recorded: 29496
+    Recorded: 29497
+    Recorded: 29499
 Dalaran 29510
 Dalaran 29511
 Dalaran 29512
-Dalaran 29523
-Dalaran 29527
-Dalaran 29528
-Dalaran 29529
+    Recorded: 29523
+    Recorded: 29527
+    Recorded: 29528
+    Recorded: 29529
 Dalaran 29532
 Dalaran 29535
 Dalaran 29537
 Dalaran 29538
-Dalaran 29547
+    Recorded: 29547
     Recorded: 29548
 Engineering 29561
 Zul'Drak 29583
 EPL 29587
 Dalaran 29628
-Dalaran 29636
+    Recorded: 29636
 Zul'Drak 29688
-Dalaran 29702
-Dalaran 29703
+    Recorded: 29702
+    Recorded: 29703
     Recorded: 29714
     Recorded: 29715
-Dalaran 29716
+    Recorded: 29716
 A, Storm Peaks 29744
 Storm Peaks 29904
 Storm Peaks 29905
@@ -1846,7 +1846,7 @@ A, Dalaran 31032
 A, Wintergrasp 31051
 H, Wintergrasp 31101
 Crystalsong Forest 31115
-Dalaran 31238
+    Recorded: 31238
 Storm Peaks 31247
     Recorded: 31557
 A, Dalaran 31579
@@ -1878,7 +1878,7 @@ A, AV 32099
 A, AV 32106
 A, Alterac 32112
 Dalaran 32172
-Dalaran 32216
+    Recorded: 32216
     Recorded: 32253
 Dalaran 32287
 A, Wintergrasp 32294
@@ -1912,14 +1912,14 @@ A, Dalaran 32424
 A, Dalaran 32426
 Storm Peaks 32477
 Storm Peaks 32478
-Dalaran 32509
-Dalaran 32514
+    Recorded: 32509
+    Recorded: 32514
 Dalaran 32515
 Wyrmrest Temple 32533
 Icecrown 32538
 Storm Peaks 32540
 A, Valiance Keep 32564
-H, Warsong Hold 32565
+    Recorded: 32565
 Storm Peaks 32594
 Dalaran 32631
 A, Mammoth Mount 32638
@@ -2070,7 +2070,7 @@ Icecrown 34885
     Recorded: 35099
 A, Honor Hold 35101
 A, Valiance Keep 35131
-H, Warsong Hold 35132
+    Recorded: 35132
 A, SW Gates, Pilgrim's Bounty 35337
 A, Darnassus Gates, Pilgrim's Bounty 35338
 A, IF Gates, Pilgrim's Bounty 35340
@@ -2078,7 +2078,7 @@ H, UC Courtyard, Pilgrim's Bounty 35341
 H, Org Gates, Pilgrim's Bounty 35342
 H, TB Gates, Pilgrim's Bounty 35343
 A, Dalaran 35494
-H, Dalaran 35495
+    NYI 35495
 Dalaran 35496
 Dalaran 35497
 Dalaran 35498
@@ -2120,7 +2120,7 @@ A, ICC 37903
 A, ICC 37904
 H, ICC 37935
 H, ICC 37936
-H, Dalaran 37941
+    NYI 37941
 A, Dalaran 37942
 H, ICC 37991
 H, ICC 37992
