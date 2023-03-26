@@ -14,13 +14,13 @@ A, Darkshire 228
 A, Westfall 233
 A, Elwynn 258
 A, Darkshire 274
-A, SW 277
+    Recorded: 277
 A, Goldshire 295
-A, SW 340
+    Recorded: 340
 A, Thelsamar 372
 A, Elwynn 384
 A, Goldshire 465
-A, SW 483
+    Recorded: 483
 A, Sentinel Hill 491
 A, STV 734
 A, Lakeshire 777
@@ -62,55 +62,55 @@ A, Dun Morogh 1243
 A, Kharanos 1247
 A, Elwynn 1249
 A, Elwynn 1250
-A, SW 1257
+    Recorded: 1257
 A, Dun Morogh 1261
 A, Dun Morogh 1263
 A, Kharanos 1273
-A, SW 1275
-A, SW 1285
-A, SW 1286
-A, SW 1287
-A, SW 1289
-A, SW 1291
-A, SW 1294
-A, SW 1295
+    Recorded: 1275
+    Recorded: 1285
+    Recorded: 1286
+    Recorded: 1287
+    Recorded: 1289
+    Recorded: 1291
+    Recorded: 1294
+    Recorded: 1295
 A, Burning Steppes 1296
-A, SW 1297
-A, SW 1298
-A, SW 1299
-A, SW 1301
-A, SW 1302
-A, SW 1303
-A, SW 1304
-A, SW 1305
-A, SW 1307
-A, SW 1308
-A, SW 1309
-A, SW 1310
-A, SW 1311
-A, SW 1312
-A, SW 1313
-A, SW 1314
-A, SW 1315
-A, SW 1316
-A, SW 1318
-A, SW 1319
-A, SW 1320
-A, SW 1321
+    Recorded: 1297
+    Recorded: 1298
+    Recorded: 1299
+    Recorded: 1301
+    Recorded: 1302
+    Recorded: 1303
+    Recorded: 1304
+    Recorded: 1305
+    Recorded: 1307
+    Recorded: 1308
+    Recorded: 1309
+    Recorded: 1310
+    Recorded: 1311
+    Recorded: 1312
+    Recorded: 1313
+    Recorded: 1314
+    Recorded: 1315
+    Recorded: 1316
+    Recorded: 1318
+    Recorded: 1319
+    Recorded: 1320
+    Recorded: 1321
 A, Desolace 1322
-A, SW 1323
-A, SW 1324
-A, SW 1325
-A, SW 1326
-A, SW 1328
-A, SW 1333
-A, SW 1339
-A, SW 1341
-A, SW 1347
-A, SW 1348
-A, SW 1349
-A, SW 1350
-A, SW 1351
+    Recorded: 1323
+    Recorded: 1324
+    Recorded: 1325
+    Recorded: 1326
+    Recorded: 1328
+    Recorded: 1333
+    Recorded: 1339
+    Recorded: 1341
+    Recorded: 1347
+    Recorded: 1348
+    Recorded: 1349
+    Recorded: 1350
+    Recorded: 1351
 A, Loch Modan 1362
     Recorded: 1381
     Recorded: 1407
@@ -359,7 +359,7 @@ Ratchet 3497
     Recorded: 3498
     Recorded: 3499
     Recorded: 3500
-A, SW 3518
+    Recorded: 3518
 H, Tirisfal 3522
 A, Silverpine 3528
 Hostile 3529
@@ -554,7 +554,7 @@ A, Theramore 4896
 A, Theramore 4897
 A, Theramore 4899
     Recorded: 4954
-A, SW 4981
+    Recorded: 4981
 A, IF 5049
 H, UC 5052
 A, IF 5100
@@ -602,18 +602,18 @@ H, Org 5188
     Recorded: 5189
 H, UC 5190
 A, Darnassus 5191
-A, SW 5193
+    Recorded: 5193
     Recorded: 5411
-A, SW 5483
-A, SW 5494
-A, SW 5503
+    Recorded: 5483
+    Recorded: 5494
+    Recorded: 5503
 A, Blasted Lands 5508
-A, SW 5509
-A, SW 5510
-A, SW 5512
-A, SW 5514
-A, SW 5519
-A, SW 5565
+    Recorded: 5509
+    Recorded: 5510
+    Recorded: 5512
+    Recorded: 5514
+    Recorded: 5519
+    Recorded: 5565
 A, IF 5569
 A, IF 5570
     Recorded: 5594
@@ -663,7 +663,7 @@ A, Dolanaar 6736
 A, Darkshore 6737
 A, Astranaar 6738
     Recorded: 6739
-A, SW 6740
+    Recorded: 6740
 H, UC 6741
     Recorded: 6746
 H, Mulgore 6747
@@ -736,7 +736,7 @@ H, UC 8403
 H, Org 8404
 A, Dun Morogh 8508
 A, Darnassus 8665
-A, SW 8666
+    Recorded: 8666
 Azshara 8678
 STV 8679
 A, IF 8681
@@ -815,12 +815,12 @@ Desolace 12245
 Desolace 12246
 EPL 12384
 A, BGs/SW? 12777
-A, SW 12778
-A, SW 12781
+    Recorded: 12778
+    Recorded: 12781
 A, BGs/SW? 12782
-A, SW 12783
-A, SW 12784
-A, SW 12785
+    Recorded: 12783
+    Recorded: 12784
+    Recorded: 12785
 H, Org 12788
 H, BGs/Org? 12792
 H, Org 12793
@@ -907,7 +907,7 @@ Silithus 15293
 H, Org, Hallows End 15309
 A, Felwood 15315
     Recorded: 15350
-A, capitals 15351
+    Recorded: 15351
 A, IF, Hallow's End 15353
 H, Org, Hallow's End 15354
     Recorded: 15397
@@ -1644,7 +1644,7 @@ Sholazar Basin 28040
 Sholazar Basin 28046
 BRD 28225
     Recorded: 28344
-A, SW 28347
+    Recorded: 28347
 EPL 28500
 Zul'Drak 28589
 A, Dalaran 28682
@@ -1820,7 +1820,7 @@ H, Org 30723
     Recorded: 30724
     Recorded: 30727
 H, UC 30729
-A, SW 30730
+    Recorded: 30730
 A, Darnassus 30731
 A, Exodar 30732
 A, IF 30733
@@ -1892,9 +1892,9 @@ Area 52 32356
     Recorded: 32359
     Recorded: 32360???
     Recorded: 32362???
-A, SW 32379
-A, SW 32380
-A, SW 32381
+    Recorded: 32379
+    Recorded: 32380
+    Recorded: 32381
 H, Org 32382
 H, Org 32383
 H, Org 32385
@@ -1917,22 +1917,22 @@ Storm Peaks 32478
 Dalaran 32515
 Wyrmrest Temple 32533
 Icecrown 32538
-Storm Peaks 32540
+    Recorded: 32540
 A, Valiance Keep 32564
     Recorded: 32565
-Storm Peaks 32594
+    Recorded: 32594
 Dalaran 32631
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
-H, Mammoth Mount 32641
-H, Mammoth Mount 32642
+    Recorded: 32641
+    Recorded: 32642
 Dragonblight 32763
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
 A, Howling Fjord 32773
 H, Howling Fjord 32774
 H, Orgrimmar 32832
-A, SW 32834
+    Recorded: 32834
 A, Starter towns, Noblegarden 32836
 H, Starter towns, Noblegarden 32837
 H, Howling Fjord 33018
