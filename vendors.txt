@@ -1,46 +1,46 @@
-A, Goldshire 54
-A, Goldshire 66
-A, Goldshire 74
-A, Northshire 78
-A, Goldshire 151
-A, Northshire 152
-A, Thelsamar 167
-A, Northshire 190
-A, Loch Modan 222
-A, Darkshire 225
-A, Darkshire 226
-A, Darkshire 227
-A, Darkshire 228
-A, Westfall 233
-A, Elwynn 258
-A, Darkshire 274
+    Recorded: 54
+    Recorded: 66
+    Recorded: 74
+    Recorded: 78
+    Recorded: 151
+    Recorded: 152
+    Recorded: 167
+    Recorded: 190
+    Recorded: 222
+    Recorded: 225
+    Recorded: 226
+    Recorded: 227
+    Recorded: 228
+    Recorded: 233
+    Recorded: 258
+    Recorded: 274
     Recorded: 277
-A, Goldshire 295
+    Recorded: 295
     Recorded: 340
-A, Thelsamar 372
-A, Elwynn 384
-A, Goldshire 465
+    Recorded: 372
+    Recorded: 384
+    Recorded: 465
     Recorded: 483
-A, Sentinel Hill 491
-A, STV 734
-A, Lakeshire 777
-A, Lakeshire 789
-A, Lakeshire 790
-A, Lakeshire 791
-A, Lakeshire 793
+    Recorded: 491
+    Recorded: 734
+    Recorded: 777
+    Recorded: 789
+    Recorded: 790
+    Recorded: 791
+    Recorded: 793
 A, Coldridge 829
 A, Coldridge 836
-A, Sentinel Hill 843
+    Recorded: 843
 A, Antonio Perelli 844
-A, Elwynn 894
-A, Elwynn 896
+    Recorded: 894
+    Recorded: 896
 A, Coldridge 945
-A, Loch Modan 954
-A, Elwynn 955
-A, Lakeshire 956
-A, Elwynn 958
-A, Elwynn 959
-A, Darkshire 960
+    Recorded: 954
+    Recorded: 955
+    Recorded: 956
+    Recorded: 958
+    Recorded: 959
+    Recorded: 960
     Recorded: 980
     Recorded: 981
     Recorded: 982
@@ -52,20 +52,20 @@ A, Coldridge 1104
     Recorded: 1147
     Recorded: 1148
     Recorded: 1149
-A, Elwynn 1198
-A, Northshire 1213
-A, Loch Modan 1214
+    Recorded: 1198
+    Recorded: 1213
+    Recorded: 1214
 A, Dun Morogh 1237
-A, Kharanos 1238
-A, Kharanos 1240
-A, Dun Morogh 1243
-A, Kharanos 1247
-A, Elwynn 1249
-A, Elwynn 1250
+    Recorded: 1238
+    Recorded: 1240
+    Recorded: 1243
+    Recorded: 1247
+    Recorded: 1249
+    Recorded: 1250
     Recorded: 1257
 A, Dun Morogh 1261
 A, Dun Morogh 1263
-A, Kharanos 1273
+    Recorded: 1273
     Recorded: 1275
     Recorded: 1285
     Recorded: 1286
@@ -74,7 +74,7 @@ A, Kharanos 1273
     Recorded: 1291
     Recorded: 1294
     Recorded: 1295
-A, Burning Steppes 1296
+    Recorded: 1296
     Recorded: 1297
     Recorded: 1298
     Recorded: 1299
@@ -111,7 +111,7 @@ A, Desolace 1322
     Recorded: 1349
     Recorded: 1350
     Recorded: 1351
-A, Loch Modan 1362
+    Recorded: 1362
     Recorded: 1381
     Recorded: 1407
 A, Menethil Harbor 1441
@@ -128,32 +128,32 @@ A, Menethil Harbor 1461
 A, Menethil Harbor 1462
 A, Menethil Harbor 1463
 A, Menethil Harbor 1464
-A, Thelsamar 1465
-A, Thelsamar 1469
+    Recorded: 1465
+    Recorded: 1469
 A, Refuge Pointe 1471
-A, Thelsamar 1474
-A, Elwynn 1645
-A, Eastvale Logging 1650
-A, Sentinel Hill 1668
-Moonbrook 1669
-A, Sentinel Hill 1670
-A, Lakeshire 1671
-A, Darkshire 1672
-A, Darkshire 1673
-A, Lakeshire 1678
-A, Thelsamar 1682
-A, The Loch 1684
-A, Loch Modan 1685
-A, Loch Modan 1686
-A, Loch Modan 1687
-A, Kharanos 1690
-A, Kharanos 1691
-A, Kharanos 1692
-A, Kharanos 1694
+    Recorded: 1474
+    Recorded: 1645
+    Recorded: 1650
+    Recorded: 1668
+    Recorded: 1669
+    Recorded: 1670
+    Recorded: 1671
+    Recorded: 1672
+    Recorded: 1673
+    Recorded: 1678
+    Recorded: 1682
+    Recorded: 1684
+    Recorded: 1685
+    Recorded: 1686
+    Recorded: 1687
+    Recorded: 1690
+    Recorded: 1691
+    Recorded: 1692
+    Recorded: 1694
 A, Feralas 1695
 A, Dun Morogh 1697
 A, Gol'bolar Quarry 1698
-A, Goldshire 2046
+    Recorded: 2046
 A, Winterspring 2084
 H, Tirisfal 2113
 H, Tirisfal 2115
@@ -191,8 +191,8 @@ STV 2483
     Recorded: 2626
     Recorded: 2663
     Recorded: 2664
-A, Darkshire 2668
-A, Darkshire 2669
+    Recorded: 2668
+    Recorded: 2669
     Recorded: 2670
     Recorded: 2672
 A, Wetlands 2679
@@ -229,7 +229,7 @@ A, Arathi 2816
     Recorded: 2848
     Recorded: 2849
     Recorded: 2908
-A, Badlands 2910
+A, Badlands 2910 (Might not be real? Check with quest)
 Removed? 2942
     Recorded: 2997
     Recorded: 2999
@@ -264,21 +264,21 @@ H, Mulgore 3078
 H, Mulgore 3079
 H, Mulgore 3080
 H, Mulgore 3081
-A, Lakeshire 3085
-A, Lakeshire 3086
-A, Lakeshire 3088
-A, Lakeshire 3089
-A, Lakeshire 3090
-A, Lakeshire 3091
+    Recorded: 3085
+    Recorded: 3086
+    Recorded: 3088
+    Recorded: 3089
+    Recorded: 3090
+    Recorded: 3091
     Recorded: 3092
     Recorded: 3093
     Recorded: 3095
 Redridge 3096
 A, Redridge 3097
-A, Darkshire 3133
+    Recorded: 3133
 Duskwood 3134
-A, Darkshire 3135
-A, Darkshire 3138
+    Recorded: 3135
+    Recorded: 3138
 H, Durotar 3158
 H, Durotar 3159
 H, Durotar 3160
@@ -295,8 +295,8 @@ A, Menethil Harbor 3178
 Wetlands 3180
 H, Durotar 3186
 H, Durotar 3187
-A, Loch Modan 3291
-A, Burning Steppes 3298
+    Recorded: 3291
+    Recorded: 3298
 H, Org 3312
 H, Org 3313
 H, Org 3314
@@ -374,7 +374,7 @@ A, Southshore 3541
 A, Southshore 3542
 A, Southshore 3543
     Recorded: 3544
-A, Blasted Lands 3546
+    Recorded: 3546
 H, Brill 3547
 H, Brill 3548
 H, Tirisfal 3550
@@ -419,9 +419,9 @@ H, Mulgore 3883
 H, Mulgore 3884
 H, Durotar 3933
     Recorded: 3934
-A, Goldshire 3935
-A, Elwynn 3937
-A, Thelsamar 3948
+    Recorded: 3935
+    Recorded: 3937
+    Recorded: 3948
 A, Ashenvale 3951
 A, Astranaar 3952
 A, Astranaar 3953
@@ -489,12 +489,12 @@ A, Darnassus 4236
 A, Darnassus 4240
 A, Darnassus 4241
 A, AV 4255
-A, IF 4256
+    Recorded: 4256
 A, AV 4257
-A, IF 4259
+    Recorded: 4259
 A, Dolanaar 4265
 A, Dolanaar 4266
-A, Westfall 4305
+    Recorded: 4305
 A, Darkshore 4307
 Shimmering Flats 4453
 H, UC 4553
@@ -555,49 +555,49 @@ A, Theramore 4897
 A, Theramore 4899
     Recorded: 4954
     Recorded: 4981
-A, IF 5049
+    Recorded: 5049
 H, UC 5052
-A, IF 5100
-A, IF 5101
-A, IF 5102
-A, IF 5103
-A, IF 5106
-A, IF 5107
-A, IF 5108
-A, IF 5109
-A, IF 5110
-A, IF 5111
-A, IF 5112
-A, IF 5119
-A, IF 5120
-A, IF 5121
-A, IF 5122
-A, IF 5123
-A, IF 5124
-A, IF 5125
-A, IF 5126
-A, IF 5128
-A, IF 5129
-A, IF 5132
-A, IF 5133
+    Recorded: 5100
+    Recorded: 5101
+    Recorded: 5102
+    Recorded: 5103
+    Recorded: 5106
+    Recorded: 5107
+    Recorded: 5108
+    Recorded: 5109
+    Recorded: 5110
+    Recorded: 5111
+    Recorded: 5112
+    Recorded: 5119
+    Recorded: 5120
+    Recorded: 5121
+    Recorded: 5122
+    Recorded: 5123
+    Recorded: 5124
+    Recorded: 5125
+    Recorded: 5126
+    Recorded: 5128
+    Recorded: 5129
+    Recorded: 5132
+    Recorded: 5133
 A, AV 5134
 A, AV 5135
-A, IF 5138
+    Recorded: 5138
 A, AV 5139
-A, IF 5140
-A, IF 5151
-A, IF 5152
-A, IF 5154
-A, IF 5155
-A, IF 5156
-A, IF 5158
-A, IF 5160
-A, IF 5162
-A, IF 5163
-A, IF 5169
-A, IF 5170
-A, IF 5175
-A, IF 5178
+    Recorded: 5140
+    Recorded: 5151
+    Recorded: 5152
+    Recorded: 5154
+    Recorded: 5155
+    Recorded: 5156
+    Recorded: 5158
+    Recorded: 5160
+    Recorded: 5162
+    Recorded: 5163
+    Recorded: 5169
+    Recorded: 5170
+    Recorded: 5175
+    Recorded: 5178
 H, Org 5188
     Recorded: 5189
 H, UC 5190
@@ -607,18 +607,18 @@ A, Darnassus 5191
     Recorded: 5483
     Recorded: 5494
     Recorded: 5503
-A, Blasted Lands 5508
+    Recorded: 5508
     Recorded: 5509
     Recorded: 5510
     Recorded: 5512
     Recorded: 5514
     Recorded: 5519
     Recorded: 5565
-A, IF 5569
-A, IF 5570
+    Recorded: 5569
+    Recorded: 5570
     Recorded: 5594
 H, Org 5611
-A, Lakeshire 5620
+    Recorded: 5620
 H, Brill 5688
     Recorded: 5698
 H, Silverpine 5748
@@ -646,7 +646,7 @@ A, Theramore 6272
 A, Darkshore 6298
 A, Darkshore 6300
 A, Darkshore 6301
-A, Elwynn 6367
+    Recorded: 6367
 Shimmering Flats 6495
 Shimmering Flats 6496
 Shimmering Flats 6548
@@ -654,10 +654,10 @@ Shimmering Flats 6548
     Recorded: 6568
     Recorded: 6574
 A, Feralas 6576
-A, Lakeshire 6727
+    Recorded: 6727
 Shimmering Flats 6730
 A, Ashenvale 6731
-A, Thelsamar 6734
+    Recorded: 6734
 A, Darnassus 6735
 A, Dolanaar 6736
 A, Darkshore 6737
@@ -669,7 +669,7 @@ H, UC 6741
 H, Mulgore 6747
 Alterac 6777
 Alterac 6779
-A, Darkshire 6790
+    Recorded: 6790
     Recorded: 6791
     Recorded: 6807
 H, Razor Hill 6928
@@ -697,8 +697,8 @@ A, Feralas 7945
 A, Feralas 7947
 H, Durotar 7952
 A, Kharanos 7955
-A, IF 7976
-A, IF 7978
+    Recorded: 7976
+    Recorded: 7978
 Booty Bay, Midsummer Fire Festival? 8116
 A, IF, Midsummer Fire Festival? 8117
 A, SW, Midsummer Fire Festival? 8118
@@ -720,7 +720,7 @@ A, Hinterlands 8160
 A, Hinterlands 8161
     Recorded: 8176
     Recorded: 8177
-A, Blasted Lands 8178
+    Recorded: 8178
 Wetlands 8305
 H, Barrens 8307
     Recorded: 8358
@@ -739,14 +739,14 @@ A, Darnassus 8665
     Recorded: 8666
 Azshara 8678
 STV 8679
-A, IF 8681
+    Recorded: 8681
 H, Desolace 8878
-A, Sentinel Hill 8931
-A, Sentinel Hill 8934
+    Recorded: 8931
+    Recorded: 8934
 Removed? 8999
 H, TB 9087
-A, IF 9099
-Badlands 9179
+    Recorded: 9099
+    Recorded: 9179
     Recorded: 9356
 Blackrock Bar 9499
     Recorded: 9501
@@ -840,7 +840,7 @@ Hinterlands 12958
     Recorded: 12959
 A, Desolace 12960
     Recorded: 12962
-A, Deeprun Tram 13018
+    Recorded: 13018
 A, AV 13216
 A, Alterac 13217
 H, Alterac 13218
@@ -1172,8 +1172,8 @@ A, SMV 19374
     Recorded: 19435
     Recorded: 19436
     Recorded: 19450
-A, Dark Portal 19451
-A, Dark Portal 19452
+    Recorded: 19451
+    Recorded: 19452
     Recorded: 19470
     Recorded: 19471
     Recorded: 19472
@@ -1823,7 +1823,7 @@ H, UC 30729
     Recorded: 30730
 A, Darnassus 30731
 A, Exodar 30732
-A, IF 30733
+    Recorded: 30733
 A, Honor Hold 30734
     Recorded: 30735
 Ogri'la 30792

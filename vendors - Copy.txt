@@ -87,9 +87,6 @@ A, Blade's Edge 21110
 A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
-A, Blasted Lands 3546
-A, Blasted Lands 5508
-A, Blasted Lands 8178
 A, Bloodmyst 17421
 A, Bloodmyst 17553
 A, Bloodmyst 17667
@@ -100,8 +97,6 @@ A, Borean Tundra 26596
 A, Borean Tundra 26598
 A, Borean Tundra 26599
 A, Borean Tundra 26600
-A, Burning Steppes 1296
-A, Burning Steppes 3298
 A, Capital Gates, Brewfest 23482
 A, Coldridge 829
 A, Coldridge 836
@@ -126,22 +121,6 @@ A, Dalaran 33964
 A, Dalaran 35494
 A, Dalaran 35507
 A, Dalaran 37942
-A, Dark Portal 19451
-A, Dark Portal 19452
-A, Darkshire 225
-A, Darkshire 226
-A, Darkshire 227
-A, Darkshire 228
-A, Darkshire 274
-A, Darkshire 960
-A, Darkshire 1672
-A, Darkshire 1673
-A, Darkshire 2668
-A, Darkshire 2669
-A, Darkshire 3133
-A, Darkshire 3135
-A, Darkshire 3138
-A, Darkshire 6790
 A, Darkshore 4182
 A, Darkshore 4183
 A, Darkshore 4185
@@ -203,7 +182,6 @@ A, Darnassus 8665
 A, Darnassus 30731
 A, Darnassus Gates, Pilgrim's Bounty 34681
 A, Darnassus Gates, Pilgrim's Bounty 35338
-A, Deeprun Tram 13018
 A, Desolace 1322
 A, Desolace 8150
 A, Desolace 11103
@@ -232,7 +210,6 @@ A, Dragonblight 27054
 A, Dragonblight 27055
 A, Dragonblight 27057
 A, Dun Morogh 1237
-A, Dun Morogh 1243
 A, Dun Morogh 1261
 A, Dun Morogh 1263
 A, Dun Morogh 1697
@@ -241,20 +218,6 @@ A, Dun Morogh 3177
 A, Dun Morogh 8508
 A, Dun Morogh 24834
 A, Dun Morogh 24843
-A, Eastvale Logging 1650
-A, Elwynn 258
-A, Elwynn 384
-A, Elwynn 894
-A, Elwynn 896
-A, Elwynn 955
-A, Elwynn 958
-A, Elwynn 959
-A, Elwynn 1198
-A, Elwynn 1249
-A, Elwynn 1250
-A, Elwynn 1645
-A, Elwynn 3937
-A, Elwynn 6367
 A, Exodar 16632
 A, Exodar 16657
 A, Exodar 16705
@@ -307,14 +270,6 @@ A, Feralas 25020
 A, Gnomeregan 9676
 A, Gnomeregan? 2683
 A, Gol'bolar Quarry 1698
-A, Goldshire 54
-A, Goldshire 66
-A, Goldshire 74
-A, Goldshire 151
-A, Goldshire 295
-A, Goldshire 465
-A, Goldshire 2046
-A, Goldshire 3935
 A, Grizzly Hills 26229
 A, Grizzly Hills 26374
 A, Grizzly Hills 26375
@@ -395,54 +350,6 @@ A, ICC 37999
 A, ICC 38182
 A, ICC 38283
 A, ICC 38840
-A, IF 4256
-A, IF 4259
-A, IF 5049
-A, IF 5100
-A, IF 5101
-A, IF 5102
-A, IF 5103
-A, IF 5106
-A, IF 5107
-A, IF 5108
-A, IF 5109
-A, IF 5110
-A, IF 5111
-A, IF 5112
-A, IF 5119
-A, IF 5120
-A, IF 5121
-A, IF 5122
-A, IF 5123
-A, IF 5124
-A, IF 5125
-A, IF 5126
-A, IF 5128
-A, IF 5129
-A, IF 5132
-A, IF 5133
-A, IF 5138
-A, IF 5140
-A, IF 5151
-A, IF 5152
-A, IF 5154
-A, IF 5155
-A, IF 5156
-A, IF 5158
-A, IF 5160
-A, IF 5162
-A, IF 5163
-A, IF 5169
-A, IF 5170
-A, IF 5175
-A, IF 5178
-A, IF 5569
-A, IF 5570
-A, IF 7976
-A, IF 7978
-A, IF 8681
-A, IF 9099
-A, IF 30733
 A, IF Gates, Brewfest 23481
 A, IF Gates, Brewfest 24468
 A, IF Gates, Harvest Festival 15011
@@ -465,39 +372,7 @@ A, Icecrown 35575
 A, Icecrown 35577
 A, Icecrown 35579
 A, Ironforge Gates, Brewfest 23710
-A, Kharanos 1238
-A, Kharanos 1240
-A, Kharanos 1247
-A, Kharanos 1273
-A, Kharanos 1690
-A, Kharanos 1691
-A, Kharanos 1692
-A, Kharanos 1694
 A, Kharanos 7955
-A, Lakeshire 777
-A, Lakeshire 789
-A, Lakeshire 790
-A, Lakeshire 791
-A, Lakeshire 793
-A, Lakeshire 956
-A, Lakeshire 1671
-A, Lakeshire 1678
-A, Lakeshire 3085
-A, Lakeshire 3086
-A, Lakeshire 3088
-A, Lakeshire 3089
-A, Lakeshire 3090
-A, Lakeshire 3091
-A, Lakeshire 5620
-A, Lakeshire 6727
-A, Loch Modan 222
-A, Loch Modan 954
-A, Loch Modan 1214
-A, Loch Modan 1362
-A, Loch Modan 1685
-A, Loch Modan 1686
-A, Loch Modan 1687
-A, Loch Modan 3291
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
 A, Menethil Harbor 1441
@@ -522,10 +397,6 @@ A, Nagrand 19017
 A, Nagrand 19021
 A, Nagrand 20096
 A, Nagrand 20240
-A, Northshire 78
-A, Northshire 152
-A, Northshire 190
-A, Northshire 1213
 A, Quest reward companion 33238
 A, Redridge 2697
 A, Redridge 3097
@@ -539,7 +410,6 @@ A, SMV 19372
 A, SMV 19373
 A, SMV 19374
 A, SMV 20510
-A, STV 734
 A, SW 14450
 A, SW 25010
 A, SW 25012
@@ -568,12 +438,6 @@ A, SW? 34082
 A, SW? 34083
 A, SW? 40607
 A, Searing Gorge 11703
-A, Sentinel Hill 491
-A, Sentinel Hill 843
-A, Sentinel Hill 1668
-A, Sentinel Hill 1670
-A, Sentinel Hill 8931
-A, Sentinel Hill 8934
 A, Shadowglen 3587
 A, Shadowglen 3588
 A, Shadowglen 3589
@@ -613,15 +477,6 @@ A, Terokkar 19053
 A, Terokkar 19056
 A, Terokkar 19296
 A, Terokkar 19773
-A, The Loch 1684
-A, Thelsamar 167
-A, Thelsamar 372
-A, Thelsamar 1465
-A, Thelsamar 1469
-A, Thelsamar 1474
-A, Thelsamar 1682
-A, Thelsamar 3948
-A, Thelsamar 6734
 A, Theramore 4885
 A, Theramore 4886
 A, Theramore 4888
@@ -646,8 +501,6 @@ A, Valiance Keep 32564
 A, Valiance Keep 35131
 A, WPL 11056
 A, WPL 12942
-A, Westfall 233
-A, Westfall 4305
 A, Wetlands 2679
 A, Wetlands 2682
 A, Wintergrasp 30488
@@ -729,7 +582,6 @@ Azshara 8678
 Azshara 12957
 BRD 12944
 BRD 28225
-Badlands 9179
 Barrens 3683
 Barrens 3684
 Barrens 5783
@@ -1329,7 +1181,6 @@ Likely removed 26757
 Likely removed 26758
 Likely removed 26759
 Likely removed 26765
-Moonbrook 1669
 Moonglade, Lunar Festival 15864
 Moonglade, Lunar Festival 15898
 Moonglade, Lunar Festival 15909
