@@ -48,22 +48,6 @@ A, Astranaar 3969
 A, Astranaar 3970
 A, Astranaar 6738
 A, Astranaar 11137
-A, Azuremyst 16553
-A, Azuremyst 16917
-A, Azuremyst 16918
-A, Azuremyst 16919
-A, Azuremyst 16920
-A, Azuremyst 17101
-A, Azuremyst 17222
-A, Azuremyst 17245
-A, Azuremyst 17246
-A, Azuremyst 17446
-A, Azuremyst 17486
-A, Azuremyst 17489
-A, Azuremyst 17490
-A, Azuremyst 17929
-A, Azuremyst 17930
-A, Azuremyst 18810
 A, Azuremyst 25051
 A, Azuremyst 25052
 A, BGs/SW? 12777
@@ -80,12 +64,6 @@ A, Blade's Edge 21110
 A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
-A, Bloodmyst 17421
-A, Bloodmyst 17553
-A, Bloodmyst 17667
-A, Bloodmyst 18427
-A, Bloodmyst 18811
-A, Bloodmyst 21145
 A, Borean Tundra 26596
 A, Borean Tundra 26598
 A, Borean Tundra 26599
@@ -187,37 +165,7 @@ A, Dragonblight 27053
 A, Dragonblight 27054
 A, Dragonblight 27055
 A, Dragonblight 27057
-A, Exodar 16632
-A, Exodar 16657
-A, Exodar 16705
-A, Exodar 16706
-A, Exodar 16708
-A, Exodar 16709
-A, Exodar 16713
-A, Exodar 16714
-A, Exodar 16715
-A, Exodar 16716
-A, Exodar 16718
-A, Exodar 16722
-A, Exodar 16732
-A, Exodar 16735
-A, Exodar 16739
-A, Exodar 16747
-A, Exodar 16748
-A, Exodar 16750
-A, Exodar 16751
-A, Exodar 16753
-A, Exodar 16757
-A, Exodar 16762
-A, Exodar 16765
-A, Exodar 16766
-A, Exodar 16767
-A, Exodar 16768
-A, Exodar 17512
 A, Exodar 17584
-A, Exodar 20121
-A, Exodar 21019
-A, Exodar 30732
 A, Exodar Gates, Pilgrim's Bounty 34783
 A, Felwood 2803
 A, Felwood 15315

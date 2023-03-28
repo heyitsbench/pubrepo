@@ -946,7 +946,7 @@ A, Stonetalon 16458
     Recorded: 16528
     Recorded: 16542
 Silithus 16543
-A, Azuremyst 16553
+    Recorded: 16553
     Recorded: 16583
     Recorded: 16585
     Recorded: 16588
@@ -963,14 +963,14 @@ A, Azuremyst 16553
     Recorded: 16625
     Recorded: 16626
     Recorded: 16631
-A, Exodar 16632
+    Recorded: 16632
     Recorded: 16635
     Recorded: 16636
     Recorded: 16637
     Recorded: 16638
     Recorded: 16641
     Recorded: 16650
-A, Exodar 16657
+    Recorded: 16657
     Recorded: 16664
     Recorded: 16666
     Recorded: 16670
@@ -981,30 +981,30 @@ A, Exodar 16657
     Recorded: 16690
     Recorded: 16691
     Recorded: 16693
-A, Exodar 16705
-A, Exodar 16706
-A, Exodar 16708
-A, Exodar 16709
-A, Exodar 16713
-A, Exodar 16714
-A, Exodar 16715
-A, Exodar 16716
-A, Exodar 16718
-A, Exodar 16722
-A, Exodar 16732
-A, Exodar 16735
-A, Exodar 16739
-A, Exodar 16747
-A, Exodar 16748
-A, Exodar 16750
-A, Exodar 16751
-A, Exodar 16753
-A, Exodar 16757
-A, Exodar 16762
-A, Exodar 16765
-A, Exodar 16766
-A, Exodar 16767
-A, Exodar 16768
+    Recorded: 16705
+    Recorded: 16706
+    Recorded: 16708
+    Recorded: 16709
+    Recorded: 16713
+    Recorded: 16714
+    Recorded: 16715
+    Recorded: 16716
+    Recorded: 16718
+    Recorded: 16722
+    Recorded: 16732
+    Recorded: 16735
+    Recorded: 16739
+    Recorded: 16747
+    Recorded: 16748
+    Recorded: 16750
+    Recorded: 16751
+    Recorded: 16753
+    Recorded: 16757
+    Recorded: 16762
+    Recorded: 16765
+    Recorded: 16766
+    Recorded: 16767
+    Recorded: 16768
     Recorded: 16782
 Unknown, Scourge Invasion 16786
 A, Hellfire 16798
@@ -1012,24 +1012,24 @@ A, Honor Hold 16823
 A, Honor Hold 16826
 A, Honor Hold 16829
     Recorded: 16860
-A, Azuremyst 16917
-A, Azuremyst 16918
-A, Azuremyst 16919
-A, Azuremyst 16920
-A, Azuremyst 17101
-A, Azuremyst 17222
-A, Azuremyst 17245
-A, Azuremyst 17246
+    Recorded: 16917
+    Recorded: 16918
+    Recorded: 16919
+    Recorded: 16920
+    Recorded: 17101
+    Recorded: 17222
+    Recorded: 17245
+    Recorded: 17246
     Recorded: 17277
 A, Ashenvale 17412
-A, Bloodmyst 17421
-A, Azuremyst 17446
-A, Azuremyst 17486
-A, Azuremyst 17489
-A, Azuremyst 17490
-A, Exodar 17512
+    Recorded: 17421
+    Recorded: 17446
+    Recorded: 17486
+    Recorded: 17489
+    Recorded: 17490
+    Recorded: 17512
 Karazhan 17518
-A, Bloodmyst 17553
+    Recorded: 17553
 A, Exodar 17584
     Recorded: 17585
     Recorded: 17598
@@ -1037,10 +1037,10 @@ A, Exodar 17584
     Recorded: 17655
     Recorded: 17656
 A, Honor Hold 17657
-A, Bloodmyst 17667
+    Recorded: 17667
     Recorded: 17904
-A, Azuremyst 17929
-A, Azuremyst 17930
+    Recorded: 17929
+    Recorded: 17930
 A, Zangarmarsh 18005
 A, Zangarmarsh 18006
 A, Zangarmarsh 18009
@@ -1061,7 +1061,7 @@ Nagrand 18278
     Recorded: 18347
 Zangarmarsh, Sporeggar 18382
     Recorded: 18426
-A, Bloodmyst 18427
+    Recorded: 18427
     Recorded: 18484
     Recorded: 18525
     Recorded: 18542
@@ -1081,8 +1081,8 @@ A, Honor Hold 18773
 A, Honor Hold 18774
 A, Honor Hold 18775
 A, Honor Hold 18802
-A, Azuremyst 18810
-A, Bloodmyst 18811
+    Recorded: 18810
+    Recorded: 18811
 H, Halaa 18821
 A, Halaa 18822
 Removed? 18898
@@ -1236,7 +1236,7 @@ A, Zangarmarsh 20028
 A, Nagrand 20096
 H, Nagrand 20097
     Recorded: 20112
-A, Exodar 20121
+    Recorded: 20121
     Recorded: 20194
 A, Hellfire 20231
 A, Nagrand 20240
@@ -1265,7 +1265,7 @@ Aldor, Shattrath 20807
     Recorded: 20981
     Recorded: 20986
     Recorded: 20989
-A, Exodar 21019
+    Recorded: 21019
     Recorded: 21082
     Recorded: 21083
     Recorded: 21084
@@ -1275,7 +1275,7 @@ A, Blade's Edge 21110
 A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
-A, Bloodmyst 21145
+    Recorded: 21145
     Recorded: 21172
     Recorded: 21183
     Recorded: 21432
@@ -1822,7 +1822,7 @@ H, Org 30723
 H, UC 30729
     Recorded: 30730
 A, Darnassus 30731
-A, Exodar 30732
+    Recorded: 30732
     Recorded: 30733
 A, Honor Hold 30734
     Recorded: 30735
