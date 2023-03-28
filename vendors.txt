@@ -28,13 +28,13 @@
     Recorded: 790
     Recorded: 791
     Recorded: 793
-A, Coldridge 829
-A, Coldridge 836
+    Recorded: 829
+    Recorded: 836
     Recorded: 843
 A, Antonio Perelli 844
     Recorded: 894
     Recorded: 896
-A, Coldridge 945
+    Recorded: 945
     Recorded: 954
     Recorded: 955
     Recorded: 956
@@ -47,7 +47,7 @@ A, Coldridge 945
     Recorded: 983
     Recorded: 984
     Recorded: 989
-A, Coldridge 1104
+    Recorded: 1104
     Recorded: 1146
     Recorded: 1147
     Recorded: 1148
@@ -55,7 +55,7 @@ A, Coldridge 1104
     Recorded: 1198
     Recorded: 1213
     Recorded: 1214
-A, Dun Morogh 1237
+    Recorded: 1237
     Recorded: 1238
     Recorded: 1240
     Recorded: 1243
@@ -63,8 +63,8 @@ A, Dun Morogh 1237
     Recorded: 1249
     Recorded: 1250
     Recorded: 1257
-A, Dun Morogh 1261
-A, Dun Morogh 1263
+    Recorded: 1261
+    Recorded: 1263
     Recorded: 1273
     Recorded: 1275
     Recorded: 1285
@@ -114,23 +114,23 @@ A, Desolace 1322
     Recorded: 1362
     Recorded: 1381
     Recorded: 1407
-A, Menethil Harbor 1441
-A, Menethil Harbor 1448
-A, Menethil Harbor 1450
-A, Menethil Harbor 1452
-A, Menethil Harbor 1453
-A, Menethil Harbor 1454
-A, Menethil Harbor 1456
-A, Menethil Harbor 1457
-A, Menethil Harbor 1459
+    Recorded: 1441
+    Recorded: 1448
+    Recorded: 1450
+    Recorded: 1452
+    Recorded: 1453
+    Recorded: 1454
+    Recorded: 1456
+    Recorded: 1457
+    Recorded: 1459
 A, Menethil Harbor 1460
-A, Menethil Harbor 1461
-A, Menethil Harbor 1462
-A, Menethil Harbor 1463
-A, Menethil Harbor 1464
+    Recorded: 1461
+    Recorded: 1462
+    Recorded: 1463
+    Recorded: 1464
     Recorded: 1465
     Recorded: 1469
-A, Refuge Pointe 1471
+    Recorded: 1471
     Recorded: 1474
     Recorded: 1645
     Recorded: 1650
@@ -151,8 +151,8 @@ A, Refuge Pointe 1471
     Recorded: 1692
     Recorded: 1694
 A, Feralas 1695
-A, Dun Morogh 1697
-A, Gol'bolar Quarry 1698
+    Recorded: 1697
+    Recorded: 1698
     Recorded: 2046
 A, Winterspring 2084
 H, Tirisfal 2113
@@ -166,23 +166,23 @@ H, UC 2136
 H, UC 2137
     Recorded: 2140
 H, AV 2225
-A, Hillsbrad 2264
-A, Hillsbrad 2265
+    Recorded: 2264
+    Recorded: 2265
 A, Winterspring 2303
-A, Southshore 2352
+    Recorded: 2352
 A, Southshore 2357
-A, Southshore 2364
-A, Southshore 2365
-A, Southshore 2366
-A, Southshore 2380
-A, Southshore 2381
-A, Southshore 2383
+    Recorded: 2364
+    Recorded: 2365
+    Recorded: 2366
+    Recorded: 2380
+    Recorded: 2381
+    Recorded: 2383
     Recorded: 2388
     Recorded: 2393
     Recorded: 2394
     Recorded: 2397
     Recorded: 2401
-A, Hillsbrad 2404
+A, Hillsbrad 2404, Not real?
 Alterac 2480
 Duskwood 2481
     Recorded: 2482
@@ -195,24 +195,24 @@ STV 2483
     Recorded: 2669
     Recorded: 2670
     Recorded: 2672
-A, Wetlands 2679
-A, Wetlands 2682
+    Recorded: 2679
+    Recorded: 2682
 A, Gnomeregan? 2683
 Alterac 2684
     Recorded: 2685
 STV 2687
-Hinterlands 2688
+    Recorded: 2688
 A, Redridge 2697
 H, Hillsbrad 2698
     Recorded: 2699
 A, Felwood 2803
-A, Arathi 2805
+    Recorded: 2805
     Recorded: 2806
-A, Arathi 2808
-A, Arathi 2810
-A, Arathi 2812
-A, Arathi 2814
-A, Arathi 2816
+    Recorded: 2808
+    Recorded: 2810
+    Recorded: 2812
+    Recorded: 2814
+    Recorded: 2816
     Recorded: 2819
     Recorded: 2820
     Recorded: 2821
@@ -283,15 +283,15 @@ H, Durotar 3158
 H, Durotar 3159
 H, Durotar 3160
 H, Durotar 3161
-A, Dun Morogh 3162
+    Recorded: 3162
 H, Razor Hill 3163
 H, Razor Hill 3164
 H, Razor Hill 3165
 H, Razor Hill 3166
 H, Razor Hill 3167
 H, Razor Hill 3168
-A, Dun Morogh 3177
-A, Menethil Harbor 3178
+    Recorded: 3177
+    Recorded: 3178
 Wetlands 3180
 H, Durotar 3186
 H, Durotar 3187
@@ -369,10 +369,10 @@ Greymane Wall 3534
 Durnholde Keep 3536
     Recorded: 3537
     Recorded: 3539
-A, Southshore 3540
-A, Southshore 3541
-A, Southshore 3542
-A, Southshore 3543
+    Recorded: 3540
+    Recorded: 3541
+    Recorded: 3542
+    Recorded: 3543
     Recorded: 3544
     Recorded: 3546
 H, Brill 3547
@@ -387,7 +387,7 @@ A, Darnassus 3561
 A, Darnassus 3562
     Recorded: 3572
 A, Silverpine 3577
-A, Dalaran 3578
+A, Silverpine 3578
 A, Shadowglen 3587
 A, Shadowglen 3588
 A, Shadowglen 3589
@@ -533,7 +533,7 @@ H, UC 4617
 A, Darnassus 4730
 H, Brill 4731
 H, UC 4775
-A, Hinterlands 4782
+    Recorded: 4782
     Recorded: 4875
 H, Thousand Needles 4876
     Recorded: 4877
@@ -683,7 +683,7 @@ H, UC 7683
     Recorded: 7733
 A, Feralas 7736
     Recorded: 7737
-A, Hinterlands 7744
+    Recorded: 7744
 Feralas 7772
 Feralas 7775
 A, Feralas 7852
@@ -716,8 +716,8 @@ H, Desolace 8152
 A, Feralas 8157
     Recorded: 8158
     Recorded: 8159
-A, Hinterlands 8160
-A, Hinterlands 8161
+    Recorded: 8160
+    Recorded: 8161
     Recorded: 8176
     Recorded: 8177
     Recorded: 8178
@@ -734,7 +734,7 @@ H, Barrens 8307
 H, TB 8401
 H, UC 8403
 H, Org 8404
-A, Dun Morogh 8508
+    Recorded: 8508
 A, Darnassus 8665
     Recorded: 8666
 Azshara 8678
@@ -831,12 +831,12 @@ H, Org 12799
 A, SW? 12805
 Dustwallow Marsh 12919
     Recorded: 12941
-A, WPL 12942
+    Recorded: 12942
 H, WPL 12943
 BRD 12944
 Un'goro 12956
 Azshara 12957
-Hinterlands 12958
+    Recorded: 12958
     Recorded: 12959
 A, Desolace 12960
     Recorded: 12962
@@ -887,10 +887,10 @@ Ashenvale 14963
 Barrens 14964
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
-Arathi 15124
+    Recorded: 15124
     Recorded: 15125
     Recorded: 15126
-A, Arathi 15127
+    Recorded: 15127
     Recorded: 15165
     Recorded: 15174
     Recorded: 15175
@@ -898,7 +898,7 @@ A, Arathi 15127
     Recorded: 15179
 H, UC 15197
 Unknown 15198
-A, Hillsbrad 15199
+A, Hillsbrad 15199, Hallow's End?
     Recorded: 15287
     Recorded: 15289
     Recorded: 15291
@@ -1418,8 +1418,8 @@ H, Org? 24520
 Howling Fjord 24539
 Shattrath, Brewfest 24545
 Engineering 24780
-A, Dun Morogh 24834
-A, Dun Morogh 24843
+    Recorded: 24834
+    Recorded: 24843
 H Zeppelin 24934
 H Zeppelin 24935
     Recorded: 24975
@@ -1647,9 +1647,9 @@ BRD 28225
     Recorded: 28347
 EPL 28500
 Zul'Drak 28589
-A, Dalaran 28682
+    Recorded: 28682
 Dalaran 28685
-A, Dalaran 28686
+A, Dalaran 28686, Doesn't sell anything?
     Recorded: 28687
     Recorded: 28691
     Recorded: 28692
@@ -1842,15 +1842,15 @@ Dalaran 30885
     Recorded: 31025
     Recorded: 31027
     Recorded: 31031
-A, Dalaran 31032
+    Recorded: 31032
 A, Wintergrasp 31051
 H, Wintergrasp 31101
 Crystalsong Forest 31115
     Recorded: 31238
 Storm Peaks 31247
     Recorded: 31557
-A, Dalaran 31579
-A, Dalaran 31580
+    Recorded: 31579
+    Recorded: 31580
     Recorded: 31581
     Recorded: 31582
 A, Icecrown 31776
@@ -1902,14 +1902,14 @@ H, Org 32385
 Area 52 32405
 Gadgetzan 32407
     Recorded: 32412
-A, Dalaran 32413
+    Recorded: 32413
     Recorded: 32415
-A, Dalaran 32416
+    Recorded: 32416
     Recorded: 32419
     Recorded: 32420
-A, Dalaran 32421
-A, Dalaran 32424
-A, Dalaran 32426
+    Recorded: 32421
+    Recorded: 32424
+    Recorded: 32426
 Storm Peaks 32477
 Storm Peaks 32478
     Recorded: 32509
@@ -2019,7 +2019,7 @@ Gadgetzan 33939
 Area 52 33940
 Area 52 33941
     Recorded: 33963
-A, Dalaran 33964
+    Recorded: 33964
 H, Brill 33996
 H, Org? 34036
 H, Org? 34037
@@ -2083,7 +2083,7 @@ Dalaran 35496
 Dalaran 35497
 Dalaran 35498
 Dalaran 35500
-A, Dalaran 35507
+    Recorded: 35507
     Recorded: 35508
 A, Icecrown 35573
 H, Icecrown 35574

@@ -30,13 +30,6 @@ A, Alterac 13217
 A, Alterac 22695
 A, Alterac 32112
 A, Antonio Perelli 844
-A, Arathi 2805
-A, Arathi 2808
-A, Arathi 2810
-A, Arathi 2812
-A, Arathi 2814
-A, Arathi 2816
-A, Arathi 15127
 A, Ashenvale 3951
 A, Ashenvale 3955
 A, Ashenvale 3956
@@ -98,28 +91,13 @@ A, Borean Tundra 26598
 A, Borean Tundra 26599
 A, Borean Tundra 26600
 A, Capital Gates, Brewfest 23482
-A, Coldridge 829
-A, Coldridge 836
-A, Coldridge 945
-A, Coldridge 1104
 A, Crystalsong Forest 30241
 A, Crystalsong Forest 30244
 A, Crystalsong Forest 30255
 A, Crystalsong Forest 30257
-A, Dalaran 3578
-A, Dalaran 28682
+A, Silverpine 3578
 A, Dalaran 28686
-A, Dalaran 31032
-A, Dalaran 31579
-A, Dalaran 31580
-A, Dalaran 32413
-A, Dalaran 32416
-A, Dalaran 32421
-A, Dalaran 32424
-A, Dalaran 32426
-A, Dalaran 33964
 A, Dalaran 35494
-A, Dalaran 35507
 A, Dalaran 37942
 A, Darkshore 4182
 A, Darkshore 4183
@@ -209,15 +187,6 @@ A, Dragonblight 27053
 A, Dragonblight 27054
 A, Dragonblight 27055
 A, Dragonblight 27057
-A, Dun Morogh 1237
-A, Dun Morogh 1261
-A, Dun Morogh 1263
-A, Dun Morogh 1697
-A, Dun Morogh 3162
-A, Dun Morogh 3177
-A, Dun Morogh 8508
-A, Dun Morogh 24834
-A, Dun Morogh 24843
 A, Exodar 16632
 A, Exodar 16657
 A, Exodar 16705
@@ -269,7 +238,6 @@ A, Feralas 25019
 A, Feralas 25020
 A, Gnomeregan 9676
 A, Gnomeregan? 2683
-A, Gol'bolar Quarry 1698
 A, Grizzly Hills 26229
 A, Grizzly Hills 26374
 A, Grizzly Hills 26375
@@ -297,15 +265,9 @@ A, Hellfire 19001
 A, Hellfire 19004
 A, Hellfire 19314
 A, Hellfire 20231
-A, Hillsbrad 2264
-A, Hillsbrad 2265
 A, Hillsbrad 2404
 A, Hillsbrad 15199
 A, Hillsbrad, Might not exist 37433
-A, Hinterlands 4782
-A, Hinterlands 7744
-A, Hinterlands 8160
-A, Hinterlands 8161
 A, Honor Hold 16823
 A, Honor Hold 16826
 A, Honor Hold 16829
@@ -375,21 +337,7 @@ A, Ironforge Gates, Brewfest 23710
 A, Kharanos 7955
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
-A, Menethil Harbor 1441
-A, Menethil Harbor 1448
-A, Menethil Harbor 1450
-A, Menethil Harbor 1452
-A, Menethil Harbor 1453
-A, Menethil Harbor 1454
-A, Menethil Harbor 1456
-A, Menethil Harbor 1457
-A, Menethil Harbor 1459
 A, Menethil Harbor 1460
-A, Menethil Harbor 1461
-A, Menethil Harbor 1462
-A, Menethil Harbor 1463
-A, Menethil Harbor 1464
-A, Menethil Harbor 3178
 A, Nagrand 18914
 A, Nagrand 19012
 A, Nagrand 19014
@@ -400,7 +348,6 @@ A, Nagrand 20240
 A, Quest reward companion 33238
 A, Redridge 2697
 A, Redridge 3097
-A, Refuge Pointe 1471
 A, Rut'theran 10118
 A, SMV 19351
 A, SMV 19352
@@ -449,18 +396,7 @@ A, Silverpine 3528
 A, Silverpine 3530
 A, Silverpine 3532
 A, Silverpine 3577
-A, Southshore 2352
 A, Southshore 2357
-A, Southshore 2364
-A, Southshore 2365
-A, Southshore 2366
-A, Southshore 2380
-A, Southshore 2381
-A, Southshore 2383
-A, Southshore 3540
-A, Southshore 3541
-A, Southshore 3542
-A, Southshore 3543
 A, Starter Zones, Midsummer Fire Festival 26123
 A, Starter towns, Noblegarden 32836
 A, Stonetalon 4084
@@ -500,9 +436,6 @@ A, Valiance Keep 27012
 A, Valiance Keep 32564
 A, Valiance Keep 35131
 A, WPL 11056
-A, WPL 12942
-A, Wetlands 2679
-A, Wetlands 2682
 A, Wintergrasp 30488
 A, Wintergrasp 30489
 A, Wintergrasp 31051
@@ -561,7 +494,6 @@ Alterac 6777
 Alterac 6779
 Alterac 14961
 Alterac 14962
-Arathi 15124
 Area 52 24392
 Area 52 26352
 Area 52 32356
@@ -1089,8 +1021,6 @@ H? Org Gates, Brewfest 23603
 H? Org Gates, Brewfest 23604
 H? Org Gates, Brewfest 23605
 H? Org Gates, Brewfest 23606
-Hinterlands 2688
-Hinterlands 12958
 Hostile 3529
 Howling Fjord 24539
 Howling Fjord 27144
