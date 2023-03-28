@@ -1329,9 +1329,9 @@ Shattrath, Feast of Winter Veil 23064
 Shattrath, Feast of Winter Veil 23065
     Recorded: 23110
     Recorded: 23112
-Netherwing, SMV 23143
-Netherwing, SMV 23144
-Netherwing, SMV 23145
+    Recorded: 23143
+    Recorded: 23144
+    Recorded: 23145
 Black Temple 23157
 Black Temple 23159
     Recorded: 23208
@@ -1834,13 +1834,13 @@ Ogri'la 30801
 H, Icecrown 30825
 H, Icecrown 30827
 Dalaran 30885
-Culling of Stratholme 31017
-Culling of Stratholme 31019
-Culling of Stratholme 31021
-Culling of Stratholme 31022
-Culling of Stratholme 31024
-Culling of Stratholme 31025
-Culling of Stratholme 31027
+    Recorded: 31017
+    Recorded: 31019
+    Recorded: 31021
+    Recorded: 31022
+    Recorded: 31024
+    Recorded: 31025
+    Recorded: 31027
     Recorded: 31031
 A, Dalaran 31032
 A, Wintergrasp 31051

@@ -769,13 +769,6 @@ Crystalsong Forest 30437
 Crystalsong Forest 30438
 Crystalsong Forest 30439
 Crystalsong Forest 31115
-Culling of Stratholme 31017
-Culling of Stratholme 31019
-Culling of Stratholme 31021
-Culling of Stratholme 31022
-Culling of Stratholme 31024
-Culling of Stratholme 31025
-Culling of Stratholme 31027
 DK Zone? 28760
 DK Zone? 28943
 Dalaran 28685
@@ -1343,9 +1336,6 @@ Moonglade, Lunar Festival 15909
 Nagrand 18278
 Nagrand 23007
 Nagrand 25176
-Netherwing, SMV 23143
-Netherwing, SMV 23144
-Netherwing, SMV 23145
 Netherwing, Shadowmoon 23489
 Ogri'la 30792
 Ogri'la 30796
