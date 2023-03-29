@@ -1844,7 +1844,7 @@ Dalaran 30885
     Recorded: 31031
     Recorded: 31032
 A, Wintergrasp 31051
-H, Wintergrasp 31101
+    Recorded: 31101
 Crystalsong Forest 31115
     Recorded: 31238
 Storm Peaks 31247
@@ -1882,7 +1882,7 @@ Dalaran 32172
     Recorded: 32253
 Dalaran 32287
 A, Wintergrasp 32294
-H, Wintergrasp 32296
+    Recorded: 32296
 Dalaran 32334
     Recorded: 32337
     Recorded: 32354?

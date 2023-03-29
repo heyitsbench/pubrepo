@@ -961,8 +961,6 @@ H, UC Courtyard, Pilgrim's Bounty 35341
 H, WPL 11057
 H, WPL 12943
 H, Warsong Hold, Removed? 26947
-H, Wintergrasp 31101
-H, Wintergrasp 32296
 H, Wintergrasp? 39173
 H? Capital Gates, Brewfest 23533
 H? Org Gates, Brewfest 23603
