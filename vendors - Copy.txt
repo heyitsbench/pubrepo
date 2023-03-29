@@ -503,33 +503,8 @@ Crystalsong Forest 30439
 Crystalsong Forest 31115
 DK Zone? 28760
 DK Zone? 28943
-Dalaran 28685
-Dalaran 28701
-Dalaran 28707
-Dalaran 28718
-Dalaran 28721
-Dalaran 28722
-Dalaran 28725
-Dalaran 28726
-Dalaran 28728
-Dalaran 29261
-Dalaran 29510
-Dalaran 29511
-Dalaran 29512
-Dalaran 29532
-Dalaran 29535
-Dalaran 29537
-Dalaran 29538
-Dalaran 29628
-Dalaran 30885
-Dalaran 31863
-Dalaran 31864
-Dalaran 31865
-Dalaran 32172
-Dalaran 32334
-Dalaran 32515
-Dalaran 32631
-Dalaran 33026
+Dalaran 28701, jewelcrafting?
+Dalaran 29261, 9 pm event?
 Dalaran 33921
 Dalaran 33922
 Dalaran 33923
@@ -539,17 +514,9 @@ Dalaran 33927
 Dalaran 33936
 Dalaran 33937
 Dalaran 33938
-Dalaran 34087
 Dalaran 34092
 Dalaran 34095
-Dalaran 35496
-Dalaran 35497
-Dalaran 35498
-Dalaran 35500
-Dalaran 35790
-Dalaran 35826
-Dalaran 40160
-Dalaran 32287
+Dalaran 35826, engineering?
 Darkmoon Faire 14844
 Darkmoon Faire 14845
 Darkmoon Faire 14846
@@ -903,10 +870,6 @@ Ogri'la 30796
 Ogri'la 30797
 Ogri'la 30799
 Ogri'la 30801
-Old Hillsbrad 18664
-Old Hillsbrad 18672
-Old Hillsbrad, Southshore 20377
-Old Hillsbrad, Southshore 20378
 Org, Winter Veil? 13418
 Org, Winter Veil? 13420
 Promotional companion? 27914
@@ -936,12 +899,7 @@ Shattrath, Brewfest 24545
 Shattrath, Feast of Winter Veil 23064
 Shattrath, Feast of Winter Veil 23065
 Shen'dralar, Dire Maul 14371
-Shimmering Flats 3053
 Shimmering Flats 4453
-Shimmering Flats 6495
-Shimmering Flats 6496
-Shimmering Flats 6548
-Shimmering Flats 6730
 Sholazar Basin 28038
 Sholazar Basin 28040
 Sholazar Basin 28046
@@ -954,7 +912,7 @@ Sholazar Basin 29122
 Sholazar Basin 31910
 Sholazar Basin 31911
 Silithus 15293
-Silithus 16543
+Silithus 16543, Scourge invasion vendor
 Silvermoon, Feast of Winter Veil 23011
 Silvermoon, Feast of Winter Veil 23012
 Skettis 23363

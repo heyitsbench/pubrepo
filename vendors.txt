@@ -253,7 +253,7 @@ Removed? 2942
     Recorded: 3027
     Recorded: 3029
     Recorded: 3044
-Shimmering Flats 3053
+    Recorded: 3053
     Recorded: 3072
     Recorded: 3073
     Recorded: 3074
@@ -647,15 +647,15 @@ A, Darkshore 6298
 A, Darkshore 6300
 A, Darkshore 6301
     Recorded: 6367
-Shimmering Flats 6495
-Shimmering Flats 6496
-Shimmering Flats 6548
+    Recorded: 6495
+    Recorded: 6496
+    Recorded: 6548
     Recorded: 6567
     Recorded: 6568
     Recorded: 6574
 A, Feralas 6576
     Recorded: 6727
-Shimmering Flats 6730
+    Recorded: 6730
 A, Ashenvale 6731
     Recorded: 6734
 A, Darnassus 6735
@@ -945,7 +945,7 @@ Karazhan 16388
 A, Stonetalon 16458
     Recorded: 16528
     Recorded: 16542
-Silithus 16543
+Silithus 16543, Scourge invasion vendor
     Recorded: 16553
     Recorded: 16583
     Recorded: 16585
@@ -1067,8 +1067,8 @@ Zangarmarsh, Sporeggar 18382
     Recorded: 18542
     Recorded: 18564
 A, Zangarmarsh 18581
-Old Hillsbrad 18664
-Old Hillsbrad 18672
+    Recorded: 18664
+    Recorded: 18672
     Recorded: 18749
     Recorded: 18751
     Recorded: 18752
@@ -1245,8 +1245,8 @@ H, Nagrand 20241
     Recorded: 20249
     Recorded: 20250
     Recorded: 20278
-Old Hillsbrad, Southshore 20377
-Old Hillsbrad, Southshore 20378
+    Recorded: 20377
+    Recorded: 20378
     Recorded: 20463
     Recorded: 20494
 A, SMV 20510
@@ -1648,24 +1648,24 @@ BRD 28225
 EPL 28500
 Zul'Drak 28589
     Recorded: 28682
-Dalaran 28685
+    Recorded: 28685
 A, Dalaran 28686, Doesn't sell anything?
     Recorded: 28687
     Recorded: 28691
     Recorded: 28692
-Dalaran 28701
-Dalaran 28707
+Dalaran 28701, jewelcrafting?
+    Recorded: 28707
     Recorded: 28714
     Recorded: 28715
     Recorded: 28716
-Dalaran 28718
-Dalaran 28721
-Dalaran 28722
+    Recorded: 28718
+    Recorded: 28721
+    Recorded: 28722
     Recorded: 28723
-Dalaran 28725
-Dalaran 28726
+    Recorded: 28725
+    Recorded: 28726
     Recorded: 28727
-Dalaran 28728
+    Recorded: 28728
     Recorded: 28742
 DK Zone? 28760
     Recorded: 28776
@@ -1722,7 +1722,7 @@ EPL 29208
 A, Grizzly Hills 29244
 A, Grizzly Hills 29252
 H, Grizzly Hills 29253
-Dalaran 29261
+Dalaran 29261, 9 pm event?
 A, Grizzly Hills 29270
 A, Grizzly Hills 29275
 Grizzly Hills 29277
@@ -1737,23 +1737,23 @@ A, SW 29291
     Recorded: 29496
     Recorded: 29497
     Recorded: 29499
-Dalaran 29510
-Dalaran 29511
-Dalaran 29512
+    Recorded: 29510
+    Recorded: 29511
+    Recorded: 29512
     Recorded: 29523
     Recorded: 29527
     Recorded: 29528
     Recorded: 29529
-Dalaran 29532
-Dalaran 29535
-Dalaran 29537
-Dalaran 29538
+    Recorded: 29532
+    Recorded: 29535
+    Recorded: 29537
+    Recorded: 29538
     Recorded: 29547
     Recorded: 29548
 Engineering 29561
 Zul'Drak 29583
 EPL 29587
-Dalaran 29628
+    Recorded: 29628
     Recorded: 29636
 Zul'Drak 29688
     Recorded: 29702
@@ -1833,7 +1833,7 @@ Ogri'la 30799
 Ogri'la 30801
 H, Icecrown 30825
 H, Icecrown 30827
-Dalaran 30885
+    Recorded: 30885
     Recorded: 31017
     Recorded: 31019
     Recorded: 31021
@@ -1857,9 +1857,9 @@ A, Icecrown 31776
 H, Icecrown 31781
 Dragonblight 31804
 Dragonblight 31805
-Dalaran 31863
-Dalaran 31864
-Dalaran 31865
+    Recorded: 31863
+    Recorded: 31864
+    Recorded: 31865
 Sholazar Basin 31910
 Sholazar Basin 31911
 Howling Fjord 31916
@@ -1877,13 +1877,13 @@ H, AV 32078
 A, AV 32099
 A, AV 32106
 A, Alterac 32112
-Dalaran 32172
+    Recorded: 32172
     Recorded: 32216
     Recorded: 32253
-Dalaran 32287
+    Recorded: 32287
 A, Wintergrasp 32294
     Recorded: 32296
-Dalaran 32334
+    Recorded: 32334
     Recorded: 32337
     Recorded: 32354?
     Recorded: 32355?
@@ -1914,14 +1914,14 @@ Storm Peaks 32477
 Storm Peaks 32478
     Recorded: 32509
     Recorded: 32514
-Dalaran 32515
+    Recorded: 32515
 Wyrmrest Temple 32533
 Icecrown 32538
     Recorded: 32540
 A, Valiance Keep 32564
     Recorded: 32565
     Recorded: 32594
-Dalaran 32631
+    Recorded: 32631
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
     Recorded: 32641
@@ -1937,7 +1937,7 @@ A, Starter towns, Noblegarden 32836
 H, Starter towns, Noblegarden 32837
 H, Howling Fjord 33018
 H, Howling Fjord 33019
-Dalaran 33026
+    Recorded: 33026
     Recorded: 33027
 A, Quest reward companion 33238
 H, Quest reward companion 33239
@@ -2045,7 +2045,7 @@ A, SW 34081
 A, SW? 34082
 A, SW? 34083
 A, SW 34084
-Dalaran 34087
+    Recorded: 34087
 Gadgetzan 34088
 Area 52 34089
 Gadgetzan 34090
@@ -2079,10 +2079,10 @@ H, Org Gates, Pilgrim's Bounty 35342
 H, TB Gates, Pilgrim's Bounty 35343
 A, Dalaran 35494
     NYI 35495
-Dalaran 35496
-Dalaran 35497
-Dalaran 35498
-Dalaran 35500
+    NYI 35496
+    NYI 35497
+    NYI 35498
+    NYI 35500
     Recorded: 35507
     Recorded: 35508
 A, Icecrown 35573
@@ -2094,7 +2094,7 @@ H, Icecrown 35578
 A, Icecrown 35579
 H, Icecrown 35580
 Engineering 35642
-Dalaran 35790
+    Recorded: 35790
 Dalaran 35826
 A, AV, Might not exist 37242
 H, AV, Might not exist 37305
@@ -2139,5 +2139,5 @@ H, ICC 38841
 ICC 38858
 A, Wintergrasp? 39172
 H, Wintergrasp? 39173
-Dalaran 40160
+    NYI 40160
 A, SW? 40607
