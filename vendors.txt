@@ -155,15 +155,15 @@ A, Feralas 1695
     Recorded: 1698
     Recorded: 2046
 A, Winterspring 2084
-H, Tirisfal 2113
-H, Tirisfal 2115
-H, Tirisfal 2116
-H, Tirisfal 2117
-H, Brill 2118
-H, Brill 2134
-H, UC 2135
-H, UC 2136
-H, UC 2137
+    Recorded: 2113
+    Recorded: 2115
+    Recorded: 2116
+    Recorded: 2117
+    Recorded: 2118
+    Recorded: 2134
+    Recorded: 2135
+    Recorded: 2136
+    Recorded: 2137
     Recorded: 2140
 H, AV 2225
     Recorded: 2264
@@ -254,16 +254,16 @@ Removed? 2942
     Recorded: 3029
     Recorded: 3044
 Shimmering Flats 3053
-H, Mulgore 3072
-H, Mulgore 3073
-H, Mulgore 3074
-H, Mulgore 3075
-H, Mulgore 3076
-H, Mulgore 3077
-H, Mulgore 3078
-H, Mulgore 3079
-H, Mulgore 3080
-H, Mulgore 3081
+    Recorded: 3072
+    Recorded: 3073
+    Recorded: 3074
+    Recorded: 3075
+    Recorded: 3076
+    Recorded: 3077
+    Recorded: 3078
+    Recorded: 3079
+    Recorded: 3080
+    Recorded: 3081
     Recorded: 3085
     Recorded: 3086
     Recorded: 3088
@@ -279,65 +279,65 @@ A, Redridge 3097
 Duskwood 3134
     Recorded: 3135
     Recorded: 3138
-H, Durotar 3158
-H, Durotar 3159
-H, Durotar 3160
-H, Durotar 3161
+    Recorded: 3158
+    Recorded: 3159
+    Recorded: 3160
+    Recorded: 3161
     Recorded: 3162
-H, Razor Hill 3163
-H, Razor Hill 3164
-H, Razor Hill 3165
-H, Razor Hill 3166
-H, Razor Hill 3167
-H, Razor Hill 3168
+    Recorded: 3163
+    Recorded: 3164
+    Recorded: 3165
+    Recorded: 3166
+    Recorded: 3167
+    Recorded: 3168
     Recorded: 3177
     Recorded: 3178
 Wetlands 3180
-H, Durotar 3186
-H, Durotar 3187
+    Recorded: 3186
+    Recorded: 3187
     Recorded: 3291
     Recorded: 3298
-H, Org 3312
-H, Org 3313
-H, Org 3314
-H, Org 3315
-H, Org 3316
-H, Org 3317
-H, Org 3319
-H, Org 3321
-H, Org 3322
-H, Org 3323
-H, Org 3329
-H, Org 3330
-H, Org 3331
-H, Org 3333
-H, Org 3334
-H, Org 3335
-H, Org 3342
+    Recorded: 3312
+    Recorded: 3313
+    Recorded: 3314
+    Recorded: 3315
+    Recorded: 3316
+    Recorded: 3317
+    Recorded: 3319
+    Recorded: 3321
+    Recorded: 3322
+    Recorded: 3323
+    Recorded: 3329
+    Recorded: 3330
+    Recorded: 3331
+    Recorded: 3333
+    Recorded: 3334
+    Recorded: 3335
+    Recorded: 3342
 H, AV 3343
-H, Org 3346
-H, Org 3348
-H, Org 3349
-H, Org 3350
-H, Org 3351
-H, Org 3356
-H, Org 3358
-H, Org 3359
-H, Org 3360
-H, Org 3361
+    Recorded: 3346
+    Recorded: 3348
+    Recorded: 3349
+    Recorded: 3350
+    Recorded: 3351
+    Recorded: 3356
+    Recorded: 3358
+    Recorded: 3359
+    Recorded: 3360
+    Recorded: 3361
 H, Org 3362
-H, Org 3364
-H, Org 3366
-H, Org 3367
-H, Org 3368
-H, Org 3369
+    Recorded: 3364
+    Recorded: 3366
+    Recorded: 3367
+    Recorded: 3368
+    Recorded: 3369
 A, Barrens 3392
-H, Org 3400
-H, Org 3405
-H, Org 3409
-H, Org 3410
+    Recorded: 3400
+    Recorded: 3405
+    Recorded: 3409
+    Recorded: 3410
 H, Stonetalon 3411
-H, Org 3413
+    Recorded: 3413
 H, Barrens 3443
     Recorded: 3477
     Recorded: 3479
@@ -360,7 +360,7 @@ Ratchet 3497
     Recorded: 3499
     Recorded: 3500
     Recorded: 3518
-H, Tirisfal 3522
+    Recorded: 3522
 A, Silverpine 3528
 Hostile 3529
 A, Silverpine 3530
@@ -375,9 +375,9 @@ Durnholde Keep 3536
     Recorded: 3543
     Recorded: 3544
     Recorded: 3546
-H, Brill 3547
-H, Brill 3548
-H, Tirisfal 3550
+    Recorded: 3547
+    Recorded: 3548
+    Recorded: 3550
     Recorded: 3551
     Recorded: 3552
     Recorded: 3553
@@ -413,11 +413,11 @@ A, Feralas 3700
     Recorded: 3705
     Recorded: 3708
 A, Winterspring 3779
-H, Razor Hill 3881
-H, Durotar 3882
-H, Mulgore 3883
-H, Mulgore 3884
-H, Durotar 3933
+    Recorded: 3881
+    Recorded: 3882
+    Recorded: 3883
+    Recorded: 3884
+    Recorded: 3933
     Recorded: 3934
     Recorded: 3935
     Recorded: 3937
@@ -435,7 +435,7 @@ A, Astranaar 3961
 A, Astranaar 3962
 A, Astranaar 3969
 A, Astranaar 3970
-H, Org 4043
+    Recorded: 4043
     Recorded: 4082
     Recorded: 4083
 A, Stonetalon 4084
@@ -497,42 +497,42 @@ A, Dolanaar 4266
     Recorded: 4305
 A, Darkshore 4307
 Shimmering Flats 4453
-H, UC 4553
-H, UC 4554
-H, UC 4555
-H, UC 4556
-H, UC 4557
-H, UC 4558
-H, UC 4559
-H, UC 4560
-H, UC 4561
-H, UC 4562
-H, UC 4569
-H, UC 4570
-H, UC 4571
-H, UC 4574
-H, UC 4575
-H, UC 4577
-H, UC 4580
-H, UC 4581
-H, UC 4585
-H, UC 4587
-H, UC 4589
-H, UC 4590
-H, UC 4592
-H, UC 4597
-H, UC 4599
-H, UC 4600
-H, UC 4601
-H, UC 4602
-H, UC 4603
-H, UC 4604
-H, UC 4610
-H, UC 4615
-H, UC 4617
+    Recorded: 4553
+    Recorded: 4554
+    Recorded: 4555
+    Recorded: 4556
+    Recorded: 4557
+    Recorded: 4558
+    Recorded: 4559
+    Recorded: 4560
+    Recorded: 4561
+    Recorded: 4562
+    Recorded: 4569
+    Recorded: 4570
+    Recorded: 4571
+    Recorded: 4574
+    Recorded: 4575
+    Recorded: 4577
+    Recorded: 4580
+    Recorded: 4581
+    Recorded: 4585
+    Recorded: 4587
+    Recorded: 4589
+    Recorded: 4590
+    Recorded: 4592
+    Recorded: 4597
+    Recorded: 4599
+    Recorded: 4600
+    Recorded: 4601
+    Recorded: 4602
+    Recorded: 4603
+    Recorded: 4604
+    Recorded: 4610
+    Recorded: 4615
+    Recorded: 4617
 A, Darnassus 4730
 H, Brill 4731
-H, UC 4775
+    Recorded: 4775
     Recorded: 4782
     Recorded: 4875
 H, Thousand Needles 4876
@@ -556,7 +556,7 @@ A, Theramore 4899
     Recorded: 4954
     Recorded: 4981
     Recorded: 5049
-H, UC 5052
+H, UC 5052, Not a vendor?
     Recorded: 5100
     Recorded: 5101
     Recorded: 5102
@@ -598,9 +598,9 @@ A, AV 5139
     Recorded: 5170
     Recorded: 5175
     Recorded: 5178
-H, Org 5188
+    Recorded: 5188
     Recorded: 5189
-H, UC 5190
+    Recorded: 5190
 A, Darnassus 5191
     Recorded: 5193
     Recorded: 5411
@@ -617,28 +617,28 @@ A, Darnassus 5191
     Recorded: 5569
     Recorded: 5570
     Recorded: 5594
-H, Org 5611
+    Recorded: 5611
     Recorded: 5620
-H, Brill 5688
+    Recorded: 5688
     Recorded: 5698
 H, Silverpine 5748
-H, UC 5754
+    Recorded: 5754
 H, Silverpine 5757
 H, Silverpine 5758
 Barrens 5783
-H, Org 5812
-H, Grom'gol 5814
-H, Org 5816
-H, Org 5817
-H, UC 5819
-H, UC 5820
-H, UC 5821
+    Recorded: 5812
+    Recorded: 5814
+    Recorded: 5816
+    Recorded: 5817
+    Recorded: 5819
+    Recorded: 5820
+    Recorded: 5821
 A, Barrens 5848
     Recorded: 5870
     Recorded: 5871
     Recorded: 5886
-H, Mulgore 5940
-H, Durotar 5942
+    Recorded: 5940
+    Recorded: 5942
     Recorded: 5944
     Recorded: 6028
 A, Shadowglen 6091
@@ -664,20 +664,20 @@ A, Darkshore 6737
 A, Astranaar 6738
     Recorded: 6739
     Recorded: 6740
-H, UC 6741
+    Recorded: 6741
     Recorded: 6746
-H, Mulgore 6747
+    Recorded: 6747
 Alterac 6777
 Alterac 6779
     Recorded: 6790
     Recorded: 6791
     Recorded: 6807
-H, Razor Hill 6928
-H, Org 6929
+    Recorded: 6928
+    Recorded: 6929
     Recorded: 6930
     Recorded: 7485
 Gadgetzan 7564
-H, UC 7683
+    Recorded: 7683
     Recorded: 7714
     Recorded: 7731
     Recorded: 7733
@@ -712,7 +712,7 @@ H, Org, Midsummer Fire Festival? 8122
     Recorded: 8143
     Recorded: 8145
 A, Desolace 8150
-H, Desolace 8152
+    Recorded: 8152
 A, Feralas 8157
     Recorded: 8158
     Recorded: 8159
@@ -732,15 +732,15 @@ H, Barrens 8307
     Recorded: 8364
     Recorded: 8398
 H, TB 8401
-H, UC 8403
-H, Org 8404
+    Recorded: 8403
+    Recorded: 8404
     Recorded: 8508
 A, Darnassus 8665
     Recorded: 8666
 Azshara 8678
 STV 8679
     Recorded: 8681
-H, Desolace 8878
+    Recorded: 8878
     Recorded: 8931
     Recorded: 8934
 Removed? 8999
@@ -757,7 +757,7 @@ Blackrock Bar 9499
     Recorded: 9552
     Recorded: 9553
     Recorded: 9555
-H, Desolace 9636
+    Recorded: 9636
 A, Gnomeregan 9676
 A, Rut'theran 10118
 A, Darkshore 10216
@@ -765,7 +765,7 @@ A, Feralas 10293
     Recorded: 10361
 H, AV 10364
 H, AV 10367
-H, Durotar 10369
+    Recorded: 10369
     Recorded: 10379
     Recorded: 10380
 A, Winterspring 10618
@@ -811,8 +811,8 @@ Swamp of Sorrows 11874
 A, AV 12096
 H, AV 12097
     Recorded: 12196
-Desolace 12245
-Desolace 12246
+    Recorded: 12245
+    Recorded: 12246
 EPL 12384
 A, BGs/SW? 12777
     Recorded: 12778
@@ -821,12 +821,12 @@ A, BGs/SW? 12782
     Recorded: 12783
     Recorded: 12784
     Recorded: 12785
-H, Org 12788
+    Recorded: 12788
 H, BGs/Org? 12792
-H, Org 12793
-H, Org 12794
-H, Org 12795
-H, Org 12796
+    Recorded: 12793
+    Recorded: 12794
+    Recorded: 12795
+    Recorded: 12796
 H, Org 12799
 A, SW? 12805
 Dustwallow Marsh 12919
@@ -896,7 +896,7 @@ H, Org Gates, Harvest Festival 15012
     Recorded: 15175
     Recorded: 15176
     Recorded: 15179
-H, UC 15197
+H, UC 15197, Hallow's End?
 Unknown 15198
 A, Hillsbrad 15199, Hallow's End?
     Recorded: 15287
@@ -1057,7 +1057,7 @@ Karazhan Door 18255
 A, Honor Hold 18266
     Recorded: 18267
     Recorded: 18277
-Nagrand 18278
+    Recorded: 18278
     Recorded: 18347
 Zangarmarsh, Sporeggar 18382
     Recorded: 18426
@@ -1083,7 +1083,7 @@ A, Honor Hold 18775
 A, Honor Hold 18802
     Recorded: 18810
     Recorded: 18811
-H, Halaa 18821
+    Recorded: 18821
 A, Halaa 18822
 Removed? 18898
     Recorded: 18905
@@ -1132,7 +1132,7 @@ Aldor, Shattrath 19065
     Recorded: 19074
     Recorded: 19182
     Recorded: 19186
-Shattrath 19194
+    Recorded: 19194
     Recorded: 19195
     Recorded: 19196
     Recorded: 19197
@@ -1155,12 +1155,12 @@ A, Hellfire 19314
 Aldor, Shattrath 19321
     Recorded: 19330
     Recorded: 19331
-H, SMV 19333
-H, SMV 19339
-H, SMV 19342
-H, Terokkar 19343
-H, Terokkar 19345
-H, Terokkar 19348
+    Recorded: 19333
+    Recorded: 19339
+    Recorded: 19342
+    Recorded: 19343
+    Recorded: 19345
+    Recorded: 19348
 A, SMV 19351
 A, SMV 19352
 A, SMV 19370
@@ -1248,7 +1248,7 @@ H, Nagrand 20241
 Old Hillsbrad, Southshore 20377
 Old Hillsbrad, Southshore 20378
     Recorded: 20463
-H, Terokkar 20494
+    Recorded: 20494
 A, SMV 20510
     Recorded: 20613
 Aldor, Shattrath 20616
@@ -1279,9 +1279,9 @@ A, Blade's Edge 21113
     Recorded: 21172
     Recorded: 21183
     Recorded: 21432
-H, Halaa 21474
-H, Halaa 21483
-H, Halaa 21484
+    Recorded: 21474
+    Recorded: 21483
+    Recorded: 21484
 A, Halaa 21485
 A, Halaa 21487
 A, Halaa 21488
@@ -1320,7 +1320,7 @@ A, AV 22680
 H, AV 22681
 H, Alterac 22682
 A, Alterac 22695
-Nagrand 23007
+    Recorded: 23007
 Exodar, Feast of Winter Veil 23009
 Exodar, Feast of Winter Veil 23010
 Silvermoon, Feast of Winter Veil 23011
@@ -1420,8 +1420,8 @@ Shattrath, Brewfest 24545
 Engineering 24780
     Recorded: 24834
     Recorded: 24843
-H Zeppelin 24934
-H Zeppelin 24935
+    Recorded: 24934
+    Recorded: 24935
     Recorded: 24975
 A, Darkshore 24993
 A, Darkshore 24995
@@ -1617,7 +1617,7 @@ H, Org, Brewfest 27489
     Recorded: 27667
     Recorded: 27668
 Aldor, Shattrath 27711
-Shattrath 27721
+    Recorded: 27721
     Recorded: 27722
 H, Grizzly Hills 27730
 A, Grizzly Hills 27760
@@ -1816,10 +1816,10 @@ H, Storm Peaks 30472
 A, Wintergrasp 30488
 A, Wintergrasp 30489
 Zul'Drak 30572
-H, Org 30723
+    Recorded: 30723
     Recorded: 30724
     Recorded: 30727
-H, UC 30729
+    Recorded: 30729
     Recorded: 30730
 A, Darnassus 30731
     Recorded: 30732
@@ -1895,9 +1895,9 @@ Area 52 32356
     Recorded: 32379
     Recorded: 32380
     Recorded: 32381
-H, Org 32382
-H, Org 32383
-H, Org 32385
+    Recorded: 32382
+    Recorded: 32383
+    Recorded: 32385
     Recorded: 32403
 Area 52 32405
 Gadgetzan 32407
@@ -1931,7 +1931,7 @@ H, AV, Might not exist 32764
 H, AV, Might not exist 32765
 A, Howling Fjord 32773
 H, Howling Fjord 32774
-H, Orgrimmar 32832
+    Recorded: 32832
     Recorded: 32834
 A, Starter towns, Noblegarden 32836
 H, Starter towns, Noblegarden 32837
@@ -2020,7 +2020,7 @@ Area 52 33940
 Area 52 33941
     Recorded: 33963
     Recorded: 33964
-H, Brill 33996
+    Recorded: 33996
 H, Org? 34036
 H, Org? 34037
 H, Org 34038

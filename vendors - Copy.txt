@@ -555,8 +555,6 @@ Darkmoon Faire 14845
 Darkmoon Faire 14846
 Darkmoon Faire 14847
 Darkmoon Faire 14860
-Desolace 12245
-Desolace 12246
 Dragonblight 26898
 Dragonblight 27174
 Dragonblight 27176
@@ -607,8 +605,6 @@ Greymane Wall 3534
 Grizzly Hills 26474
 Grizzly Hills 26484
 Grizzly Hills 29277
-H Zeppelin 24934
-H Zeppelin 24935
 H, AV 2225
 H, AV 3343
 H, AV 3625
@@ -656,21 +652,12 @@ H, Borean Tundra 27058
 H, Borean Tundra 27063
 H, Borean Tundra 27067
 H, Borean Tundra 27069
-H, Brill 2118
-H, Brill 2134
-H, Brill 3547
-H, Brill 3548
 H, Brill 4731
-H, Brill 5688
-H, Brill 33996
 H, Capitals, Brewfest 24501
 H, Crystalsong Forest 30239
 H, Crystalsong Forest 30253
 H, Crystalsong Forest 30254
 H, Crystalsong Forest 30256
-H, Desolace 8152
-H, Desolace 8878
-H, Desolace 9636
 H, Dragonblight 26567
 H, Dragonblight 26568
 H, Dragonblight 26569
@@ -684,17 +671,7 @@ H, Dragonblight 27030
 H, Dragonblight 27031
 H, Dragonblight 27032
 H, Dragonblight 27267
-H, Durotar 3158
-H, Durotar 3159
-H, Durotar 3160
-H, Durotar 3161
-H, Durotar 3186
-H, Durotar 3187
-H, Durotar 3882
-H, Durotar 3933
-H, Durotar 5942
 H, Durotar 7952
-H, Durotar 10369
 H, Eversong Woods 18947
 H, Eversong Woods 18954
 H, Grizzly Hills 26680
@@ -710,11 +687,6 @@ H, Grizzly Hills 27133
 H, Grizzly Hills 27134
 H, Grizzly Hills 27730
 H, Grizzly Hills 29253
-H, Grom'gol 5814
-H, Halaa 18821
-H, Halaa 21474
-H, Halaa 21483
-H, Halaa 21484
 H, Hillsbrad 2698
 H, Hillsbrad, Might not exist 37342
 H, Howling Fjord 24028
@@ -753,21 +725,7 @@ H, Icecrown 35574
 H, Icecrown 35576
 H, Icecrown 35578
 H, Icecrown 35580
-H, Mulgore 3072
-H, Mulgore 3073
-H, Mulgore 3074
-H, Mulgore 3075
-H, Mulgore 3076
-H, Mulgore 3077
-H, Mulgore 3078
-H, Mulgore 3079
-H, Mulgore 3080
-H, Mulgore 3081
 H, Mulgore 3685
-H, Mulgore 3883
-H, Mulgore 3884
-H, Mulgore 5940
-H, Mulgore 6747
 H, Nagrand 18913
 H, Nagrand 19011
 H, Nagrand 19013
@@ -775,62 +733,8 @@ H, Nagrand 19015
 H, Nagrand 19020
 H, Nagrand 20097
 H, Nagrand 20241
-H, Org 3312
-H, Org 3313
-H, Org 3314
-H, Org 3315
-H, Org 3316
-H, Org 3317
-H, Org 3319
-H, Org 3321
-H, Org 3322
-H, Org 3323
-H, Org 3329
-H, Org 3330
-H, Org 3331
-H, Org 3333
-H, Org 3334
-H, Org 3335
-H, Org 3342
-H, Org 3346
-H, Org 3348
-H, Org 3349
-H, Org 3350
-H, Org 3351
-H, Org 3356
-H, Org 3358
-H, Org 3359
-H, Org 3360
-H, Org 3361
 H, Org 3362
-H, Org 3364
-H, Org 3366
-H, Org 3367
-H, Org 3368
-H, Org 3369
-H, Org 3400
-H, Org 3405
-H, Org 3409
-H, Org 3410
-H, Org 3413
-H, Org 4043
-H, Org 5188
-H, Org 5611
-H, Org 5812
-H, Org 5816
-H, Org 5817
-H, Org 6929
-H, Org 8404
-H, Org 12788
-H, Org 12793
-H, Org 12794
-H, Org 12795
-H, Org 12796
 H, Org 12799
-H, Org 30723
-H, Org 32382
-H, Org 32383
-H, Org 32385
 H, Org 34038
 H, Org 34043
 H, Org 34060
@@ -857,19 +761,7 @@ H, Org? 34058
 H, Org? 34059
 H, Org? 34061
 H, Org? 34062
-H, Orgrimmar 32832
 H, Quest reward companion 33239
-H, Razor Hill 3163
-H, Razor Hill 3164
-H, Razor Hill 3165
-H, Razor Hill 3166
-H, Razor Hill 3167
-H, Razor Hill 3168
-H, Razor Hill 3881
-H, Razor Hill 6928
-H, SMV 19333
-H, SMV 19339
-H, SMV 19342
 H, Silvermoon Gates, Pilgrim's Bounty 34787
 H, Silvermoon? 23447
 H, Silverpine 5748
@@ -896,66 +788,10 @@ H, TB 8401
 H, TB 9087
 H, TB Gates, Pilgrim's Bounty 34684
 H, TB Gates, Pilgrim's Bounty 35343
-H, Terokkar 19343
-H, Terokkar 19345
-H, Terokkar 19348
-H, Terokkar 20494
 H, Thousand Needles 4876
-H, Tirisfal 2113
-H, Tirisfal 2115
-H, Tirisfal 2116
-H, Tirisfal 2117
-H, Tirisfal 3522
-H, Tirisfal 3550
 H, Tranquillien, Ghostlands 16224
-H, UC 2135
-H, UC 2136
-H, UC 2137
-H, UC 4553
-H, UC 4554
-H, UC 4555
-H, UC 4556
-H, UC 4557
-H, UC 4558
-H, UC 4559
-H, UC 4560
-H, UC 4561
-H, UC 4562
-H, UC 4569
-H, UC 4570
-H, UC 4571
-H, UC 4574
-H, UC 4575
-H, UC 4577
-H, UC 4580
-H, UC 4581
-H, UC 4585
-H, UC 4587
-H, UC 4589
-H, UC 4590
-H, UC 4592
-H, UC 4597
-H, UC 4599
-H, UC 4600
-H, UC 4601
-H, UC 4602
-H, UC 4603
-H, UC 4604
-H, UC 4610
-H, UC 4615
-H, UC 4617
-H, UC 4775
-H, UC 5052
-H, UC 5190
-H, UC 5754
-H, UC 5819
-H, UC 5820
-H, UC 5821
-H, UC 6741
-H, UC 7683
-H, UC 8403
-H, UC 15197
-H, UC 30729
+H, UC 5052, Not a vendor?
+H, UC 15197, Hallow's End?
 H, UC Courtyard, Pilgrim's Bounty 34683
 H, UC Courtyard, Pilgrim's Bounty 35341
 H, WPL 11057
@@ -1060,8 +896,6 @@ Likely removed 26765
 Moonglade, Lunar Festival 15864
 Moonglade, Lunar Festival 15898
 Moonglade, Lunar Festival 15909
-Nagrand 18278
-Nagrand 23007
 Nagrand 25176
 Netherwing, Shadowmoon 23489
 Ogri'la 30792
@@ -1098,8 +932,6 @@ Scholomance Island 11278
 Scholomance Island 11287
 Scryers, Shattrath 23483
 Shadow Potion, Felwood 14522
-Shattrath 19194
-Shattrath 27721
 Shattrath, Brewfest 24545
 Shattrath, Feast of Winter Veil 23064
 Shattrath, Feast of Winter Veil 23065
