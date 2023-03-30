@@ -494,13 +494,6 @@ Capitals, Day of the Dead 34382
 Capitals, Love is in the Air 37674
 Coldarra 25314
 Coldarra 26110
-Crystalsong Forest 30431
-Crystalsong Forest 30434
-Crystalsong Forest 30436
-Crystalsong Forest 30437
-Crystalsong Forest 30438
-Crystalsong Forest 30439
-Crystalsong Forest 31115
 DK Zone? 28760
 DK Zone? 28943
 Dalaran 28701, jewelcrafting?
@@ -559,9 +552,6 @@ Gadgetzan 34088
 Gadgetzan 34090
 Gadgetzan 34093
 Greymane Wall 3534
-Grizzly Hills 26474
-Grizzly Hills 26484
-Grizzly Hills 29277
 H, AV 2225
 H, AV 3343
 H, AV 3625
@@ -611,10 +601,6 @@ H, Borean Tundra 27067
 H, Borean Tundra 27069
 H, Brill 4731
 H, Capitals, Brewfest 24501
-H, Crystalsong Forest 30239
-H, Crystalsong Forest 30253
-H, Crystalsong Forest 30254
-H, Crystalsong Forest 30256
 H, Dragonblight 27267
 H, Durotar 7952
 H, Eversong Woods 18947
@@ -715,19 +701,10 @@ H, Silverpine 5758
 H, Starter Zones, Midsummer Fire Festival 26124
 H, Starter towns, Noblegarden 32837
 H, Stonetalon 3411
-H, Storm Peaks 29944
-H, Storm Peaks 29945
-H, Storm Peaks 29947
-H, Storm Peaks 29968
-H, Storm Peaks 29969
-H, Storm Peaks 29970
-H, Storm Peaks 29971
-H, Storm Peaks 30472
 H, Storm Peaks 33553
 H, Storm Peaks 33554
 H, Storm Peaks 33555
 H, Storm Peaks 33556
-H, Storm Peaks 33557
 H, Storm Peaks 34772
 H, TB 8401
 H, TB 9087
@@ -789,24 +766,6 @@ Icecrown 30310
 Icecrown 30311
 Icecrown 30336
 Icecrown 32538
-Icecrown 33594
-Icecrown 33595
-Icecrown 33596
-Icecrown 33597
-Icecrown 33598
-Icecrown 33599
-Icecrown 33600
-Icecrown 33601
-Icecrown 33602
-Icecrown 33644
-Icecrown 33645
-Icecrown 33853
-Icecrown 33865
-Icecrown 33866
-Icecrown 33868
-Icecrown 33869
-Icecrown 33871
-Icecrown 33872
 Icecrown 34885
 Karazhan 16388
 Karazhan 17518
@@ -896,22 +855,7 @@ Silvermoon, Feast of Winter Veil 23012
 Skettis 23363
 Stonetalon 4085
 Stonetalon 4086
-Storm Peaks 29904
-Storm Peaks 29905
-Storm Peaks 29907
-Storm Peaks 29908
-Storm Peaks 29909
-Storm Peaks 29961
-Storm Peaks 29962
-Storm Peaks 29963
-Storm Peaks 29964
-Storm Peaks 30005
-Storm Peaks 30006
-Storm Peaks 30010
-Storm Peaks 30011
 Storm Peaks 31247
-Storm Peaks 32477
-Storm Peaks 32478
 Swamp of Sorrows 11874
 TB, Winter Veil? 13431
 TB, Winter Veil? 13432
@@ -944,36 +888,3 @@ Zul'Aman 23897
 Zul'Aman 24408
 Zul'Aman 24409
 Zul'Drak 28589
-Zul'Drak 28791
-Zul'Drak 28792
-Zul'Drak 28794
-Zul'Drak 28796
-Zul'Drak 28797
-Zul'Drak 28798
-Zul'Drak 28799
-Zul'Drak 28800
-Zul'Drak 28806
-Zul'Drak 28807
-Zul'Drak 28809
-Zul'Drak 28810
-Zul'Drak 28811
-Zul'Drak 28812
-Zul'Drak 28813
-Zul'Drak 28827
-Zul'Drak 28828
-Zul'Drak 28829
-Zul'Drak 28830
-Zul'Drak 28831
-Zul'Drak 28832
-Zul'Drak 28855
-Zul'Drak 28866
-Zul'Drak 28867
-Zul'Drak 28868
-Zul'Drak 28869
-Zul'Drak 28870
-Zul'Drak 28871
-Zul'Drak 28872
-Zul'Drak 29583
-Zul'Drak 29688
-Zul'Drak 30098
-Zul'Drak 30572

@@ -1488,8 +1488,8 @@ A, SW? 26395
 H, Org? 26396
 H, Org? 26397
 H, Org? 26398
-Grizzly Hills 26474
-Grizzly Hills 26484
+    Recorded: 26474
+    Recorded: 26484
     Recorded: 26567
     Recorded: 26568
     Recorded: 26569
@@ -1669,35 +1669,35 @@ Dalaran 28701, jewelcrafting?
     Recorded: 28742
 DK Zone? 28760
     Recorded: 28776
-Zul'Drak 28791
-Zul'Drak 28792
-Zul'Drak 28794
-Zul'Drak 28796
-Zul'Drak 28797
-Zul'Drak 28798
-Zul'Drak 28799
-Zul'Drak 28800
-Zul'Drak 28806
-Zul'Drak 28807
-Zul'Drak 28809
-Zul'Drak 28810
-Zul'Drak 28811
-Zul'Drak 28812
-Zul'Drak 28813
-Zul'Drak 28827
-Zul'Drak 28828
-Zul'Drak 28829
-Zul'Drak 28830
-Zul'Drak 28831
-Zul'Drak 28832
-Zul'Drak 28855
-Zul'Drak 28866
-Zul'Drak 28867
-Zul'Drak 28868
-Zul'Drak 28869
-Zul'Drak 28870
-Zul'Drak 28871
-Zul'Drak 28872
+    Recorded: 28791
+    Recorded: 28792
+    Recorded: 28794
+    Recorded: 28796
+    Recorded: 28797
+    Recorded: 28798
+    Recorded: 28799
+    Recorded: 28800
+    Recorded: 28806
+    Recorded: 28807
+    Recorded: 28809
+    Recorded: 28810
+    Recorded: 28811
+    Recorded: 28812
+    Recorded: 28813
+    Recorded: 28827
+    Recorded: 28828
+    Recorded: 28829
+    Recorded: 28830
+    Recorded: 28831
+    Recorded: 28832
+    Recorded: 28855
+    Recorded: 28866
+    Recorded: 28867
+    Recorded: 28868
+    Recorded: 28869
+    Recorded: 28870
+    Recorded: 28871
+    Recorded: 28872
 DK Zone? 28943
     Recorded: 28951
     Recorded: 28989
@@ -1725,7 +1725,7 @@ H, Grizzly Hills 29253
 Dalaran 29261, 9 pm event?
 A, Grizzly Hills 29270
 A, Grizzly Hills 29275
-Grizzly Hills 29277
+    Recorded: 29277
 A, SW 29288
 A, SW 29291
     Recorded: 29476
@@ -1751,52 +1751,52 @@ A, SW 29291
     Recorded: 29547
     Recorded: 29548
 Engineering 29561
-Zul'Drak 29583
+    Recorded: 29583
 EPL 29587
     Recorded: 29628
     Recorded: 29636
-Zul'Drak 29688
+    Recorded: 29688
     Recorded: 29702
     Recorded: 29703
     Recorded: 29714
     Recorded: 29715
     Recorded: 29716
 A, Storm Peaks 29744
-Storm Peaks 29904
-Storm Peaks 29905
-Storm Peaks 29907
-Storm Peaks 29908
-Storm Peaks 29909
+    Recorded: 29904
+    Recorded: 29905
+    Recorded: 29907
+    Recorded: 29908
+    Recorded: 29909
 A, Storm Peaks 29922
 A, Storm Peaks 29923
 A, Storm Peaks 29925
 A, Storm Peaks 29926
-H, Storm Peaks 29944
-H, Storm Peaks 29945
-H, Storm Peaks 29947
-Storm Peaks 29961
-Storm Peaks 29962
-Storm Peaks 29963
-Storm Peaks 29964
-H, Storm Peaks 29968
-H, Storm Peaks 29969
-H, Storm Peaks 29970
-H, Storm Peaks 29971
-Storm Peaks 30005
-Storm Peaks 30006
-Storm Peaks 30010
-Storm Peaks 30011
+    Recorded: 29944
+    Recorded: 29945
+    Recorded: 29947
+    Recorded: 29961
+    Recorded: 29962
+    Recorded: 29963
+    Recorded: 29964
+    Recorded: 29968
+    Recorded: 29969
+    Recorded: 29970
+    Recorded: 29971
+    Recorded: 30005
+    Recorded: 30006
+    Recorded: 30010
+    Recorded: 30011
 Icecrown 30067
 Icecrown 30069
 Icecrown 30070
-Zul'Drak 30098
-H, Crystalsong Forest 30239
+    Recorded: 30098
+    Recorded: 30239
 A, Crystalsong Forest 30241
 A, Crystalsong Forest 30244
-H, Crystalsong Forest 30253
-H, Crystalsong Forest 30254
+    Recorded: 30253
+    Recorded: 30254
 A, Crystalsong Forest 30255
-H, Crystalsong Forest 30256
+    Recorded: 30256
 A, Crystalsong Forest 30257
 Icecrown 30306
 Icecrown 30307
@@ -1806,16 +1806,16 @@ Icecrown 30311
 Icecrown 30336
 A, Icecrown 30345
 A, Icecrown 30346
-Crystalsong Forest 30431
-Crystalsong Forest 30434
-Crystalsong Forest 30436
-Crystalsong Forest 30437
-Crystalsong Forest 30438
-Crystalsong Forest 30439
-H, Storm Peaks 30472
+    Recorded: 30431
+    Recorded: 30434
+    Recorded: 30436
+    Recorded: 30437
+    Recorded: 30438
+    Recorded: 30439
+    Recorded: 30472
 A, Wintergrasp 30488
 A, Wintergrasp 30489
-Zul'Drak 30572
+    Recorded: 30572
     Recorded: 30723
     Recorded: 30724
     Recorded: 30727
@@ -1845,7 +1845,7 @@ H, Icecrown 30827
     Recorded: 31032
 A, Wintergrasp 31051
     Recorded: 31101
-Crystalsong Forest 31115
+    Recorded: 31115
     Recorded: 31238
 Storm Peaks 31247
     Recorded: 31557
@@ -1910,8 +1910,8 @@ Gadgetzan 32407
     Recorded: 32421
     Recorded: 32424
     Recorded: 32426
-Storm Peaks 32477
-Storm Peaks 32478
+    Recorded: 32477
+    Recorded: 32478
     Recorded: 32509
     Recorded: 32514
     Recorded: 32515
@@ -1947,16 +1947,16 @@ H, Storm Peaks 33553
 H, Storm Peaks 33554
 H, Storm Peaks 33555
 H, Storm Peaks 33556
-H, Storm Peaks 33557
-Icecrown 33594
-Icecrown 33595
-Icecrown 33596
-Icecrown 33597
-Icecrown 33598
-Icecrown 33599
-Icecrown 33600
-Icecrown 33601
-Icecrown 33602
+    Recorded: 33557
+    Recorded: 33594
+    Recorded: 33595
+    Recorded: 33596
+    Recorded: 33597
+    Recorded: 33598
+    Recorded: 33599
+    Recorded: 33600
+    Recorded: 33601
+    Recorded: 33602
     Recorded: 33630
     Recorded: 33631
     Recorded: 33633
@@ -1968,8 +1968,8 @@ Icecrown 33602
     Recorded: 33639
     Recorded: 33640
     Recorded: 33641
-Icecrown 33644
-Icecrown 33645
+    Recorded: 33644
+    Recorded: 33645
 A, Icecrown 33650
 A, Icecrown 33653
 A, Icecrown 33657
@@ -1986,14 +1986,14 @@ Aldor, Shattrath 33681
 Aldor, Shattrath 33682
 Aldor, Shattrath 33683
 Aldor, Shattrath 33684
-Icecrown 33853
-Icecrown 33865
-Icecrown 33866
+    Recorded: 33853
+    Recorded: 33865
+    Recorded: 33866
 Removed? 33867
-Icecrown 33868
-Icecrown 33869
-Icecrown 33871
-Icecrown 33872
+    Recorded: 33868
+    Recorded: 33869
+    Recorded: 33871
+    Recorded: 33872
 Gadgetzan 33915
 Area 52 33916
 Gadgetzan 33917
