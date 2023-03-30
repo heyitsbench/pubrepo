@@ -1490,9 +1490,9 @@ H, Org? 26397
 H, Org? 26398
 Grizzly Hills 26474
 Grizzly Hills 26484
-H, Dragonblight 26567
-H, Dragonblight 26568
-H, Dragonblight 26569
+    Recorded: 26567
+    Recorded: 26568
+    Recorded: 26569
 A, Borean Tundra 26596
 A, Borean Tundra 26598
 A, Borean Tundra 26599
@@ -1526,7 +1526,7 @@ Likely removed 26758
 Likely removed 26759
 Likely removed 26765
 H, Grizzly Hills 26868
-Dragonblight 26898
+    Recorded: 26898
 A, Howling Fjord 26900
 A, Howling Fjord 26901
 A, Howling Fjord 26908
@@ -1546,15 +1546,15 @@ H, Howling Fjord 26984
 A, Valiance Keep 26995
 A, Valiance Keep 27011
 A, Valiance Keep 27012
-H, Dragonblight 27019
-H, Dragonblight 27021
-H, Dragonblight 27022
-H, Dragonblight 27025
-H, Dragonblight 27026
-H, Dragonblight 27027
-H, Dragonblight 27030
-H, Dragonblight 27031
-H, Dragonblight 27032
+    Recorded: 27019
+    Recorded: 27021
+    Recorded: 27022
+    Recorded: 27025
+    Recorded: 27026
+    Recorded: 27027
+    Recorded: 27030
+    Recorded: 27031
+    Recorded: 27032
 H, Grizzly Hills 27037
 A, Dragonblight 27038
 A, Dragonblight 27039
@@ -1597,12 +1597,12 @@ Borean Tundra 27147
 Howling Fjord 27148
 Howling Fjord 27149
 Howling Fjord 27151
-Dragonblight 27174
-Dragonblight 27176
-Dragonblight 27181
-Dragonblight 27182
-Dragonblight 27184
-Dragonblight 27185
+    Recorded: 27174
+    Recorded: 27176
+    Recorded: 27181
+    Recorded: 27182
+    Recorded: 27184
+    Recorded: 27185
 Borean Tundra 27186
 Borean Tundra 27187
 Borean Tundra 27188
@@ -1634,11 +1634,11 @@ IF/Org, Brew of the Month Oct 27818
 IF/Org, Brew of the Month Nov 27819
 IF/Org, Brew of the Month Dec 27820
 Promotional companion? 27914
-Wyrmrest Temple 27935
-Wyrmrest Temple 27938
-Wyrmrest Temple 27940
-Wyrmrest Temple 27943
-Wyrmrest Temple 27950
+    Recorded: 27935
+    Recorded: 27938
+    Recorded: 27940
+    Recorded: 27943
+    Recorded: 27950
 Sholazar Basin 28038
 Sholazar Basin 28040
 Sholazar Basin 28046
@@ -1855,8 +1855,8 @@ Storm Peaks 31247
     Recorded: 31582
 A, Icecrown 31776
 H, Icecrown 31781
-Dragonblight 31804
-Dragonblight 31805
+    Recorded: 31804
+    Recorded: 31805
     Recorded: 31863
     Recorded: 31864
     Recorded: 31865
@@ -1915,7 +1915,7 @@ Storm Peaks 32478
     Recorded: 32509
     Recorded: 32514
     Recorded: 32515
-Wyrmrest Temple 32533
+    Recorded: 32533
 Icecrown 32538
     Recorded: 32540
 A, Valiance Keep 32564
@@ -1926,7 +1926,7 @@ A, Mammoth Mount 32638
 A, Mammoth Mount 32639
     Recorded: 32641
     Recorded: 32642
-Dragonblight 32763
+    Recorded: 32763
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
 A, Howling Fjord 32773

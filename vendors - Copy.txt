@@ -522,16 +522,6 @@ Darkmoon Faire 14845
 Darkmoon Faire 14846
 Darkmoon Faire 14847
 Darkmoon Faire 14860
-Dragonblight 26898
-Dragonblight 27174
-Dragonblight 27176
-Dragonblight 27181
-Dragonblight 27182
-Dragonblight 27184
-Dragonblight 27185
-Dragonblight 31804
-Dragonblight 31805
-Dragonblight 32763
 Dun Morogh Shore 26081
 Durnholde Keep 3536
 Duskwood 2481
@@ -625,18 +615,6 @@ H, Crystalsong Forest 30239
 H, Crystalsong Forest 30253
 H, Crystalsong Forest 30254
 H, Crystalsong Forest 30256
-H, Dragonblight 26567
-H, Dragonblight 26568
-H, Dragonblight 26569
-H, Dragonblight 27019
-H, Dragonblight 27021
-H, Dragonblight 27022
-H, Dragonblight 27025
-H, Dragonblight 27026
-H, Dragonblight 27027
-H, Dragonblight 27030
-H, Dragonblight 27031
-H, Dragonblight 27032
 H, Dragonblight 27267
 H, Durotar 7952
 H, Eversong Woods 18947
@@ -961,12 +939,6 @@ Wetlands 3180
 Wetlands 8305
 Winterspring 16015
 Wyrmcult, Blade's Edge 22099
-Wyrmrest Temple 27935
-Wyrmrest Temple 27938
-Wyrmrest Temple 27940
-Wyrmrest Temple 27943
-Wyrmrest Temple 27950
-Wyrmrest Temple 32533
 Zangarmarsh, Sporeggar 18382
 Zul'Aman 23897
 Zul'Aman 24408
