@@ -1393,10 +1393,10 @@ H, Howling Fjord 24141
 H, Howling Fjord 24147
 H, Howling Fjord 24148
 H, Howling Fjord 24149
-H, Howling Fjord 24188
+    Recorded: 24188
     Recorded: 24208
 H, Howling Fjord 24291
-H, Howling Fjord 24313
+    Recorded: 24313
 H, Howling Fjord 24330
 A, Howling Fjord 24333
 H, Howling Fjord 24341
@@ -1446,13 +1446,13 @@ Gadgetzan 25178
     Recorded: 25179
 Aldor, Shattrath 25195
     Recorded: 25196
-Borean Tundra 25206
+    Recorded: 25206
 A, Valiance Keep 25245
 A, Valiance Keep 25248
     Recorded: 25274
     Recorded: 25278
-Coldarra 25314
-H, Borean Tundra 25736
+    Recorded: 25314
+    Recorded: 25736
     Recorded: 25950
     Recorded: 25976
     Recorded: 25977
@@ -1461,7 +1461,7 @@ Dun Morogh Shore 26081
     Recorded: 26090
     Recorded: 26091
     Recorded: 26092
-Coldarra 26110
+    Recorded: 26110
 A, Starter Zones, Midsummer Fire Festival 26123
 H, Starter Zones, Midsummer Fire Festival 26124
 A, Grizzly Hills 26229
@@ -1497,12 +1497,12 @@ A, Borean Tundra 26596
 A, Borean Tundra 26598
 A, Borean Tundra 26599
 A, Borean Tundra 26600
-H, Grizzly Hills 26680
-H, Borean Tundra 26697
-H, Grizzly Hills 26707
-H, Borean Tundra 26709
-H, Borean Tundra 26718
-H, Borean Tundra 26720
+    Recorded: 26680
+    Recorded: 26697
+    Recorded: 26707
+    Recorded: 26709
+    Recorded: 26718
+    Recorded: 26720
 Likely removed 26724
 Likely removed 26738
 Likely removed 26739
@@ -1525,20 +1525,20 @@ Likely removed 26757
 Likely removed 26758
 Likely removed 26759
 Likely removed 26765
-H, Grizzly Hills 26868
+    Recorded: 26868
     Recorded: 26898
 A, Howling Fjord 26900
 A, Howling Fjord 26901
 A, Howling Fjord 26908
 A, Howling Fjord 26916
 A, Howling Fjord 26934
-H, Grizzly Hills 26936
+    Recorded: 26936
     Recorded: 26938
-H, Grizzly Hills 26939
+    Recorded: 26939
     Recorded: 26941
     Recorded: 26945
 H, Warsong Hold, Removed? 26947
-H, Grizzly Hills 26950
+    Recorded: 26950
 H, Howling Fjord 26959
     Recorded: 26968
     Recorded: 26977
@@ -1555,7 +1555,7 @@ A, Valiance Keep 27012
     Recorded: 27030
     Recorded: 27031
     Recorded: 27032
-H, Grizzly Hills 27037
+    Recorded: 27037
 A, Dragonblight 27038
 A, Dragonblight 27039
 A, Dragonblight 27041
@@ -1569,31 +1569,31 @@ A, Dragonblight 27053
 A, Dragonblight 27054
 A, Dragonblight 27055
 A, Dragonblight 27057
-H, Borean Tundra 27058
+    Recorded: 27058
 A, Grizzly Hills 27062
-H, Borean Tundra 27063
+    Recorded: 27063
 A, Grizzly Hills 27066
-H, Borean Tundra 27067
-H, Borean Tundra 27069
+    Recorded: 27067
+    Recorded: 27069
 A, Grizzly Hills 27070
 A, Grizzly Hills 27071
 A, Grizzly Hills 27088
 A, Grizzly Hills 27089
-H, Grizzly Hills 27125
-H, Grizzly Hills 27132
-H, Grizzly Hills 27133
-H, Grizzly Hills 27134
+    Recorded: 27125
+    Recorded: 27132
+    Recorded: 27133
+    Recorded: 27134
     Recorded: 27137
-Borean Tundra 27138
+    Recorded: 27138
     Recorded: 27139
-Borean Tundra 27140
+    Recorded: 27140
     Recorded: 27141
-Borean Tundra 27142
-Borean Tundra 27143
+    Recorded: 27142
+    Recorded: 27143
 Howling Fjord 27144
 Howling Fjord 27145
 Howling Fjord 27146
-Borean Tundra 27147
+    Recorded: 27147
 Howling Fjord 27148
 Howling Fjord 27149
 Howling Fjord 27151
@@ -1603,14 +1603,14 @@ Howling Fjord 27151
     Recorded: 27182
     Recorded: 27184
     Recorded: 27185
-Borean Tundra 27186
-Borean Tundra 27187
-Borean Tundra 27188
-Borean Tundra 27190
-Borean Tundra 27193
-Borean Tundra 27195
+    Recorded: 27186
+    Recorded: 27187
+    Recorded: 27188
+    Recorded: 27190
+    Recorded: 27193
+    Recorded: 27195
 H, Dragonblight 27267
-Borean Tundra 27291
+    Recorded: 27291
 A, IF, Brewfest 27478
 H, Org, Brewfest 27489
     Recorded: 27666
@@ -1639,9 +1639,9 @@ Promotional companion? 27914
     Recorded: 27940
     Recorded: 27943
     Recorded: 27950
-Sholazar Basin 28038
-Sholazar Basin 28040
-Sholazar Basin 28046
+    Recorded: 28038
+    Recorded: 28040
+    Recorded: 28046
 BRD 28225
     Recorded: 28344
     Recorded: 28347
@@ -1710,10 +1710,10 @@ DK Zone? 28943
     Recorded: 28997
 Sholazar Basin 29014
 Sholazar Basin 29015
-Sholazar Basin 29035
-Sholazar Basin 29037
+    Recorded: 29035
+    Recorded: 29037
     Recorded: 29049
-Sholazar Basin 29121
+    Recorded: 29121
 Sholazar Basin 29122
 EPL 29203
 EPL 29205
@@ -1786,9 +1786,9 @@ A, Storm Peaks 29926
     Recorded: 30006
     Recorded: 30010
     Recorded: 30011
-Icecrown 30067
-Icecrown 30069
-Icecrown 30070
+    Recorded: 30067
+    Recorded: 30069
+    Recorded: 30070
     Recorded: 30098
     Recorded: 30239
 A, Crystalsong Forest 30241
@@ -1798,12 +1798,12 @@ A, Crystalsong Forest 30244
 A, Crystalsong Forest 30255
     Recorded: 30256
 A, Crystalsong Forest 30257
-Icecrown 30306
-Icecrown 30307
-Icecrown 30309
-Icecrown 30310
-Icecrown 30311
-Icecrown 30336
+    Recorded: 30306
+    Recorded: 30307
+    Recorded: 30309
+    Recorded: 30310
+    Recorded: 30311
+    Recorded: 30336
 A, Icecrown 30345
 A, Icecrown 30346
     Recorded: 30431
@@ -1831,8 +1831,8 @@ Ogri'la 30796
 Ogri'la 30797
 Ogri'la 30799
 Ogri'la 30801
-H, Icecrown 30825
-H, Icecrown 30827
+    Recorded: 30825
+    Recorded: 30827
     Recorded: 30885
     Recorded: 31017
     Recorded: 31019
@@ -1854,13 +1854,13 @@ Storm Peaks 31247
     Recorded: 31581
     Recorded: 31582
 A, Icecrown 31776
-H, Icecrown 31781
+    Recorded: 31781
     Recorded: 31804
     Recorded: 31805
     Recorded: 31863
     Recorded: 31864
     Recorded: 31865
-Sholazar Basin 31910
+    Recorded: 31910
 Sholazar Basin 31911
 Howling Fjord 31916
 A, AV 31926
@@ -1916,7 +1916,7 @@ Gadgetzan 32407
     Recorded: 32514
     Recorded: 32515
     Recorded: 32533
-Icecrown 32538
+    Recorded: 32538
     Recorded: 32540
 A, Valiance Keep 32564
     Recorded: 32565

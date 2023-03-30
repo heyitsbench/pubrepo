@@ -475,25 +475,10 @@ Blade's Edge 23243
 Blade's Edge 23244
 Blade's Edge 23245
 Booty Bay, Midsummer Fire Festival? 8116
-Borean Tundra 25206
-Borean Tundra 27138
-Borean Tundra 27140
-Borean Tundra 27142
-Borean Tundra 27143
-Borean Tundra 27147
-Borean Tundra 27186
-Borean Tundra 27187
-Borean Tundra 27188
-Borean Tundra 27190
-Borean Tundra 27193
-Borean Tundra 27195
-Borean Tundra 27291
 Burning Steppes 14437
 Capital Gates, Brewfest 23511
 Capitals, Day of the Dead 34382
 Capitals, Love is in the Air 37674
-Coldarra 25314
-Coldarra 26110
 DK Zone? 28760
 DK Zone? 28943
 Dalaran 28701, jewelcrafting?
@@ -590,32 +575,12 @@ H, Barrens 3682
 H, Barrens 3689
 H, Barrens 8307
 H, Barrens 14754
-H, Borean Tundra 25736
-H, Borean Tundra 26697
-H, Borean Tundra 26709
-H, Borean Tundra 26718
-H, Borean Tundra 26720
-H, Borean Tundra 27058
-H, Borean Tundra 27063
-H, Borean Tundra 27067
-H, Borean Tundra 27069
 H, Brill 4731
 H, Capitals, Brewfest 24501
 H, Dragonblight 27267
 H, Durotar 7952
 H, Eversong Woods 18947
 H, Eversong Woods 18954
-H, Grizzly Hills 26680
-H, Grizzly Hills 26707
-H, Grizzly Hills 26868
-H, Grizzly Hills 26936
-H, Grizzly Hills 26939
-H, Grizzly Hills 26950
-H, Grizzly Hills 27037
-H, Grizzly Hills 27125
-H, Grizzly Hills 27132
-H, Grizzly Hills 27133
-H, Grizzly Hills 27134
 H, Grizzly Hills 27730
 H, Grizzly Hills 29253
 H, Hillsbrad 2698
@@ -626,9 +591,7 @@ H, Howling Fjord 24141
 H, Howling Fjord 24147
 H, Howling Fjord 24148
 H, Howling Fjord 24149
-H, Howling Fjord 24188
 H, Howling Fjord 24291
-H, Howling Fjord 24313
 H, Howling Fjord 24330
 H, Howling Fjord 24341
 H, Howling Fjord 24342
@@ -649,9 +612,6 @@ H, ICC 37993
 H, ICC 38181
 H, ICC 38284
 H, ICC 38841
-H, Icecrown 30825
-H, Icecrown 30827
-H, Icecrown 31781
 H, Icecrown 35574
 H, Icecrown 35576
 H, Icecrown 35578
@@ -756,16 +716,6 @@ IF/Org, Brew of the Month May 27813
 IF/Org, Brew of the Month Nov 27819
 IF/Org, Brew of the Month Oct 27818
 IF/Org, Brew of the Month Sep 27817
-Icecrown 30067
-Icecrown 30069
-Icecrown 30070
-Icecrown 30306
-Icecrown 30307
-Icecrown 30309
-Icecrown 30310
-Icecrown 30311
-Icecrown 30336
-Icecrown 32538
 Icecrown 34885
 Karazhan 16388
 Karazhan 17518
@@ -837,16 +787,9 @@ Shattrath, Feast of Winter Veil 23064
 Shattrath, Feast of Winter Veil 23065
 Shen'dralar, Dire Maul 14371
 Shimmering Flats 4453
-Sholazar Basin 28038
-Sholazar Basin 28040
-Sholazar Basin 28046
 Sholazar Basin 29014
 Sholazar Basin 29015
-Sholazar Basin 29035
-Sholazar Basin 29037
-Sholazar Basin 29121
 Sholazar Basin 29122
-Sholazar Basin 31910
 Sholazar Basin 31911
 Silithus 15293
 Silithus 16543, Scourge invasion vendor
