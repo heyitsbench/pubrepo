@@ -30,30 +30,9 @@ A, Alterac 13217
 A, Alterac 22695
 A, Alterac 32112
 A, Antonio Perelli 844
-A, Ashenvale 3951
-A, Ashenvale 3955
-A, Ashenvale 3956
-A, Ashenvale 3960
-A, Ashenvale 6731
-A, Ashenvale 14301
-A, Ashenvale 17412
-A, Astranaar 3952
-A, Astranaar 3953
-A, Astranaar 3954
-A, Astranaar 3958
-A, Astranaar 3959
-A, Astranaar 3961
-A, Astranaar 3962
-A, Astranaar 3969
-A, Astranaar 3970
-A, Astranaar 6738
-A, Astranaar 11137
 A, BGs/SW? 12777
 A, BGs/SW? 12782
 A, Badlands 2910
-A, Barrens 3392
-A, Barrens 5848
-A, Barrens 14753
 A, Blade's Edge 19495
 A, Blade's Edge 19497
 A, Blade's Edge 19498
@@ -75,26 +54,8 @@ A, Silverpine 3578
 A, Dalaran 28686
 A, Dalaran 35494
 A, Dalaran 37942
-A, Darkshore 4182
-A, Darkshore 4183
-A, Darkshore 4185
-A, Darkshore 4186
-A, Darkshore 4187
-A, Darkshore 4189
-A, Darkshore 4190
-A, Darkshore 4191
-A, Darkshore 4192
-A, Darkshore 4194
-A, Darkshore 4195
-A, Darkshore 4200
-A, Darkshore 4307
-A, Darkshore 6298
-A, Darkshore 6300
-A, Darkshore 6301
 A, Darkshore 6737
 A, Darkshore 10216
-A, Darkshore 24993
-A, Darkshore 24995
 A, Darnassus 4217
 A, Darnassus 4730
 A, Darnassus Gates, Pilgrim's Bounty 34681
@@ -118,8 +79,6 @@ A, Dragonblight 27055
 A, Dragonblight 27057
 A, Exodar 17584
 A, Exodar Gates, Pilgrim's Bounty 34783
-A, Felwood 2803
-A, Felwood 15315
 A, Feralas 1695
 A, Feralas 3700
 A, Feralas 6576
@@ -399,18 +358,12 @@ Area 52 33941
 Area 52 34089
 Area 52 34091
 Area 52 34094
-Ashenvale 14963
 Auchindoun 19879
 Azshara 8678
 Azshara 12957
 BRD 12944
 BRD 28225
-Barrens 3683
-Barrens 3684
-Barrens 5783
 Barrens 14964
-Barrens 25082
-Barrens 25089
 Black Temple 23157
 Black Temple 23159
 Blackrock Bar 9499
@@ -704,9 +657,6 @@ Org, Winter Veil? 13418
 Org, Winter Veil? 13420
 Promotional companion? 27914
 Quel'Danas 25046
-Ratchet 3492
-Ratchet 3493
-Ratchet 3497
 Ratchet, Midsummer Fire Festival? 8121
 Redridge 3096
 Removed? 2942

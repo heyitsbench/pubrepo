@@ -205,7 +205,7 @@ STV 2687
 A, Redridge 2697
 H, Hillsbrad 2698
     Recorded: 2699
-A, Felwood 2803
+    Recorded: 2803
     Recorded: 2805
     Recorded: 2806
     Recorded: 2808
@@ -331,7 +331,7 @@ H, Org 3362
     Recorded: 3367
     Recorded: 3368
     Recorded: 3369
-A, Barrens 3392
+    Recorded: 3392
     Recorded: 3400
     Recorded: 3405
     Recorded: 3409
@@ -352,10 +352,10 @@ H, Barrens 3443
     Recorded: 3489
     Recorded: 3490
     Recorded: 3491
-Ratchet 3492
-Ratchet 3493
+    Recorded: 3492
+    Recorded: 3493
     Recorded: 3495
-Ratchet 3497
+    Recorded: 3497
     Recorded: 3498
     Recorded: 3499
     Recorded: 3500
@@ -405,8 +405,8 @@ A, Silverpine 3578
 H, AV 3625
     Recorded: 3658
 H, Barrens 3682
-Barrens 3683
-Barrens 3684
+    Recorded: 3683
+    Recorded: 3684
 H, Mulgore 3685
 H, Barrens 3689
 A, Feralas 3700
@@ -422,19 +422,19 @@ A, Winterspring 3779
     Recorded: 3935
     Recorded: 3937
     Recorded: 3948
-A, Ashenvale 3951
-A, Astranaar 3952
-A, Astranaar 3953
-A, Astranaar 3954
-A, Ashenvale 3955
-A, Ashenvale 3956
-A, Astranaar 3958
-A, Astranaar 3959
-A, Ashenvale 3960
-A, Astranaar 3961
-A, Astranaar 3962
-A, Astranaar 3969
-A, Astranaar 3970
+    Recorded: 3951
+    Recorded: 3952
+    Recorded: 3953
+    Recorded: 3954
+    Recorded: 3955
+    Recorded: 3956
+    Recorded: 3958
+    Recorded: 3959
+    Recorded: 3960
+    Recorded: 3961
+    Recorded: 3962
+    Recorded: 3969
+    Recorded: 3970
     Recorded: 4043
     Recorded: 4082
     Recorded: 4083
@@ -453,20 +453,20 @@ Stonetalon 4086
     Recorded: 4177
     Recorded: 4180
     Recorded: 4181
-A, Darkshore 4182
-A, Darkshore 4183
+    Recorded: 4182
+    Recorded: 4183
     Recorded: 4184
-A, Darkshore 4185
-A, Darkshore 4186
-A, Darkshore 4187
+    Recorded: 4185
+    Recorded: 4186
+    Recorded: 4187
 A, Stonetalon 4188
-A, Darkshore 4189
-A, Darkshore 4190
-A, Darkshore 4191
-A, Darkshore 4192
-A, Darkshore 4194
-A, Darkshore 4195
-A, Darkshore 4200
+    Recorded: 4189
+    Recorded: 4190
+    Recorded: 4191
+    Recorded: 4192
+    Recorded: 4194
+    Recorded: 4195
+    Recorded: 4200
     Recorded: 4203
 Removed? 4207
     Recorded: 4216
@@ -495,7 +495,7 @@ A, AV 4257
     Recorded: 4265
     Recorded: 4266
     Recorded: 4305
-A, Darkshore 4307
+    Recorded: 4307
 Shimmering Flats 4453
     Recorded: 4553
     Recorded: 4554
@@ -625,7 +625,7 @@ H, Silverpine 5748
     Recorded: 5754
 H, Silverpine 5757
 H, Silverpine 5758
-Barrens 5783
+    Recorded: 5783
     Recorded: 5812
     Recorded: 5814
     Recorded: 5816
@@ -633,7 +633,7 @@ Barrens 5783
     Recorded: 5819
     Recorded: 5820
     Recorded: 5821
-A, Barrens 5848
+    Recorded: 5848
     Recorded: 5870
     Recorded: 5871
     Recorded: 5886
@@ -643,9 +643,9 @@ A, Barrens 5848
     Recorded: 6028
     Recorded: 6091
 A, Theramore 6272
-A, Darkshore 6298
-A, Darkshore 6300
-A, Darkshore 6301
+    Recorded: 6298
+    Recorded: 6300
+    Recorded: 6301
     Recorded: 6367
     Recorded: 6495
     Recorded: 6496
@@ -656,12 +656,12 @@ A, Darkshore 6301
 A, Feralas 6576
     Recorded: 6727
     Recorded: 6730
-A, Ashenvale 6731
+    Recorded: 6731
     Recorded: 6734
     Recorded: 6735
     Recorded: 6736
 A, Darkshore 6737
-A, Astranaar 6738
+    Recorded: 6738
     Recorded: 6739
     Recorded: 6740
     Recorded: 6741
@@ -779,7 +779,7 @@ A, Desolace 11103
 Removed? 11111
     Recorded: 11116
     Recorded: 11118
-A, Astranaar 11137
+    Recorded: 11137
     Recorded: 11182
     Recorded: 11183
     Recorded: 11184
@@ -856,7 +856,7 @@ IF, Winter Veil? 13434
 SW, Winter Veil? 13435
 SW, Winter Veil? 13436
     Recorded: 13476
-A, Ashenvale 14301
+    Recorded: 14301
 King, Dire Maul 14322
 Engineering 14337
 Shen'dralar, Dire Maul 14371
@@ -873,7 +873,7 @@ Feralas 14637
     Recorded: 14738
     Recorded: 14739
     Recorded: 14740
-A, Barrens 14753
+    Recorded: 14753
 H, Barrens 14754
 Darkmoon Faire 14844
 Darkmoon Faire 14845
@@ -883,7 +883,7 @@ Darkmoon Faire 14860
 STV 14921
 Alterac 14961
 Alterac 14962
-Ashenvale 14963
+    Recorded: 14963
 Barrens 14964
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
@@ -905,7 +905,7 @@ A, Hillsbrad 15199, Hallow's End?
     Recorded: 15292
 Silithus 15293
 H, Org, Hallows End 15309
-A, Felwood 15315
+    Recorded: 15315
     Recorded: 15350
     Recorded: 15351
 A, IF, Hallow's End 15353
@@ -1021,7 +1021,7 @@ A, Honor Hold 16829
     Recorded: 17245
     Recorded: 17246
     Recorded: 17277
-A, Ashenvale 17412
+    Recorded: 17412
     Recorded: 17421
     Recorded: 17446
     Recorded: 17486
@@ -1423,8 +1423,8 @@ Engineering 24780
     Recorded: 24934
     Recorded: 24935
     Recorded: 24975
-A, Darkshore 24993
-A, Darkshore 24995
+    Recorded: 24993
+    Recorded: 24995
 A, SW 25010
 A, SW 25012
 A, Feralas 25019
@@ -1438,8 +1438,8 @@ A, Feralas 25020
 Quel'Danas 25046
     Recorded: 25051
     Recorded: 25052
-Barrens 25082
-Barrens 25089
+    Recorded: 25082
+    Recorded: 25089
 Nagrand 25176
 Gadgetzan 25177
 Gadgetzan 25178
