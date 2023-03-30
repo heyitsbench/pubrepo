@@ -383,24 +383,24 @@ Durnholde Keep 3536
     Recorded: 3553
     Recorded: 3554
     Recorded: 3556
-A, Darnassus 3561
-A, Darnassus 3562
+    Recorded: 3561
+    Recorded: 3562
     Recorded: 3572
 A, Silverpine 3577
 A, Silverpine 3578
-A, Shadowglen 3587
-A, Shadowglen 3588
-A, Shadowglen 3589
-A, Shadowglen 3590
-A, Shadowglen 3591
-A, Shadowglen 3592
-A, Dolanaar 3608
-A, Dolanaar 3609
-A, Dolanaar 3610
-A, Dolanaar 3611
-A, Dolanaar 3612
-A, Dolanaar 3613
-A, Dolanaar 3614
+    Recorded: 3587
+    Recorded: 3588
+    Recorded: 3589
+    Recorded: 3590
+    Recorded: 3591
+    Recorded: 3592
+    Recorded: 3608
+    Recorded: 3609
+    Recorded: 3610
+    Recorded: 3611
+    Recorded: 3612
+    Recorded: 3613
+    Recorded: 3614
     Recorded: 3621
 H, AV 3625
     Recorded: 3658
@@ -441,18 +441,18 @@ A, Astranaar 3970
 A, Stonetalon 4084
 Stonetalon 4085
 Stonetalon 4086
-A, Darnassus 4164
-A, Darnassus 4167
-A, Darnassus 4168
-A, Darnassus 4169
-A, Darnassus 4170
-A, Darnassus 4171
-A, Darnassus 4172
-A, Darnassus 4173
-A, Darnassus 4175
-A, Darnassus 4177
-A, Darnassus 4180
-A, Darnassus 4181
+    Recorded: 4164
+    Recorded: 4167
+    Recorded: 4168
+    Recorded: 4169
+    Recorded: 4170
+    Recorded: 4171
+    Recorded: 4172
+    Recorded: 4173
+    Recorded: 4175
+    Recorded: 4177
+    Recorded: 4180
+    Recorded: 4181
 A, Darkshore 4182
 A, Darkshore 4183
     Recorded: 4184
@@ -467,33 +467,33 @@ A, Darkshore 4192
 A, Darkshore 4194
 A, Darkshore 4195
 A, Darkshore 4200
-A, Darnassus 4203
+    Recorded: 4203
 Removed? 4207
-A, Darnassus 4216
+    Recorded: 4216
 A, Darnassus 4217
-A, Darnassus 4220
-A, Darnassus 4221
-A, Darnassus 4222
-A, Darnassus 4223
-A, Darnassus 4225
-A, Darnassus 4226
-A, Darnassus 4228
-A, Darnassus 4229
-A, Darnassus 4230
-A, Darnassus 4231
-A, Darnassus 4232
-A, Darnassus 4233
-A, Darnassus 4234
-A, Darnassus 4235
-A, Darnassus 4236
-A, Darnassus 4240
-A, Darnassus 4241
+    Recorded: 4220
+    Recorded: 4221
+    Recorded: 4222
+    Recorded: 4223
+    Recorded: 4225
+    Recorded: 4226
+    Recorded: 4228
+    Recorded: 4229
+    Recorded: 4230
+    Recorded: 4231
+    Recorded: 4232
+    Recorded: 4233
+    Recorded: 4234
+    Recorded: 4235
+    Recorded: 4236
+    Recorded: 4240
+    Recorded: 4241
 A, AV 4255
     Recorded: 4256
 A, AV 4257
     Recorded: 4259
-A, Dolanaar 4265
-A, Dolanaar 4266
+    Recorded: 4265
+    Recorded: 4266
     Recorded: 4305
 A, Darkshore 4307
 Shimmering Flats 4453
@@ -601,7 +601,7 @@ A, AV 5139
     Recorded: 5188
     Recorded: 5189
     Recorded: 5190
-A, Darnassus 5191
+    Recorded: 5191
     Recorded: 5193
     Recorded: 5411
     Recorded: 5483
@@ -641,7 +641,7 @@ A, Barrens 5848
     Recorded: 5942
     Recorded: 5944
     Recorded: 6028
-A, Shadowglen 6091
+    Recorded: 6091
 A, Theramore 6272
 A, Darkshore 6298
 A, Darkshore 6300
@@ -658,8 +658,8 @@ A, Feralas 6576
     Recorded: 6730
 A, Ashenvale 6731
     Recorded: 6734
-A, Darnassus 6735
-A, Dolanaar 6736
+    Recorded: 6735
+    Recorded: 6736
 A, Darkshore 6737
 A, Astranaar 6738
     Recorded: 6739
@@ -735,7 +735,7 @@ H, TB 8401
     Recorded: 8403
     Recorded: 8404
     Recorded: 8508
-A, Darnassus 8665
+    Recorded: 8665
     Recorded: 8666
 Azshara 8678
 STV 8679
@@ -759,7 +759,7 @@ Blackrock Bar 9499
     Recorded: 9555
     Recorded: 9636
 A, Gnomeregan 9676
-A, Rut'theran 10118
+    Recorded: 10118
 A, Darkshore 10216
 A, Feralas 10293
     Recorded: 10361
@@ -1436,8 +1436,8 @@ A, Feralas 25020
     Recorded: 25039
     Recorded: 25043
 Quel'Danas 25046
-A, Azuremyst 25051
-A, Azuremyst 25052
+    Recorded: 25051
+    Recorded: 25052
 Barrens 25082
 Barrens 25089
 Nagrand 25176
@@ -1821,7 +1821,7 @@ A, Wintergrasp 30489
     Recorded: 30727
     Recorded: 30729
     Recorded: 30730
-A, Darnassus 30731
+    Recorded: 30731
     Recorded: 30732
     Recorded: 30733
 A, Honor Hold 30734
