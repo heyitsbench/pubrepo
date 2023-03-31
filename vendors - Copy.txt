@@ -256,9 +256,6 @@ A, Wintergrasp 30489
 A, Wintergrasp 31051
 A, Wintergrasp 32294
 A, Wintergrasp? 39172
-A, Winterspring 2084
-A, Winterspring 2303
-A, Winterspring 3779
 A, Winterspring 10618
 A, Zangarmarsh 18005
 A, Zangarmarsh 18006
@@ -326,7 +323,6 @@ Area 52 34094
 Auchindoun 19879
 BRD 12944
 BRD 28225
-Barrens 14964
 Black Temple 23157
 Black Temple 23159
 Blackrock Bar 9499
@@ -670,14 +666,12 @@ UC, Winter Veil? 13429
 UC, Winter Veil? 13430
 Ulduar 33666
 Ulduar 33669
-Un'goro 12956
 Unknown 15198
 Unknown, Scourge Invasion 16786
 WPL 10856
 WPL 10857
 Wetlands 3180
 Wetlands 8305
-Winterspring 16015
 Wyrmcult, Blade's Edge 22099
 Zangarmarsh, Sporeggar 18382
 Zul'Aman 23897

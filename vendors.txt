@@ -154,7 +154,7 @@ A, Menethil Harbor 1460
     Recorded: 1697
     Recorded: 1698
     Recorded: 2046
-A, Winterspring 2084
+    Recorded: 2084
     Recorded: 2113
     Recorded: 2115
     Recorded: 2116
@@ -168,7 +168,7 @@ A, Winterspring 2084
 H, AV 2225
     Recorded: 2264
     Recorded: 2265
-A, Winterspring 2303
+    Recorded: 2303
     Recorded: 2352
 A, Southshore 2357
     Recorded: 2364
@@ -412,7 +412,7 @@ H, Barrens 3689
     Recorded: 3700
     Recorded: 3705
     Recorded: 3708
-A, Winterspring 3779
+    Recorded: 3779
     Recorded: 3881
     Recorded: 3882
     Recorded: 3883
@@ -834,7 +834,7 @@ Dustwallow Marsh 12919
     Recorded: 12942
 H, WPL 12943
 BRD 12944
-Un'goro 12956
+    Recorded: 12956
     Recorded: 12957
     Recorded: 12958
     Recorded: 12959
@@ -884,7 +884,7 @@ STV 14921
 Alterac 14961
 Alterac 14962
     Recorded: 14963
-Barrens 14964
+    Recorded: 14964
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
     Recorded: 15124
@@ -918,7 +918,7 @@ AQ20 15471
 Moonglade, Lunar Festival 15864
 Moonglade, Lunar Festival 15898
 Moonglade, Lunar Festival 15909
-Winterspring 16015
+    Recorded: 16015
     Recorded: 16186
     Recorded: 16187
     Recorded: 16191
