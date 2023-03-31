@@ -60,10 +60,6 @@ A, Darnassus 4217
 A, Darnassus 4730
 A, Darnassus Gates, Pilgrim's Bounty 34681
 A, Darnassus Gates, Pilgrim's Bounty 35338
-A, Desolace 1322
-A, Desolace 8150
-A, Desolace 11103
-A, Desolace 12960
 A, Dragonblight 27038
 A, Dragonblight 27039
 A, Dragonblight 27041
@@ -79,21 +75,7 @@ A, Dragonblight 27055
 A, Dragonblight 27057
 A, Exodar 17584
 A, Exodar Gates, Pilgrim's Bounty 34783
-A, Feralas 1695
-A, Feralas 3700
-A, Feralas 6576
-A, Feralas 7736
-A, Feralas 7852
 A, Feralas 7879
-A, Feralas 7941
-A, Feralas 7942
-A, Feralas 7943
-A, Feralas 7945
-A, Feralas 7947
-A, Feralas 8157
-A, Feralas 10293
-A, Feralas 25019
-A, Feralas 25020
 A, Gnomeregan 9676
 A, Gnomeregan? 2683
 A, Grizzly Hills 26229
@@ -249,9 +231,6 @@ A, Silverpine 3577
 A, Southshore 2357
 A, Starter Zones, Midsummer Fire Festival 26123
 A, Starter towns, Noblegarden 32836
-A, Stonetalon 4084
-A, Stonetalon 4188
-A, Stonetalon 16458
 A, Storm Peaks 29744
 A, Storm Peaks 29922
 A, Storm Peaks 29923
@@ -263,20 +242,6 @@ A, Terokkar 19053
 A, Terokkar 19056
 A, Terokkar 19296
 A, Terokkar 19773
-A, Theramore 4885
-A, Theramore 4886
-A, Theramore 4888
-A, Theramore 4889
-A, Theramore 4890
-A, Theramore 4891
-A, Theramore 4892
-A, Theramore 4893
-A, Theramore 4894
-A, Theramore 4896
-A, Theramore 4897
-A, Theramore 4899
-A, Theramore 6272
-A, Theramore 23896
 A, Valiance Keep 24357
 A, Valiance Keep 25245
 A, Valiance Keep 25248
@@ -359,8 +324,6 @@ Area 52 34089
 Area 52 34091
 Area 52 34094
 Auchindoun 19879
-Azshara 8678
-Azshara 12957
 BRD 12944
 BRD 28225
 Barrens 14964
@@ -414,7 +377,6 @@ Engineering 29561
 Engineering 35642
 Exodar, Feast of Winter Veil 23009
 Exodar, Feast of Winter Veil 23010
-Feralas 7772
 Feralas 7775
 Feralas 14637
 Gadgetzan 7564
@@ -689,8 +651,6 @@ Silithus 16543, Scourge invasion vendor
 Silvermoon, Feast of Winter Veil 23011
 Silvermoon, Feast of Winter Veil 23012
 Skettis 23363
-Stonetalon 4085
-Stonetalon 4086
 Storm Peaks 31247
 Swamp of Sorrows 11874
 TB, Winter Veil? 13431
@@ -704,7 +664,7 @@ Test realm? 26305
 Test realm? 26306
 Test realm? 26308
 Test realm? 26309
-Timbermaw, Winterspring11557
+Timbermaw, Winterspring 11557
 Timbermaw, Winterspring 11555
 UC, Winter Veil? 13429
 UC, Winter Veil? 13430

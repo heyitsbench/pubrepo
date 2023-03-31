@@ -97,7 +97,7 @@ A, Antonio Perelli 844
     Recorded: 1319
     Recorded: 1320
     Recorded: 1321
-A, Desolace 1322
+    Recorded: 1322
     Recorded: 1323
     Recorded: 1324
     Recorded: 1325
@@ -150,7 +150,7 @@ A, Menethil Harbor 1460
     Recorded: 1691
     Recorded: 1692
     Recorded: 1694
-A, Feralas 1695
+    Recorded: 1695
     Recorded: 1697
     Recorded: 1698
     Recorded: 2046
@@ -409,7 +409,7 @@ H, Barrens 3682
     Recorded: 3684
 H, Mulgore 3685
 H, Barrens 3689
-A, Feralas 3700
+    Recorded: 3700
     Recorded: 3705
     Recorded: 3708
 A, Winterspring 3779
@@ -438,9 +438,9 @@ A, Winterspring 3779
     Recorded: 4043
     Recorded: 4082
     Recorded: 4083
-A, Stonetalon 4084
-Stonetalon 4085
-Stonetalon 4086
+    Recorded: 4084
+    Recorded: 4085
+    Recorded: 4086
     Recorded: 4164
     Recorded: 4167
     Recorded: 4168
@@ -459,7 +459,7 @@ Stonetalon 4086
     Recorded: 4185
     Recorded: 4186
     Recorded: 4187
-A, Stonetalon 4188
+    Recorded: 4188
     Recorded: 4189
     Recorded: 4190
     Recorded: 4191
@@ -541,18 +541,18 @@ H, Thousand Needles 4876
     Recorded: 4879
     Recorded: 4883
     Recorded: 4884
-A, Theramore 4885
-A, Theramore 4886
-A, Theramore 4888
-A, Theramore 4889
-A, Theramore 4890
-A, Theramore 4891
-A, Theramore 4892
-A, Theramore 4893
-A, Theramore 4894
-A, Theramore 4896
-A, Theramore 4897
-A, Theramore 4899
+    Recorded: 4885
+    Recorded: 4886
+    Recorded: 4888
+    Recorded: 4889
+    Recorded: 4890
+    Recorded: 4891
+    Recorded: 4892
+    Recorded: 4893
+    Recorded: 4894
+    Recorded: 4896
+    Recorded: 4897
+    Recorded: 4899
     Recorded: 4954
     Recorded: 4981
     Recorded: 5049
@@ -642,7 +642,7 @@ H, Silverpine 5758
     Recorded: 5944
     Recorded: 6028
     Recorded: 6091
-A, Theramore 6272
+    Recorded: 6272
     Recorded: 6298
     Recorded: 6300
     Recorded: 6301
@@ -653,7 +653,7 @@ A, Theramore 6272
     Recorded: 6567
     Recorded: 6568
     Recorded: 6574
-A, Feralas 6576
+    Recorded: 6576
     Recorded: 6727
     Recorded: 6730
     Recorded: 6731
@@ -681,20 +681,20 @@ Gadgetzan 7564
     Recorded: 7714
     Recorded: 7731
     Recorded: 7733
-A, Feralas 7736
+    Recorded: 7736
     Recorded: 7737
     Recorded: 7744
-Feralas 7772
+    Recorded: 7772
 Feralas 7775
-A, Feralas 7852
+    Recorded: 7852
     Recorded: 7854
 A, Feralas 7879
     Recorded: 7940
-A, Feralas 7941
-A, Feralas 7942
-A, Feralas 7943
-A, Feralas 7945
-A, Feralas 7947
+    Recorded: 7941
+    Recorded: 7942
+    Recorded: 7943
+    Recorded: 7945
+    Recorded: 7947
 H, Durotar 7952
 A, Kharanos 7955
     Recorded: 7976
@@ -711,9 +711,9 @@ H, Org, Midsummer Fire Festival? 8122
     Recorded: 8139
     Recorded: 8143
     Recorded: 8145
-A, Desolace 8150
+    Recorded: 8150
     Recorded: 8152
-A, Feralas 8157
+    Recorded: 8157
     Recorded: 8158
     Recorded: 8159
     Recorded: 8160
@@ -737,7 +737,7 @@ H, TB 8401
     Recorded: 8508
     Recorded: 8665
     Recorded: 8666
-Azshara 8678
+    Recorded: 8678
 STV 8679
     Recorded: 8681
     Recorded: 8878
@@ -761,7 +761,7 @@ Blackrock Bar 9499
 A, Gnomeregan 9676
     Recorded: 10118
 A, Darkshore 10216
-A, Feralas 10293
+    Recorded: 10293
     Recorded: 10361
 H, AV 10364
 H, AV 10367
@@ -774,7 +774,7 @@ WPL 10857
     Recorded: 11038
 A, WPL 11056
 H, WPL 11057
-A, Desolace 11103
+    Recorded: 11103
     Recorded: 11106
 Removed? 11111
     Recorded: 11116
@@ -835,10 +835,10 @@ Dustwallow Marsh 12919
 H, WPL 12943
 BRD 12944
 Un'goro 12956
-Azshara 12957
+    Recorded: 12957
     Recorded: 12958
     Recorded: 12959
-A, Desolace 12960
+    Recorded: 12960
     Recorded: 12962
     Recorded: 13018
 A, AV 13216
@@ -942,7 +942,7 @@ Karazhan 16388
     Recorded: 16442
     Recorded: 16443
     Recorded: 16444
-A, Stonetalon 16458
+    Recorded: 16458
     Recorded: 16528
     Recorded: 16542
 Silithus 16543, Scourge invasion vendor
@@ -1377,7 +1377,7 @@ A, Howling Fjord 23737
     Recorded: 23748
 A, Howling Fjord 23802
 A, Howling Fjord 23862
-A, Theramore 23896
+    Recorded: 23896
 Zul'Aman 23897
 A, Howling Fjord 23908
 A, Howling Fjord 23937
@@ -1427,8 +1427,8 @@ Engineering 24780
     Recorded: 24995
 A, SW 25010
 A, SW 25012
-A, Feralas 25019
-A, Feralas 25020
+    Recorded: 25019
+    Recorded: 25020
     Recorded: 25032
     Recorded: 25034
     Recorded: 25035
