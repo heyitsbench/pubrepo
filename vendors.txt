@@ -186,7 +186,7 @@ A, Hillsbrad 2404, Not real?
 Alterac 2480
 Duskwood 2481
     Recorded: 2482
-STV 2483
+    Recorded: 2483
     Recorded: 2622
     Recorded: 2626
     Recorded: 2663
@@ -200,7 +200,7 @@ STV 2483
 A, Gnomeregan? 2683
 Alterac 2684
     Recorded: 2685
-STV 2687
+    Recorded: 2687
     Recorded: 2688
     Recorded: 2697
 H, Hillsbrad 2698
@@ -738,7 +738,7 @@ H, TB 8401
     Recorded: 8665
     Recorded: 8666
     Recorded: 8678
-STV 8679
+    Recorded: 8679
     Recorded: 8681
     Recorded: 8878
     Recorded: 8931
@@ -880,7 +880,7 @@ Darkmoon Faire 14845
 Darkmoon Faire 14846
 Darkmoon Faire 14847
 Darkmoon Faire 14860
-STV 14921
+    Recorded: 14921
 Alterac 14961
 Alterac 14962
     Recorded: 14963

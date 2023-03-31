@@ -613,10 +613,6 @@ Removed? 8999
 Removed? 11111
 Removed? 18898
 Removed? 33867
-STV 2483
-STV 2687
-STV 8679
-STV 14921
 SW, Winter Veil? 13435
 SW, Winter Veil? 13436
 Scholomance Island 11278
