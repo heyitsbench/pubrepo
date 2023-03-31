@@ -123,7 +123,7 @@ A, Antonio Perelli 844
     Recorded: 1456
     Recorded: 1457
     Recorded: 1459
-A, Menethil Harbor 1460
+    Recorded: 1460
     Recorded: 1461
     Recorded: 1462
     Recorded: 1463
@@ -202,7 +202,7 @@ Alterac 2684
     Recorded: 2685
 STV 2687
     Recorded: 2688
-A, Redridge 2697
+    Recorded: 2697
 H, Hillsbrad 2698
     Recorded: 2699
     Recorded: 2803
@@ -273,8 +273,8 @@ Removed? 2942
     Recorded: 3092
     Recorded: 3093
     Recorded: 3095
-Redridge 3096
-A, Redridge 3097
+    Recorded: 3096
+    Recorded: 3097
     Recorded: 3133
 Duskwood 3134
     Recorded: 3135
@@ -361,11 +361,11 @@ H, Barrens 3443
     Recorded: 3500
     Recorded: 3518
     Recorded: 3522
-A, Silverpine 3528
+    Recorded: 3528
 Hostile 3529
-A, Silverpine 3530
-A, Silverpine 3532
-Greymane Wall 3534
+    Recorded: 3530
+    Recorded: 3532
+    Recorded: 3534
 Durnholde Keep 3536
     Recorded: 3537
     Recorded: 3539
@@ -386,8 +386,8 @@ Durnholde Keep 3536
     Recorded: 3561
     Recorded: 3562
     Recorded: 3572
-A, Silverpine 3577
-A, Silverpine 3578
+    Recorded: 3577
+    Recorded: 3578
     Recorded: 3587
     Recorded: 3588
     Recorded: 3589

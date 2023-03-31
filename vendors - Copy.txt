@@ -50,7 +50,6 @@ A, Crystalsong Forest 30241
 A, Crystalsong Forest 30244
 A, Crystalsong Forest 30255
 A, Crystalsong Forest 30257
-A, Silverpine 3578
 A, Dalaran 28686
 A, Dalaran 35494
 A, Dalaran 37942
@@ -106,7 +105,7 @@ A, Hellfire 19004
 A, Hellfire 19314
 A, Hellfire 20231
 A, Hillsbrad 2404
-A, Hillsbrad 15199
+A, Hillsbrad 15199, Hallow's End
 A, Hillsbrad, Might not exist 37433
 A, Honor Hold 16823
 A, Honor Hold 16826
@@ -177,7 +176,6 @@ A, Ironforge Gates, Brewfest 23710
 A, Kharanos 7955
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
-A, Menethil Harbor 1460
 A, Nagrand 18914
 A, Nagrand 19012
 A, Nagrand 19014
@@ -186,8 +184,6 @@ A, Nagrand 19021
 A, Nagrand 20096
 A, Nagrand 20240
 A, Quest reward companion 33238
-A, Redridge 2697
-A, Redridge 3097
 A, SMV 19351
 A, SMV 19352
 A, SMV 19370
@@ -224,10 +220,6 @@ A, SW? 34082
 A, SW? 34083
 A, SW? 40607
 A, Searing Gorge 11703
-A, Silverpine 3528
-A, Silverpine 3530
-A, Silverpine 3532
-A, Silverpine 3577
 A, Southshore 2357
 A, Starter Zones, Midsummer Fire Festival 26123
 A, Starter towns, Noblegarden 32836
@@ -390,7 +382,6 @@ Gadgetzan 33939
 Gadgetzan 34088
 Gadgetzan 34090
 Gadgetzan 34093
-Greymane Wall 3534
 H, AV 2225
 H, AV 3343
 H, AV 3625
@@ -616,7 +607,6 @@ Org, Winter Veil? 13420
 Promotional companion? 27914
 Quel'Danas 25046
 Ratchet, Midsummer Fire Festival? 8121
-Redridge 3096
 Removed? 2942
 Removed? 4207
 Removed? 8999
