@@ -42,10 +42,6 @@ A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
 A, Capital Gates, Brewfest 23482
-A, Crystalsong Forest 30241
-A, Crystalsong Forest 30244
-A, Crystalsong Forest 30255
-A, Crystalsong Forest 30257
 A, Dalaran 28686
 A, Dalaran 35494
 A, Dalaran 37942
@@ -67,22 +63,6 @@ A, Exodar Gates, Pilgrim's Bounty 34783
 A, Feralas 7879
 A, Gnomeregan 9676
 A, Gnomeregan? 2683
-A, Grizzly Hills 26229
-A, Grizzly Hills 26374
-A, Grizzly Hills 26375
-A, Grizzly Hills 26382
-A, Grizzly Hills 26388
-A, Grizzly Hills 27062
-A, Grizzly Hills 27066
-A, Grizzly Hills 27070
-A, Grizzly Hills 27071
-A, Grizzly Hills 27088
-A, Grizzly Hills 27089
-A, Grizzly Hills 27760
-A, Grizzly Hills 29244
-A, Grizzly Hills 29252
-A, Grizzly Hills 29270
-A, Grizzly Hills 29275
 A, Halaa 18822
 A, Halaa 21485
 A, Halaa 21487
@@ -97,42 +77,7 @@ A, Hellfire 20231
 A, Hillsbrad 2404
 A, Hillsbrad 15199, Hallow's End
 A, Hillsbrad, Might not exist 37433
-A, Honor Hold 16823
-A, Honor Hold 16826
-A, Honor Hold 16829
-A, Honor Hold 17657
-A, Honor Hold 18266
-A, Honor Hold 18771
-A, Honor Hold 18772
-A, Honor Hold 18773
-A, Honor Hold 18774
-A, Honor Hold 18775
-A, Honor Hold 18802
-A, Honor Hold 18987
-A, Honor Hold 22227
-A, Honor Hold 30734
-A, Honor Hold 35101
-A, Howling Fjord 23731
-A, Howling Fjord 23732
-A, Howling Fjord 23734
-A, Howling Fjord 23735
-A, Howling Fjord 23737
-A, Howling Fjord 23802
-A, Howling Fjord 23862
-A, Howling Fjord 23908
-A, Howling Fjord 23937
-A, Howling Fjord 24052
-A, Howling Fjord 24053
-A, Howling Fjord 24054
-A, Howling Fjord 24057
-A, Howling Fjord 24333
-A, Howling Fjord 24356
-A, Howling Fjord 26900
-A, Howling Fjord 26901
-A, Howling Fjord 26908
-A, Howling Fjord 26916
-A, Howling Fjord 26934
-A, Howling Fjord 32773
+A, Howling Fjord 23734, doesn't sell?
 A, ICC 37903
 A, ICC 37904
 A, ICC 37997
@@ -213,10 +158,6 @@ A, Southshore 2357
 A, Starter Zones, Midsummer Fire Festival 26123
 A, Starter towns, Noblegarden 32836
 A, Storm Peaks 29744
-A, Storm Peaks 29922
-A, Storm Peaks 29923
-A, Storm Peaks 29925
-A, Storm Peaks 29926
 A, Terokkar 19038
 A, Terokkar 19042
 A, Terokkar 19053

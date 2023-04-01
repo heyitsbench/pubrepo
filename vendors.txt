@@ -1008,9 +1008,9 @@ Silithus 16543, Scourge invasion vendor
     Recorded: 16782
 Unknown, Scourge Invasion 16786
 A, Hellfire 16798
-A, Honor Hold 16823
-A, Honor Hold 16826
-A, Honor Hold 16829
+    Recorded: 16823
+    Recorded: 16826
+    Recorded: 16829
     Recorded: 16860
     Recorded: 16917
     Recorded: 16918
@@ -1036,7 +1036,7 @@ A, Exodar 17584
     Recorded: 17630
     Recorded: 17655
     Recorded: 17656
-A, Honor Hold 17657
+    Recorded: 17657
     Recorded: 17667
     Recorded: 17904
     Recorded: 17929
@@ -1054,7 +1054,7 @@ A, Zangarmarsh 18019
     Recorded: 18245
 A, Zangarmarsh 18251
     Recorded: 18255
-A, Honor Hold 18266
+    Recorded: 18266
     Recorded: 18267
     Recorded: 18277
     Recorded: 18278
@@ -1075,12 +1075,12 @@ A, Zangarmarsh 18581
     Recorded: 18753
     Recorded: 18754
     Recorded: 18756
-A, Honor Hold 18771
-A, Honor Hold 18772
-A, Honor Hold 18773
-A, Honor Hold 18774
-A, Honor Hold 18775
-A, Honor Hold 18802
+    Recorded: 18771
+    Recorded: 18772
+    Recorded: 18773
+    Recorded: 18774
+    Recorded: 18775
+    Recorded: 18802
     Recorded: 18810
     Recorded: 18811
     Recorded: 18821
@@ -1102,7 +1102,7 @@ H, Eversong Woods 18954
     Recorded: 18959
     Recorded: 18960
     Recorded: 18962
-A, Honor Hold 18987
+    Recorded: 18987
     Recorded: 18988
 A, Hellfire 18990
     N/A? 18991
@@ -1296,7 +1296,7 @@ Wyrmcult, Blade's Edge 22099
     Recorded: 22212
     Recorded: 22213
     Recorded: 22225
-A, Honor Hold 22227
+    Recorded: 22227
     Recorded: 22264
     Recorded: 22266
     Recorded: 22270
@@ -1369,26 +1369,26 @@ H? Org Gates, Brewfest 23606
     Recorded: 23699
 A, Ironforge Gates, Brewfest 23710
     Recorded: 23724
-A, Howling Fjord 23731
-A, Howling Fjord 23732
-A, Howling Fjord 23734
-A, Howling Fjord 23735
-A, Howling Fjord 23737
+    Recorded: 23731
+    Recorded: 23732
+A, Howling Fjord 23734, doesn't sell?
+    Recorded: 23735
+    Recorded: 23737
     Recorded: 23748
-A, Howling Fjord 23802
-A, Howling Fjord 23862
+    Recorded: 23802
+    Recorded: 23862
     Recorded: 23896
 Zul'Aman 23897
-A, Howling Fjord 23908
-A, Howling Fjord 23937
+    Recorded: 23908
+    Recorded: 23937
     Recorded: 23995
     Removed? 23995
 H, Howling Fjord 24028
 H, Howling Fjord 24033
-A, Howling Fjord 24052
-A, Howling Fjord 24053
-A, Howling Fjord 24054
-A, Howling Fjord 24057
+    Recorded: 24052
+    Recorded: 24053
+    Recorded: 24054
+    Recorded: 24057
 H, Howling Fjord 24141
 H, Howling Fjord 24147
 H, Howling Fjord 24148
@@ -1398,14 +1398,14 @@ H, Howling Fjord 24149
 H, Howling Fjord 24291
     Recorded: 24313
 H, Howling Fjord 24330
-A, Howling Fjord 24333
+    Recorded: 24333
 H, Howling Fjord 24341
 H, Howling Fjord 24342
 H, Howling Fjord 24343
 H, Howling Fjord 24347
 H, Howling Fjord 24348
 H, Howling Fjord 24349
-A, Howling Fjord 24356
+    Recorded: 24356
     Recorded: 24357
 Area 52 24392
 Zul'Aman 24408
@@ -1464,7 +1464,7 @@ Dun Morogh Shore 26081
     Recorded: 26110
 A, Starter Zones, Midsummer Fire Festival 26123
 H, Starter Zones, Midsummer Fire Festival 26124
-A, Grizzly Hills 26229
+    Recorded: 26229
 Test realm? 26300
 Test realm? 26301
 Test realm? 26302
@@ -1475,13 +1475,13 @@ Test realm? 26306
 Test realm? 26308
 Test realm? 26309
 Area 52 26352
-A, Grizzly Hills 26374
-A, Grizzly Hills 26375
+    Recorded: 26374
+    Recorded: 26375
 Likely removed 26378
-A, Grizzly Hills 26382
+    Recorded: 26382
 Likely removed 26383
     Removed? 26384
-A, Grizzly Hills 26388
+    Recorded: 26388
 A, SW? 26393
 A, SW? 26394
 A, SW? 26395
@@ -1527,11 +1527,11 @@ Likely removed 26759
 Likely removed 26765
     Recorded: 26868
     Recorded: 26898
-A, Howling Fjord 26900
-A, Howling Fjord 26901
-A, Howling Fjord 26908
-A, Howling Fjord 26916
-A, Howling Fjord 26934
+    Recorded: 26900
+    Recorded: 26901
+    Recorded: 26908
+    Recorded: 26916
+    Recorded: 26934
     Recorded: 26936
     Recorded: 26938
     Recorded: 26939
@@ -1570,15 +1570,15 @@ A, Dragonblight 27045
     Recorded: 27055
     Recorded: 27057
     Recorded: 27058
-A, Grizzly Hills 27062
+    Recorded: 27062
     Recorded: 27063
-A, Grizzly Hills 27066
+    Recorded: 27066
     Recorded: 27067
     Recorded: 27069
-A, Grizzly Hills 27070
-A, Grizzly Hills 27071
-A, Grizzly Hills 27088
-A, Grizzly Hills 27089
+    Recorded: 27070
+    Recorded: 27071
+    Recorded: 27088
+    Recorded: 27089
     Recorded: 27125
     Recorded: 27132
     Recorded: 27133
@@ -1620,7 +1620,7 @@ Aldor, Shattrath 27711
     Recorded: 27721
     Recorded: 27722
 H, Grizzly Hills 27730
-A, Grizzly Hills 27760
+    Recorded: 27760
 IF/Org, Brew of the Month Jan 27806
 IF/Org, Brew of the Month Feb 27810
 IF/Org, Brew of the Month Mar 27811
@@ -1719,12 +1719,12 @@ EPL 29203
 EPL 29205
 EPL 29207
 EPL 29208
-A, Grizzly Hills 29244
-A, Grizzly Hills 29252
+    Recorded: 29244
+    Recorded: 29252
 H, Grizzly Hills 29253
 Dalaran 29261, 9 pm event?
-A, Grizzly Hills 29270
-A, Grizzly Hills 29275
+    Recorded: 29270
+    Recorded: 29275
     Recorded: 29277
 A, SW 29288
 A, SW 29291
@@ -1767,10 +1767,10 @@ A, Storm Peaks 29744
     Recorded: 29907
     Recorded: 29908
     Recorded: 29909
-A, Storm Peaks 29922
-A, Storm Peaks 29923
-A, Storm Peaks 29925
-A, Storm Peaks 29926
+    Recorded: 29922
+    Recorded: 29923
+    Recorded: 29925
+    Recorded: 29926
     Recorded: 29944
     Recorded: 29945
     Recorded: 29947
@@ -1791,13 +1791,13 @@ A, Storm Peaks 29926
     Recorded: 30070
     Recorded: 30098
     Recorded: 30239
-A, Crystalsong Forest 30241
-A, Crystalsong Forest 30244
+    Recorded: 30241
+    Recorded: 30244
     Recorded: 30253
     Recorded: 30254
-A, Crystalsong Forest 30255
+    Recorded: 30255
     Recorded: 30256
-A, Crystalsong Forest 30257
+    Recorded: 30257
     Recorded: 30306
     Recorded: 30307
     Recorded: 30309
@@ -1824,7 +1824,7 @@ A, Wintergrasp 30489
     Recorded: 30731
     Recorded: 30732
     Recorded: 30733
-A, Honor Hold 30734
+    Recorded: 30734
     Recorded: 30735
 Ogri'la 30792
 Ogri'la 30796
@@ -1929,7 +1929,7 @@ A, Mammoth Mount 32639
     Recorded: 32763
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
-A, Howling Fjord 32773
+    Recorded: 32773
 H, Howling Fjord 32774
     Recorded: 32832
     Recorded: 32834
@@ -2068,7 +2068,7 @@ H, Silvermoon Gates, Pilgrim's Bounty 34787
 A, Icecrown 34881
 Icecrown 34885
     Recorded: 35099
-A, Honor Hold 35101
+    Recorded: 35101
     Recorded: 35131
     Recorded: 35132
 A, SW Gates, Pilgrim's Bounty 35337
