@@ -813,7 +813,7 @@ H, AV 12097
     Recorded: 12196
     Recorded: 12245
     Recorded: 12246
-EPL 12384
+    Recorded: 12384
 A, BGs/SW? 12777
     Recorded: 12778
     Recorded: 12781
@@ -1053,7 +1053,7 @@ A, Zangarmarsh 18019
     Recorded: 18243
     Recorded: 18245
 A, Zangarmarsh 18251
-Karazhan Door 18255
+    Recorded: 18255
 A, Honor Hold 18266
     Recorded: 18267
     Recorded: 18277
@@ -1406,7 +1406,7 @@ H, Howling Fjord 24347
 H, Howling Fjord 24348
 H, Howling Fjord 24349
 A, Howling Fjord 24356
-A, Valiance Keep 24357
+    Recorded: 24357
 Area 52 24392
 Zul'Aman 24408
 Zul'Aman 24409
@@ -1447,8 +1447,8 @@ Gadgetzan 25178
 Aldor, Shattrath 25195
     Recorded: 25196
     Recorded: 25206
-A, Valiance Keep 25245
-A, Valiance Keep 25248
+    Recorded: 25245
+    Recorded: 25248
     Recorded: 25274
     Recorded: 25278
     Recorded: 25314
@@ -1493,10 +1493,10 @@ H, Org? 26398
     Recorded: 26567
     Recorded: 26568
     Recorded: 26569
-A, Borean Tundra 26596
-A, Borean Tundra 26598
-A, Borean Tundra 26599
-A, Borean Tundra 26600
+    Recorded: 26596
+    Recorded: 26598
+    Recorded: 26599
+    Recorded: 26600
     Recorded: 26680
     Recorded: 26697
     Recorded: 26707
@@ -1543,9 +1543,9 @@ H, Howling Fjord 26959
     Recorded: 26968
     Recorded: 26977
 H, Howling Fjord 26984
-A, Valiance Keep 26995
-A, Valiance Keep 27011
-A, Valiance Keep 27012
+    Recorded: 26995
+    Recorded: 27011
+    Recorded: 27012
     Recorded: 27019
     Recorded: 27021
     Recorded: 27022
@@ -1563,12 +1563,12 @@ A, Dragonblight 27042
 A, Dragonblight 27043
 A, Dragonblight 27044
 A, Dragonblight 27045
-A, Dragonblight 27051
-A, Dragonblight 27052
-A, Dragonblight 27053
-A, Dragonblight 27054
-A, Dragonblight 27055
-A, Dragonblight 27057
+    Recorded: 27051
+    Recorded: 27052
+    Recorded: 27053
+    Recorded: 27054
+    Recorded: 27055
+    Recorded: 27057
     Recorded: 27058
 A, Grizzly Hills 27062
     Recorded: 27063
@@ -1804,8 +1804,8 @@ A, Crystalsong Forest 30257
     Recorded: 30310
     Recorded: 30311
     Recorded: 30336
-A, Icecrown 30345
-A, Icecrown 30346
+    Recorded: 30345
+    Recorded: 30346
     Recorded: 30431
     Recorded: 30434
     Recorded: 30436
@@ -1918,7 +1918,7 @@ Gadgetzan 32407
     Recorded: 32533
     Recorded: 32538
     Recorded: 32540
-A, Valiance Keep 32564
+    Recorded: 32564
     Recorded: 32565
     Recorded: 32594
     Recorded: 32631
@@ -2069,7 +2069,7 @@ A, Icecrown 34881
 Icecrown 34885
     Recorded: 35099
 A, Honor Hold 35101
-A, Valiance Keep 35131
+    Recorded: 35131
     Recorded: 35132
 A, SW Gates, Pilgrim's Bounty 35337
 A, Darnassus Gates, Pilgrim's Bounty 35338

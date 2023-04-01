@@ -41,10 +41,6 @@ A, Blade's Edge 21110
 A, Blade's Edge 21111
 A, Blade's Edge 21112
 A, Blade's Edge 21113
-A, Borean Tundra 26596
-A, Borean Tundra 26598
-A, Borean Tundra 26599
-A, Borean Tundra 26600
 A, Capital Gates, Brewfest 23482
 A, Crystalsong Forest 30241
 A, Crystalsong Forest 30244
@@ -66,12 +62,6 @@ A, Dragonblight 27042
 A, Dragonblight 27043
 A, Dragonblight 27044
 A, Dragonblight 27045
-A, Dragonblight 27051
-A, Dragonblight 27052
-A, Dragonblight 27053
-A, Dragonblight 27054
-A, Dragonblight 27055
-A, Dragonblight 27057
 A, Exodar 17584
 A, Exodar Gates, Pilgrim's Bounty 34783
 A, Feralas 7879
@@ -159,7 +149,6 @@ A, IF Gates, Pilgrim's Bounty 35340
 A, IF, Brewfest 27478
 A, IF, Hallow's End 15353
 A, IF, Midsummer Fire Festival? 8117
-A, Icecrown 30345
 A, Icecrown 30346
 A, Icecrown 31776
 A, Icecrown 33307
@@ -234,14 +223,6 @@ A, Terokkar 19053
 A, Terokkar 19056
 A, Terokkar 19296
 A, Terokkar 19773
-A, Valiance Keep 24357
-A, Valiance Keep 25245
-A, Valiance Keep 25248
-A, Valiance Keep 26995
-A, Valiance Keep 27011
-A, Valiance Keep 27012
-A, Valiance Keep 32564
-A, Valiance Keep 35131
 A, WPL 11056
 A, Wintergrasp 30488
 A, Wintergrasp 30489
@@ -352,7 +333,6 @@ Durnholde Keep 3536
 Duskwood 2481
 Duskwood 3134
 Dustwallow Marsh 12919
-EPL 12384
 EPL 28500
 EPL 29203
 EPL 29205
@@ -564,7 +544,6 @@ IF/Org, Brew of the Month Sep 27817
 Icecrown 34885
 Karazhan 16388
 Karazhan 17518
-Karazhan Door 18255
 King, Dire Maul 14322
 Light's Hope 11536
 Light's Hope 16376
