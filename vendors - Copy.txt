@@ -67,13 +67,7 @@ A, Halaa 18822
 A, Halaa 21485
 A, Halaa 21487
 A, Halaa 21488
-A, Hellfire 16798
-A, Hellfire 18906
-A, Hellfire 18990
-A, Hellfire 19001
-A, Hellfire 19004
-A, Hellfire 19314
-A, Hellfire 20231
+A, Hellfire 18990, doesn't sell?
 A, Hillsbrad 2404
 A, Hillsbrad 15199, Hallow's End
 A, Hillsbrad, Might not exist 37433
@@ -171,16 +165,10 @@ A, Wintergrasp 31051
 A, Wintergrasp 32294
 A, Wintergrasp? 39172
 A, Winterspring 10618
-A, Zangarmarsh 18005
-A, Zangarmarsh 18006
 A, Zangarmarsh 18009
 A, Zangarmarsh 18010
-A, Zangarmarsh 18019
-A, Zangarmarsh 18251
-A, Zangarmarsh 18581
+A, Zangarmarsh 18251, doesn't sell?
 A, Zangarmarsh 18908
-A, Zangarmarsh 19694
-A, Zangarmarsh 19722
 A, Zangarmarsh 20028
 A? Capital Gates, Brewfest 23510
 A? IF Gates, Brewfest 23521

@@ -1007,7 +1007,7 @@ Silithus 16543, Scourge invasion vendor
     Recorded: 16768
     Recorded: 16782
 Unknown, Scourge Invasion 16786
-A, Hellfire 16798
+    Recorded: 16798
     Recorded: 16823
     Recorded: 16826
     Recorded: 16829
@@ -1041,18 +1041,18 @@ A, Exodar 17584
     Recorded: 17904
     Recorded: 17929
     Recorded: 17930
-A, Zangarmarsh 18005
-A, Zangarmarsh 18006
+    Recorded: 18005
+    Recorded: 18006
 A, Zangarmarsh 18009
 A, Zangarmarsh 18010
     Recorded: 18011
     Recorded: 18015
     Recorded: 18017
     Recorded: 18018
-A, Zangarmarsh 18019
+    Recorded: 18019
     Recorded: 18243
     Recorded: 18245
-A, Zangarmarsh 18251
+A, Zangarmarsh 18251, doesn't sell?
     Recorded: 18255
     Recorded: 18266
     Recorded: 18267
@@ -1066,7 +1066,7 @@ Zangarmarsh, Sporeggar 18382
     Recorded: 18525
     Recorded: 18542
     Recorded: 18564
-A, Zangarmarsh 18581
+    Recorded: 18581
     Recorded: 18664
     Recorded: 18672
     Recorded: 18749
@@ -1087,7 +1087,7 @@ A, Zangarmarsh 18581
 A, Halaa 18822
 Removed? 18898
     Recorded: 18905
-A, Hellfire 18906
+    Recorded: 18906
     Recorded: 18907
 A, Zangarmarsh 18908
     Recorded: 18911
@@ -1104,13 +1104,13 @@ H, Eversong Woods 18954
     Recorded: 18962
     Recorded: 18987
     Recorded: 18988
-A, Hellfire 18990
+A, Hellfire 18990, doesn't sell?
     N/A? 18991
     Recorded: 18993
     Recorded: 18997
     Recorded: 18998
-A, Hellfire 19001
-A, Hellfire 19004
+    Recorded: 19001
+    Recorded: 19004
 H, Nagrand 19011
 A, Nagrand 19012
 H, Nagrand 19013
@@ -1150,7 +1150,7 @@ Aldor, Shattrath 19065
     Recorded: 19244
     Recorded: 19245
 A, Terokkar 19296
-A, Hellfire 19314
+    Recorded: 19314
     Recorded: 19315
 Aldor, Shattrath 19321
     Recorded: 19330
@@ -1218,9 +1218,9 @@ Aldor, SMV 19649
     Recorded: 19664
     Recorded: 19678
     Recorded: 19679
-A, Zangarmarsh 19694
+    Recorded: 19694
     Recorded: 19718
-A, Zangarmarsh 19722
+    Recorded: 19722
     Recorded: 19772
 A, Terokkar 19773
     Recorded: 19836
@@ -1238,7 +1238,7 @@ H, Nagrand 20097
     Recorded: 20112
     Recorded: 20121
     Recorded: 20194
-A, Hellfire 20231
+    Recorded: 20231
 A, Nagrand 20240
 H, Nagrand 20241
     Recorded: 20242
