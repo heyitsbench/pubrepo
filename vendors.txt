@@ -1119,15 +1119,15 @@ H, Nagrand 19015
 A, Nagrand 19017
 H, Nagrand 19020
 A, Nagrand 19021
-A, Terokkar 19038
-A, Terokkar 19042
+    Recorded: 19038
+    Recorded: 19042
 Aldor, Shattrath 19043
     Recorded: 19045
     Recorded: 19047
     Recorded: 19049
 Aldor, Shattrath 19050
-A, Terokkar 19053
-A, Terokkar 19056
+    Recorded: 19053
+    Recorded: 19056
 Aldor, Shattrath 19065
     Recorded: 19074
     Recorded: 19182
@@ -1149,7 +1149,7 @@ Aldor, Shattrath 19065
     Recorded: 19243
     Recorded: 19244
     Recorded: 19245
-A, Terokkar 19296
+    Recorded: 19296
     Recorded: 19314
     Recorded: 19315
 Aldor, Shattrath 19321
@@ -1161,13 +1161,13 @@ Aldor, Shattrath 19321
     Recorded: 19343
     Recorded: 19345
     Recorded: 19348
-A, SMV 19351
-A, SMV 19352
-A, SMV 19370
-A, SMV 19371
-A, SMV 19372
-A, SMV 19373
-A, SMV 19374
+    Recorded: 19351
+    Recorded: 19352
+    Recorded: 19370
+    Recorded: 19371
+    Recorded: 19372
+    Recorded: 19373
+    Recorded: 19374
     Recorded: 19383
     Recorded: 19435
     Recorded: 19436
@@ -1180,10 +1180,10 @@ A, SMV 19374
     Recorded: 19473
     Recorded: 19474
     Recorded: 19479
-A, Blade's Edge 19495
-A, Blade's Edge 19497
-A, Blade's Edge 19498
-A, Blade's Edge 19499
+    Recorded: 19495
+    Recorded: 19497
+    Recorded: 19498
+    Recorded: 19499
     Recorded: 19517
     Recorded: 19518
     Recorded: 19520
@@ -1222,7 +1222,7 @@ Aldor, SMV 19649
     Recorded: 19718
     Recorded: 19722
     Recorded: 19772
-A, Terokkar 19773
+    Recorded: 19773
     Recorded: 19836
     Recorded: 19837
     Recorded: 19857
@@ -1249,7 +1249,7 @@ H, Nagrand 20241
     Recorded: 20378
     Recorded: 20463
     Recorded: 20494
-A, SMV 20510
+    Recorded: 20510
     Recorded: 20613
 Aldor, Shattrath 20616
 Aldor, Shattrath 20807
@@ -1271,10 +1271,10 @@ Aldor, Shattrath 20807
     Recorded: 21084
     Recorded: 21085
     Recorded: 21086
-A, Blade's Edge 21110
-A, Blade's Edge 21111
-A, Blade's Edge 21112
-A, Blade's Edge 21113
+    Recorded: 21110
+    Recorded: 21111
+    Recorded: 21112
+    Recorded: 21113
     Recorded: 21145
     Recorded: 21172
     Recorded: 21183
@@ -1726,8 +1726,8 @@ Dalaran 29261, 9 pm event?
     Recorded: 29270
     Recorded: 29275
     Recorded: 29277
-A, SW 29288
-A, SW 29291
+    Recorded: 29288
+    Recorded: 29291
     Recorded: 29476
     Recorded: 29478
     Recorded: 29491

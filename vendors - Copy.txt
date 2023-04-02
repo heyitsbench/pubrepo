@@ -33,14 +33,6 @@ A, Antonio Perelli 844
 A, BGs/SW? 12777
 A, BGs/SW? 12782
 A, Badlands 2910
-A, Blade's Edge 19495
-A, Blade's Edge 19497
-A, Blade's Edge 19498
-A, Blade's Edge 19499
-A, Blade's Edge 21110
-A, Blade's Edge 21111
-A, Blade's Edge 21112
-A, Blade's Edge 21113
 A, Capital Gates, Brewfest 23482
 A, Dalaran 28686
 A, Dalaran 35494
@@ -112,19 +104,9 @@ A, Nagrand 19021
 A, Nagrand 20096
 A, Nagrand 20240
 A, Quest reward companion 33238
-A, SMV 19351
-A, SMV 19352
-A, SMV 19370
-A, SMV 19371
-A, SMV 19372
-A, SMV 19373
-A, SMV 19374
-A, SMV 20510
 A, SW 14450
 A, SW 25010
 A, SW 25012
-A, SW 29288
-A, SW 29291
 A, SW 34075
 A, SW 34078
 A, SW 34081
@@ -152,12 +134,6 @@ A, Southshore 2357
 A, Starter Zones, Midsummer Fire Festival 26123
 A, Starter towns, Noblegarden 32836
 A, Storm Peaks 29744
-A, Terokkar 19038
-A, Terokkar 19042
-A, Terokkar 19053
-A, Terokkar 19056
-A, Terokkar 19296
-A, Terokkar 19773
 A, WPL 11056
 A, Wintergrasp 30488
 A, Wintergrasp 30489
