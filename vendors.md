@@ -1107,7 +1107,7 @@ H, Eversong Woods 18954
 |[18987](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[18988](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, Hellfire 18990, doesn't sell?
-    N/A? 18991
+H, Hellfire 18991, doesn't sell?
 |[18993](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[18997](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[18998](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
