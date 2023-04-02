@@ -1,5 +1,5 @@
-|ID|Name|Location|Faction|Screenshots/Completed|
-|--|----|--------|-----------|---------|
+|ID |Name|Location|Faction|Screenshots/Completed|
+|:-:|:--:|:------:|:-----:|:-------------------:|
 |[54](https://wowgaming.altervista.org/aowow/?npc=54)||||<li> - [X] </li>|
 |66||||<li> - [X] </li>|
 |74||||<li> - [X] </li>|
