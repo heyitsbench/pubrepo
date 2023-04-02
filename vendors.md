@@ -1384,7 +1384,6 @@ Zul'Aman 23897
 |[23908](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23937](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23995](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-    Removed? 23995
 H, Howling Fjord 24028
 H, Howling Fjord 24033
 |[24052](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
