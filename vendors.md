@@ -2079,11 +2079,11 @@ H, UC Courtyard, Pilgrim's Bounty 35341
 H, Org Gates, Pilgrim's Bounty 35342
 H, TB Gates, Pilgrim's Bounty 35343
 A, Dalaran 35494
-    NYI 35495
-    NYI 35496
-    NYI 35497
-    NYI 35498
-    NYI 35500
+NYI 35495
+NYI 35496
+NYI 35497
+NYI 35498
+NYI 35500
 |[35507](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[35508](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, Icecrown 35573
@@ -2121,7 +2121,7 @@ A, ICC 37903
 A, ICC 37904
 H, ICC 37935
 H, ICC 37936
-    NYI 37941
+NYI 37941
 A, Dalaran 37942
 H, ICC 37991
 H, ICC 37992
@@ -2140,5 +2140,5 @@ H, ICC 38841
 ICC 38858
 A, Wintergrasp? 39172
 H, Wintergrasp? 39173
-    NYI 40160
+NYI 40160
 A, SW? 40607
