@@ -1481,7 +1481,7 @@ Area 52 26352
 Likely removed 26378
 |[26382](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Likely removed 26383
-    Removed? 26384
+Likely removed 26384
 |[26388](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, SW? 26393
 A, SW? 26394
