@@ -1722,7 +1722,7 @@ EPL 29208
     Recorded: 29244
     Recorded: 29252
 H, Grizzly Hills 29253
-Dalaran 29261, 9 pm event?
+    Recorded: 29261
     Recorded: 29270
     Recorded: 29275
     Recorded: 29277
