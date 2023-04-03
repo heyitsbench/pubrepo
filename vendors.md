@@ -1646,7 +1646,7 @@ Promotional companion? 27914
 BRD 28225
 |[28344](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28347](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-EPL 28500
+|[28500](https://wowgaming.altervista.org/aowow/?npc=28500)|Master Siegesmith Corvus|Acherus|Neutral|<li> - [X] </li>|
 Zul'Drak 28589
 |[28682](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28685](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1668,7 +1668,7 @@ Dalaran 28701, jewelcrafting?
 |[28727](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28728](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28742](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-DK Zone? 28760
+|[28760](https://wowgaming.altervista.org/aowow/?npc=28760)|Hargus the Geist|Acherus|Neutral|<li> - [X] </li>|
 |[28776](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28791](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[28792](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1716,10 +1716,10 @@ Sholazar Basin 29015
 |[29049](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[29121](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Sholazar Basin 29122
-EPL 29203
-EPL 29205
-EPL 29207
-EPL 29208
+|[29203](https://wowgaming.altervista.org/aowow/?npc=29203)|Alchemist Karloff|Acherus|Neutral|<li> - [X] </li>|
+|[29205](https://wowgaming.altervista.org/aowow/?npc=29205)|Corpulous|Acherus|Neutral|<li> - [X] </li>|
+|[29207](https://wowgaming.altervista.org/aowow/?npc=29207)|Gangrenus|Acherus|Neutral|<li> - [X] </li>|
+|[29208](https://wowgaming.altervista.org/aowow/?npc=29208)|Fester|Acherus|Neutral|<li> - [X] </li>|
 |[29244](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[29252](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 H, Grizzly Hills 29253
