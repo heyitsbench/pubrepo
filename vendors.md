@@ -106,67 +106,67 @@
 |[1326](https://wowgaming.altervista.org/aowow/?npc=1326)  ||||<li> - [X] </li>|
 |[1328](https://wowgaming.altervista.org/aowow/?npc=1328)  ||||<li> - [X] </li>|
 |[1333](https://wowgaming.altervista.org/aowow/?npc=1333)  ||||<li> - [X] </li>|
-|[1339](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1341](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1347](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1348](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1349](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1350](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1351](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1362](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1381](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1407](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1441](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1448](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1450](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1452](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1453](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1454](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1456](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1457](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1459](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1460](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1461](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1462](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1463](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1464](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1465](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1469](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1471](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1474](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1645](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1650](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1668](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1669](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1670](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1671](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1672](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1673](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1678](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1682](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1684](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1685](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1686](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1687](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1690](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1691](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1692](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1694](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1695](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1697](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[1698](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2046](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2084](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2113](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2115](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2116](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2117](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2118](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2134](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2135](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2136](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2137](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2140](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[1339](https://wowgaming.altervista.org/aowow/?npc=1339)  ||||<li> - [X] </li>|
+|[1341](https://wowgaming.altervista.org/aowow/?npc=1341)  ||||<li> - [X] </li>|
+|[1347](https://wowgaming.altervista.org/aowow/?npc=1347)  ||||<li> - [X] </li>|
+|[1348](https://wowgaming.altervista.org/aowow/?npc=1348)  ||||<li> - [X] </li>|
+|[1349](https://wowgaming.altervista.org/aowow/?npc=1349)  ||||<li> - [X] </li>|
+|[1350](https://wowgaming.altervista.org/aowow/?npc=1350)  ||||<li> - [X] </li>|
+|[1351](https://wowgaming.altervista.org/aowow/?npc=1351)  ||||<li> - [X] </li>|
+|[1362](https://wowgaming.altervista.org/aowow/?npc=1362)  ||||<li> - [X] </li>|
+|[1381](https://wowgaming.altervista.org/aowow/?npc=1381)  ||||<li> - [X] </li>|
+|[1407](https://wowgaming.altervista.org/aowow/?npc=1407)  ||||<li> - [X] </li>|
+|[1441](https://wowgaming.altervista.org/aowow/?npc=1441)  ||||<li> - [X] </li>|
+|[1448](https://wowgaming.altervista.org/aowow/?npc=1448)  ||||<li> - [X] </li>|
+|[1450](https://wowgaming.altervista.org/aowow/?npc=1450)  ||||<li> - [X] </li>|
+|[1452](https://wowgaming.altervista.org/aowow/?npc=1452)  ||||<li> - [X] </li>|
+|[1453](https://wowgaming.altervista.org/aowow/?npc=1453)  ||||<li> - [X] </li>|
+|[1454](https://wowgaming.altervista.org/aowow/?npc=1454)  ||||<li> - [X] </li>|
+|[1456](https://wowgaming.altervista.org/aowow/?npc=1456)  ||||<li> - [X] </li>|
+|[1457](https://wowgaming.altervista.org/aowow/?npc=1457)  ||||<li> - [X] </li>|
+|[1459](https://wowgaming.altervista.org/aowow/?npc=1459)  ||||<li> - [X] </li>|
+|[1460](https://wowgaming.altervista.org/aowow/?npc=1460)  ||||<li> - [X] </li>|
+|[1461](https://wowgaming.altervista.org/aowow/?npc=1461)  ||||<li> - [X] </li>|
+|[1462](https://wowgaming.altervista.org/aowow/?npc=1462)  ||||<li> - [X] </li>|
+|[1463](https://wowgaming.altervista.org/aowow/?npc=1463)  ||||<li> - [X] </li>|
+|[1464](https://wowgaming.altervista.org/aowow/?npc=1464)  ||||<li> - [X] </li>|
+|[1465](https://wowgaming.altervista.org/aowow/?npc=1465)  ||||<li> - [X] </li>|
+|[1469](https://wowgaming.altervista.org/aowow/?npc=1469)  ||||<li> - [X] </li>|
+|[1471](https://wowgaming.altervista.org/aowow/?npc=1471)  ||||<li> - [X] </li>|
+|[1474](https://wowgaming.altervista.org/aowow/?npc=1474)  ||||<li> - [X] </li>|
+|[1645](https://wowgaming.altervista.org/aowow/?npc=1645)  ||||<li> - [X] </li>|
+|[1650](https://wowgaming.altervista.org/aowow/?npc=1650)  ||||<li> - [X] </li>|
+|[1668](https://wowgaming.altervista.org/aowow/?npc=1668)  ||||<li> - [X] </li>|
+|[1669](https://wowgaming.altervista.org/aowow/?npc=1669)  ||||<li> - [X] </li>|
+|[1670](https://wowgaming.altervista.org/aowow/?npc=1670)  ||||<li> - [X] </li>|
+|[1671](https://wowgaming.altervista.org/aowow/?npc=1671)  ||||<li> - [X] </li>|
+|[1672](https://wowgaming.altervista.org/aowow/?npc=1672)  ||||<li> - [X] </li>|
+|[1673](https://wowgaming.altervista.org/aowow/?npc=1673)  ||||<li> - [X] </li>|
+|[1678](https://wowgaming.altervista.org/aowow/?npc=1678)  ||||<li> - [X] </li>|
+|[1682](https://wowgaming.altervista.org/aowow/?npc=1682)  ||||<li> - [X] </li>|
+|[1684](https://wowgaming.altervista.org/aowow/?npc=1684)  ||||<li> - [X] </li>|
+|[1685](https://wowgaming.altervista.org/aowow/?npc=1685)  ||||<li> - [X] </li>|
+|[1686](https://wowgaming.altervista.org/aowow/?npc=1686)  ||||<li> - [X] </li>|
+|[1687](https://wowgaming.altervista.org/aowow/?npc=1687)  ||||<li> - [X] </li>|
+|[1690](https://wowgaming.altervista.org/aowow/?npc=1690)  ||||<li> - [X] </li>|
+|[1691](https://wowgaming.altervista.org/aowow/?npc=1691)  ||||<li> - [X] </li>|
+|[1692](https://wowgaming.altervista.org/aowow/?npc=1692)  ||||<li> - [X] </li>|
+|[1694](https://wowgaming.altervista.org/aowow/?npc=1694)  ||||<li> - [X] </li>|
+|[1695](https://wowgaming.altervista.org/aowow/?npc=1695)  ||||<li> - [X] </li>|
+|[1697](https://wowgaming.altervista.org/aowow/?npc=1697)  ||||<li> - [X] </li>|
+|[1698](https://wowgaming.altervista.org/aowow/?npc=1698)  ||||<li> - [X] </li>|
+|[2046](https://wowgaming.altervista.org/aowow/?npc=2046)  ||||<li> - [X] </li>|
+|[2084](https://wowgaming.altervista.org/aowow/?npc=2084)  ||||<li> - [X] </li>|
+|[2113](https://wowgaming.altervista.org/aowow/?npc=2113)  ||||<li> - [X] </li>|
+|[2115](https://wowgaming.altervista.org/aowow/?npc=2115)  ||||<li> - [X] </li>|
+|[2116](https://wowgaming.altervista.org/aowow/?npc=2116)  ||||<li> - [X] </li>|
+|[2117](https://wowgaming.altervista.org/aowow/?npc=2117)  ||||<li> - [X] </li>|
+|[2118](https://wowgaming.altervista.org/aowow/?npc=2118)  ||||<li> - [X] </li>|
+|[2134](https://wowgaming.altervista.org/aowow/?npc=2134)  ||||<li> - [X] </li>|
+|[2135](https://wowgaming.altervista.org/aowow/?npc=2135)  ||||<li> - [X] </li>|
+|[2136](https://wowgaming.altervista.org/aowow/?npc=2136)  ||||<li> - [X] </li>|
+|[2137](https://wowgaming.altervista.org/aowow/?npc=2137)  ||||<li> - [X] </li>|
+|[2140](https://wowgaming.altervista.org/aowow/?npc=2140)  ||||<li> - [X] </li>|
 |[2225](https://wowgaming.altervista.org/aowow/?npc=2225)  ||Alterac Valley|Horde|<li> - [ ] </li>|
 |[2264](https://wowgaming.altervista.org/aowow/?npc=2264)  ||||<li> - [X] </li>|
 |[2265](https://wowgaming.altervista.org/aowow/?npc=2265)  ||||<li> - [X] </li>|
@@ -206,36 +206,36 @@
 |[2688](https://wowgaming.altervista.org/aowow/?npc=2688)  ||||<li> - [X] </li>|
 |[2697](https://wowgaming.altervista.org/aowow/?npc=2697)  ||||<li> - [X] </li>|
 |[2698](https://wowgaming.altervista.org/aowow/?npc=2698)  ||Hillsbrad Foothills|Horde|<li> - [ ] </li>|
-|[2699](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2803](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2805](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2806](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2808](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2810](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2812](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2814](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2816](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2819](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2820](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2821](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2832](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2838](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2839](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2840](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2842](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2843](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2844](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2845](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2846](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2847](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2848](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2849](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2908](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2910](https://wowgaming.altervista.org/aowow/?npc=2910)  ||Badlands|Alliance|<li> - [ ] </li>|
-|[2942](https://wowgaming.altervista.org/aowow/?npc=2942)  ||Unknown (R?)|Neutral|<li> - [ ] </li>|
-|[2997](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[2999](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3000](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[2699](https://wowgaming.altervista.org/aowow/?npc=2699)  ||||<li> - [X] </li>|
+|[2803](https://wowgaming.altervista.org/aowow/?npc=2803)  ||||<li> - [X] </li>|
+|[2805](https://wowgaming.altervista.org/aowow/?npc=2805)  ||||<li> - [X] </li>|
+|[2806](https://wowgaming.altervista.org/aowow/?npc=2806)  ||||<li> - [X] </li>|
+|[2808](https://wowgaming.altervista.org/aowow/?npc=2808)  ||||<li> - [X] </li>|
+|[2810](https://wowgaming.altervista.org/aowow/?npc=2810)  ||||<li> - [X] </li>|
+|[2812](https://wowgaming.altervista.org/aowow/?npc=2812)  ||||<li> - [X] </li>|
+|[2814](https://wowgaming.altervista.org/aowow/?npc=2814)  ||||<li> - [X] </li>|
+|[2816](https://wowgaming.altervista.org/aowow/?npc=2816)  ||||<li> - [X] </li>|
+|[2819](https://wowgaming.altervista.org/aowow/?npc=2819)  ||||<li> - [X] </li>|
+|[2820](https://wowgaming.altervista.org/aowow/?npc=2820)  ||||<li> - [X] </li>|
+|[2821](https://wowgaming.altervista.org/aowow/?npc=2821)  ||||<li> - [X] </li>|
+|[2832](https://wowgaming.altervista.org/aowow/?npc=2832)  ||||<li> - [X] </li>|
+|[2838](https://wowgaming.altervista.org/aowow/?npc=2838)  ||||<li> - [X] </li>|
+|[2839](https://wowgaming.altervista.org/aowow/?npc=2839)  ||||<li> - [X] </li>|
+|[2840](https://wowgaming.altervista.org/aowow/?npc=2840)  ||||<li> - [X] </li>|
+|[2842](https://wowgaming.altervista.org/aowow/?npc=2842)  ||||<li> - [X] </li>|
+|[2843](https://wowgaming.altervista.org/aowow/?npc=2843)  ||||<li> - [X] </li>|
+|[2844](https://wowgaming.altervista.org/aowow/?npc=2844)  ||||<li> - [X] </li>|
+|[2845](https://wowgaming.altervista.org/aowow/?npc=2845)  ||||<li> - [X] </li>|
+|[2846](https://wowgaming.altervista.org/aowow/?npc=2846)  ||||<li> - [X] </li>|
+|[2847](https://wowgaming.altervista.org/aowow/?npc=2847)  ||||<li> - [X] </li>|
+|[2848](https://wowgaming.altervista.org/aowow/?npc=2848)  ||||<li> - [X] </li>|
+|[2849](https://wowgaming.altervista.org/aowow/?npc=2849)  ||||<li> - [X] </li>|
+|[2908](https://wowgaming.altervista.org/aowow/?npc=2908)  ||||<li> - [X] </li>|
+|[2910](https://wowgaming.altervista.org/aowow/?npc=2910)  |Prospector Ryedol|Badlands|Alliance|<li> - [ ] </li>|
+|[2942](https://wowgaming.altervista.org/aowow/?npc=2942)  |Dylan Bissel|Unknown (R?)|Neutral|<li> - [ ] </li>|
+|[2997](https://wowgaming.altervista.org/aowow/?npc=2997)  ||||<li> - [X] </li>|
+|[2999](https://wowgaming.altervista.org/aowow/?npc=2999)  ||||<li> - [X] </li>|
+|[3000](https://wowgaming.altervista.org/aowow/?npc=3000)  ||||<li> - [X] </li>|
 |[3002](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3003](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3005](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -278,7 +278,7 @@
 |[3096](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3097](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3133](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3134](https://wowgaming.altervista.org/aowow/?npc=3134)  ||Duskwood|Neutral|<li> - [ ] </li>|
+|[3134](https://wowgaming.altervista.org/aowow/?npc=3134)  |Kzixx|Duskwood|Neutral|<li> - [ ] </li>|
 |[3135](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3138](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3158](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -294,7 +294,7 @@
 |[3168](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3177](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3178](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3180](https://wowgaming.altervista.org/aowow/?npc=3180)  ||Wetlands|Neutral|<li> - [ ] </li>|
+|[3180](https://wowgaming.altervista.org/aowow/?npc=3180)  |Dark Iron Entrepreneur|Wetlands|Neutral|<li> - [ ] </li>|
 |[3186](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3187](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3291](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -316,7 +316,7 @@
 |[3334](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3335](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3342](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3343](https://wowgaming.altervista.org/aowow/?npc=3343)  ||Alterac Valley|Horde|<li> - [ ] </li>|
+|[3343](https://wowgaming.altervista.org/aowow/?npc=3343)  |Grelkor|Alterac Valley|Horde|<li> - [ ] </li>|
 |[3346](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3348](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3349](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -327,7 +327,7 @@
 |[3359](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3360](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3361](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3362](https://wowgaming.altervista.org/aowow/?npc=3362)  ||Orgrimmar|Horde|<li> - [ ] </li>|
+|[3362](https://wowgaming.altervista.org/aowow/?npc=3362)  |Ogunaro Wolfrunner|Orgrimmar|Horde|<li> - [ ] </li>|
 |[3364](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3366](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3367](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -338,9 +338,9 @@
 |[3405](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3409](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3410](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  ||Stonetalon Mountains|Horde|<li> - [ ] </li>|
-|[3413](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  ||The Barrens|Horde|<li> - [ ] </li>|
+|[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  |Denni'ka|Stonetalon Mountains|Horde|<li> - [ ] </li>|
+|[3413](https://wowgaming.altervista.org/aowow/?npc=3413)  |Sovik|Orgrimmar|Horde|<li> - [X] </li>|
+|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub|The Barrens|Horde|<li> - [ ] </li>|
 |[3477](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3479](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3480](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -364,11 +364,11 @@
 |[3518](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3522](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3528](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3529](https://wowgaming.altervista.org/aowow/?npc=3529)  ||Silverpine Forest?|Hostile|<li> - [ ] </li>|
-|[3530](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3532](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3534](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3536](https://wowgaming.altervista.org/aowow/?npc=3536)  ||Durnholde Keep|Neutral|<li> - [X] </li>|
+|[3529](https://wowgaming.altervista.org/aowow/?npc=3529)  |Moonrage Armorer|Silverpine Forest?|Hostile|<li> - [ ] </li>|
+|[3530](https://wowgaming.altervista.org/aowow/?npc=3530)  ||||<li> - [X] </li>|
+|[3532](https://wowgaming.altervista.org/aowow/?npc=3532)  ||||<li> - [X] </li>|
+|[3534](https://wowgaming.altervista.org/aowow/?npc=3534)  ||||<li> - [X] </li>|
+|[3536](https://wowgaming.altervista.org/aowow/?npc=3536)  |Kris Legace|Durnholde Keep|Neutral|<li> - [X] </li>|
 |[3537](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3539](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3540](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -404,13 +404,13 @@
 |[3613](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3614](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3621](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3625](https://wowgaming.altervista.org/aowow/?npc=3625)  ||Alterac Valley|Horde|<li> - [ ] </li>|
-|[3658](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  ||The Barrens|Horde|<li> - [ ] </li>|
-|[3683](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3684](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  ||Mulgore|Horde|<li> - [ ] </li>|
-|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  ||The Barrens|Horde|<li> - [ ] </li>|
+|[3625](https://wowgaming.altervista.org/aowow/?npc=3625)  |Rarck|Alterac Valley|Horde|<li> - [ ] </li>|
+|[3658](https://wowgaming.altervista.org/aowow/?npc=3658)  ||||<li> - [X] </li>|
+|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  |Vrang Wildgore|The Barrens|Horde|<li> - [ ] </li>|
+|[3683](https://wowgaming.altervista.org/aowow/?npc=3683)  ||||<li> - [X] </li>|
+|[3684](https://wowgaming.altervista.org/aowow/?npc=3684)  ||||<li> - [X] </li>|
+|[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  |Harb Clawhoof|Mulgore|Horde|<li> - [ ] </li>|
+|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  |Laer Stepperunner|The Barrens|Horde|<li> - [ ] </li>|
 |[3700](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3705](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3708](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -470,9 +470,9 @@
 |[4195](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4200](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4203](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4207](https://wowgaming.altervista.org/aowow/?npc=4207)  ||Unknown (R?)|Neutral|<li> - [ ] </li>|
-|[4216](https://wowgaming.altervista.org/aowow/?npc=4216)  ||||<li> - [X] </li>|
-|[4217](https://wowgaming.altervista.org/aowow/?npc=4217)  ||Darnassus|Alliance|<li> - [ ] </li>|
+|[4207](https://wowgaming.altervista.org/aowow/?npc=4207)  |Valyen Wolfsong|Unknown (R?)|Neutral|<li> - [ ] </li>|
+|[4216](https://wowgaming.altervista.org/aowow/?npc=4216)  |Chardryn|Darnassus|Alliance|<li> - [X] </li>|
+|[4217](https://wowgaming.altervista.org/aowow/?npc=4217)  |Mathrengyl Bearwalker|Darnassus|Alliance|<li> - [ ] </li>|
 |[4220](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4221](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4222](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -490,15 +490,15 @@
 |[4236](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4240](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4241](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4255](https://wowgaming.altervista.org/aowow/?npc=4255)  ||Alterac Valley|Alliance|<li> - [ ] </li>|
-|[4256](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4257](https://wowgaming.altervista.org/aowow/?npc=4257)  ||Alterac Valley|Alliance|<li> - [ ] </li>|
-|[4259](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4265](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4266](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4305](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4307](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4453](https://wowgaming.altervista.org/aowow/?npc=4453)  ||Shimmering Flats|Neutral|<li> - [ ] </li>|
+|[4255](https://wowgaming.altervista.org/aowow/?npc=4255)  |Brogus Thunderbrew|Alterac Valley|Alliance|<li> - [ ] </li>|
+|[4256](https://wowgaming.altervista.org/aowow/?npc=4256)  ||||<li> - [X] </li>|
+|[4257](https://wowgaming.altervista.org/aowow/?npc=4257)  |Lana Thunderbrew|Alterac Valley|Alliance|<li> - [ ] </li>|
+|[4259](https://wowgaming.altervista.org/aowow/?npc=4259)  ||||<li> - [X] </li>|
+|[4265](https://wowgaming.altervista.org/aowow/?npc=4265)  ||||<li> - [X] </li>|
+|[4266](https://wowgaming.altervista.org/aowow/?npc=4266)  ||||<li> - [X] </li>|
+|[4305](https://wowgaming.altervista.org/aowow/?npc=4305)  ||||<li> - [X] </li>|
+|[4307](https://wowgaming.altervista.org/aowow/?npc=4307)  ||||<li> - [X] </li>|
+|[4453](https://wowgaming.altervista.org/aowow/?npc=4453)  |Wizzle Brassbolts|Shimmering Flats|Neutral|<li> - [ ] </li>|
 |[4553](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4554](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4555](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -532,12 +532,12 @@
 |[4610](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4615](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4617](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4730](https://wowgaming.altervista.org/aowow/?npc=4730)  ||Darnassus|Alliance|<li> - [ ] </li>|
-|[4731](https://wowgaming.altervista.org/aowow/?npc=4731)  ||Brill|Horde|<li> - [ ] </li>|
-|[4775](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4782](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4875](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[4876](https://wowgaming.altervista.org/aowow/?npc=4876)  ||Thousand Needles|Horde|<li> - [ ] </li>|
+|[4730](https://wowgaming.altervista.org/aowow/?npc=4730)  |Lelanai       |Darnassus       |Alliance|<li> - [ ] </li>|
+|[4731](https://wowgaming.altervista.org/aowow/?npc=4731)  |Zachariah Post|Brill           |Horde|<li> - [ ] </li>|
+|[4775](https://wowgaming.altervista.org/aowow/?npc=4775)  |Felicia Doan  |Undercity       |Horde|<li> - [X] </li>|
+|[4782](https://wowgaming.altervista.org/aowow/?npc=4782)  |Truk Wildbeard|The Hinterlands |Alliance|<li> - [X] </li>|
+|[4875](https://wowgaming.altervista.org/aowow/?npc=4875)  |Turhaw        |Thousand Needles|Horde|<li> - [X] </li>|
+|[4876](https://wowgaming.altervista.org/aowow/?npc=4876)  |Jawn Highmesa |Thousand Needles|Horde|<li> - [ ] </li>|
 |[4877](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4878](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4879](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -558,7 +558,7 @@
 |[4954](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4981](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5049](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5052](https://wowgaming.altervista.org/aowow/?npc=)  ||Undercity(?)|Horde|<li> - [ ] </li>|
+|[5052](https://wowgaming.altervista.org/aowow/?npc=5052)  |Edward Remington|Undercity(?)|Horde|<li> - [ ] </li>|
 |[5100](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5101](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5102](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -582,10 +582,10 @@
 |[5129](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5132](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5133](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5134](https://wowgaming.altervista.org/aowow/?npc=5134)  ||Alterac Valley|Alliance|<li> - [ ] </li>|
-|[5135](https://wowgaming.altervista.org/aowow/?npc=5135)  ||Alterac Valley|Alliance|<li> - [ ] </li>|
-|[5138](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5139](https://wowgaming.altervista.org/aowow/?npc=5139)  ||Alterac Valley|Alliance|<li> - [ ] </li>|
+|[5134](https://wowgaming.altervista.org/aowow/?npc=5134)  |Jonivera Farmountain|Alterac Valley|Alliance|<li> - [ ] </li>|
+|[5135](https://wowgaming.altervista.org/aowow/?npc=5135)  |Svalbrad Farmountain|Alterac Valley|Alliance|<li> - [ ] </li>|
+|[5138](https://wowgaming.altervista.org/aowow/?npc=5138)  |Gwina Stonebranch   |Ironforge     |Alliance|<li> - [X] </li>|
+|[5139](https://wowgaming.altervista.org/aowow/?npc=5139)  |Kurdrum Barleybeard |Alterac Valley|Alliance|<li> - [ ] </li>|
 |[5140](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5151](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5152](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -623,10 +623,10 @@
 |[5620](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5688](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5698](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5748](https://wowgaming.altervista.org/aowow/?npc=5748)  ||Silverpine Forest|Horde|<li> - [ ] </li>|
-|[5754](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5757](https://wowgaming.altervista.org/aowow/?npc=5757)  ||Silverpine Forest|Horde|<li> - [ ] </li>|
-|[5758](https://wowgaming.altervista.org/aowow/?npc=5758)  ||Silverpine Forest|Horde|<li> - [ ] </li>|
+|[5748](https://wowgaming.altervista.org/aowow/?npc=5748)  |Killian Sanatha|Silverpine Forest|Horde|<li> - [ ] </li>|
+|[5754](https://wowgaming.altervista.org/aowow/?npc=5754)  |Zane Bradford  |Undercity        |Horde|<li> - [X] </li>|
+|[5757](https://wowgaming.altervista.org/aowow/?npc=5757)  |Lilly          |Silverpine Forest|Horde|<li> - [ ] </li>|
+|[5758](https://wowgaming.altervista.org/aowow/?npc=5758)  |Leo Sarn       |Silverpine Forest|Horde|<li> - [ ] </li>|
 |[5783](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5812](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5814](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -688,8 +688,8 @@ Gadgetzan 7564
 |[7744](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[7772](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 Feralas 7775
-|[7852](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[7854](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[7852](https://wowgaming.altervista.org/aowow/?npc=7852)  ||||<li> - [X] </li>|
+|[7854](https://wowgaming.altervista.org/aowow/?npc=7854)  ||||<li> - [X] </li>|
 A, Feralas 7879
 |[7940](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[7941](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -699,8 +699,8 @@ A, Feralas 7879
 |[7947](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 H, Durotar 7952
 A, Kharanos 7955
-|[7976](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[7978](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[7976](https://wowgaming.altervista.org/aowow/?npc=7976)  ||||<li> - [X] </li>|
+|[7978](https://wowgaming.altervista.org/aowow/?npc=7978)  ||||<li> - [X] </li>|
 Booty Bay, Midsummer Fire Festival? 8116
 A, IF, Midsummer Fire Festival? 8117
 A, SW, Midsummer Fire Festival? 8118
@@ -747,16 +747,16 @@ H, Org, Midsummer Fire Festival? 8122
 |[8934](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 Removed? 8999
 H, TB 9087
-|[9099](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9179](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9356](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[9099](https://wowgaming.altervista.org/aowow/?npc=9099)  ||||<li> - [X] </li>|
+|[9179](https://wowgaming.altervista.org/aowow/?npc=9179)  ||||<li> - [X] </li>|
+|[9356](https://wowgaming.altervista.org/aowow/?npc=9356)  ||||<li> - [X] </li>|
 Blackrock Bar 9499
-|[9501](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9544](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9548](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9549](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9551](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[9552](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
+|[9501](https://wowgaming.altervista.org/aowow/?npc=9501)  ||||<li> - [X] </li>|
+|[9544](https://wowgaming.altervista.org/aowow/?npc=9544)  ||||<li> - [X] </li>|
+|[9548](https://wowgaming.altervista.org/aowow/?npc=9548)  ||||<li> - [X] </li>|
+|[9549](https://wowgaming.altervista.org/aowow/?npc=9549)  ||||<li> - [X] </li>|
+|[9551](https://wowgaming.altervista.org/aowow/?npc=9551)  ||||<li> - [X] </li>|
+|[9552](https://wowgaming.altervista.org/aowow/?npc=9552)  ||||<li> - [X] </li>|
 |[9553](https://wowgaming.altervista.org/aowow/?npc=9553)  ||||<li> - [X] </li>|
 |[9555](https://wowgaming.altervista.org/aowow/?npc=9555)  ||||<li> - [X] </li>|
 |[9636](https://wowgaming.altervista.org/aowow/?npc=9636)  ||||<li> - [X] </li>|
@@ -817,8 +817,8 @@ H, AV 12097
 |[12246](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[12384](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, BGs/SW? 12777
-|[12778](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[12781](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[12778](https://wowgaming.altervista.org/aowow/?npc=12778)||||<li> - [X] </li>|
+|[12781](https://wowgaming.altervista.org/aowow/?npc=12781)||||<li> - [X] </li>|
 A, BGs/SW? 12782
 |[12783](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[12784](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -832,8 +832,8 @@ H, BGs/Org? 12792
 H, Org 12799
 A, SW? 12805
 Dustwallow Marsh 12919
-|[12941](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[12942](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[12941](https://wowgaming.altervista.org/aowow/?npc=12941)||||<li> - [X] </li>|
+|[12942](https://wowgaming.altervista.org/aowow/?npc=12942)||||<li> - [X] </li>|
 H, WPL 12943
 BRD 12944
 |[12956](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -857,8 +857,8 @@ IF, Winter Veil? 13433
 IF, Winter Veil? 13434
 SW, Winter Veil? 13435
 SW, Winter Veil? 13436
-|[13476](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[14301](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[13476](https://wowgaming.altervista.org/aowow/?npc=13476)||||<li> - [X] </li>|
+|[14301](https://wowgaming.altervista.org/aowow/?npc=14301)||||<li> - [X] </li>|
 King, Dire Maul 14322
 Engineering 14337
 Shen'dralar, Dire Maul 14371
@@ -868,7 +868,7 @@ H, Org, Children's Week? 14480
 A, SW, Children's Week? 14481
 Shadow Potion, Felwood 14522
 H, BGs? 14581
-|[14624](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[14624](https://wowgaming.altervista.org/aowow/?npc=14624)||||<li> - [X] </li>|
 Feralas 14637
 |[14731](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[14737](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -882,11 +882,11 @@ Darkmoon Faire 14845
 Darkmoon Faire 14846
 Darkmoon Faire 14847
 Darkmoon Faire 14860
-|[14921](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[14921](https://wowgaming.altervista.org/aowow/?npc=14921)||||<li> - [X] </li>|
 Alterac 14961
 Alterac 14962
-|[14963](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[14964](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[14963](https://wowgaming.altervista.org/aowow/?npc=14963)||||<li> - [X] </li>|
+|[14964](https://wowgaming.altervista.org/aowow/?npc=14964)||||<li> - [X] </li>|
 A, IF Gates, Harvest Festival 15011
 H, Org Gates, Harvest Festival 15012
 |[15124](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -907,9 +907,9 @@ A, Hillsbrad 15199, Hallow's End?
 |[15292](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Silithus 15293
 H, Org, Hallows End 15309
-|[15315](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[15350](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[15351](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[15315](https://wowgaming.altervista.org/aowow/?npc=15315)||||<li> - [X] </li>|
+|[15350](https://wowgaming.altervista.org/aowow/?npc=15350)||||<li> - [X] </li>|
+|[15351](https://wowgaming.altervista.org/aowow/?npc=15351)||||<li> - [X] </li>|
 A, IF, Hallow's End 15353
 H, Org, Hallow's End 15354
 |[15397](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1031,7 +1031,7 @@ Unknown, Scourge Invasion 16786
 |[17490](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[17512](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Karazhan 17518
-|[17553](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[17553](https://wowgaming.altervista.org/aowow/?npc=17553)||||<li> - [X] </li>|
 A, Exodar 17584
 |[17585](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[17598](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1088,17 +1088,17 @@ Zangarmarsh, Sporeggar 18382
 |[18821](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, Halaa 18822
 Removed? 18898
-|[18905](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[18906](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[18907](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[18905](https://wowgaming.altervista.org/aowow/?npc=18905)||||<li> - [X] </li>|
+|[18906](https://wowgaming.altervista.org/aowow/?npc=18906)||||<li> - [X] </li>|
+|[18907](https://wowgaming.altervista.org/aowow/?npc=18907)||||<li> - [X] </li>|
 A, Zangarmarsh 18908
-|[18911](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[18911](https://wowgaming.altervista.org/aowow/?npc=18911)||||<li> - [X] </li>|
 H, Nagrand 18913
 A, Nagrand 18914
-|[18926](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[18929](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[18926](https://wowgaming.altervista.org/aowow/?npc=18926)||||<li> - [X] </li>|
+|[18929](https://wowgaming.altervista.org/aowow/?npc=18929)||||<li> - [X] </li>|
 H, Eversong Woods 18947
-|[18951](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[18951](https://wowgaming.altervista.org/aowow/?npc=18951)||||<li> - [X] </li>|
 H, Eversong Woods 18954
 |[18957](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[18959](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1121,15 +1121,15 @@ H, Nagrand 19015
 A, Nagrand 19017
 H, Nagrand 19020
 A, Nagrand 19021
-|[19038](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[19042](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[19038](https://wowgaming.altervista.org/aowow/?npc=19038)||||<li> - [X] </li>|
+|[19042](https://wowgaming.altervista.org/aowow/?npc=19042)||||<li> - [X] </li>|
 Aldor, Shattrath 19043
-|[19045](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[19047](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[19049](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[19045](https://wowgaming.altervista.org/aowow/?npc=19045)||||<li> - [X] </li>|
+|[19047](https://wowgaming.altervista.org/aowow/?npc=19047)||||<li> - [X] </li>|
+|[19049](https://wowgaming.altervista.org/aowow/?npc=19049)||||<li> - [X] </li>|
 Aldor, Shattrath 19050
-|[19053](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[19056](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[19053](https://wowgaming.altervista.org/aowow/?npc=19053)||||<li> - [X] </li>|
+|[19056](https://wowgaming.altervista.org/aowow/?npc=19056)||||<li> - [X] </li>|
 Aldor, Shattrath 19065
 |[19074](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[19182](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1193,7 +1193,7 @@ Aldor, Shattrath 19321
 Aldor, SMV 19526
 Aldor, SMV 19528
 Aldor, SMV 19530
-|[19531](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[19531](https://wowgaming.altervista.org/aowow/?npc=19531)||||<li> - [X] </li>|
 Aldor, SMV 19532
 |[19533](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[19534](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1229,7 +1229,7 @@ Aldor, SMV 19649
 |[19837](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[19857](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Auchindoun 19879
-|[19932](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[19932](https://wowgaming.altervista.org/aowow/?npc=19932)||||<li> - [X] </li>|
 A, Zangarmarsh 20028
 |[20080](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[20081](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1287,11 +1287,11 @@ Aldor, Shattrath 20807
 A, Halaa 21485
 A, Halaa 21487
 A, Halaa 21488
-|[21643](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[21655](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[21744](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[21643](https://wowgaming.altervista.org/aowow/?npc=21643)||||<li> - [X] </li>|
+|[21655](https://wowgaming.altervista.org/aowow/?npc=21655)||||<li> - [X] </li>|
+|[21744](https://wowgaming.altervista.org/aowow/?npc=21744)||||<li> - [X] </li>|
 Aldor, Shadowmoon 21746
-|[21905](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[21905](https://wowgaming.altervista.org/aowow/?npc=21905)||||<li> - [X] </li>|
 Aldor, Shattrath 21906
 Wyrmcult, Blade's Edge 22099
 |[22208](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1322,7 +1322,7 @@ A, AV 22680
 H, AV 22681
 H, Alterac 22682
 A, Alterac 22695
-|[23007](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23007](https://wowgaming.altervista.org/aowow/?npc=23007)||||<li> - [X] </li>|
 Exodar, Feast of Winter Veil 23009
 Exodar, Feast of Winter Veil 23010
 Silvermoon, Feast of Winter Veil 23011
@@ -1336,17 +1336,17 @@ Shattrath, Feast of Winter Veil 23065
 |[23145](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Black Temple 23157
 Black Temple 23159
-|[23208](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23208](https://wowgaming.altervista.org/aowow/?npc=23208)||||<li> - [X] </li>|
 Blade's Edge 23243
 Blade's Edge 23244
 Blade's Edge 23245
-|[23263](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23263](https://wowgaming.altervista.org/aowow/?npc=23263)||||<li> - [X] </li>|
 Skettis 23363
-|[23367](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23373](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23367](https://wowgaming.altervista.org/aowow/?npc=23367)||||<li> - [X] </li>|
+|[23373](https://wowgaming.altervista.org/aowow/?npc=23373)||||<li> - [X] </li>|
 Hyjal 23381
 Area 52 23396
-|[23428](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23428](https://wowgaming.altervista.org/aowow/?npc=23428)||||<li> - [X] </li>|
 Hyjal 23437
 A, SW? 23446
 H, Silvermoon? 23447
@@ -1361,18 +1361,18 @@ A? IF Gates, Brewfest 23521
 A? IF Gates, Brewfest 23522
 A? IF Gates, Brewfest 23525
 H? Capital Gates, Brewfest 23533
-|[23560](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23571](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23573](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23560](https://wowgaming.altervista.org/aowow/?npc=23560)||||<li> - [X] </li>|
+|[23571](https://wowgaming.altervista.org/aowow/?npc=23571)||||<li> - [X] </li>|
+|[23573](https://wowgaming.altervista.org/aowow/?npc=23573)||||<li> - [X] </li>|
 H? Org Gates, Brewfest 23603
 H? Org Gates, Brewfest 23604
 H? Org Gates, Brewfest 23605
 H? Org Gates, Brewfest 23606
-|[23699](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23699](https://wowgaming.altervista.org/aowow/?npc=23699)||||<li> - [X] </li>|
 A, Ironforge Gates, Brewfest 23710
-|[23724](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23731](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23732](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23724](https://wowgaming.altervista.org/aowow/?npc=23724)||||<li> - [X] </li>|
+|[23731](https://wowgaming.altervista.org/aowow/?npc=23731)||||<li> - [X] </li>|
+|[23732](https://wowgaming.altervista.org/aowow/?npc=23732)||||<li> - [X] </li>|
 A, Howling Fjord 23734, doesn't sell?
 |[23735](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23737](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1381,9 +1381,9 @@ A, Howling Fjord 23734, doesn't sell?
 |[23862](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23896](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Zul'Aman 23897
-|[23908](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23937](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[23995](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[23908](https://wowgaming.altervista.org/aowow/?npc=23908)||||<li> - [X] </li>|
+|[23937](https://wowgaming.altervista.org/aowow/?npc=23937)||||<li> - [X] </li>|
+|[23995](https://wowgaming.altervista.org/aowow/?npc=23995)||||<li> - [X] </li>|
 H, Howling Fjord 24028
 H, Howling Fjord 24033
 |[24052](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1394,20 +1394,20 @@ H, Howling Fjord 24141
 H, Howling Fjord 24147
 H, Howling Fjord 24148
 H, Howling Fjord 24149
-|[24188](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[24208](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[24188](https://wowgaming.altervista.org/aowow/?npc=24188)||||<li> - [X] </li>|
+|[24208](https://wowgaming.altervista.org/aowow/?npc=24208)||||<li> - [X] </li>|
 H, Howling Fjord 24291
-|[24313](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[24313](https://wowgaming.altervista.org/aowow/?npc=24313)||||<li> - [X] </li>|
 H, Howling Fjord 24330
-|[24333](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[24333](https://wowgaming.altervista.org/aowow/?npc=24333)||||<li> - [X] </li>|
 H, Howling Fjord 24341
 H, Howling Fjord 24342
 H, Howling Fjord 24343
 H, Howling Fjord 24347
 H, Howling Fjord 24348
 H, Howling Fjord 24349
-|[24356](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[24357](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[24356](https://wowgaming.altervista.org/aowow/?npc=24356)||||<li> - [X] </li>|
+|[24357](https://wowgaming.altervista.org/aowow/?npc=24357)||||<li> - [X] </li>|
 Area 52 24392
 Zul'Aman 24408
 Zul'Aman 24409
@@ -1444,7 +1444,7 @@ Quel'Danas 25046
 Nagrand 25176
 Gadgetzan 25177
 Gadgetzan 25178
-|[25179](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[25179](https://wowgaming.altervista.org/aowow/?npc=25179)||||<li> - [X] </li>|
 Aldor, Shattrath 25195
 |[25196](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[25206](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1465,7 +1465,7 @@ Aldor, Shattrath 25195
 |[26110](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, Starter Zones, Midsummer Fire Festival 26123
 H, Starter Zones, Midsummer Fire Festival 26124
-|[26229](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26229](https://wowgaming.altervista.org/aowow/?npc=26229)||||<li> - [X] </li>|
 Test realm? 26300
 Test realm? 26301
 Test realm? 26302
@@ -1476,13 +1476,13 @@ Test realm? 26306
 Test realm? 26308
 Test realm? 26309
 Area 52 26352
-|[26374](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[26375](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26374](https://wowgaming.altervista.org/aowow/?npc=26374)||||<li> - [X] </li>|
+|[26375](https://wowgaming.altervista.org/aowow/?npc=26375)||||<li> - [X] </li>|
 Likely removed 26378
-|[26382](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26382](https://wowgaming.altervista.org/aowow/?npc=26382)||||<li> - [X] </li>|
 Likely removed 26383
 Likely removed 26384
-|[26388](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26388](https://wowgaming.altervista.org/aowow/?npc=26388)||||<li> - [X] </li>|
 A, SW? 26393
 A, SW? 26394
 A, SW? 26395
@@ -1539,10 +1539,10 @@ Likely removed 26765
 |[26941](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[26945](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 H, Warsong Hold, Removed? 26947
-|[26950](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26950](https://wowgaming.altervista.org/aowow/?npc=26950)||||<li> - [X] </li>|
 H, Howling Fjord 26959
-|[26968](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[26977](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[26968](https://wowgaming.altervista.org/aowow/?npc=26968)||||<li> - [X] </li>|
+|[26977](https://wowgaming.altervista.org/aowow/?npc=26977)||||<li> - [X] </li>|
 H, Howling Fjord 26984
 |[26995](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[27011](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1878,19 +1878,19 @@ H, AV 32078
 A, AV 32099
 A, AV 32106
 A, Alterac 32112
-|[32172](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32216](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32253](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32287](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32172](https://wowgaming.altervista.org/aowow/?npc=32172)||||<li> - [X] </li>|
+|[32216](https://wowgaming.altervista.org/aowow/?npc=32216)||||<li> - [X] </li>|
+|[32253](https://wowgaming.altervista.org/aowow/?npc=32253)||||<li> - [X] </li>|
+|[32287](https://wowgaming.altervista.org/aowow/?npc=32287)||||<li> - [X] </li>|
 A, Wintergrasp 32294
-|[32296](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32334](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32337](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32296](https://wowgaming.altervista.org/aowow/?npc=32296)||||<li> - [X] </li>|
+|[32334](https://wowgaming.altervista.org/aowow/?npc=32334)||||<li> - [X] </li>|
+|[32337](https://wowgaming.altervista.org/aowow/?npc=32337)||||<li> - [X] </li>|
 |32354???
 |32355???
 |32356???
 Area 52 32356
-|[32359](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32359](https://wowgaming.altervista.org/aowow/?npc=32359)||||<li> - [X] </li>|
 |32360???
 |32362???
 |[32379](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
@@ -1925,21 +1925,21 @@ Gadgetzan 32407
 |[32631](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 A, Mammoth Mount 32638
 A, Mammoth Mount 32639
-|[32641](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32642](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32763](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32641](https://wowgaming.altervista.org/aowow/?npc=32641)||||<li> - [X] </li>|
+|[32642](https://wowgaming.altervista.org/aowow/?npc=32642)||||<li> - [X] </li>|
+|[32763](https://wowgaming.altervista.org/aowow/?npc=32763)||||<li> - [X] </li>|
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
-|[32773](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32773](https://wowgaming.altervista.org/aowow/?npc=32773)||||<li> - [X] </li>|
 H, Howling Fjord 32774
-|[32832](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[32834](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[32832](https://wowgaming.altervista.org/aowow/?npc=32832)||||<li> - [X] </li>|
+|[32834](https://wowgaming.altervista.org/aowow/?npc=32834)||||<li> - [X] </li>|
 A, Starter towns, Noblegarden 32836
 H, Starter towns, Noblegarden 32837
 H, Howling Fjord 33018
 H, Howling Fjord 33019
-|[33026](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33027](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[33026](https://wowgaming.altervista.org/aowow/?npc=33026)||||<li> - [X] </li>|
+|[33027](https://wowgaming.altervista.org/aowow/?npc=33027)||||<li> - [X] </li>|
 A, Quest reward companion 33238
 H, Quest reward companion 33239
 A, Icecrown 33307
@@ -1987,14 +1987,14 @@ Aldor, Shattrath 33681
 Aldor, Shattrath 33682
 Aldor, Shattrath 33683
 Aldor, Shattrath 33684
-|[33853](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33865](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33866](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[33853](https://wowgaming.altervista.org/aowow/?npc=33853)||||<li> - [X] </li>|
+|[33865](https://wowgaming.altervista.org/aowow/?npc=33865)||||<li> - [X] </li>|
+|[33866](https://wowgaming.altervista.org/aowow/?npc=33866)||||<li> - [X] </li>|
 Removed? 33867
-|[33868](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33869](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33871](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33872](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[33868](https://wowgaming.altervista.org/aowow/?npc=33868)||||<li> - [X] </li>|
+|[33869](https://wowgaming.altervista.org/aowow/?npc=33869)||||<li> - [X] </li>|
+|[33871](https://wowgaming.altervista.org/aowow/?npc=33871)||||<li> - [X] </li>|
+|[33872](https://wowgaming.altervista.org/aowow/?npc=33872)||||<li> - [X] </li>|
 Gadgetzan 33915
 Area 52 33916
 Gadgetzan 33917
@@ -2019,9 +2019,9 @@ Dalaran 33938
 Gadgetzan 33939
 Area 52 33940
 Area 52 33941
-|[33963](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33964](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[33996](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[33963](https://wowgaming.altervista.org/aowow/?npc=33963)||||<li> - [X] </li>|
+|[33964](https://wowgaming.altervista.org/aowow/?npc=33964)||||<li> - [X] </li>|
+|[33996](https://wowgaming.altervista.org/aowow/?npc=33996)||||<li> - [X] </li>|
 H, Org? 34036
 H, Org? 34037
 H, Org 34038
@@ -2046,7 +2046,7 @@ A, SW 34081
 A, SW? 34082
 A, SW? 34083
 A, SW 34084
-|[34087](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[34087](https://wowgaming.altervista.org/aowow/?npc=34087)||||<li> - [X] </li>|
 Gadgetzan 34088
 Area 52 34089
 Gadgetzan 34090
@@ -2055,7 +2055,7 @@ Dalaran 34092
 Gadgetzan 34093
 Area 52 34094
 Dalaran 34095
-|[34252](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[34252](https://wowgaming.altervista.org/aowow/?npc=34252)||||<li> - [X] </li>|
 Capitals, Day of the Dead 34382
 A, IF Gates, Pilgrim's Bounty 34645
 A, Darnassus Gates, Pilgrim's Bounty 34681
@@ -2068,10 +2068,10 @@ A, Exodar Gates, Pilgrim's Bounty 34783
 H, Silvermoon Gates, Pilgrim's Bounty 34787
 A, Icecrown 34881
 Icecrown 34885
-|[35099](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[35101](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[35131](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[35132](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[35099](https://wowgaming.altervista.org/aowow/?npc=35099)||||<li> - [X] </li>|
+|[35101](https://wowgaming.altervista.org/aowow/?npc=35101)||||<li> - [X] </li>|
+|[35131](https://wowgaming.altervista.org/aowow/?npc=35131)||||<li> - [X] </li>|
+|[35132](https://wowgaming.altervista.org/aowow/?npc=35132)||||<li> - [X] </li>|
 A, SW Gates, Pilgrim's Bounty 35337
 A, Darnassus Gates, Pilgrim's Bounty 35338
 A, IF Gates, Pilgrim's Bounty 35340
@@ -2084,8 +2084,8 @@ NYI 35496
 NYI 35497
 NYI 35498
 NYI 35500
-|[35507](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-|[35508](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[35507](https://wowgaming.altervista.org/aowow/?npc=35507)||||<li> - [X] </li>|
+|[35508](https://wowgaming.altervista.org/aowow/?npc=35508)||||<li> - [X] </li>|
 A, Icecrown 35573
 H, Icecrown 35574
 A, Icecrown 35575
@@ -2095,7 +2095,7 @@ H, Icecrown 35578
 A, Icecrown 35579
 H, Icecrown 35580
 Engineering 35642
-|[35790](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
+|[35790](https://wowgaming.altervista.org/aowow/?npc=35790)||||<li> - [X] </li>|
 Dalaran 35826
 A, AV, Might not exist 37242
 H, AV, Might not exist 37305
