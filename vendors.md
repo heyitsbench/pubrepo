@@ -1923,8 +1923,8 @@ Gadgetzan 32407
 |[32565](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[32594](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[32631](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-A, Mammoth Mount 32638
-A, Mammoth Mount 32639
+|[32638](https://wowgaming.altervista.org/aowow/?npc=32638)|Hakmud of Argus|Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|
+|[32639](https://wowgaming.altervista.org/aowow/?npc=32639)|Gnimo          |Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|
 |[32641](https://wowgaming.altervista.org/aowow/?npc=32641)||||<li> - [X] </li>|
 |[32642](https://wowgaming.altervista.org/aowow/?npc=32642)||||<li> - [X] </li>|
 |[32763](https://wowgaming.altervista.org/aowow/?npc=32763)||||<li> - [X] </li>|
