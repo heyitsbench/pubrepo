@@ -697,7 +697,7 @@ A, Feralas 7879
 |[7943](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[7945](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[7947](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-H, Durotar 7952
+|[7952](https://wowgaming.altervista.org/aowow/?npc=7952)  |Zjolnir|Sen'jin Village, Durotar|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230690834-30adb9fa-b9c7-41d2-873f-a142d230a4ba.png)|
 A, Kharanos 7955
 |[7976](https://wowgaming.altervista.org/aowow/?npc=7976)  ||||<li> - [X] </li>|
 |[7978](https://wowgaming.altervista.org/aowow/?npc=7978)  ||||<li> - [X] </li>|
