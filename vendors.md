@@ -410,7 +410,7 @@
 |[3683](https://wowgaming.altervista.org/aowow/?npc=3683)  ||||<li> - [X] </li>|
 |[3684](https://wowgaming.altervista.org/aowow/?npc=3684)  ||||<li> - [X] </li>|
 |[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  |Harb Clawhoof|Mulgore|Horde|<li> - [ ] </li>|
-|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  |Laer Stepperunner|The Barrens|Horde|<li> - [ ] </li>|
+|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  |Laer Stepperunner|The Barrens|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230687582-05e3635d-152e-4d4f-9a24-b7e63ef76c1f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230687595-3e479b71-dd1b-409c-940c-93ca088b6c0a.png)|
 |[3700](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3705](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3708](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
