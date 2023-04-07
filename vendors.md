@@ -340,7 +340,7 @@
 |[3410](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  |Denni'ka|Stonetalon Mountains|Horde|<li> - [ ] </li>|
 |[3413](https://wowgaming.altervista.org/aowow/?npc=3413)  |Sovik|Orgrimmar|Horde|<li> - [X] </li>|
-|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub|The Barrens|Horde|<li> - [ ] </li>|
+|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub|The Barrens|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681998-6eea70e4-2ef3-4d4a-93c8-c918b74f0254.png)|
 |[3477](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3479](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3480](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
@@ -406,7 +406,7 @@
 |[3621](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3625](https://wowgaming.altervista.org/aowow/?npc=3625)  |Rarck|Alterac Valley|Horde|<li> - [ ] </li>|
 |[3658](https://wowgaming.altervista.org/aowow/?npc=3658)  ||||<li> - [X] </li>|
-|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  |Vrang Wildgore|The Barrens|Horde|<li> - [ ] </li>|
+|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  |Vrang Wildgore|The Barrens|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681638-ebe6cd6a-f355-4b35-a4c5-916c802364a8.png)|
 |[3683](https://wowgaming.altervista.org/aowow/?npc=3683)  ||||<li> - [X] </li>|
 |[3684](https://wowgaming.altervista.org/aowow/?npc=3684)  ||||<li> - [X] </li>|
 |[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  |Harb Clawhoof|Mulgore|Horde|<li> - [ ] </li>|
@@ -724,7 +724,7 @@ H, Org, Midsummer Fire Festival? 8122
 |[8177](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[8178](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[8305](https://wowgaming.altervista.org/aowow/?npc=8305)  ||Wetlands|Neutral|<li> - [ ] </li>|
-|[8307](https://wowgaming.altervista.org/aowow/?npc=8307)  ||The Barrens|Horde|<li> - [ ] </li>|
+|[8307](https://wowgaming.altervista.org/aowow/?npc=8307)  |Tarban Hearthgrain|The Barrens|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230681906-69082d22-c5a5-4c02-adc1-688f0485821d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230681928-5d20757c-cf8d-4ac0-96d4-90b6a3a3093e.png)|
 |[8358](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[8359](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[8360](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
