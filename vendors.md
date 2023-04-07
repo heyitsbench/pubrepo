@@ -792,7 +792,7 @@ Removed? 11111
 |[11189](https://wowgaming.altervista.org/aowow/?npc=11189)||||<li> - [X] </li>|
 |[11278](https://wowgaming.altervista.org/aowow/?npc=11278)|Magnus Frostwake                |Caer Darrow, Western Plaguelands        |Neutral  |<li> - [ ] </li>|
 |[11287](https://wowgaming.altervista.org/aowow/?npc=11287)|Baker Masterson                 |Caer Darrow, Western Plaguelands        |Neutral  |<li> - [ ] </li>|
-|[11536](https://wowgaming.altervista.org/aowow/?npc=11536)|Quartermaster Miranda Breechlock|Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [ ] </li>|
+|[11536](https://wowgaming.altervista.org/aowow/?npc=11536)|Quartermaster Miranda Breechlock|Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230675219-137dfcca-5f21-4a97-88c6-fd25046704c7.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230675238-318b8c39-b95d-4163-9953-d8a7fbfad371.png)|
 |[11555](https://wowgaming.altervista.org/aowow/?npc=11555)|Gorn One Eye                    |Winterspring                            |Timbermaw|<li> - [ ] </li>|
 |[11557](https://wowgaming.altervista.org/aowow/?npc=11557)|Meilosh                         |Winterspring                            |Timbermaw|<li> - [ ] </li>|
 |[11703](https://wowgaming.altervista.org/aowow/?npc=11703)|Graw Cornerstone                |Searing Gorge                           |Alliance |<li> - [ ] </li>|
