@@ -1380,7 +1380,7 @@ A, Howling Fjord 23734, doesn't sell?
 |[23802](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23862](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[23896](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
-Zul'Aman 23897
+|[23897](https://wowgaming.altervista.org/aowow/?npc=23897)|Zungam|Zul'Aman|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230540962-9b5f7244-0053-4ba1-8f2e-870fc2e0458e.png)|
 |[23908](https://wowgaming.altervista.org/aowow/?npc=23908)||||<li> - [X] </li>|
 |[23937](https://wowgaming.altervista.org/aowow/?npc=23937)||||<li> - [X] </li>|
 |[23995](https://wowgaming.altervista.org/aowow/?npc=23995)||||<li> - [X] </li>|
