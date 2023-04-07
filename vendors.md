@@ -537,7 +537,7 @@
 |[4775](https://wowgaming.altervista.org/aowow/?npc=4775)  |Felicia Doan  |Undercity       |Horde|<li> - [X] </li>|
 |[4782](https://wowgaming.altervista.org/aowow/?npc=4782)  |Truk Wildbeard|The Hinterlands |Alliance|<li> - [X] </li>|
 |[4875](https://wowgaming.altervista.org/aowow/?npc=4875)  |Turhaw        |Thousand Needles|Horde|<li> - [X] </li>|
-|[4876](https://wowgaming.altervista.org/aowow/?npc=4876)  |Jawn Highmesa |Thousand Needles|Horde|<li> - [ ] </li>|
+|[4876](https://wowgaming.altervista.org/aowow/?npc=4876)  |Jawn Highmesa |Thousand Needles|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230689973-ae1cd26c-5b31-427a-bafa-818d110b0bf1.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230689987-af59e581-a79a-41c3-a9c3-8590335b4d7e.png)|
 |[4877](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4878](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[4879](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
