@@ -877,11 +877,11 @@ Feralas 14637
 |[14740](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[14753](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 H, Barrens 14754
-Darkmoon Faire 14844
-Darkmoon Faire 14845
-Darkmoon Faire 14846
-Darkmoon Faire 14847
-Darkmoon Faire 14860
+|[14844](https://wowgaming.altervista.org/aowow/?npc=14844)|Sylannia|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678476-a4857957-4d56-4c31-8096-a48e69468e74.png)|
+|[14845](https://wowgaming.altervista.org/aowow/?npc=14845)|Stamp Thunderhorn|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678354-c0ae4f69-bee3-478e-8179-4bc79598b519.png)|
+|[14846](https://wowgaming.altervista.org/aowow/?npc=14846)|Lhara|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678988-65bb0bf0-31e2-41c7-9b27-81be83004532.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230679010-5de87368-33f4-442c-8796-1aada7a8f3f2.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230679031-8b690dd1-b969-4db2-bf23-c02335827f49.png)|
+|[14847](https://wowgaming.altervista.org/aowow/?npc=14847)|Professor Thaddeus Paleo|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678828-54c0552a-51a0-49c5-b05b-968e8fd0202f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230678843-82e73e22-674a-4bb4-92b8-31d7676dca5f.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230678858-9a2a3fe0-4a33-4ec2-9556-5ea2e08079d6.png)|
+|[14860](https://wowgaming.altervista.org/aowow/?npc=14860)|Flik|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678592-b7ebdcad-f319-40a9-a411-bd303c73f18e.png)|
 |[14921](https://wowgaming.altervista.org/aowow/?npc=14921)||||<li> - [X] </li>|
 Alterac 14961
 Alterac 14962
