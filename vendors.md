@@ -205,7 +205,7 @@
 |[2687](https://wowgaming.altervista.org/aowow/?npc=2687)  ||||<li> - [X] </li>|
 |[2688](https://wowgaming.altervista.org/aowow/?npc=2688)  ||||<li> - [X] </li>|
 |[2697](https://wowgaming.altervista.org/aowow/?npc=2697)  ||||<li> - [X] </li>|
-|[2698](https://wowgaming.altervista.org/aowow/?npc=2698)  ||Hillsbrad Foothills|Horde|<li> - [ ] </li>|
+|[2698](https://wowgaming.altervista.org/aowow/?npc=2698)  ||Hillsbrad Foothills|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230692522-66bae9d7-9ea5-479f-ae26-14c5a9683e24.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230692537-6d799cfc-440d-4ec2-877a-08e85bce4328.png)|
 |[2699](https://wowgaming.altervista.org/aowow/?npc=2699)  ||||<li> - [X] </li>|
 |[2803](https://wowgaming.altervista.org/aowow/?npc=2803)  ||||<li> - [X] </li>|
 |[2805](https://wowgaming.altervista.org/aowow/?npc=2805)  ||||<li> - [X] </li>|
