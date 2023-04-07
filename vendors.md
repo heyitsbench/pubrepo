@@ -846,7 +846,7 @@ BRD 12944
 A, AV 13216
 A, Alterac 13217
 H, Alterac 13218
-H, Alterac 13219
+|[13219](https://wowgaming.altervista.org/aowow/?npc=13219)|Jekyll Flandring|Alterac Mountains|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230692784-e97d0355-09e4-4999-8623-92b3cceb2d1a.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230692803-d104d207-e452-43a2-8f5c-c4f851387c16.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230692870-9a28e476-bedc-4253-b326-2bbe1b475178.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/230692903-cd962b94-77ca-430f-9f77-4001e4e90064.png)|
 Org, Winter Veil? 13418
 Org, Winter Veil? 13420
 UC, Winter Veil? 13429
@@ -884,7 +884,7 @@ Feralas 14637
 |[14860](https://wowgaming.altervista.org/aowow/?npc=14860)|Flik|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678592-b7ebdcad-f319-40a9-a411-bd303c73f18e.png)|
 |[14921](https://wowgaming.altervista.org/aowow/?npc=14921)||||<li> - [X] </li>|
 Alterac 14961
-Alterac 14962
+|[14962](https://wowgaming.altervista.org/aowow/?npc=14962)|Dillord Copperpinch|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230692744-74a73de1-a6d8-4326-8c2c-08f0cfdf037d.png)|
 |[14963](https://wowgaming.altervista.org/aowow/?npc=14963)||||<li> - [X] </li>|
 |[14964](https://wowgaming.altervista.org/aowow/?npc=14964)||||<li> - [X] </li>|
 A, IF Gates, Harvest Festival 15011
