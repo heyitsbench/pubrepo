@@ -940,7 +940,7 @@ H, Tranquillien, Ghostlands 16224
 |[16366](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[16367](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 Light's Hope 16376
-Karazhan 16388
+|[16388](https://wowgaming.altervista.org/aowow/?npc=16388)|Koren|Karazhan|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230671679-f5750195-ae57-4a04-9c4f-27cca9c7f2cf.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230671845-e85c480c-765b-4a10-8a8e-60c7e3588231.png)|
 |[16442](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[16443](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
 |[16444](https://wowgaming.altervista.org/aowow/?npc=)||||<li> - [X] </li>|
