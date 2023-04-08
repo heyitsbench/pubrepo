@@ -623,10 +623,10 @@
 |[5620](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5688](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5698](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[5748](https://wowgaming.altervista.org/aowow/?npc=5748)  |Killian Sanatha|Silverpine Forest|Horde|<li> - [ ] </li>|
+|[5748](https://wowgaming.altervista.org/aowow/?npc=5748)  |Killian Sanatha|Silverpine Forest|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230698623-eafc0448-81c6-4302-b9fd-2548ae26c10e.png)|
 |[5754](https://wowgaming.altervista.org/aowow/?npc=5754)  |Zane Bradford  |Undercity        |Horde|<li> - [X] </li>|
-|[5757](https://wowgaming.altervista.org/aowow/?npc=5757)  |Lilly          |Silverpine Forest|Horde|<li> - [ ] </li>|
-|[5758](https://wowgaming.altervista.org/aowow/?npc=5758)  |Leo Sarn       |Silverpine Forest|Horde|<li> - [ ] </li>|
+|[5757](https://wowgaming.altervista.org/aowow/?npc=5757)  |Lilly          |Silverpine Forest|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230698762-6e95adcb-57b5-47a3-a5dd-51540b0eb40a.png)|
+|[5758](https://wowgaming.altervista.org/aowow/?npc=5758)  |Leo Sarn       |Silverpine Forest|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230698855-001d97c2-c3d0-4c50-858f-7f47a45afe05.png)|
 |[5783](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5812](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[5814](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
