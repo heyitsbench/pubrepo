@@ -338,7 +338,7 @@
 |[3405](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3409](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3410](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  |Denni'ka|Stonetalon Mountains|Horde|<li> - [ ] </li>|
+|[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  |Denni'ka|Stonetalon Mountains|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230696553-bd96e616-330a-47dd-8e44-0887e201b057.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230696558-d0cb556e-8146-4e15-b523-6c297686658a.png)|
 |[3413](https://wowgaming.altervista.org/aowow/?npc=3413)  |Sovik|Orgrimmar|Horde|<li> - [X] </li>|
 |[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub|The Barrens|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681998-6eea70e4-2ef3-4d4a-93c8-c918b74f0254.png)|
 |[3477](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
