@@ -294,7 +294,7 @@
 |[3168](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3177](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3178](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3180](https://wowgaming.altervista.org/aowow/?npc=3180)  |Dark Iron Entrepreneur|Wetlands|Neutral|<li> - [ ] </li>|
+|[3180](https://wowgaming.altervista.org/aowow/?npc=3180)  |Dark Iron Entrepreneur|Wetlands|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230697334-565cf60d-76e1-4e80-8711-3a2705b39a57.png)|
 |[3186](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3187](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3291](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
