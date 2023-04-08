@@ -327,7 +327,7 @@
 |[3359](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3360](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3361](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3362](https://wowgaming.altervista.org/aowow/?npc=3362)  |Ogunaro Wolfrunner|Orgrimmar|Horde|<li> - [ ] </li>|
+|[3362](https://wowgaming.altervista.org/aowow/?npc=3362)  |Ogunaro Wolfrunner|Orgrimmar|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230696054-126aa1f5-ad57-409b-bb7c-514465279610.png)|
 |[3364](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3366](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3367](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
