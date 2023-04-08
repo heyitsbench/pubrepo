@@ -278,7 +278,7 @@
 |[3096](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3097](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3133](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
-|[3134](https://wowgaming.altervista.org/aowow/?npc=3134)  |Kzixx|Duskwood|Neutral|<li> - [ ] </li>|
+|[3134](https://wowgaming.altervista.org/aowow/?npc=3134)  |Kzixx|Duskwood|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230697922-14e0b44f-a8a9-4c20-a47a-58535a1149ea.png)|
 |[3135](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3138](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
 |[3158](https://wowgaming.altervista.org/aowow/?npc=)  ||||<li> - [X] </li>|
