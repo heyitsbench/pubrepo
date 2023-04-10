@@ -1935,7 +1935,7 @@ H, Howling Fjord 32774
 |[32832](https://wowgaming.altervista.org/aowow/?npc=32832)||||<li> - [X] </li>|
 |[32834](https://wowgaming.altervista.org/aowow/?npc=32834)||||<li> - [X] </li>|
 |[32836](https://wowgaming.altervista.org/aowow/?npc=32836)|Noblegarden Vendor|Starter Towns|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230807500-d0cf9e2b-6bc5-4d18-bdf7-d733549f184f.png)|
-H, Starter towns, Noblegarden 32837
+|[32837](https://wowgaming.altervista.org/aowow/?npc=32837)|Noblegarden Merchant|Starter Towns|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230814479-2f4b0275-52db-4d0e-8f57-0f8c05b0a7cc.png)
 H, Howling Fjord 33018
 H, Howling Fjord 33019
 |[33026](https://wowgaming.altervista.org/aowow/?npc=33026)||||<li> - [X] </li>|
