@@ -55,20 +55,20 @@
 |[1148](https://wowgaming.altervista.org/aowow/?npc=1148)  |Nerrist              |Grom'gol, Stranglethorn Vale        |Horde   |<li> - [X] </li>     |               |
 |[1149](https://wowgaming.altervista.org/aowow/?npc=1149)  |Uthok                |Grom'gol, Stranglethorn Vale        |Horde   |<li> - [X] </li>     |               |
 |[1198](https://wowgaming.altervista.org/aowow/?npc=1198)  |Rallic Finn          |Eastvale Logging Camp, Elwynn Forest|Alliance|<li> - [X] </li>     |               |
-|[1213](https://wowgaming.altervista.org/aowow/?npc=1213)  ||||<li> - [X] </li>|               |
-|[1214](https://wowgaming.altervista.org/aowow/?npc=1214)  ||||<li> - [X] </li>|               |
-|[1237](https://wowgaming.altervista.org/aowow/?npc=1237)  ||||<li> - [X] </li>|               |
-|[1238](https://wowgaming.altervista.org/aowow/?npc=1238)  ||||<li> - [X] </li>|               |
-|[1240](https://wowgaming.altervista.org/aowow/?npc=1240)  ||||<li> - [X] </li>|               |
-|[1243](https://wowgaming.altervista.org/aowow/?npc=1243)  ||||<li> - [X] </li>|               |
-|[1247](https://wowgaming.altervista.org/aowow/?npc=1247)  ||||<li> - [X] </li>|               |
-|[1249](https://wowgaming.altervista.org/aowow/?npc=1249)  ||||<li> - [X] </li>|               |
-|[1250](https://wowgaming.altervista.org/aowow/?npc=1250)  ||||<li> - [X] </li>|               |
-|[1257](https://wowgaming.altervista.org/aowow/?npc=1257)  ||||<li> - [X] </li>|               |
-|[1261](https://wowgaming.altervista.org/aowow/?npc=1261)  ||||<li> - [X] </li>|               |
-|[1263](https://wowgaming.altervista.org/aowow/?npc=1263)  ||||<li> - [X] </li>|               |
-|[1273](https://wowgaming.altervista.org/aowow/?npc=1273)  ||||<li> - [X] </li>|               |
-|[1275](https://wowgaming.altervista.org/aowow/?npc=1275)  ||||<li> - [X] </li>|               |
+|[1213](https://wowgaming.altervista.org/aowow/?npc=1213)  |Godric Rothgar       |Northshire, Elwynn Forest           |Alliance|<li> - [X] </li>     |               |
+|[1214](https://wowgaming.altervista.org/aowow/?npc=1214)  |Aldren Cordon        |Loch Modan                          |Alliance|<li> - [X] </li>     |               |
+|[1237](https://wowgaming.altervista.org/aowow/?npc=1237)  |Kazan Mogosh         |Gol'bolar Quarry, Dun Morogh        |Alliance|<li> - [X] </li>     |               |
+|[1238](https://wowgaming.altervista.org/aowow/?npc=1238)  |Gamili Frosthide     |Kharanos, Dun Morogh                |Alliance|<li> - [X] </li>     |               |
+|[1240](https://wowgaming.altervista.org/aowow/?npc=1240)  |Boran Ironclink      |Kharanos, Dun Morogh                |Alliance|<li> - [X] </li>     |               |
+|[1243](https://wowgaming.altervista.org/aowow/?npc=1243)  |Hegnar Rumbleshot    |Dun Morogh                          |Alliance|<li> - [X] </li>     |               |
+|[1247](https://wowgaming.altervista.org/aowow/?npc=1247)  |Innkeeper Belm       |Kharanos, Dun Morogh                |Alliance|<li> - [X] </li>     |               |
+|[1249](https://wowgaming.altervista.org/aowow/?npc=1249)  |Quartermaster Hudson |Elwynn Forest                       |Alliance|<li> - [X] </li>     |               |
+|[1250](https://wowgaming.altervista.org/aowow/?npc=1250)  |Drake Lindgren       |Eastvale Logging Camp, Elwynn Forest|Alliance|<li> - [X] </li>     |               |
+|[1257](https://wowgaming.altervista.org/aowow/?npc=1257)  |Keldric Boucher      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1261](https://wowgaming.altervista.org/aowow/?npc=1261)  |Veron Amberstill     |Dun Morogh                          |Alliance|<li> - [X] </li>     |               |
+|[1263](https://wowgaming.altervista.org/aowow/?npc=1263)  |Yarlyn Amberstill    |Dun Morogh                          |Alliance|<li> - [X] </li>     |               |
+|[1273](https://wowgaming.altervista.org/aowow/?npc=1273)  |Grawn Thromwyn       |Kharanos, Dun Morogh                |Alliance|<li> - [X] </li>     |               |
+|[1275](https://wowgaming.altervista.org/aowow/?npc=1275)  |Kyra Boucher         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
 |[1285](https://wowgaming.altervista.org/aowow/?npc=1285)  ||||<li> - [X] </li>|               |
 |[1286](https://wowgaming.altervista.org/aowow/?npc=1286)  ||||<li> - [X] </li>|               |
 |[1287](https://wowgaming.altervista.org/aowow/?npc=1287)  ||||<li> - [X] </li>|               |
@@ -167,12 +167,12 @@
 |[2136](https://wowgaming.altervista.org/aowow/?npc=2136)  ||||<li> - [X] </li>|               |
 |[2137](https://wowgaming.altervista.org/aowow/?npc=2137)  ||||<li> - [X] </li>|               |
 |[2140](https://wowgaming.altervista.org/aowow/?npc=2140)  ||||<li> - [X] </li>|               |
-|[2225](https://wowgaming.altervista.org/aowow/?npc=2225)  ||Alterac Valley|Horde|<li> - [ ] </li>|               |
+|[2225](https://wowgaming.altervista.org/aowow/?npc=2225)  |Zora Guthrek|Alterac Valley|Horde|<li> - [ ] </li>|               |
 |[2264](https://wowgaming.altervista.org/aowow/?npc=2264)  ||||<li> - [X] </li>|               |
 |[2265](https://wowgaming.altervista.org/aowow/?npc=2265)  ||||<li> - [X] </li>|               |
 |[2303](https://wowgaming.altervista.org/aowow/?npc=2303)  ||||<li> - [X] </li>|               |
 |[2352](https://wowgaming.altervista.org/aowow/?npc=2352)  ||||<li> - [X] </li>|               |
-|[2357](https://wowgaming.altervista.org/aowow/?npc=2357)  ||Southshore|Alliance|<li> - [ ] </li>|               |
+|[2357](https://wowgaming.altervista.org/aowow/?npc=2357)  |Merideth Carlson|Southshore, Hillsbrad Foothills|Alliance|<li> - [ ] </li>|               |
 |[2364](https://wowgaming.altervista.org/aowow/?npc=2364)  ||||<li> - [X] </li>|               |
 |[2365](https://wowgaming.altervista.org/aowow/?npc=2365)  ||||<li> - [X] </li>|               |
 |[2366](https://wowgaming.altervista.org/aowow/?npc=2366)  ||||<li> - [X] </li>|               |
@@ -184,9 +184,9 @@
 |[2394](https://wowgaming.altervista.org/aowow/?npc=2394)  ||||<li> - [X] </li>|               |
 |[2397](https://wowgaming.altervista.org/aowow/?npc=2397)  ||||<li> - [X] </li>|               |
 |[2401](https://wowgaming.altervista.org/aowow/?npc=2401)  ||||<li> - [X] </li>|               |
-|[2404](https://wowgaming.altervista.org/aowow/?npc=2404)  ||Hillsbrad (Questionable)|Alliance|<li> - [ ] </li>|               |
-|[2480](https://wowgaming.altervista.org/aowow/?npc=2480)  ||Alterac (Mountains?)|Neutral|<li> - [ ] </li>|               |
-|[2481](https://wowgaming.altervista.org/aowow/?npc=2481)  |Bliztik|Duskwood|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230697804-085c3d61-2787-4ffd-a979-91303a5e43f7.png)|               |
+|[2404](https://wowgaming.altervista.org/aowow/?npc=2404)  |Blacksmith Verringtan|Hillsbrad Foothills|Alliance|<li> - [ ] </li>|Vendor?        |
+|[2480](https://wowgaming.altervista.org/aowow/?npc=2480)  |Bro'kin              |Alterac Mountains  |Neutral |<li> - [ ] </li>|               |
+|[2481](https://wowgaming.altervista.org/aowow/?npc=2481)  |Bliztik              |Duskwood           |Neutral |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230697804-085c3d61-2787-4ffd-a979-91303a5e43f7.png)|               |
 |[2482](https://wowgaming.altervista.org/aowow/?npc=2482)  ||||<li> - [X] </li>|               |
 |[2483](https://wowgaming.altervista.org/aowow/?npc=2483)  ||||<li> - [X] </li>|               |
 |[2622](https://wowgaming.altervista.org/aowow/?npc=2622)  ||||<li> - [X] </li>|               |
@@ -199,8 +199,8 @@
 |[2672](https://wowgaming.altervista.org/aowow/?npc=2672)  ||||<li> - [X] </li>|               |
 |[2679](https://wowgaming.altervista.org/aowow/?npc=2679)  ||||<li> - [X] </li>|               |
 |[2682](https://wowgaming.altervista.org/aowow/?npc=2682)  ||||<li> - [X] </li>|               |
-|[2683](https://wowgaming.altervista.org/aowow/?npc=2683)  ||Gnomeregan|Alliance|<li> - [ ] </li>|               |
-|[2684](https://wowgaming.altervista.org/aowow/?npc=2684)  ||Alterac (Mountains?)|Neutral|<li> - [X] </li>|               |
+|[2683](https://wowgaming.altervista.org/aowow/?npc=2683)  |Namdo Bizzfizzle|Gnomeregan       |Alliance|<li> - [ ] </li>|               |
+|[2684](https://wowgaming.altervista.org/aowow/?npc=2684)  |Rizz Loosebolt  |Alterac Mountains|Neutral |<li> - [X] </li>|               |
 |[2685](https://wowgaming.altervista.org/aowow/?npc=2685)  ||||<li> - [X] </li>|               |
 |[2687](https://wowgaming.altervista.org/aowow/?npc=2687)  ||||<li> - [X] </li>|               |
 |[2688](https://wowgaming.altervista.org/aowow/?npc=2688)  ||||<li> - [X] </li>|               |
@@ -232,7 +232,7 @@
 |[2849](https://wowgaming.altervista.org/aowow/?npc=2849)  ||||<li> - [X] </li>|               |
 |[2908](https://wowgaming.altervista.org/aowow/?npc=2908)  ||||<li> - [X] </li>|               |
 |[2910](https://wowgaming.altervista.org/aowow/?npc=2910)  |Prospector Ryedol|Badlands|Alliance|<li> - [ ] </li>|               |
-|[2942](https://wowgaming.altervista.org/aowow/?npc=2942)  |Dylan Bissel|Unknown (R?)|Neutral|<li> - [ ] </li>|               |
+|[2942](https://wowgaming.altervista.org/aowow/?npc=2942)  |Dylan Bissel     |Unknown |Neutral |<li> - [ ] </li>|Likely removed |
 |[2997](https://wowgaming.altervista.org/aowow/?npc=2997)  ||||<li> - [X] </li>|               |
 |[2999](https://wowgaming.altervista.org/aowow/?npc=2999)  ||||<li> - [X] </li>|               |
 |[3000](https://wowgaming.altervista.org/aowow/?npc=3000)  ||||<li> - [X] </li>|               |
@@ -339,8 +339,8 @@
 |[3409](https://wowgaming.altervista.org/aowow/?npc=3409)  ||||<li> - [X] </li>|               |
 |[3410](https://wowgaming.altervista.org/aowow/?npc=3410)  ||||<li> - [X] </li>|               |
 |[3411](https://wowgaming.altervista.org/aowow/?npc=3411)  |Denni'ka|Stonetalon Mountains|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230696553-bd96e616-330a-47dd-8e44-0887e201b057.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230696558-d0cb556e-8146-4e15-b523-6c297686658a.png)|               |
-|[3413](https://wowgaming.altervista.org/aowow/?npc=3413)  |Sovik|Orgrimmar|Horde|<li> - [X] </li>|               |
-|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub|The Barrens|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681998-6eea70e4-2ef3-4d4a-93c8-c918b74f0254.png)|               |
+|[3413](https://wowgaming.altervista.org/aowow/?npc=3413)  |Sovik   |Orgrimmar           |Horde|<li> - [X] </li>|               |
+|[3443](https://wowgaming.altervista.org/aowow/?npc=3443)  |Grub    |The Barrens         |Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681998-6eea70e4-2ef3-4d4a-93c8-c918b74f0254.png)|               |
 |[3477](https://wowgaming.altervista.org/aowow/?npc=3477)  ||||<li> - [X] </li>|               |
 |[3479](https://wowgaming.altervista.org/aowow/?npc=3479)  ||||<li> - [X] </li>|               |
 |[3480](https://wowgaming.altervista.org/aowow/?npc=3480)  ||||<li> - [X] </li>|               |
@@ -364,11 +364,11 @@
 |[3518](https://wowgaming.altervista.org/aowow/?npc=3518)  ||||<li> - [X] </li>|               |
 |[3522](https://wowgaming.altervista.org/aowow/?npc=3522)  ||||<li> - [X] </li>|               |
 |[3528](https://wowgaming.altervista.org/aowow/?npc=3528)  ||||<li> - [X] </li>|               |
-|[3529](https://wowgaming.altervista.org/aowow/?npc=3529)  |Moonrage Armorer|Silverpine Forest?|Hostile|<li> - [ ] </li>|               |
-|[3530](https://wowgaming.altervista.org/aowow/?npc=3530)  ||||<li> - [X] </li>|               |
-|[3532](https://wowgaming.altervista.org/aowow/?npc=3532)  ||||<li> - [X] </li>|               |
-|[3534](https://wowgaming.altervista.org/aowow/?npc=3534)  ||||<li> - [X] </li>|               |
-|[3536](https://wowgaming.altervista.org/aowow/?npc=3536)  |Kris Legace|Durnholde Keep|Neutral|<li> - [X] </li>|               |
+|[3529](https://wowgaming.altervista.org/aowow/?npc=3529)  |Moonrage Armorer      |Silverpine Forest               |Hostile |<li> - [ ] </li>|False positive |
+|[3530](https://wowgaming.altervista.org/aowow/?npc=3530)  |Pyrewood Tailor       |Silverpine Forest               |Alliance|<li> - [X] </li>|               |
+|[3532](https://wowgaming.altervista.org/aowow/?npc=3532)  |Pyrewood Leatherworker|Silverpine Forest               |Alliance|<li> - [X] </li>|               |
+|[3534](https://wowgaming.altervista.org/aowow/?npc=3534)  |Wallace the Blind     |Greymane Wall, Silverpine Forest|Neutral |<li> - [X] </li>|               |
+|[3536](https://wowgaming.altervista.org/aowow/?npc=3536)  |Kris Legace           |Durnholde Keep                  |Neutral |<li> - [X] </li>|               |
 |[3537](https://wowgaming.altervista.org/aowow/?npc=3537)  ||||<li> - [X] </li>|               |
 |[3539](https://wowgaming.altervista.org/aowow/?npc=3539)  ||||<li> - [X] </li>|               |
 |[3540](https://wowgaming.altervista.org/aowow/?npc=3540)  ||||<li> - [X] </li>|               |
@@ -404,13 +404,13 @@
 |[3613](https://wowgaming.altervista.org/aowow/?npc=3613)  ||||<li> - [X] </li>|               |
 |[3614](https://wowgaming.altervista.org/aowow/?npc=3614)  ||||<li> - [X] </li>|               |
 |[3621](https://wowgaming.altervista.org/aowow/?npc=3621)  ||||<li> - [X] </li>|               |
-|[3625](https://wowgaming.altervista.org/aowow/?npc=3625)  |Rarck|Alterac Valley|Horde|<li> - [ ] </li>|               |
-|[3658](https://wowgaming.altervista.org/aowow/?npc=3658)  ||||<li> - [X] </li>|               |
-|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  |Vrang Wildgore|The Barrens|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681638-ebe6cd6a-f355-4b35-a4c5-916c802364a8.png)|               |
-|[3683](https://wowgaming.altervista.org/aowow/?npc=3683)  ||||<li> - [X] </li>|               |
-|[3684](https://wowgaming.altervista.org/aowow/?npc=3684)  ||||<li> - [X] </li>|               |
-|[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  |Harb Clawhoof|Mulgore|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230696233-dd6b4233-a746-4570-890e-eaf2f9514b61.png)|               |
-|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  |Laer Stepperunner|The Barrens|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230687582-05e3635d-152e-4d4f-9a24-b7e63ef76c1f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230687595-3e479b71-dd1b-409c-940c-93ca088b6c0a.png)|               |
+|[3625](https://wowgaming.altervista.org/aowow/?npc=3625)  |Rarck            |Alterac Valley|Horde  |<li> - [ ] </li>|               |
+|[3658](https://wowgaming.altervista.org/aowow/?npc=3658)  |Lizzarik         |The Barrens   |Neutral|<li> - [X] </li>|Wandering      |
+|[3682](https://wowgaming.altervista.org/aowow/?npc=3682)  |Vrang Wildgore   |The Barrens   |Horde  |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230681638-ebe6cd6a-f355-4b35-a4c5-916c802364a8.png)|               |
+|[3683](https://wowgaming.altervista.org/aowow/?npc=3683)  |Kiknikle         |The Barrens   |Neutral|<li> - [X] </li>|               |
+|[3684](https://wowgaming.altervista.org/aowow/?npc=3684)  |Pizznukle        |The Barrens   |Neutral|<li> - [X] </li>|               |
+|[3685](https://wowgaming.altervista.org/aowow/?npc=3685)  |Harb Clawhoof    |Mulgore       |Horde  |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230696233-dd6b4233-a746-4570-890e-eaf2f9514b61.png)|               |
+|[3689](https://wowgaming.altervista.org/aowow/?npc=3689)  |Laer Stepperunner|The Barrens   |Horde  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230687582-05e3635d-152e-4d4f-9a24-b7e63ef76c1f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230687595-3e479b71-dd1b-409c-940c-93ca088b6c0a.png)|               |
 |[3700](https://wowgaming.altervista.org/aowow/?npc=3700)  ||||<li> - [X] </li>|               |
 |[3705](https://wowgaming.altervista.org/aowow/?npc=3705)  ||||<li> - [X] </li>|               |
 |[3708](https://wowgaming.altervista.org/aowow/?npc=3708)  ||||<li> - [X] </li>|               |
@@ -470,8 +470,8 @@
 |[4195](https://wowgaming.altervista.org/aowow/?npc=4195)  ||||<li> - [X] </li>|               |
 |[4200](https://wowgaming.altervista.org/aowow/?npc=4200)  ||||<li> - [X] </li>|               |
 |[4203](https://wowgaming.altervista.org/aowow/?npc=4203)  ||||<li> - [X] </li>|               |
-|[4207](https://wowgaming.altervista.org/aowow/?npc=4207)  |Valyen Wolfsong|Unknown (R?)|Neutral|<li> - [ ] </li>|               |
-|[4216](https://wowgaming.altervista.org/aowow/?npc=4216)  |Chardryn|Darnassus|Alliance|<li> - [X] </li>|               |
+|[4207](https://wowgaming.altervista.org/aowow/?npc=4207)  |Valyen Wolfsong      |Unknown (R?)|Neutral|<li> - [ ] </li>|               |
+|[4216](https://wowgaming.altervista.org/aowow/?npc=4216)  |Chardryn             |Darnassus|Alliance|<li> - [X] </li>|               |
 |[4217](https://wowgaming.altervista.org/aowow/?npc=4217)  |Mathrengyl Bearwalker|Darnassus|Alliance|<li> - [ ] </li>|               |
 |[4220](https://wowgaming.altervista.org/aowow/?npc=4220)  ||||<li> - [X] </li>|               |
 |[4221](https://wowgaming.altervista.org/aowow/?npc=4221)  ||||<li> - [X] </li>|               |
@@ -491,7 +491,7 @@
 |[4240](https://wowgaming.altervista.org/aowow/?npc=4240)  ||||<li> - [X] </li>|               |
 |[4241](https://wowgaming.altervista.org/aowow/?npc=4241)  ||||<li> - [X] </li>|               |
 |[4255](https://wowgaming.altervista.org/aowow/?npc=4255)  |Brogus Thunderbrew|Alterac Valley|Alliance|<li> - [ ] </li>|               |
-|[4256](https://wowgaming.altervista.org/aowow/?npc=4256)  ||||<li> - [X] </li>|               |
+|[4256](https://wowgaming.altervista.org/aowow/?npc=4256)  |Golnir Bouldertoe|Ironforge|Alliance|<li> - [X] </li>|               |
 |[4257](https://wowgaming.altervista.org/aowow/?npc=4257)  |Lana Thunderbrew|Alterac Valley|Alliance|<li> - [ ] </li>|               |
 |[4259](https://wowgaming.altervista.org/aowow/?npc=4259)  ||||<li> - [X] </li>|               |
 |[4265](https://wowgaming.altervista.org/aowow/?npc=4265)  ||||<li> - [X] </li>|               |
@@ -688,8 +688,8 @@
 |[7744](https://wowgaming.altervista.org/aowow/?npc=7744)  ||||<li> - [X] </li>|               |
 |[7772](https://wowgaming.altervista.org/aowow/?npc=7772)  ||||<li> - [X] </li>|               |
 |[7775](https://wowgaming.altervista.org/aowow/?npc=7775)  |Gregan Brewspewer|Feralas|Neutral|<li> - [ ] </li>|Quest gated?   |
-|[7852](https://wowgaming.altervista.org/aowow/?npc=7852)  ||||<li> - [X] </li>|               |
-|[7854](https://wowgaming.altervista.org/aowow/?npc=7854)  ||||<li> - [X] </li>|               |
+|[7852](https://wowgaming.altervista.org/aowow/?npc=7852)  |Pratt McGrubben|Feathermoon Stronghold, Feralas|Alliance|<li> - [X] </li>|               |
+|[7854](https://wowgaming.altervista.org/aowow/?npc=7854)  |Jangdor Swiftstrider|Feralas|Horde|<li> - [X] </li>|               |
 |[7879](https://wowgaming.altervista.org/aowow/?npc=7879)  |Quintis Jonespyre|Feathermoon Stronghold, Feralas|Alliance|<li> - [ ] </li>|Quest gated    |
 |[7940](https://wowgaming.altervista.org/aowow/?npc=7940)  ||||<li> - [X] </li>|               |
 |[7941](https://wowgaming.altervista.org/aowow/?npc=7941)  ||||<li> - [X] </li>|               |
@@ -697,15 +697,15 @@
 |[7943](https://wowgaming.altervista.org/aowow/?npc=7943)  ||||<li> - [X] </li>|               |
 |[7945](https://wowgaming.altervista.org/aowow/?npc=7945)  ||||<li> - [X] </li>|               |
 |[7947](https://wowgaming.altervista.org/aowow/?npc=7947)  ||||<li> - [X] </li>|               |
-|[7952](https://wowgaming.altervista.org/aowow/?npc=7952)  |Zjolnir|Sen'jin Village, Durotar|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230690834-30adb9fa-b9c7-41d2-873f-a142d230a4ba.png)|               |
-|[7955](https://wowgaming.altervista.org/aowow/?npc=7955)  |Milli Featherwhistle|Kharanos, Dun Morogh|Alliance|<li> - [ ] </li>|               |
-|[7976](https://wowgaming.altervista.org/aowow/?npc=7976)  ||||<li> - [X] </li>|               |
-|[7978](https://wowgaming.altervista.org/aowow/?npc=7978)  ||||<li> - [X] </li>|               |
-|[8116](https://wowgaming.altervista.org/aowow/?npc=8116)  |Ziggle Sparks|Booty Bay|Neutral |<li> - [ ] </li>|Midsummer Fire Festival Event|
-|[8117](https://wowgaming.altervista.org/aowow/?npc=8117)  |Wizbang Booms|Ironforge|Alliance|<li> - [ ] </li>|Midsummer Fire Festival Event|
-|[8118](https://wowgaming.altervista.org/aowow/?npc=8118)  |Lillian Singh|Stormwind|Alliance|<li> - [ ] </li>|Midsummer Fire Festival Event|
-|[8121](https://wowgaming.altervista.org/aowow/?npc=8121)  |Jaxxil Sparks|Ratchet  |Neutral |<li> - [ ] </li>|Midsummer Fire Festival Event|
-|[8122](https://wowgaming.altervista.org/aowow/?npc=8122)  |Kizzak Sparks|Orgrimmar|Horde   |<li> - [ ] </li>|Midsummer Fire Festival Event|
+|[7952](https://wowgaming.altervista.org/aowow/?npc=7952)  |Zjolnir             |Sen'jin Village, Durotar|Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230690834-30adb9fa-b9c7-41d2-873f-a142d230a4ba.png)|               |
+|[7955](https://wowgaming.altervista.org/aowow/?npc=7955)  |Milli Featherwhistle|Kharanos, Dun Morogh    |Alliance|<li> - [ ] </li>|               |
+|[7976](https://wowgaming.altervista.org/aowow/?npc=7976)  |Thalgus Thunderfist |Ironforge               |Alliance|<li> - [X] </li>|               |
+|[7978](https://wowgaming.altervista.org/aowow/?npc=7978)  |Bimble Longberry    |Ironforge               |Alliance|<li> - [X] </li>|               |
+|[8116](https://wowgaming.altervista.org/aowow/?npc=8116)  |Ziggle Sparks       |Booty Bay               |Neutral |<li> - [ ] </li>|Midsummer Fire Festival Event|
+|[8117](https://wowgaming.altervista.org/aowow/?npc=8117)  |Wizbang Booms       |Ironforge               |Alliance|<li> - [ ] </li>|Midsummer Fire Festival Event|
+|[8118](https://wowgaming.altervista.org/aowow/?npc=8118)  |Lillian Singh       |Stormwind               |Alliance|<li> - [ ] </li>|Midsummer Fire Festival Event|
+|[8121](https://wowgaming.altervista.org/aowow/?npc=8121)  |Jaxxil Sparks       |Ratchet                 |Neutral |<li> - [ ] </li>|Midsummer Fire Festival Event|
+|[8122](https://wowgaming.altervista.org/aowow/?npc=8122)  |Kizzak Sparks       |Orgrimmar               |Horde   |<li> - [ ] </li>|Midsummer Fire Festival Event|
 |[8125](https://wowgaming.altervista.org/aowow/?npc=8125)  ||||<li> - [X] </li>|               |
 |[8129](https://wowgaming.altervista.org/aowow/?npc=8129)  ||||<li> - [X] </li>|               |
 |[8131](https://wowgaming.altervista.org/aowow/?npc=8131)  ||||<li> - [X] </li>|               |
@@ -723,7 +723,7 @@
 |[8176](https://wowgaming.altervista.org/aowow/?npc=8176)  ||||<li> - [X] </li>|               |
 |[8177](https://wowgaming.altervista.org/aowow/?npc=8177)  ||||<li> - [X] </li>|               |
 |[8178](https://wowgaming.altervista.org/aowow/?npc=8178)  ||||<li> - [X] </li>|               |
-|[8305](https://wowgaming.altervista.org/aowow/?npc=8305)  ||Wetlands|Neutral|<li> - [ ] </li>|               |
+|[8305](https://wowgaming.altervista.org/aowow/?npc=8305)  |Kixxle            |Wetlands   |Neutral|<li> - [ ] </li>|               |
 |[8307](https://wowgaming.altervista.org/aowow/?npc=8307)  |Tarban Hearthgrain|The Barrens|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230681906-69082d22-c5a5-4c02-adc1-688f0485821d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230681928-5d20757c-cf8d-4ac0-96d4-90b6a3a3093e.png)|               |
 |[8358](https://wowgaming.altervista.org/aowow/?npc=8358)  ||||<li> - [X] </li>|               |
 |[8359](https://wowgaming.altervista.org/aowow/?npc=8359)  ||||<li> - [X] </li>|               |
@@ -733,7 +733,7 @@
 |[8363](https://wowgaming.altervista.org/aowow/?npc=8363)  ||||<li> - [X] </li>|               |
 |[8364](https://wowgaming.altervista.org/aowow/?npc=8364)  ||||<li> - [X] </li>|               |
 |[8398](https://wowgaming.altervista.org/aowow/?npc=8398)  ||||<li> - [X] </li>|               |
-|[8401](https://wowgaming.altervista.org/aowow/?npc=8401)  ||Thunder Bluff|Horde|<li> - [ ] </li>|               |
+|[8401](https://wowgaming.altervista.org/aowow/?npc=8401)  |Halpa|Thunder Bluff|Horde|<li> - [ ] </li>|               |
 |[8403](https://wowgaming.altervista.org/aowow/?npc=8403)  ||||<li> - [X] </li>|               |
 |[8404](https://wowgaming.altervista.org/aowow/?npc=8404)  ||||<li> - [X] </li>|               |
 |[8508](https://wowgaming.altervista.org/aowow/?npc=8508)  ||||<li> - [X] </li>|               |
@@ -760,36 +760,36 @@
 |[9553](https://wowgaming.altervista.org/aowow/?npc=9553)  ||||<li> - [X] </li>|               |
 |[9555](https://wowgaming.altervista.org/aowow/?npc=9555)  ||||<li> - [X] </li>|               |
 |[9636](https://wowgaming.altervista.org/aowow/?npc=9636)  ||||<li> - [X] </li>|               |
-|[9676](https://wowgaming.altervista.org/aowow/?npc=9676)  |Tink Sprocketwhistle|Gnomeregan|Alliance|<li> - [ ] </li>|               |
-|[10118](https://wowgaming.altervista.org/aowow/?npc=10118)||||<li> - [X] </li>|               |
-|[10216](https://wowgaming.altervista.org/aowow/?npc=10216)|Gubber Blump|Auberdine, Darkshore|Alliance|<li> - [ ] </li>|Quest gated    |
-|[10293](https://wowgaming.altervista.org/aowow/?npc=10293)||||<li> - [X] </li>|               |
-|[10361](https://wowgaming.altervista.org/aowow/?npc=10361)||||<li> - [X] </li>|               |
-|[10364](https://wowgaming.altervista.org/aowow/?npc=10364)||Alterac Valley|Horde|<li> - [ ] </li>|               |
-|[10367](https://wowgaming.altervista.org/aowow/?npc=10367)||Alterac Valley|Horde|<li> - [ ] </li>|               |
-|[10369](https://wowgaming.altervista.org/aowow/?npc=10369)||||<li> - [X] </li>|               |
-|[10379](https://wowgaming.altervista.org/aowow/?npc=10379)||||<li> - [X] </li>|               |
-|[10380](https://wowgaming.altervista.org/aowow/?npc=10380)||||<li> - [X] </li>|               |
-|[10618](https://wowgaming.altervista.org/aowow/?npc=10618)||Winterspring|Alliance|<li> - [ ] </li>|               |
-|[10856](https://wowgaming.altervista.org/aowow/?npc=10856)||Western Plaguelands|Neutral|<li> - [ ] </li>|               |
-|[10857](https://wowgaming.altervista.org/aowow/?npc=10857)||Western Plaguelands|Neutral|<li> - [ ] </li>|               |
-|[11038](https://wowgaming.altervista.org/aowow/?npc=11038)||||<li> - [X] </li>|               |
-|[11056](https://wowgaming.altervista.org/aowow/?npc=11056)||Western Plaguelands|Alliance|<li> - [ ] </li>|               |
-|[11057](https://wowgaming.altervista.org/aowow/?npc=11057)||Western Plaguelands|Horde|<li> - [ ] </li>|               |
-|[11103](https://wowgaming.altervista.org/aowow/?npc=11103)||||<li> - [X] </li>|               |
-|[11106](https://wowgaming.altervista.org/aowow/?npc=11106)||||<li> - [X] </li>|               |
-|[11111](https://wowgaming.altervista.org/aowow/?npc=11111)|Wynne Larsone|Unknown|Hostile|<li> - [ ] </li>|Likely removed |
-|[11116](https://wowgaming.altervista.org/aowow/?npc=11116)||||<li> - [X] </li>|               |
-|[11118](https://wowgaming.altervista.org/aowow/?npc=11118)||||<li> - [X] </li>|               |
-|[11137](https://wowgaming.altervista.org/aowow/?npc=11137)||||<li> - [X] </li>|               |
-|[11182](https://wowgaming.altervista.org/aowow/?npc=11182)||||<li> - [X] </li>|               |
-|[11183](https://wowgaming.altervista.org/aowow/?npc=11183)||||<li> - [X] </li>|               |
-|[11184](https://wowgaming.altervista.org/aowow/?npc=11184)||||<li> - [X] </li>|               |
-|[11185](https://wowgaming.altervista.org/aowow/?npc=11185)||||<li> - [X] </li>|               |
-|[11186](https://wowgaming.altervista.org/aowow/?npc=11186)||||<li> - [X] </li>|               |
-|[11187](https://wowgaming.altervista.org/aowow/?npc=11187)||||<li> - [X] </li>|               |
-|[11188](https://wowgaming.altervista.org/aowow/?npc=11188)||||<li> - [X] </li>|               |
-|[11189](https://wowgaming.altervista.org/aowow/?npc=11189)||||<li> - [X] </li>|               |
+|[9676](https://wowgaming.altervista.org/aowow/?npc=9676)  |Tink Sprocketwhistle            |Gnomeregan                              |Alliance |<li> - [ ] </li>|               |
+|[10118](https://wowgaming.altervista.org/aowow/?npc=10118)|Nessa Shadowsong                |Rut'theran Village, Teldrassil          |Alliance |<li> - [X] </li>|               |
+|[10216](https://wowgaming.altervista.org/aowow/?npc=10216)|Gubber Blump                    |Auberdine, Darkshore                    |Alliance |<li> - [ ] </li>|Quest gated    |
+|[10293](https://wowgaming.altervista.org/aowow/?npc=10293)|Dulciea Frostmoon               |Feathermoon Stronghold, Feralas         |Alliance |<li> - [X] </li>|               |
+|[10361](https://wowgaming.altervista.org/aowow/?npc=10361)|Gruul Darkblade                 |Azshara                                 |Horde    |<li> - [X] </li>|               |
+|[10364](https://wowgaming.altervista.org/aowow/?npc=10364)|Yaelika Farclaw                 |Alterac Valley                          |Horde    |<li> - [ ] </li>|               |
+|[10367](https://wowgaming.altervista.org/aowow/?npc=10367)|Shrye Ragefist                  |Alterac Valley                          |Horde    |<li> - [ ] </li>|               |
+|[10369](https://wowgaming.altervista.org/aowow/?npc=10369)|Trayexir                        |Sen'jin Village, Durotar                |Horde    |<li> - [X] </li>|               |
+|[10379](https://wowgaming.altervista.org/aowow/?npc=10379)|Altsoba Ragetotem               |Felwood                                 |Horde    |<li> - [X] </li>|               |
+|[10380](https://wowgaming.altervista.org/aowow/?npc=10380)|Sanuye Runetotem                |The Barrens                             |Horde    |<li> - [X] </li>|               |
+|[10618](https://wowgaming.altervista.org/aowow/?npc=10618)|Rivern Frostwind                |Winterspring                            |Alliance |<li> - [ ] </li>|               |
+|[10856](https://wowgaming.altervista.org/aowow/?npc=10856)|Argent Quartermaster Hasana     |Western Plaguelands                     |Neutral  |<li> - [ ] </li>|               |
+|[10857](https://wowgaming.altervista.org/aowow/?npc=10857)|Argent Quartermaster Lightspark |Western Plaguelands                     |Neutral  |<li> - [ ] </li>|               |
+|[11038](https://wowgaming.altervista.org/aowow/?npc=11038)|Caretaker Alen                  |Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [X] </li>|               |
+|[11056](https://wowgaming.altervista.org/aowow/?npc=11056)|Alchemist Arbington             |Western Plaguelands                     |Alliance |<li> - [ ] </li>|               |
+|[11057](https://wowgaming.altervista.org/aowow/?npc=11057)|Apothecary Dithers              |Western Plaguelands                     |Horde    |<li> - [ ] </li>|               |
+|[11103](https://wowgaming.altervista.org/aowow/?npc=11103)|Innkeeper Lyshaerya             |Desolace                                |Alliance |<li> - [X] </li>|               |
+|[11106](https://wowgaming.altervista.org/aowow/?npc=11106)|Innkeeper Sikewa                |Desolace                                |Horde    |<li> - [X] </li>|               |
+|[11111](https://wowgaming.altervista.org/aowow/?npc=11111)|Wynne Larsone                   |Unknown                                 |Hostile  |<li> - [ ] </li>|Likely removed |
+|[11116](https://wowgaming.altervista.org/aowow/?npc=11116)|Innkeeper Abeqwa                |Thousand Needles                        |Horde    |<li> - [X] </li>|               |
+|[11118](https://wowgaming.altervista.org/aowow/?npc=11118)|Innkeeper Vizzie                |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11137](https://wowgaming.altervista.org/aowow/?npc=11137)|Xai'ander                       |Astranaar, Ashenvale                    |Alliance |<li> - [X] </li>|               |
+|[11182](https://wowgaming.altervista.org/aowow/?npc=11182)|Nixxrak                         |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11183](https://wowgaming.altervista.org/aowow/?npc=11183)|Blixxrak                        |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11184](https://wowgaming.altervista.org/aowow/?npc=11184)|Wixxrak                         |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11185](https://wowgaming.altervista.org/aowow/?npc=11185)|Xizzer Fizzbolt                 |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11186](https://wowgaming.altervista.org/aowow/?npc=11186)|Lunnix Sprocketslip             |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11187](https://wowgaming.altervista.org/aowow/?npc=11187)|Himmik                          |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11188](https://wowgaming.altervista.org/aowow/?npc=11188)|Evie Whirlbrew                  |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
+|[11189](https://wowgaming.altervista.org/aowow/?npc=11189)|Qia                             |Everlook, Winterspring                  |Neutral  |<li> - [X] </li>|               |
 |[11278](https://wowgaming.altervista.org/aowow/?npc=11278)|Magnus Frostwake                |Caer Darrow, Western Plaguelands        |Neutral  |<li> - [ ] </li>|               |
 |[11287](https://wowgaming.altervista.org/aowow/?npc=11287)|Baker Masterson                 |Caer Darrow, Western Plaguelands        |Neutral  |<li> - [ ] </li>|               |
 |[11536](https://wowgaming.altervista.org/aowow/?npc=11536)|Quartermaster Miranda Breechlock|Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230675219-137dfcca-5f21-4a97-88c6-fd25046704c7.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230675238-318b8c39-b95d-4163-9953-d8a7fbfad371.png)|               |
@@ -810,8 +810,8 @@
 |[12033](https://wowgaming.altervista.org/aowow/?npc=12033)||||<li> - [X] </li>|               |
 |[12043](https://wowgaming.altervista.org/aowow/?npc=12043)||||<li> - [X] </li>|               |
 |[12045](https://wowgaming.altervista.org/aowow/?npc=12045)||||<li> - [X] </li>|               |
-|[12096](https://wowgaming.altervista.org/aowow/?npc=12096)||Alterac Valley|Alliance|<li> - [ ] </li>|               |
-|[12097](https://wowgaming.altervista.org/aowow/?npc=12097)||Alterac Valley|Horde|<li> - [ ] </li>|               |
+|[12096](https://wowgaming.altervista.org/aowow/?npc=12096)|Stormpike Quartermaster|Alterac Valley|Alliance|<li> - [ ] </li>|               |
+|[12097](https://wowgaming.altervista.org/aowow/?npc=12097)|Frostwolf Quartermaster|Alterac Valley|Horde   |<li> - [ ] </li>|               |
 |[12196](https://wowgaming.altervista.org/aowow/?npc=12196)||||<li> - [X] </li>|               |
 |[12245](https://wowgaming.altervista.org/aowow/?npc=12245)||||<li> - [X] </li>|               |
 |[12246](https://wowgaming.altervista.org/aowow/?npc=12246)||||<li> - [X] </li>|               |
@@ -876,13 +876,13 @@ Feralas 14637
 |[14739](https://wowgaming.altervista.org/aowow/?npc=14739)||||<li> - [X] </li>|               |
 |[14740](https://wowgaming.altervista.org/aowow/?npc=14740)||||<li> - [X] </li>|               |
 |[14753](https://wowgaming.altervista.org/aowow/?npc=14753)||||<li> - [X] </li>|               |
-|[14754](https://wowgaming.altervista.org/aowow/?npc=14844)|Kelm Hargunth           |The Barrens   |Horde  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230682472-9fc5bcb0-e305-4935-86c1-faa83e537796.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230682552-139435a7-062d-408e-8742-ac49a80af8c7.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230682565-c4a7368a-b752-4650-8d2e-ed46d2d78bd3.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/230682585-adbcf21a-5d2d-4914-b483-313724da53b7.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/230682611-1cc0905a-48bb-4da7-bc2f-70e88dc771eb.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/230682634-71b6932f-e638-4854-9b67-7e9fe5a675f2.png) [Vendor 7](https://user-images.githubusercontent.com/38561765/230682659-437c2d7f-71b2-43b1-b918-7a45c0ed1809.png) [Vendor 8](https://user-images.githubusercontent.com/38561765/230682676-464d2f4c-3333-4913-9200-cd17c2e246dc.png)|               |
-|[14844](https://wowgaming.altervista.org/aowow/?npc=14844)|Sylannia                |Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678476-a4857957-4d56-4c31-8096-a48e69468e74.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
-|[14845](https://wowgaming.altervista.org/aowow/?npc=14845)|Stamp Thunderhorn       |Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678354-c0ae4f69-bee3-478e-8179-4bc79598b519.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
-|[14846](https://wowgaming.altervista.org/aowow/?npc=14846)|Lhara                   |Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678988-65bb0bf0-31e2-41c7-9b27-81be83004532.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230679010-5de87368-33f4-442c-8796-1aada7a8f3f2.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230679031-8b690dd1-b969-4db2-bf23-c02335827f49.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |               |
-|[14847](https://wowgaming.altervista.org/aowow/?npc=14847)|Professor Thaddeus Paleo|Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678828-54c0552a-51a0-49c5-b05b-968e8fd0202f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230678843-82e73e22-674a-4bb4-92b8-31d7676dca5f.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230678858-9a2a3fe0-4a33-4ec2-9556-5ea2e08079d6.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |               |
-|[14860](https://wowgaming.altervista.org/aowow/?npc=14860)|Flik                    |Darkmoon Faire|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678592-b7ebdcad-f319-40a9-a411-bd303c73f18e.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
-|[14921](https://wowgaming.altervista.org/aowow/?npc=14921)||||<li> - [X] </li>|               |
+|[14754](https://wowgaming.altervista.org/aowow/?npc=14844)|Kelm Hargunth           |The Barrens       |Horde  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230682472-9fc5bcb0-e305-4935-86c1-faa83e537796.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230682552-139435a7-062d-408e-8742-ac49a80af8c7.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230682565-c4a7368a-b752-4650-8d2e-ed46d2d78bd3.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/230682585-adbcf21a-5d2d-4914-b483-313724da53b7.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/230682611-1cc0905a-48bb-4da7-bc2f-70e88dc771eb.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/230682634-71b6932f-e638-4854-9b67-7e9fe5a675f2.png) [Vendor 7](https://user-images.githubusercontent.com/38561765/230682659-437c2d7f-71b2-43b1-b918-7a45c0ed1809.png) [Vendor 8](https://user-images.githubusercontent.com/38561765/230682676-464d2f4c-3333-4913-9200-cd17c2e246dc.png)|               |
+|[14844](https://wowgaming.altervista.org/aowow/?npc=14844)|Sylannia                |Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678476-a4857957-4d56-4c31-8096-a48e69468e74.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
+|[14845](https://wowgaming.altervista.org/aowow/?npc=14845)|Stamp Thunderhorn       |Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678354-c0ae4f69-bee3-478e-8179-4bc79598b519.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
+|[14846](https://wowgaming.altervista.org/aowow/?npc=14846)|Lhara                   |Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678988-65bb0bf0-31e2-41c7-9b27-81be83004532.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230679010-5de87368-33f4-442c-8796-1aada7a8f3f2.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230679031-8b690dd1-b969-4db2-bf23-c02335827f49.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |               |
+|[14847](https://wowgaming.altervista.org/aowow/?npc=14847)|Professor Thaddeus Paleo|Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678828-54c0552a-51a0-49c5-b05b-968e8fd0202f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230678843-82e73e22-674a-4bb4-92b8-31d7676dca5f.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230678858-9a2a3fe0-4a33-4ec2-9556-5ea2e08079d6.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |               |
+|[14860](https://wowgaming.altervista.org/aowow/?npc=14860)|Flik                    |Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678592-b7ebdcad-f319-40a9-a411-bd303c73f18e.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
+|[14921](https://wowgaming.altervista.org/aowow/?npc=14921)|Rin'wosho the Trader    |Stranglethorn Vale|Neutral|<li> - [X] </li>|               |
 Alterac 14961
 |[14962](https://wowgaming.altervista.org/aowow/?npc=14962)|Dillord Copperpinch|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230692744-74a73de1-a6d8-4326-8c2c-08f0cfdf037d.png)|               |
 |[14963](https://wowgaming.altervista.org/aowow/?npc=14963)||||<li> - [X] </li>|               |
@@ -1890,7 +1890,7 @@ A, Wintergrasp 32294
 |32355???
 |32356???
 Area 52 32356
-|[32359](https://wowgaming.altervista.org/aowow/?npc=32359)||||<li> - [X] </li>|               |
+|[32359](https://wowgaming.altervista.org/aowow/?npc=32359)|Argex Irongut|Gadgetzan, Tanaris|Neutral|<li> - [X] </li>|               |
 |32360???
 |32362???
 |[32379](https://wowgaming.altervista.org/aowow/?npc=32379)||||<li> - [X] </li>|               |
@@ -1925,21 +1925,21 @@ Gadgetzan 32407
 |[32631](https://wowgaming.altervista.org/aowow/?npc=32631)||||<li> - [X] </li>|               |
 |[32638](https://wowgaming.altervista.org/aowow/?npc=32638)|Hakmud of Argus|Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|               |
 |[32639](https://wowgaming.altervista.org/aowow/?npc=32639)|Gnimo          |Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|               |
-|[32641](https://wowgaming.altervista.org/aowow/?npc=32641)||||<li> - [X] </li>|               |
-|[32642](https://wowgaming.altervista.org/aowow/?npc=32642)||||<li> - [X] </li>|               |
-|[32763](https://wowgaming.altervista.org/aowow/?npc=32763)||||<li> - [X] </li>|               |
+|[32641](https://wowgaming.altervista.org/aowow/?npc=32641)|Drix Blackwrench|Traveler's Tundra Mammoth|Horde|<li> - [X] </li>|               |
+|[32642](https://wowgaming.altervista.org/aowow/?npc=32642)|Mojodishu|Traveler's Tundra Mammoth|Horde|<li> - [X] </li>|               |
+|[32763](https://wowgaming.altervista.org/aowow/?npc=32763)|Sairuk|Moa'ki Harbor, Dragonblight|Neutral|<li> - [X] </li>|               |
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
-|[32773](https://wowgaming.altervista.org/aowow/?npc=32773)||||<li> - [X] </li>|               |
+|[32773](https://wowgaming.altervista.org/aowow/?npc=32773)|Logistics Officer Brighton|Valgarde, Howling Fjord|Alliance|<li> - [X] </li>|               |
 H, Howling Fjord 32774
-|[32832](https://wowgaming.altervista.org/aowow/?npc=32832)||||<li> - [X] </li>|               |
-|[32834](https://wowgaming.altervista.org/aowow/?npc=32834)||||<li> - [X] </li>|               |
-|[32836](https://wowgaming.altervista.org/aowow/?npc=32836)|Noblegarden Vendor|Starter Towns|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230807500-d0cf9e2b-6bc5-4d18-bdf7-d733549f184f.png)|               |
-|[32837](https://wowgaming.altervista.org/aowow/?npc=32837)|Noblegarden Merchant|Starter Towns|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230814479-2f4b0275-52db-4d0e-8f57-0f8c05b0a7cc.png)|               |
+|[32832](https://wowgaming.altervista.org/aowow/?npc=32832)|Blood Guard Zar'shi|Orgrimmar|Horde|<li> - [X] </li>|               |
+|[32834](https://wowgaming.altervista.org/aowow/?npc=32834)|Knight-Lieutenant Moonstrike|Stormwind|Alliance|<li> - [X] </li>|               |
+|[32836](https://wowgaming.altervista.org/aowow/?npc=32836)|Noblegarden Vendor  |Starter Towns|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230807500-d0cf9e2b-6bc5-4d18-bdf7-d733549f184f.png)|               |
+|[32837](https://wowgaming.altervista.org/aowow/?npc=32837)|Noblegarden Merchant|Starter Towns|Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230814479-2f4b0275-52db-4d0e-8f57-0f8c05b0a7cc.png)|               |
 H, Howling Fjord 33018
 H, Howling Fjord 33019
-|[33026](https://wowgaming.altervista.org/aowow/?npc=33026)||||<li> - [X] </li>|               |
-|[33027](https://wowgaming.altervista.org/aowow/?npc=33027)||||<li> - [X] </li>|               |
+|[33026](https://wowgaming.altervista.org/aowow/?npc=33026)|Sarah Brady|Dalaran|Neutral|<li> - [X] </li>|               |
+|[33027](https://wowgaming.altervista.org/aowow/?npc=33027)|Jessica Sellers|Dalaran|Neutral|<li> - [X] </li>|               |
 A, Quest reward companion 33238
 H, Quest reward companion 33239
 A, Icecrown 33307
@@ -2046,7 +2046,7 @@ A, SW 34081
 A, SW? 34082
 A, SW? 34083
 A, SW 34084
-|[34087](https://wowgaming.altervista.org/aowow/?npc=34087)||||<li> - [X] </li>|               |
+|[34087](https://wowgaming.altervista.org/aowow/?npc=34087)|Trapjaw Rix|Dalaran|Neutral|<li> - [X] </li>|               |
 Gadgetzan 34088
 Area 52 34089
 Gadgetzan 34090
@@ -2055,7 +2055,7 @@ Dalaran 34092
 Gadgetzan 34093
 Area 52 34094
 Dalaran 34095
-|[34252](https://wowgaming.altervista.org/aowow/?npc=34252)||||<li> - [X] </li>|               |
+|[34252](https://wowgaming.altervista.org/aowow/?npc=34252)|Dubin Clay|Dalaran|Neutral|<li> - [X] </li>|               |
 Capitals, Day of the Dead 34382
 A, IF Gates, Pilgrim's Bounty 34645
 A, Darnassus Gates, Pilgrim's Bounty 34681
