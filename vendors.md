@@ -678,7 +678,7 @@
 |[6929](https://wowgaming.altervista.org/aowow/?npc=6929)  ||||<li> - [X] </li>|               |
 |[6930](https://wowgaming.altervista.org/aowow/?npc=6930)  ||||<li> - [X] </li>|               |
 |[7485](https://wowgaming.altervista.org/aowow/?npc=7485)  ||||<li> - [X] </li>|               |
-|[7564](https://wowgaming.altervista.org/aowow/?npc=7564)  |Marin Noggenfogger|Gadgetzan|Neutral|<li> - [ ] </li>|Quest gated    |
+|[7564](https://wowgaming.altervista.org/aowow/?npc=7564)  |Marin Noggenfogger|Gadgetzan|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231000587-b8d9a9e9-e42c-4f47-9390-caeb5a89239e.png)|Quest gated    |
 |[7683](https://wowgaming.altervista.org/aowow/?npc=7683)  ||||<li> - [X] </li>|               |
 |[7714](https://wowgaming.altervista.org/aowow/?npc=7714)  ||||<li> - [X] </li>|               |
 |[7731](https://wowgaming.altervista.org/aowow/?npc=7731)  ||||<li> - [X] </li>|               |
