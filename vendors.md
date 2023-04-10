@@ -69,72 +69,72 @@
 |[1263](https://wowgaming.altervista.org/aowow/?npc=1263)  |Yarlyn Amberstill    |Dun Morogh                          |Alliance|<li> - [X] </li>     |               |
 |[1273](https://wowgaming.altervista.org/aowow/?npc=1273)  |Grawn Thromwyn       |Kharanos, Dun Morogh                |Alliance|<li> - [X] </li>     |               |
 |[1275](https://wowgaming.altervista.org/aowow/?npc=1275)  |Kyra Boucher         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
-|[1285](https://wowgaming.altervista.org/aowow/?npc=1285)  ||||<li> - [X] </li>|               |
-|[1286](https://wowgaming.altervista.org/aowow/?npc=1286)  ||||<li> - [X] </li>|               |
-|[1287](https://wowgaming.altervista.org/aowow/?npc=1287)  ||||<li> - [X] </li>|               |
-|[1289](https://wowgaming.altervista.org/aowow/?npc=1289)  ||||<li> - [X] </li>|               |
-|[1291](https://wowgaming.altervista.org/aowow/?npc=1291)  ||||<li> - [X] </li>|               |
-|[1294](https://wowgaming.altervista.org/aowow/?npc=1294)  ||||<li> - [X] </li>|               |
-|[1295](https://wowgaming.altervista.org/aowow/?npc=1295)  ||||<li> - [X] </li>|               |
-|[1296](https://wowgaming.altervista.org/aowow/?npc=1296)  ||||<li> - [X] </li>|               |
-|[1297](https://wowgaming.altervista.org/aowow/?npc=1297)  ||||<li> - [X] </li>|               |
-|[1298](https://wowgaming.altervista.org/aowow/?npc=1298)  ||||<li> - [X] </li>|               |
-|[1299](https://wowgaming.altervista.org/aowow/?npc=1299)  ||||<li> - [X] </li>|               |
-|[1301](https://wowgaming.altervista.org/aowow/?npc=1301)  ||||<li> - [X] </li>|               |
-|[1302](https://wowgaming.altervista.org/aowow/?npc=1302)  ||||<li> - [X] </li>|               |
-|[1303](https://wowgaming.altervista.org/aowow/?npc=1303)  ||||<li> - [X] </li>|               |
-|[1304](https://wowgaming.altervista.org/aowow/?npc=1304)  ||||<li> - [X] </li>|               |
-|[1305](https://wowgaming.altervista.org/aowow/?npc=1305)  ||||<li> - [X] </li>|               |
-|[1307](https://wowgaming.altervista.org/aowow/?npc=1307)  ||||<li> - [X] </li>|               |
-|[1308](https://wowgaming.altervista.org/aowow/?npc=1308)  ||||<li> - [X] </li>|               |
-|[1309](https://wowgaming.altervista.org/aowow/?npc=1309)  ||||<li> - [X] </li>|               |
-|[1310](https://wowgaming.altervista.org/aowow/?npc=1310)  ||||<li> - [X] </li>|               |
-|[1311](https://wowgaming.altervista.org/aowow/?npc=1311)  ||||<li> - [X] </li>|               |
-|[1312](https://wowgaming.altervista.org/aowow/?npc=1312)  ||||<li> - [X] </li>|               |
-|[1313](https://wowgaming.altervista.org/aowow/?npc=1313)  ||||<li> - [X] </li>|               |
-|[1314](https://wowgaming.altervista.org/aowow/?npc=1314)  ||||<li> - [X] </li>|               |
-|[1315](https://wowgaming.altervista.org/aowow/?npc=1315)  ||||<li> - [X] </li>|               |
-|[1316](https://wowgaming.altervista.org/aowow/?npc=1316)  ||||<li> - [X] </li>|               |
-|[1318](https://wowgaming.altervista.org/aowow/?npc=1318)  ||||<li> - [X] </li>|               |
-|[1319](https://wowgaming.altervista.org/aowow/?npc=1319)  ||||<li> - [X] </li>|               |
-|[1320](https://wowgaming.altervista.org/aowow/?npc=1320)  ||||<li> - [X] </li>|               |
-|[1321](https://wowgaming.altervista.org/aowow/?npc=1321)  ||||<li> - [X] </li>|               |
-|[1322](https://wowgaming.altervista.org/aowow/?npc=1322)  ||||<li> - [X] </li>|               |
-|[1323](https://wowgaming.altervista.org/aowow/?npc=1323)  ||||<li> - [X] </li>|               |
-|[1324](https://wowgaming.altervista.org/aowow/?npc=1324)  ||||<li> - [X] </li>|               |
-|[1325](https://wowgaming.altervista.org/aowow/?npc=1325)  ||||<li> - [X] </li>|               |
-|[1326](https://wowgaming.altervista.org/aowow/?npc=1326)  ||||<li> - [X] </li>|               |
-|[1328](https://wowgaming.altervista.org/aowow/?npc=1328)  ||||<li> - [X] </li>|               |
-|[1333](https://wowgaming.altervista.org/aowow/?npc=1333)  ||||<li> - [X] </li>|               |
-|[1339](https://wowgaming.altervista.org/aowow/?npc=1339)  ||||<li> - [X] </li>|               |
-|[1341](https://wowgaming.altervista.org/aowow/?npc=1341)  ||||<li> - [X] </li>|               |
-|[1347](https://wowgaming.altervista.org/aowow/?npc=1347)  ||||<li> - [X] </li>|               |
-|[1348](https://wowgaming.altervista.org/aowow/?npc=1348)  ||||<li> - [X] </li>|               |
-|[1349](https://wowgaming.altervista.org/aowow/?npc=1349)  ||||<li> - [X] </li>|               |
-|[1350](https://wowgaming.altervista.org/aowow/?npc=1350)  ||||<li> - [X] </li>|               |
-|[1351](https://wowgaming.altervista.org/aowow/?npc=1351)  ||||<li> - [X] </li>|               |
-|[1362](https://wowgaming.altervista.org/aowow/?npc=1362)  ||||<li> - [X] </li>|               |
-|[1381](https://wowgaming.altervista.org/aowow/?npc=1381)  ||||<li> - [X] </li>|               |
-|[1407](https://wowgaming.altervista.org/aowow/?npc=1407)  ||||<li> - [X] </li>|               |
-|[1441](https://wowgaming.altervista.org/aowow/?npc=1441)  ||||<li> - [X] </li>|               |
-|[1448](https://wowgaming.altervista.org/aowow/?npc=1448)  ||||<li> - [X] </li>|               |
-|[1450](https://wowgaming.altervista.org/aowow/?npc=1450)  ||||<li> - [X] </li>|               |
-|[1452](https://wowgaming.altervista.org/aowow/?npc=1452)  ||||<li> - [X] </li>|               |
-|[1453](https://wowgaming.altervista.org/aowow/?npc=1453)  ||||<li> - [X] </li>|               |
-|[1454](https://wowgaming.altervista.org/aowow/?npc=1454)  ||||<li> - [X] </li>|               |
-|[1456](https://wowgaming.altervista.org/aowow/?npc=1456)  ||||<li> - [X] </li>|               |
-|[1457](https://wowgaming.altervista.org/aowow/?npc=1457)  ||||<li> - [X] </li>|               |
-|[1459](https://wowgaming.altervista.org/aowow/?npc=1459)  ||||<li> - [X] </li>|               |
-|[1460](https://wowgaming.altervista.org/aowow/?npc=1460)  ||||<li> - [X] </li>|               |
-|[1461](https://wowgaming.altervista.org/aowow/?npc=1461)  ||||<li> - [X] </li>|               |
-|[1462](https://wowgaming.altervista.org/aowow/?npc=1462)  ||||<li> - [X] </li>|               |
-|[1463](https://wowgaming.altervista.org/aowow/?npc=1463)  ||||<li> - [X] </li>|               |
-|[1464](https://wowgaming.altervista.org/aowow/?npc=1464)  ||||<li> - [X] </li>|               |
-|[1465](https://wowgaming.altervista.org/aowow/?npc=1465)  ||||<li> - [X] </li>|               |
-|[1469](https://wowgaming.altervista.org/aowow/?npc=1469)  ||||<li> - [X] </li>|               |
-|[1471](https://wowgaming.altervista.org/aowow/?npc=1471)  ||||<li> - [X] </li>|               |
-|[1474](https://wowgaming.altervista.org/aowow/?npc=1474)  ||||<li> - [X] </li>|               |
-|[1645](https://wowgaming.altervista.org/aowow/?npc=1645)  ||||<li> - [X] </li>|               |
+|[1285](https://wowgaming.altervista.org/aowow/?npc=1285)  |Thurman Mullby       |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1286](https://wowgaming.altervista.org/aowow/?npc=1286)  |Edna Mullby          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1287](https://wowgaming.altervista.org/aowow/?npc=1287)  |Marda Weller         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1289](https://wowgaming.altervista.org/aowow/?npc=1289)  |Gunther Weller       |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1291](https://wowgaming.altervista.org/aowow/?npc=1291)  |Carla Granger        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1294](https://wowgaming.altervista.org/aowow/?npc=1294)  |Aldric Moore         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1295](https://wowgaming.altervista.org/aowow/?npc=1295)  |Lara Moore           |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1296](https://wowgaming.altervista.org/aowow/?npc=1296)  |Felder Stover        |Burning Steppes                     |Alliance|<li> - [X] </li>     |               |
+|[1297](https://wowgaming.altervista.org/aowow/?npc=1297)  |Lina Stover          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1298](https://wowgaming.altervista.org/aowow/?npc=1298)  |Frederick Stover     |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1299](https://wowgaming.altervista.org/aowow/?npc=1299)  |Lisbeth Schneider    |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1301](https://wowgaming.altervista.org/aowow/?npc=1301)  |Julia Gallina        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1302](https://wowgaming.altervista.org/aowow/?npc=1302)  |Bernard Gump         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1303](https://wowgaming.altervista.org/aowow/?npc=1303)  |Felicia Gump         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1304](https://wowgaming.altervista.org/aowow/?npc=1304)  |Darian Singh         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1305](https://wowgaming.altervista.org/aowow/?npc=1305)  |Jarel Moor           |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1307](https://wowgaming.altervista.org/aowow/?npc=1307)  |Charys Yserian       |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1308](https://wowgaming.altervista.org/aowow/?npc=1308)  |Owen Vaughn          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1309](https://wowgaming.altervista.org/aowow/?npc=1309)  |Wynne Larson         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1310](https://wowgaming.altervista.org/aowow/?npc=1310)  |Evan Larson          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1311](https://wowgaming.altervista.org/aowow/?npc=1311)  |Joachim Brenlow      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1312](https://wowgaming.altervista.org/aowow/?npc=1312)  |Ardwyn Cailen        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1313](https://wowgaming.altervista.org/aowow/?npc=1313)  |Maria Lumere         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1314](https://wowgaming.altervista.org/aowow/?npc=1314)  |Duncan Cullen        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1315](https://wowgaming.altervista.org/aowow/?npc=1315)  |Allan Hafgan         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1316](https://wowgaming.altervista.org/aowow/?npc=1316)  |Adair Gilroy         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1318](https://wowgaming.altervista.org/aowow/?npc=1318)  |Jessara Cordell      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1319](https://wowgaming.altervista.org/aowow/?npc=1319)  |Bryan Cross          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1320](https://wowgaming.altervista.org/aowow/?npc=1320)  |Seoman Griffith      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1321](https://wowgaming.altervista.org/aowow/?npc=1321)  |Alyssa Griffith      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1322](https://wowgaming.altervista.org/aowow/?npc=1322)  |Maxton Strang        |Desolace                            |Alliance|<li> - [X] </li>     |               |
+|[1323](https://wowgaming.altervista.org/aowow/?npc=1323)  |Osric Strang         |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1324](https://wowgaming.altervista.org/aowow/?npc=1324)  |Heinrich Stone       |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1325](https://wowgaming.altervista.org/aowow/?npc=1325)  |Jasper Fel           |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1326](https://wowgaming.altervista.org/aowow/?npc=1326)  |Sloan McCoy          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1328](https://wowgaming.altervista.org/aowow/?npc=1328)  |Elly Langston        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1333](https://wowgaming.altervista.org/aowow/?npc=1333)  |Gerik Koen           |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1339](https://wowgaming.altervista.org/aowow/?npc=1339)  |Mayda Thane          |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1341](https://wowgaming.altervista.org/aowow/?npc=1341)  |Wilhelm Strang       |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1347](https://wowgaming.altervista.org/aowow/?npc=1347)  |Alexandra Bolero     |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1348](https://wowgaming.altervista.org/aowow/?npc=1348)  |Gregory Ardus        |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1349](https://wowgaming.altervista.org/aowow/?npc=1349)  |Agustus Moulaine     |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1350](https://wowgaming.altervista.org/aowow/?npc=1350)  |Theresa Moulaine     |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1351](https://wowgaming.altervista.org/aowow/?npc=1351)  |Brother Cassius      |Stormwind                           |Alliance|<li> - [X] </li>     |               |
+|[1362](https://wowgaming.altervista.org/aowow/?npc=1362)  |Gothor Brumn         |Loch Modan                          |Alliance|<li> - [X] </li>     |               |
+|[1381](https://wowgaming.altervista.org/aowow/?npc=1381)  |Krakk                |Grom'gol, Stranglethorn Vale        |Horde   |<li> - [X] </li>     |               |
+|[1407](https://wowgaming.altervista.org/aowow/?npc=1407)  |Sranda               |Kargath, Badlands                   |Horde   |<li> - [X] </li>     |               |
+|[1441](https://wowgaming.altervista.org/aowow/?npc=1441)  |Brak Durnad          |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1448](https://wowgaming.altervista.org/aowow/?npc=1448)  |Neal Allen           |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1450](https://wowgaming.altervista.org/aowow/?npc=1450)  |Brahnmar             |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1452](https://wowgaming.altervista.org/aowow/?npc=1452)  |Gruham Rumdnul       |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1453](https://wowgaming.altervista.org/aowow/?npc=1453)  |Dewin Shimmerdawn    |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1454](https://wowgaming.altervista.org/aowow/?npc=1454)  |Jennabink Powerseam  |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1456](https://wowgaming.altervista.org/aowow/?npc=1456)  |Kersok Prond         |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1457](https://wowgaming.altervista.org/aowow/?npc=1457)  |Samor Festivus       |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1459](https://wowgaming.altervista.org/aowow/?npc=1459)  |Naela Trance         |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1460](https://wowgaming.altervista.org/aowow/?npc=1460)  |Unger Statforth      |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1461](https://wowgaming.altervista.org/aowow/?npc=1461)  |Murndan Derth        |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1462](https://wowgaming.altervista.org/aowow/?npc=1462)  |Edwina Monzor        |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1463](https://wowgaming.altervista.org/aowow/?npc=1463)  |Falkan Armonis       |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1464](https://wowgaming.altervista.org/aowow/?npc=1464)  |Innkeeper Helbrek    |Menethil Harbor, Wetlands           |Alliance|<li> - [X] </li>     |               |
+|[1465](https://wowgaming.altervista.org/aowow/?npc=1465)  |Drac Roughcut        |Thelsamar, Loch Modan               |Alliance|<li> - [X] </li>     |               |
+|[1469](https://wowgaming.altervista.org/aowow/?npc=1469)  |Vrok Blunderblast    |Thelsamar, Loch Modan               |Alliance|<li> - [X] </li>     |               |
+|[1471](https://wowgaming.altervista.org/aowow/?npc=1471)  |Jannos Ironwill      |Refuge Pointe, Arathi Highlands     |Alliance|<li> - [X] </li>     |               |
+|[1474](https://wowgaming.altervista.org/aowow/?npc=1474)  |Rann Flamespinner    |Thelsamar, Loch Modan               |Alliance|<li> - [X] </li>     |               |
+|[1645](https://wowgaming.altervista.org/aowow/?npc=1645)  |Quartermaster Hicks  |Elwynn Forest                       |Alliance|<li> - [X] </li>     |               |
 |[1650](https://wowgaming.altervista.org/aowow/?npc=1650)  ||||<li> - [X] </li>|               |
 |[1668](https://wowgaming.altervista.org/aowow/?npc=1668)  ||||<li> - [X] </li>|               |
 |[1669](https://wowgaming.altervista.org/aowow/?npc=1669)  ||||<li> - [X] </li>|               |
@@ -154,8 +154,8 @@
 |[1694](https://wowgaming.altervista.org/aowow/?npc=1694)  ||||<li> - [X] </li>|               |
 |[1695](https://wowgaming.altervista.org/aowow/?npc=1695)  ||||<li> - [X] </li>|               |
 |[1697](https://wowgaming.altervista.org/aowow/?npc=1697)  ||||<li> - [X] </li>|               |
-|[1698](https://wowgaming.altervista.org/aowow/?npc=1698)  ||||<li> - [X] </li>|               |
-|[2046](https://wowgaming.altervista.org/aowow/?npc=2046)  ||||<li> - [X] </li>|               |
+|[1698](https://wowgaming.altervista.org/aowow/?npc=1698)  |Frast Dokner|Gol'bolar Quarry, Dun Morogh|Alliance|<li> - [X] </li>|               |
+|[2046](https://wowgaming.altervista.org/aowow/?npc=2046)  |Andrew Krighton|Goldshire, Elwynn Forest|Alliance|<li> - [X] </li>|               |
 |[2084](https://wowgaming.altervista.org/aowow/?npc=2084)  ||||<li> - [X] </li>|               |
 |[2113](https://wowgaming.altervista.org/aowow/?npc=2113)  ||||<li> - [X] </li>|               |
 |[2115](https://wowgaming.altervista.org/aowow/?npc=2115)  ||||<li> - [X] </li>|               |
@@ -1752,7 +1752,7 @@ H, Grizzly Hills 29253
 |[29547](https://wowgaming.altervista.org/aowow/?npc=29547)||||<li> - [X] </li>|               |
 |[29548](https://wowgaming.altervista.org/aowow/?npc=29548)||||<li> - [X] </li>|               |
 Engineering 29561
-|[29583](https://wowgaming.altervista.org/aowow/?npc=29583)||||<li> - [X] </li>|               |
+|[29583](https://wowgaming.altervista.org/aowow/?npc=29583)|Pan'ya|Zim'torga, Zul'Drak|Neutral|<li> - [X] </li>|               |
 EPL 29587
 |[29628](https://wowgaming.altervista.org/aowow/?npc=29628)||||<li> - [X] </li>|               |
 |[29636](https://wowgaming.altervista.org/aowow/?npc=29636)||||<li> - [X] </li>|               |
@@ -2019,9 +2019,9 @@ Dalaran 33938
 Gadgetzan 33939
 Area 52 33940
 Area 52 33941
-|[33963](https://wowgaming.altervista.org/aowow/?npc=33963)||||<li> - [X] </li>|               |
-|[33964](https://wowgaming.altervista.org/aowow/?npc=33964)||||<li> - [X] </li>|               |
-|[33996](https://wowgaming.altervista.org/aowow/?npc=33996)||||<li> - [X] </li>|               |
+|[33963](https://wowgaming.altervista.org/aowow/?npc=33963)|Magister Sarien|Dalaran|Horde|<li> - [X] </li>|               |
+|[33964](https://wowgaming.altervista.org/aowow/?npc=33964)|Arcanist Firael|Dalaran|Alliance|<li> - [X] </li>|               |
+|[33996](https://wowgaming.altervista.org/aowow/?npc=33996)|William Saldean|Brill, Tirisfal Glades|Horde|<li> - [X] </li>|               |
 H, Org? 34036
 H, Org? 34037
 H, Org 34038
@@ -2068,10 +2068,10 @@ A, Exodar Gates, Pilgrim's Bounty 34783
 H, Silvermoon Gates, Pilgrim's Bounty 34787
 A, Icecrown 34881
 Icecrown 34885
-|[35099](https://wowgaming.altervista.org/aowow/?npc=35099)||||<li> - [X] </li>|               |
-|[35101](https://wowgaming.altervista.org/aowow/?npc=35101)||||<li> - [X] </li>|               |
-|[35131](https://wowgaming.altervista.org/aowow/?npc=35131)||||<li> - [X] </li>|               |
-|[35132](https://wowgaming.altervista.org/aowow/?npc=35132)||||<li> - [X] </li>|               |
+|[35099](https://wowgaming.altervista.org/aowow/?npc=35099)|Bana Wildmane|Thrallmar, Hellfire Peninsula|Horde|<li> - [X] </li>|               |
+|[35101](https://wowgaming.altervista.org/aowow/?npc=35101)|Grunda Bronzewing|Honor Hold, Hellfire Peninsula|Alliance|<li> - [X] </li>|               |
+|[35131](https://wowgaming.altervista.org/aowow/?npc=35131)|Durgan Thunderbeak|Valiance Keep, Borean Tundra|Alliance|<li> - [X] </li>|               |
+|[35132](https://wowgaming.altervista.org/aowow/?npc=35132)|Tohfo Skyhoof|Warsong Hold, Borean Tundra|Horde|<li> - [X] </li>|               |
 A, SW Gates, Pilgrim's Bounty 35337
 A, Darnassus Gates, Pilgrim's Bounty 35338
 A, IF Gates, Pilgrim's Bounty 35340
@@ -2084,8 +2084,8 @@ NYI 35496
 NYI 35497
 NYI 35498
 NYI 35500
-|[35507](https://wowgaming.altervista.org/aowow/?npc=35507)||||<li> - [X] </li>|               |
-|[35508](https://wowgaming.altervista.org/aowow/?npc=35508)||||<li> - [X] </li>|               |
+|[35507](https://wowgaming.altervista.org/aowow/?npc=35507)|Enchanter Isian|Dalaran|Alliance|<li> - [X] </li>|               |
+|[35508](https://wowgaming.altervista.org/aowow/?npc=35508)|Enchanter Erodin|Dalaran|Horde|<li> - [X] </li>|               |
 A, Icecrown 35573
 H, Icecrown 35574
 A, Icecrown 35575
@@ -2095,7 +2095,7 @@ H, Icecrown 35578
 A, Icecrown 35579
 H, Icecrown 35580
 Engineering 35642
-|[35790](https://wowgaming.altervista.org/aowow/?npc=35790)||||<li> - [X] </li>|               |
+|[35790](https://wowgaming.altervista.org/aowow/?npc=35790)|Usuri Brightcoin|Dalaran|Neutral|<li> - [X] </li>|               |
 Dalaran 35826
 A, AV, Might not exist 37242
 H, AV, Might not exist 37305
