@@ -669,8 +669,8 @@
 |[6741](https://wowgaming.altervista.org/aowow/?npc=6741)  ||||<li> - [X] </li>|               |
 |[6746](https://wowgaming.altervista.org/aowow/?npc=6746)  ||||<li> - [X] </li>|               |
 |[6747](https://wowgaming.altervista.org/aowow/?npc=6747)  ||||<li> - [X] </li>|               |
-|[6777](https://wowgaming.altervista.org/aowow/?npc=6777)  |Zan Shivsproket|Alterac Mountains|Neutral|<li> - [ ] </li>|               |
-|[6779](https://wowgaming.altervista.org/aowow/?npc=6779)  |Smudge Thunderwood|Alterac Mountains|Neutral|<li> - [ ] </li>|               |
+|[6777](https://wowgaming.altervista.org/aowow/?npc=6777)  |Zan Shivsproket|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230987491-c15e03ce-d456-42ea-923b-5b2dd72afb92.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230987514-278583e3-fcdc-4a50-8be6-b42d2e724675.png)|               |
+|[6779](https://wowgaming.altervista.org/aowow/?npc=6779)  |Smudge Thunderwood|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230987330-54cdaae7-e765-4e5e-a725-6848ec16f2b7.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230987363-1a8da204-73cf-4fab-a575-ed548f71b2a4.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230987392-8b4970d8-e663-4984-ad62-ef979abbaf96.png)|               |
 |[6790](https://wowgaming.altervista.org/aowow/?npc=6790)  ||||<li> - [X] </li>|               |
 |[6791](https://wowgaming.altervista.org/aowow/?npc=6791)  ||||<li> - [X] </li>|               |
 |[6807](https://wowgaming.altervista.org/aowow/?npc=6807)  ||||<li> - [X] </li>|               |
