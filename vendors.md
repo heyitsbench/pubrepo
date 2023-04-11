@@ -199,7 +199,7 @@
 |[2672](https://wowgaming.altervista.org/aowow/?npc=2672)  ||||<li> - [X] </li>|               |
 |[2679](https://wowgaming.altervista.org/aowow/?npc=2679)  ||||<li> - [X] </li>|               |
 |[2682](https://wowgaming.altervista.org/aowow/?npc=2682)  ||||<li> - [X] </li>|               |
-|[2683](https://wowgaming.altervista.org/aowow/?npc=2683)  |Namdo Bizzfizzle|Gnomeregan       |Alliance|<li> - [ ] </li>|               |
+|[2683](https://wowgaming.altervista.org/aowow/?npc=2683)  |Namdo Bizzfizzle|Gnomeregan       |Alliance|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231028293-c35fb8d9-d560-4fd6-ba36-4b5910c86a3e.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231028317-ff28e641-da71-45ef-80d1-0cbc50c89ebb.png)|               |
 |[2684](https://wowgaming.altervista.org/aowow/?npc=2684)  |Rizz Loosebolt  |Alterac Mountains|Neutral |<li> - [X] </li>|               |
 |[2685](https://wowgaming.altervista.org/aowow/?npc=2685)  ||||<li> - [X] </li>|               |
 |[2687](https://wowgaming.altervista.org/aowow/?npc=2687)  ||||<li> - [X] </li>|               |
