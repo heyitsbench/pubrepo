@@ -750,7 +750,8 @@
 |[9099](https://wowgaming.altervista.org/aowow/?npc=9099)  ||||<li> - [X] </li>|               |
 |[9179](https://wowgaming.altervista.org/aowow/?npc=9179)  ||||<li> - [X] </li>|               |
 |[9356](https://wowgaming.altervista.org/aowow/?npc=9356)  ||||<li> - [X] </li>|               |
-|[9499](https://wowgaming.altervista.org/aowow/?npc=9499)  |Plugger Spazzring|Grim Guzzler, Blackrock Depths|Neutral|<li> - [ ] </li>|               |
+|[9499](https://wowgaming.altervista.org/aowow/?npc=9499)  |Plugger Spazzring|Grim Guzzler, Blackrock Depths|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231265928-599e5ba2-06d5-453e-b91c-e5e52469b54a.png)
+|               |
 |[9501](https://wowgaming.altervista.org/aowow/?npc=9501)  ||||<li> - [X] </li>|               |
 |[9544](https://wowgaming.altervista.org/aowow/?npc=9544)  ||||<li> - [X] </li>|               |
 |[9548](https://wowgaming.altervista.org/aowow/?npc=9548)  ||||<li> - [X] </li>|               |
@@ -835,7 +836,7 @@ A, SW? 12805
 |[12941](https://wowgaming.altervista.org/aowow/?npc=12941)||||<li> - [X] </li>|               |
 |[12942](https://wowgaming.altervista.org/aowow/?npc=12942)||||<li> - [X] </li>|               |
 |[12943](https://wowgaming.altervista.org/aowow/?npc=12943)|Werg Thickblade|Western Plaguelands|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231235498-21b69808-6dbb-4bcf-bb6e-7c5b033a56ec.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231235536-87f5b984-b119-43fb-ae6e-acf0509f067f.png)|               |
-BRD 12944
+|[12944](https://wowgaming.altervista.org/aowow/?npc=12944)|Lokhtos Darkbargainer|Grim Guzzler, Blackrock Depths|Neutral|<li> - [ ] </li>|Thorium Brotherhood Gated|
 |[12956](https://wowgaming.altervista.org/aowow/?npc=12956)||||<li> - [X] </li>|               |
 |[12957](https://wowgaming.altervista.org/aowow/?npc=12957)||||<li> - [X] </li>|               |
 |[12958](https://wowgaming.altervista.org/aowow/?npc=12958)||||<li> - [X] </li>|               |
@@ -1643,7 +1644,7 @@ Promotional companion? 27914
 |[28038](https://wowgaming.altervista.org/aowow/?npc=28038)||||<li> - [X] </li>|               |
 |[28040](https://wowgaming.altervista.org/aowow/?npc=28040)||||<li> - [X] </li>|               |
 |[28046](https://wowgaming.altervista.org/aowow/?npc=28046)||||<li> - [X] </li>|               |
-BRD 28225
+|[28225](https://wowgaming.altervista.org/aowow/?npc=28225)|Griz Gutshank|Grim Guzzler, Blackrock Depths|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231266534-794d9b47-ee9f-4e99-9de2-45e2d9dd753d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231266572-a4fdaeef-2864-4b30-bdde-adb10e6cfeeb.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/231266598-14ba1dc1-70ca-44cb-8a1e-0e8303621339.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/231266615-11ac6323-0f21-4ad5-b2c6-ca3a7030da16.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/231266628-c86d50b0-083d-4ddb-a2de-d11f0a42f2ac.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/231266646-c36d327b-fe1c-4b6d-8483-10b008c0affe.png)|               |
 |[28344](https://wowgaming.altervista.org/aowow/?npc=28344)||||<li> - [X] </li>|               |
 |[28347](https://wowgaming.altervista.org/aowow/?npc=28347)||||<li> - [X] </li>|               |
 |[28500](https://wowgaming.altervista.org/aowow/?npc=28500)|Master Siegesmith Corvus|Acherus|Neutral|<li> - [X] </li>|               |
