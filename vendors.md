@@ -723,7 +723,7 @@
 |[8176](https://wowgaming.altervista.org/aowow/?npc=8176)  ||||<li> - [X] </li>|               |
 |[8177](https://wowgaming.altervista.org/aowow/?npc=8177)  ||||<li> - [X] </li>|               |
 |[8178](https://wowgaming.altervista.org/aowow/?npc=8178)  ||||<li> - [X] </li>|               |
-|[8305](https://wowgaming.altervista.org/aowow/?npc=8305)  |Kixxle            |Wetlands   |Neutral|<li> - [ ] </li>|               |
+|[8305](https://wowgaming.altervista.org/aowow/?npc=8305)  |Kixxle            |Wetlands   |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231025198-b467d951-5842-461c-8ebe-04c844ddffec.png)|               |
 |[8307](https://wowgaming.altervista.org/aowow/?npc=8307)  |Tarban Hearthgrain|The Barrens|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230681906-69082d22-c5a5-4c02-adc1-688f0485821d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230681928-5d20757c-cf8d-4ac0-96d4-90b6a3a3093e.png)|               |
 |[8358](https://wowgaming.altervista.org/aowow/?npc=8358)  ||||<li> - [X] </li>|               |
 |[8359](https://wowgaming.altervista.org/aowow/?npc=8359)  ||||<li> - [X] </li>|               |
