@@ -532,7 +532,7 @@
 |[4610](https://wowgaming.altervista.org/aowow/?npc=4610)  ||||<li> - [X] </li>|               |
 |[4615](https://wowgaming.altervista.org/aowow/?npc=4615)  ||||<li> - [X] </li>|               |
 |[4617](https://wowgaming.altervista.org/aowow/?npc=4617)  ||||<li> - [X] </li>|               |
-|[4730](https://wowgaming.altervista.org/aowow/?npc=4730)  |Lelanai       |Darnassus       |Alliance|<li> - [ ] </li>|               |
+|[4730](https://wowgaming.altervista.org/aowow/?npc=4730)  |Lelanai       |Darnassus       |Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231023920-f5ea5957-269c-4525-b973-b0e6e02dc29a.png)|               |
 |[4731](https://wowgaming.altervista.org/aowow/?npc=4731)  |Zachariah Post|Brill           |Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231023566-4129f41f-514a-4ad1-88bc-5681065e786f.png)|               |
 |[4775](https://wowgaming.altervista.org/aowow/?npc=4775)  |Felicia Doan  |Undercity       |Horde   |<li> - [X] </li>|               |
 |[4782](https://wowgaming.altervista.org/aowow/?npc=4782)  |Truk Wildbeard|The Hinterlands |Alliance|<li> - [X] </li>|               |
@@ -698,7 +698,7 @@
 |[7945](https://wowgaming.altervista.org/aowow/?npc=7945)  ||||<li> - [X] </li>|               |
 |[7947](https://wowgaming.altervista.org/aowow/?npc=7947)  ||||<li> - [X] </li>|               |
 |[7952](https://wowgaming.altervista.org/aowow/?npc=7952)  |Zjolnir             |Sen'jin Village, Durotar|Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230690834-30adb9fa-b9c7-41d2-873f-a142d230a4ba.png)|               |
-|[7955](https://wowgaming.altervista.org/aowow/?npc=7955)  |Milli Featherwhistle|Kharanos, Dun Morogh    |Alliance|<li> - [ ] </li>|               |
+|[7955](https://wowgaming.altervista.org/aowow/?npc=7955)  |Milli Featherwhistle|Kharanos, Dun Morogh    |Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231024335-d2c4fab6-b0f3-4529-93f9-6df318e00af9.png)|               |
 |[7976](https://wowgaming.altervista.org/aowow/?npc=7976)  |Thalgus Thunderfist |Ironforge               |Alliance|<li> - [X] </li>|               |
 |[7978](https://wowgaming.altervista.org/aowow/?npc=7978)  |Bimble Longberry    |Ironforge               |Alliance|<li> - [X] </li>|               |
 |[8116](https://wowgaming.altervista.org/aowow/?npc=8116)  |Ziggle Sparks       |Booty Bay               |Neutral |<li> - [ ] </li>|Midsummer Fire Festival Event|
