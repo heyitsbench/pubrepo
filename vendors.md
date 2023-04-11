@@ -746,7 +746,8 @@
 |[8931](https://wowgaming.altervista.org/aowow/?npc=8931)  ||||<li> - [X] </li>|               |
 |[8934](https://wowgaming.altervista.org/aowow/?npc=8934)  ||||<li> - [X] </li>|               |
 |[8999](https://wowgaming.altervista.org/aowow/?npc=8999)  |Innkeeper Sentinel Hill|Unknown      |Alliance|<li> - [ ] </li>|Likely removed |
-|[9087](https://wowgaming.altervista.org/aowow/?npc=9087)  |Bashana Runetotem      |Thunder Bluff|Horde   |<li> - [ ] </li>|Quest gated    |
+|[9087](https://wowgaming.altervista.org/aowow/?npc=9087)  |Bashana Runetotem      |Thunder Bluff|Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231046017-85efd4fc-d5ef-45ad-ac39-23d63914270a.png)
+|Quest gated    |
 |[9099](https://wowgaming.altervista.org/aowow/?npc=9099)  ||||<li> - [X] </li>|               |
 |[9179](https://wowgaming.altervista.org/aowow/?npc=9179)  ||||<li> - [X] </li>|               |
 |[9356](https://wowgaming.altervista.org/aowow/?npc=9356)  ||||<li> - [X] </li>|               |
