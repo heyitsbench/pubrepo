@@ -831,7 +831,7 @@ H, BGs/Org? 12792
 |[12796](https://wowgaming.altervista.org/aowow/?npc=12796)||||<li> - [X] </li>|               |
 H, Org 12799
 A, SW? 12805
-Dustwallow Marsh 12919
+|[12919](https://wowgaming.altervista.org/aowow/?npc=12919)|Nat Pagle|Dustwallow Marsh|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231258848-fd5f2b8f-79d3-44cf-996c-36bb33c885e4.png)|               |
 |[12941](https://wowgaming.altervista.org/aowow/?npc=12941)||||<li> - [X] </li>|               |
 |[12942](https://wowgaming.altervista.org/aowow/?npc=12942)||||<li> - [X] </li>|               |
 |[12943](https://wowgaming.altervista.org/aowow/?npc=12943)|Werg Thickblade|Western Plaguelands|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231235498-21b69808-6dbb-4bcf-bb6e-7c5b033a56ec.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231235536-87f5b984-b119-43fb-ae6e-acf0509f067f.png)|               |
