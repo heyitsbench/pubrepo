@@ -771,7 +771,7 @@
 |[10379](https://wowgaming.altervista.org/aowow/?npc=10379)|Altsoba Ragetotem               |Felwood                                 |Horde    |<li> - [X] </li>|               |
 |[10380](https://wowgaming.altervista.org/aowow/?npc=10380)|Sanuye Runetotem                |The Barrens                             |Horde    |<li> - [X] </li>|               |
 |[10618](https://wowgaming.altervista.org/aowow/?npc=10618)|Rivern Frostwind                |Winterspring                            |Alliance |<li> - [ ] </li>|               |
-|[10856](https://wowgaming.altervista.org/aowow/?npc=10856)|Argent Quartermaster Hasana     |Western Plaguelands                     |Neutral  |<li> - [ ] </li>|               |
+|[10856](https://wowgaming.altervista.org/aowow/?npc=10856)|Argent Quartermaster Hasana     |Western Plaguelands                     |Neutral  |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231234738-accca861-4b2c-4e06-a19c-16e408d56e2e.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231234770-c24309b4-8a93-40eb-8df4-19731ba875a3.png)|               |
 |[10857](https://wowgaming.altervista.org/aowow/?npc=10857)|Argent Quartermaster Lightspark |Western Plaguelands                     |Neutral  |<li> - [ ] </li>|               |
 |[11038](https://wowgaming.altervista.org/aowow/?npc=11038)|Caretaker Alen                  |Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [X] </li>|               |
 |[11056](https://wowgaming.altervista.org/aowow/?npc=11056)|Alchemist Arbington             |Western Plaguelands                     |Alliance |<li> - [ ] </li>|               |
