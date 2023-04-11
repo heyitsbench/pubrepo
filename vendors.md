@@ -472,7 +472,7 @@
 |[4203](https://wowgaming.altervista.org/aowow/?npc=4203)  ||||<li> - [X] </li>|               |
 |[4207](https://wowgaming.altervista.org/aowow/?npc=4207)  |Valyen Wolfsong      |Unknown (R?)|Neutral|<li> - [ ] </li>|               |
 |[4216](https://wowgaming.altervista.org/aowow/?npc=4216)  |Chardryn             |Darnassus|Alliance|<li> - [X] </li>|               |
-|[4217](https://wowgaming.altervista.org/aowow/?npc=4217)  |Mathrengyl Bearwalker|Darnassus|Alliance|<li> - [ ] </li>|               |
+|[4217](https://wowgaming.altervista.org/aowow/?npc=4217)  |Mathrengyl Bearwalker|Darnassus|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231051609-632167db-37cb-4b52-9e8e-6f9cb32b3e1b.png)|               |
 |[4220](https://wowgaming.altervista.org/aowow/?npc=4220)  ||||<li> - [X] </li>|               |
 |[4221](https://wowgaming.altervista.org/aowow/?npc=4221)  ||||<li> - [X] </li>|               |
 |[4222](https://wowgaming.altervista.org/aowow/?npc=4222)  ||||<li> - [X] </li>|               |
