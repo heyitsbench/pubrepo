@@ -775,7 +775,7 @@
 |[10857](https://wowgaming.altervista.org/aowow/?npc=10857)|Argent Quartermaster Lightspark |Western Plaguelands                     |Neutral  |<li> - [ ] </li>|               |
 |[11038](https://wowgaming.altervista.org/aowow/?npc=11038)|Caretaker Alen                  |Light's Hope Chapel, Eastern Plaguelands|Neutral  |<li> - [X] </li>|               |
 |[11056](https://wowgaming.altervista.org/aowow/?npc=11056)|Alchemist Arbington             |Western Plaguelands                     |Alliance |<li> - [ ] </li>|               |
-|[11057](https://wowgaming.altervista.org/aowow/?npc=11057)|Apothecary Dithers              |Western Plaguelands                     |Horde    |<li> - [ ] </li>|               |
+|[11057](https://wowgaming.altervista.org/aowow/?npc=11057)|Apothecary Dithers              |Western Plaguelands                     |Horde    |<li> - [X] </li>[Vendor](https://user-images.githubusercontent.com/38561765/231235051-d6e3c3ce-5738-463f-8c66-e16db1736eac.png)|               |
 |[11103](https://wowgaming.altervista.org/aowow/?npc=11103)|Innkeeper Lyshaerya             |Desolace                                |Alliance |<li> - [X] </li>|               |
 |[11106](https://wowgaming.altervista.org/aowow/?npc=11106)|Innkeeper Sikewa                |Desolace                                |Horde    |<li> - [X] </li>|               |
 |[11111](https://wowgaming.altervista.org/aowow/?npc=11111)|Wynne Larsone                   |Unknown                                 |Hostile  |<li> - [ ] </li>|Likely removed |
