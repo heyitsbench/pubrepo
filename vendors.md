@@ -869,7 +869,7 @@ A, SW, Children's Week? 14481
 Shadow Potion, Felwood 14522
 H, BGs? 14581
 |[14624](https://wowgaming.altervista.org/aowow/?npc=14624)||||<li> - [X] </li>|               |
-Feralas 14637
+|[14637](https://wowgaming.altervista.org/aowow/?npc=14637)|Zorbin Fandazzle|Feralas|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231058420-db715ff4-9458-4aff-b1b6-b035e7264260.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231058448-934e6ddb-8a2e-4a98-97f9-5580530d2f39.png)|               |
 |[14731](https://wowgaming.altervista.org/aowow/?npc=14731)||||<li> - [X] </li>|               |
 |[14737](https://wowgaming.altervista.org/aowow/?npc=14737)||||<li> - [X] </li>|               |
 |[14738](https://wowgaming.altervista.org/aowow/?npc=14738)||||<li> - [X] </li>|               |
