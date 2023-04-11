@@ -760,7 +760,7 @@
 |[9553](https://wowgaming.altervista.org/aowow/?npc=9553)  ||||<li> - [X] </li>|               |
 |[9555](https://wowgaming.altervista.org/aowow/?npc=9555)  ||||<li> - [X] </li>|               |
 |[9636](https://wowgaming.altervista.org/aowow/?npc=9636)  ||||<li> - [X] </li>|               |
-|[9676](https://wowgaming.altervista.org/aowow/?npc=9676)  |Tink Sprocketwhistle            |Gnomeregan                              |Alliance |<li> - [ ] </li>|               |
+|[9676](https://wowgaming.altervista.org/aowow/?npc=9676)  |Tink Sprocketwhistle            |Gnomeregan                              |Alliance |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231027480-adea9f1f-28db-4f53-b257-99308c4d59e3.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231027509-ecd46b50-3206-4df4-a95a-d99411538f7f.png)|               |
 |[10118](https://wowgaming.altervista.org/aowow/?npc=10118)|Nessa Shadowsong                |Rut'theran Village, Teldrassil          |Alliance |<li> - [X] </li>|               |
 |[10216](https://wowgaming.altervista.org/aowow/?npc=10216)|Gubber Blump                    |Auberdine, Darkshore                    |Alliance |<li> - [ ] </li>|Quest gated    |
 |[10293](https://wowgaming.altervista.org/aowow/?npc=10293)|Dulciea Frostmoon               |Feathermoon Stronghold, Feralas         |Alliance |<li> - [X] </li>|               |
