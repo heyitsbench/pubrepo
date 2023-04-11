@@ -883,12 +883,12 @@
 |[14847](https://wowgaming.altervista.org/aowow/?npc=14847)|Professor Thaddeus Paleo|Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230678828-54c0552a-51a0-49c5-b05b-968e8fd0202f.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230678843-82e73e22-674a-4bb4-92b8-31d7676dca5f.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230678858-9a2a3fe0-4a33-4ec2-9556-5ea2e08079d6.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |               |
 |[14860](https://wowgaming.altervista.org/aowow/?npc=14860)|Flik                    |Darkmoon Faire    |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230678592-b7ebdcad-f319-40a9-a411-bd303c73f18e.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |               |
 |[14921](https://wowgaming.altervista.org/aowow/?npc=14921)|Rin'wosho the Trader    |Stranglethorn Vale|Neutral|<li> - [X] </li>|               |
-|[14961](https://wowgaming.altervista.org/aowow/?npc=14961)|Mirvyna Jinglepocket|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230988434-af1ea229-46c9-4a24-94cb-45c49b63cb8e.png)|               |
-|[14962](https://wowgaming.altervista.org/aowow/?npc=14962)|Dillord Copperpinch|Alterac Mountains|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230692744-74a73de1-a6d8-4326-8c2c-08f0cfdf037d.png)|               |
+|[14961](https://wowgaming.altervista.org/aowow/?npc=14961)|Mirvyna Jinglepocket    |Alterac Mountains |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230988434-af1ea229-46c9-4a24-94cb-45c49b63cb8e.png)|               |
+|[14962](https://wowgaming.altervista.org/aowow/?npc=14962)|Dillord Copperpinch     |Alterac Mountains |Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230692744-74a73de1-a6d8-4326-8c2c-08f0cfdf037d.png)|               |
 |[14963](https://wowgaming.altervista.org/aowow/?npc=14963)||||<li> - [X] </li>|               |
 |[14964](https://wowgaming.altervista.org/aowow/?npc=14964)||||<li> - [X] </li>|               |
-A, IF Gates, Harvest Festival 15011
-H, Org Gates, Harvest Festival 15012
+|[15011](https://wowgaming.altervista.org/aowow/?npc=15011)|Wagner Hammerstrike|Ironforge|Alliance|<li> - [ ] </li>|Harvest Festival Event|
+|[15012](https://wowgaming.altervista.org/aowow/?npc=15012)|Javnir Nashak      |Orgrimmar|Horde   |<li> - [ ] </li>|Harvest Festival Event|
 |[15124](https://wowgaming.altervista.org/aowow/?npc=15124)||||<li> - [X] </li>|               |
 |[15125](https://wowgaming.altervista.org/aowow/?npc=15125)||||<li> - [X] </li>|               |
 |[15126](https://wowgaming.altervista.org/aowow/?npc=15126)||||<li> - [X] </li>|               |
@@ -898,28 +898,28 @@ H, Org Gates, Harvest Festival 15012
 |[15175](https://wowgaming.altervista.org/aowow/?npc=15175)||||<li> - [X] </li>|               |
 |[15176](https://wowgaming.altervista.org/aowow/?npc=15176)||||<li> - [X] </li>|               |
 |[15179](https://wowgaming.altervista.org/aowow/?npc=15179)||||<li> - [X] </li>|               |
-H, UC 15197, Hallow's End?
-Unknown 15198
-A, Hillsbrad 15199, Hallow's End?
+|[15197](https://wowgaming.altervista.org/aowow/?npc=15197)|Darkcaller Yanka|Undercity                      |Horde   |<li> - [ ] </li>|Hallow's End Event|
+|[15198](https://wowgaming.altervista.org/aowow/?npc=15198)|Blackwing       |Unknown                        |Neutral |<li> - [ ] </li>|False positive |
+|[15199](https://wowgaming.altervista.org/aowow/?npc=15199)|Sergeant Hartman|Southshore, Hillsbrad Foothills|Alliance|<li> - [ ] </li>|Hallow's End Event|
 |[15287](https://wowgaming.altervista.org/aowow/?npc=15287)||||<li> - [X] </li>|               |
 |[15289](https://wowgaming.altervista.org/aowow/?npc=15289)||||<li> - [X] </li>|               |
 |[15291](https://wowgaming.altervista.org/aowow/?npc=15291)||||<li> - [X] </li>|               |
 |[15292](https://wowgaming.altervista.org/aowow/?npc=15292)||||<li> - [X] </li>|               |
-Silithus 15293
-H, Org, Hallows End 15309
+|[15293](https://wowgaming.altervista.org/aowow/?npc=15293)|Aendel Windspear|Silithus |Cenarion Circle|<li> - [ ] </li>|               |
+|[15309](https://wowgaming.altervista.org/aowow/?npc=15309)|Spoops          |Orgrimmar|Horde          |<li> - [ ] </li>|Hallow's End Event|
 |[15315](https://wowgaming.altervista.org/aowow/?npc=15315)||||<li> - [X] </li>|               |
 |[15350](https://wowgaming.altervista.org/aowow/?npc=15350)||||<li> - [X] </li>|               |
 |[15351](https://wowgaming.altervista.org/aowow/?npc=15351)||||<li> - [X] </li>|               |
-A, IF, Hallow's End 15353
-H, Org, Hallow's End 15354
+|[15353](https://wowgaming.altervista.org/aowow/?npc=15353)|Katrina Shimmerstar|Ironforge|Alliance|<li> - [ ] </li>|Hallow's End Event|
+|[15354](https://wowgaming.altervista.org/aowow/?npc=15354)|Rachelle Gothena   |Orgrimmar|Horde   |<li> - [ ] </li>|Hallow's End Event|
 |[15397](https://wowgaming.altervista.org/aowow/?npc=15397)||||<li> - [X] </li>|               |
 |[15400](https://wowgaming.altervista.org/aowow/?npc=15400)||||<li> - [X] </li>|               |
 |[15419](https://wowgaming.altervista.org/aowow/?npc=15419)||||<li> - [X] </li>|               |
 |[15433](https://wowgaming.altervista.org/aowow/?npc=15433)||||<li> - [X] </li>|               |
-AQ20 15471
-Moonglade, Lunar Festival 15864
-Moonglade, Lunar Festival 15898
-Moonglade, Lunar Festival 15909
+|[15471](https://wowgaming.altervista.org/aowow/?npc=15471)|Lieutenant General Andorov|Ruins of Ahn'Qiraj|Neutral|<li> - [ ] </li>|               |
+|[15864](https://wowgaming.altervista.org/aowow/?npc=15864)|Valadar Starsong          |Moonglade         |Neutral|<li> - [ ] </li>|Lunar Festival Event|
+|[15898](https://wowgaming.altervista.org/aowow/?npc=15898)|Lunar Festival Vendor     |Moonglade         |Neutral|<li> - [ ] </li>|Lunar Festival Event|
+|[15909](https://wowgaming.altervista.org/aowow/?npc=15909)|Fariel Starsong           |Moonglade         |Neutral|<li> - [ ] </li>|Lunar Festival Event|
 |[16015](https://wowgaming.altervista.org/aowow/?npc=16015)||||<li> - [X] </li>|               |
 |[16186](https://wowgaming.altervista.org/aowow/?npc=16186)||||<li> - [X] </li>|               |
 |[16187](https://wowgaming.altervista.org/aowow/?npc=16187)||||<li> - [X] </li>|               |
@@ -947,7 +947,7 @@ Moonglade, Lunar Festival 15909
 |[16458](https://wowgaming.altervista.org/aowow/?npc=16458)||||<li> - [X] </li>|               |
 |[16528](https://wowgaming.altervista.org/aowow/?npc=16528)||||<li> - [X] </li>|               |
 |[16542](https://wowgaming.altervista.org/aowow/?npc=16542)||||<li> - [X] </li>|               |
-Silithus 16543, Scourge invasion vendor
+|[16543](https://wowgaming.altervista.org/aowow/?npc=16543)|Garon Hutchins|Cenarion Hold, Silithus|Neutral|<li> - [ ] </li>|Scourge Invasion|
 |[16553](https://wowgaming.altervista.org/aowow/?npc=16553)||||<li> - [X] </li>|               |
 |[16583](https://wowgaming.altervista.org/aowow/?npc=16583)||||<li> - [X] </li>|               |
 |[16585](https://wowgaming.altervista.org/aowow/?npc=16585)||||<li> - [X] </li>|               |
@@ -1008,7 +1008,7 @@ Silithus 16543, Scourge invasion vendor
 |[16767](https://wowgaming.altervista.org/aowow/?npc=16767)||||<li> - [X] </li>|               |
 |[16768](https://wowgaming.altervista.org/aowow/?npc=16768)||||<li> - [X] </li>|               |
 |[16782](https://wowgaming.altervista.org/aowow/?npc=16782)||||<li> - [X] </li>|               |
-Unknown, Scourge Invasion 16786
+|[16786](https://wowgaming.altervista.org/aowow/?npc=16786)|Argent Quartermaster|Various|Neutral|<li> - [ ] </li>|Scourge Invasion|
 |[16798](https://wowgaming.altervista.org/aowow/?npc=16798)||||<li> - [X] </li>|               |
 |[16823](https://wowgaming.altervista.org/aowow/?npc=16823)||||<li> - [X] </li>|               |
 |[16826](https://wowgaming.altervista.org/aowow/?npc=16826)||||<li> - [X] </li>|               |
@@ -1030,9 +1030,9 @@ Unknown, Scourge Invasion 16786
 |[17489](https://wowgaming.altervista.org/aowow/?npc=17489)||||<li> - [X] </li>|               |
 |[17490](https://wowgaming.altervista.org/aowow/?npc=17490)||||<li> - [X] </li>|               |
 |[17512](https://wowgaming.altervista.org/aowow/?npc=17512)||||<li> - [X] </li>|               |
-Karazhan 17518
+|[17518](https://wowgaming.altervista.org/aowow/?npc=17518)|Ythyar|Karazhan|Neutral|<li> - [ ] </li>|               |
 |[17553](https://wowgaming.altervista.org/aowow/?npc=17553)||||<li> - [X] </li>|               |
-A, Exodar 17584
+|[17584](https://wowgaming.altervista.org/aowow/?npc=17584)|Torallius the Pack Handler|The Exodar|Alliance|<li> - [ ] </li>|               |
 |[17585](https://wowgaming.altervista.org/aowow/?npc=17585)||||<li> - [X] </li>|               |
 |[17598](https://wowgaming.altervista.org/aowow/?npc=17598)||||<li> - [X] </li>|               |
 |[17630](https://wowgaming.altervista.org/aowow/?npc=17630)||||<li> - [X] </li>|               |
@@ -1045,8 +1045,8 @@ A, Exodar 17584
 |[17930](https://wowgaming.altervista.org/aowow/?npc=17930)||||<li> - [X] </li>|               |
 |[18005](https://wowgaming.altervista.org/aowow/?npc=18005)||||<li> - [X] </li>|               |
 |[18006](https://wowgaming.altervista.org/aowow/?npc=18006)||||<li> - [X] </li>|               |
-A, Zangarmarsh 18009
-A, Zangarmarsh 18010
+|[18009](https://wowgaming.altervista.org/aowow/?npc=18009)|Puluu|Zangarmarsh|Kurenai|<li> - [ ] </li>|               |
+|[18010](https://wowgaming.altervista.org/aowow/?npc=18010)|Maktu|Zangarmarsh|Kurenai|<li> - [ ] </li>|               |
 |[18011](https://wowgaming.altervista.org/aowow/?npc=18011)||||<li> - [X] </li>|               |
 |[18015](https://wowgaming.altervista.org/aowow/?npc=18015)||||<li> - [X] </li>|               |
 |[18017](https://wowgaming.altervista.org/aowow/?npc=18017)||||<li> - [X] </li>|               |
@@ -1054,14 +1054,14 @@ A, Zangarmarsh 18010
 |[18019](https://wowgaming.altervista.org/aowow/?npc=18019)||||<li> - [X] </li>|               |
 |[18243](https://wowgaming.altervista.org/aowow/?npc=18243)||||<li> - [X] </li>|               |
 |[18245](https://wowgaming.altervista.org/aowow/?npc=18245)||||<li> - [X] </li>|               |
-A, Zangarmarsh 18251, doesn't sell?
+|[18251](https://wowgaming.altervista.org/aowow/?npc=18251)|Caregiver Abidaar|Telredor, Zangarmarsh|Alliance|<li> - [ ] </li>|False positive |
 |[18255](https://wowgaming.altervista.org/aowow/?npc=18255)||||<li> - [X] </li>|               |
 |[18266](https://wowgaming.altervista.org/aowow/?npc=18266)||||<li> - [X] </li>|               |
 |[18267](https://wowgaming.altervista.org/aowow/?npc=18267)||||<li> - [X] </li>|               |
 |[18277](https://wowgaming.altervista.org/aowow/?npc=18277)||||<li> - [X] </li>|               |
 |[18278](https://wowgaming.altervista.org/aowow/?npc=18278)||||<li> - [X] </li>|               |
 |[18347](https://wowgaming.altervista.org/aowow/?npc=18347)||||<li> - [X] </li>|               |
-Zangarmarsh, Sporeggar 18382
+|[18382](https://wowgaming.altervista.org/aowow/?npc=18382)|Mycah|Sporeggar, Zangarmarsh|Sporeggar|<li> - [ ] </li>|               |
 |[18426](https://wowgaming.altervista.org/aowow/?npc=18426)||||<li> - [X] </li>|               |
 |[18427](https://wowgaming.altervista.org/aowow/?npc=18427)||||<li> - [X] </li>|               |
 |[18484](https://wowgaming.altervista.org/aowow/?npc=18484)||||<li> - [X] </li>|               |
@@ -1228,7 +1228,7 @@ Aldor, SMV 19649
 |[19836](https://wowgaming.altervista.org/aowow/?npc=19836)||||<li> - [X] </li>|               |
 |[19837](https://wowgaming.altervista.org/aowow/?npc=19837)||||<li> - [X] </li>|               |
 |[19857](https://wowgaming.altervista.org/aowow/?npc=19857)||||<li> - [X] </li>|               |
-Auchindoun 19879
+|[19879](https://wowgaming.altervista.org/aowow/?npc=19879)|Horvon the Armorer|Auchindoun, Terokkar Forest|Neutral|<li> - [ ] </li>|Quest Gated    |
 |[19932](https://wowgaming.altervista.org/aowow/?npc=19932)||||<li> - [X] </li>|               |
 A, Zangarmarsh 20028
 |[20080](https://wowgaming.altervista.org/aowow/?npc=20080)||||<li> - [X] </li>|               |
