@@ -690,7 +690,7 @@
 |[7775](https://wowgaming.altervista.org/aowow/?npc=7775)  |Gregan Brewspewer|Feralas|Neutral|<li> - [ ] </li>|Quest gated?   |
 |[7852](https://wowgaming.altervista.org/aowow/?npc=7852)  |Pratt McGrubben|Feathermoon Stronghold, Feralas|Alliance|<li> - [X] </li>|               |
 |[7854](https://wowgaming.altervista.org/aowow/?npc=7854)  |Jangdor Swiftstrider|Feralas|Horde|<li> - [X] </li>|               |
-|[7879](https://wowgaming.altervista.org/aowow/?npc=7879)  |Quintis Jonespyre|Feathermoon Stronghold, Feralas|Alliance|<li> - [ ] </li>|Quest gated    |
+|[7879](https://wowgaming.altervista.org/aowow/?npc=7879)  |Quintis Jonespyre|Feathermoon Stronghold, Feralas|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231054139-a1819bac-1ad6-4a21-878e-4781066d6eaf.png)|Quest gated    |
 |[7940](https://wowgaming.altervista.org/aowow/?npc=7940)  ||||<li> - [X] </li>|               |
 |[7941](https://wowgaming.altervista.org/aowow/?npc=7941)  ||||<li> - [X] </li>|               |
 |[7942](https://wowgaming.altervista.org/aowow/?npc=7942)  ||||<li> - [X] </li>|               |
