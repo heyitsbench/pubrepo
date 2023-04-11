@@ -1086,51 +1086,51 @@
 |[18810](https://wowgaming.altervista.org/aowow/?npc=18810)||||<li> - [X] </li>|               |
 |[18811](https://wowgaming.altervista.org/aowow/?npc=18811)||||<li> - [X] </li>|               |
 |[18821](https://wowgaming.altervista.org/aowow/?npc=18821)||||<li> - [X] </li>|               |
-A, Halaa 18822
-Removed? 18898
+|[18822](https://wowgaming.altervista.org/aowow/?npc=18822)|Quartermaster Davian Vaclav|Halaa, Nagrand|Alliance|<li> - [ ] </li>|               |
+|[18898](https://wowgaming.altervista.org/aowow/?npc=18898)|Explodyne Fizzlespurt|Nagrand|Neutral|<li> - [ ] </li>|               |
 |[18905](https://wowgaming.altervista.org/aowow/?npc=18905)||||<li> - [X] </li>|               |
 |[18906](https://wowgaming.altervista.org/aowow/?npc=18906)||||<li> - [X] </li>|               |
 |[18907](https://wowgaming.altervista.org/aowow/?npc=18907)||||<li> - [X] </li>|               |
-A, Zangarmarsh 18908
+|[18908](https://wowgaming.altervista.org/aowow/?npc=18908)|Innkeeper Kerp|Zangarmarsh|Kurenai|<li> - [ ] </li>|               |
 |[18911](https://wowgaming.altervista.org/aowow/?npc=18911)||||<li> - [X] </li>|               |
-H, Nagrand 18913
-A, Nagrand 18914
+|[18913](https://wowgaming.altervista.org/aowow/?npc=18913)|Matron Tikkit|Nagrand|Mag'har|<li> - [ ] </li>|               |
+|[18914](https://wowgaming.altervista.org/aowow/?npc=18914)|Caregiver Isel|Nagrand|Kurenai|<li> - [ ] </li>|               |
 |[18926](https://wowgaming.altervista.org/aowow/?npc=18926)||||<li> - [X] </li>|               |
 |[18929](https://wowgaming.altervista.org/aowow/?npc=18929)||||<li> - [X] </li>|               |
-H, Eversong Woods 18947
+|[18947](https://wowgaming.altervista.org/aowow/?npc=18947)|Solanin|Eversong Woods|Horde|<li> - [ ] </li>|               |
 |[18951](https://wowgaming.altervista.org/aowow/?npc=18951)||||<li> - [X] </li>|               |
-H, Eversong Woods 18954
+|[18954](https://wowgaming.altervista.org/aowow/?npc=18954)|Sailor Melinan|Eversong Woods|Horde|<li> - [ ] </li>|               |
 |[18957](https://wowgaming.altervista.org/aowow/?npc=18957)||||<li> - [X] </li>|               |
 |[18959](https://wowgaming.altervista.org/aowow/?npc=18959)||||<li> - [X] </li>|               |
 |[18960](https://wowgaming.altervista.org/aowow/?npc=18960)||||<li> - [X] </li>|               |
 |[18962](https://wowgaming.altervista.org/aowow/?npc=18962)||||<li> - [X] </li>|               |
 |[18987](https://wowgaming.altervista.org/aowow/?npc=18987)||||<li> - [X] </li>|               |
 |[18988](https://wowgaming.altervista.org/aowow/?npc=18988)||||<li> - [X] </li>|               |
-A, Hellfire 18990, doesn't sell?
-H, Hellfire 18991, doesn't sell?
+|[18990](https://wowgaming.altervista.org/aowow/?npc=18990)|Burko|Temple of Telhamat, Hellfire Peninsula|Alliance|<li> - [ ] </li>|False positive |
+|[18991](https://wowgaming.altervista.org/aowow/?npc=18991)|Aresella|Falcon Watch, Hellfire Peninsula|Horde|<li> - [ ] </li>|False positive |
 |[18993](https://wowgaming.altervista.org/aowow/?npc=18993)||||<li> - [X] </li>|               |
 |[18997](https://wowgaming.altervista.org/aowow/?npc=18997)||||<li> - [X] </li>|               |
 |[18998](https://wowgaming.altervista.org/aowow/?npc=18998)||||<li> - [X] </li>|               |
 |[19001](https://wowgaming.altervista.org/aowow/?npc=19001)||||<li> - [X] </li>|               |
 |[19004](https://wowgaming.altervista.org/aowow/?npc=19004)||||<li> - [X] </li>|               |
-H, Nagrand 19011
-A, Nagrand 19012
-H, Nagrand 19013
-A, Nagrand 19014
-H, Nagrand 19015
-A, Nagrand 19017
-H, Nagrand 19020
-A, Nagrand 19021
+|[19011](https://wowgaming.altervista.org/aowow/?npc=19011)|Osrok the Immovable|Garadar, Nagrand|Mag'har|<li> - [ ] </li>|               |
+|[19012](https://wowgaming.altervista.org/aowow/?npc=19012)|Sparik|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
+|[19013](https://wowgaming.altervista.org/aowow/?npc=19013)|Vanteg|Garadar, Nagrand|Mag'har|<li> - [ ] </li>|               |
+|[19014](https://wowgaming.altervista.org/aowow/?npc=19014)|Ogir|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
+|[19015](https://wowgaming.altervista.org/aowow/?npc=19015)|Mathar G'ochar|Garadar, Nagrand|Mag'har|<li> - [ ] </li>|               |
+|[19017](https://wowgaming.altervista.org/aowow/?npc=19017)|Borto|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
+|[19020](https://wowgaming.altervista.org/aowow/?npc=19020)|Matron Qualia|Gardar, Nagrand|Mag'har|<li> - [ ] </li>|               |
+|[19021](https://wowgaming.altervista.org/aowow/?npc=19021)|Nancila|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
 |[19038](https://wowgaming.altervista.org/aowow/?npc=19038)||||<li> - [X] </li>|               |
 |[19042](https://wowgaming.altervista.org/aowow/?npc=19042)||||<li> - [X] </li>|               |
-Aldor, Shattrath 19043
+|[19043](https://wowgaming.altervista.org/aowow/?npc=19043)|Ahemen|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[19045](https://wowgaming.altervista.org/aowow/?npc=19045)||||<li> - [X] </li>|               |
 |[19047](https://wowgaming.altervista.org/aowow/?npc=19047)||||<li> - [X] </li>|               |
 |[19049](https://wowgaming.altervista.org/aowow/?npc=19049)||||<li> - [X] </li>|               |
-Aldor, Shattrath 19050
+|[19050](https://wowgaming.altervista.org/aowow/?npc=19050)|Garul|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[19053](https://wowgaming.altervista.org/aowow/?npc=19053)||||<li> - [X] </li>|               |
 |[19056](https://wowgaming.altervista.org/aowow/?npc=19056)||||<li> - [X] </li>|               |
-Aldor, Shattrath 19065
+|[19065](https://wowgaming.altervista.org/aowow/?npc=19065)|Inessera|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[19074](https://wowgaming.altervista.org/aowow/?npc=19074)||||<li> - [X] </li>|               |
 |[19182](https://wowgaming.altervista.org/aowow/?npc=19182)||||<li> - [X] </li>|               |
 |[19186](https://wowgaming.altervista.org/aowow/?npc=19186)||||<li> - [X] </li>|               |
@@ -1154,7 +1154,7 @@ Aldor, Shattrath 19065
 |[19296](https://wowgaming.altervista.org/aowow/?npc=19296)||||<li> - [X] </li>|               |
 |[19314](https://wowgaming.altervista.org/aowow/?npc=19314)||||<li> - [X] </li>|               |
 |[19315](https://wowgaming.altervista.org/aowow/?npc=19315)||||<li> - [X] </li>|               |
-Aldor, Shattrath 19321
+|[19321](https://wowgaming.altervista.org/aowow/?npc=19321)|Quartermaster Endarin|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[19330](https://wowgaming.altervista.org/aowow/?npc=19330)||||<li> - [X] </li>|               |
 |[19331](https://wowgaming.altervista.org/aowow/?npc=19331)||||<li> - [X] </li>|               |
 |[19333](https://wowgaming.altervista.org/aowow/?npc=19333)||||<li> - [X] </li>|               |
@@ -1190,11 +1190,11 @@ Aldor, Shattrath 19321
 |[19518](https://wowgaming.altervista.org/aowow/?npc=19518)||||<li> - [X] </li>|               |
 |[19520](https://wowgaming.altervista.org/aowow/?npc=19520)||||<li> - [X] </li>|               |
 |[19521](https://wowgaming.altervista.org/aowow/?npc=19521)||||<li> - [X] </li>|               |
-Aldor, SMV 19526
-Aldor, SMV 19528
-Aldor, SMV 19530
+|[19526](https://wowgaming.altervista.org/aowow/?npc=19526)|Dunaman|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
+|[19528](https://wowgaming.altervista.org/aowow/?npc=19528)|Nanomah|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
+|[19530](https://wowgaming.altervista.org/aowow/?npc=19530)|Darmend|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
 |[19531](https://wowgaming.altervista.org/aowow/?npc=19531)||||<li> - [X] </li>|               |
-Aldor, SMV 19532
+|[19532](https://wowgaming.altervista.org/aowow/?npc=19532)|Dearny|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
 |[19533](https://wowgaming.altervista.org/aowow/?npc=19533)||||<li> - [X] </li>|               |
 |[19534](https://wowgaming.altervista.org/aowow/?npc=19534)||||<li> - [X] </li>|               |
 |[19535](https://wowgaming.altervista.org/aowow/?npc=19535)||||<li> - [X] </li>|               |
@@ -1213,7 +1213,7 @@ Aldor, SMV 19532
 |[19575](https://wowgaming.altervista.org/aowow/?npc=19575)||||<li> - [X] </li>|               |
 |[19617](https://wowgaming.altervista.org/aowow/?npc=19617)||||<li> - [X] </li>|               |
 |[19625](https://wowgaming.altervista.org/aowow/?npc=19625)||||<li> - [X] </li>|               |
-Aldor, SMV 19649
+|[19649](https://wowgaming.altervista.org/aowow/?npc=19649)|Dorni|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
 |[19661](https://wowgaming.altervista.org/aowow/?npc=19661)||||<li> - [X] </li>|               |
 |[19662](https://wowgaming.altervista.org/aowow/?npc=19662)||||<li> - [X] </li>|               |
 |[19663](https://wowgaming.altervista.org/aowow/?npc=19663)||||<li> - [X] </li>|               |
@@ -1230,19 +1230,19 @@ Aldor, SMV 19649
 |[19857](https://wowgaming.altervista.org/aowow/?npc=19857)||||<li> - [X] </li>|               |
 |[19879](https://wowgaming.altervista.org/aowow/?npc=19879)|Horvon the Armorer|Auchindoun, Terokkar Forest|Neutral|<li> - [ ] </li>|Quest Gated    |
 |[19932](https://wowgaming.altervista.org/aowow/?npc=19932)||||<li> - [X] </li>|               |
-A, Zangarmarsh 20028
+|[20028](https://wowgaming.altervista.org/aowow/?npc=20028)|Doba|Zangarmarsh|Kurenai|<li> - [ ] </li>|               |
 |[20080](https://wowgaming.altervista.org/aowow/?npc=20080)||||<li> - [X] </li>|               |
 |[20081](https://wowgaming.altervista.org/aowow/?npc=20081)||||<li> - [X] </li>|               |
 |[20082](https://wowgaming.altervista.org/aowow/?npc=20082)||||<li> - [X] </li>|               |
 |[20092](https://wowgaming.altervista.org/aowow/?npc=20092)||||<li> - [X] </li>|               |
-A, Nagrand 20096
-H, Nagrand 20097
+|[20096](https://wowgaming.altervista.org/aowow/?npc=20096)|Uriku|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
+|[20097](https://wowgaming.altervista.org/aowow/?npc=20097)|Nula the Butcher|Garadar, Nagrand|Mag'har|<li> - [ ] </li>|               |
 |[20112](https://wowgaming.altervista.org/aowow/?npc=20112)||||<li> - [X] </li>|               |
 |[20121](https://wowgaming.altervista.org/aowow/?npc=20121)||||<li> - [X] </li>|               |
 |[20194](https://wowgaming.altervista.org/aowow/?npc=20194)||||<li> - [X] </li>|               |
 |[20231](https://wowgaming.altervista.org/aowow/?npc=20231)||||<li> - [X] </li>|               |
-A, Nagrand 20240
-H, Nagrand 20241
+|[20240](https://wowgaming.altervista.org/aowow/?npc=20240)|Trader Narasu|Telaar, Nagrand|Kurenai|<li> - [ ] </li>|               |
+|[20241](https://wowgaming.altervista.org/aowow/?npc=20241)|Provisioner Nasela|Gardar, Nagrand|Mag'har|<li> - [ ] </li>|               |
 |[20242](https://wowgaming.altervista.org/aowow/?npc=20242)||||<li> - [X] </li>|               |
 |[20249](https://wowgaming.altervista.org/aowow/?npc=20249)||||<li> - [X] </li>|               |
 |[20250](https://wowgaming.altervista.org/aowow/?npc=20250)||||<li> - [X] </li>|               |
@@ -1253,8 +1253,8 @@ H, Nagrand 20241
 |[20494](https://wowgaming.altervista.org/aowow/?npc=20494)||||<li> - [X] </li>|               |
 |[20510](https://wowgaming.altervista.org/aowow/?npc=20510)||||<li> - [X] </li>|               |
 |[20613](https://wowgaming.altervista.org/aowow/?npc=20613)||||<li> - [X] </li>|               |
-Aldor, Shattrath 20616
-Aldor, Shattrath 20807
+|[20616](https://wowgaming.altervista.org/aowow/?npc=20616)|Asuur|Shattrath|Aldor|<li> - [ ] </li>|               |
+|[20807](https://wowgaming.altervista.org/aowow/?npc=20807)|Scribe Saalyn|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[20808](https://wowgaming.altervista.org/aowow/?npc=20808)||||<li> - [X] </li>|               |
 |[20890](https://wowgaming.altervista.org/aowow/?npc=20890)||||<li> - [X] </li>|               |
 |[20891](https://wowgaming.altervista.org/aowow/?npc=20891)||||<li> - [X] </li>|               |
@@ -1284,16 +1284,16 @@ Aldor, Shattrath 20807
 |[21474](https://wowgaming.altervista.org/aowow/?npc=21474)||||<li> - [X] </li>|               |
 |[21483](https://wowgaming.altervista.org/aowow/?npc=21483)||||<li> - [X] </li>|               |
 |[21484](https://wowgaming.altervista.org/aowow/?npc=21484)||||<li> - [X] </li>|               |
-A, Halaa 21485
-A, Halaa 21487
-A, Halaa 21488
+|[21485](https://wowgaming.altervista.org/aowow/?npc=21485)|Aldraan|Halaa, Nagrand|Alliance|<li> - [ ] </li>|               |
+|[21487](https://wowgaming.altervista.org/aowow/?npc=21487)|Cendrii|Halaa, Nagrand|Alliance|<li> - [ ] </li>|               |
+|[21488](https://wowgaming.altervista.org/aowow/?npc=21488)|Banro|Halaa, Nagrand|Alliance|<li> - [ ] </li>|               |
 |[21643](https://wowgaming.altervista.org/aowow/?npc=21643)||||<li> - [X] </li>|               |
 |[21655](https://wowgaming.altervista.org/aowow/?npc=21655)||||<li> - [X] </li>|               |
 |[21744](https://wowgaming.altervista.org/aowow/?npc=21744)||||<li> - [X] </li>|               |
-Aldor, Shadowmoon 21746
+|[21746](https://wowgaming.altervista.org/aowow/?npc=21746)|Caretaker Aluuro|Shadowmoon Valley|Aldor|<li> - [ ] </li>|               |
 |[21905](https://wowgaming.altervista.org/aowow/?npc=21905)||||<li> - [X] </li>|               |
-Aldor, Shattrath 21906
-Wyrmcult, Blade's Edge 22099
+|[21906](https://wowgaming.altervista.org/aowow/?npc=21906)|Kelara|Shattrath|Aldor|<li> - [ ] </li>|               |
+|[22099](https://wowgaming.altervista.org/aowow/?npc=22099)|Wyrmcult Provisioner|Blade's Edge Mountains|Hostile|<li> - [ ] </li>|Wyrmcult       |
 |[22208](https://wowgaming.altervista.org/aowow/?npc=22208)||||<li> - [X] </li>|               |
 |[22212](https://wowgaming.altervista.org/aowow/?npc=22212)||||<li> - [X] </li>|               |
 |[22213](https://wowgaming.altervista.org/aowow/?npc=22213)||||<li> - [X] </li>|               |
