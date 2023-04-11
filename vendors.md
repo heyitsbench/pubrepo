@@ -1668,7 +1668,7 @@ Dalaran 28701, jewelcrafting?
 |[28727](https://wowgaming.altervista.org/aowow/?npc=28727)||||<li> - [X] </li>|               |
 |[28728](https://wowgaming.altervista.org/aowow/?npc=28728)||||<li> - [X] </li>|               |
 |[28742](https://wowgaming.altervista.org/aowow/?npc=28742)||||<li> - [X] </li>|               |
-|[28760](https://wowgaming.altervista.org/aowow/?npc=28760)|Hargus the Geist|Acherus|Neutral|<li> - [X] </li>|               |
+|[28760](https://wowgaming.altervista.org/aowow/?npc=28760)|Hargus the Geist|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231274678-884940f0-664b-48ad-937f-e36c230c9e1f.png)|               |
 |[28776](https://wowgaming.altervista.org/aowow/?npc=28776)||||<li> - [X] </li>|               |
 |[28791](https://wowgaming.altervista.org/aowow/?npc=28791)||||<li> - [X] </li>|               |
 |[28792](https://wowgaming.altervista.org/aowow/?npc=28792)||||<li> - [X] </li>|               |
