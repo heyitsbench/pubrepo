@@ -750,8 +750,7 @@
 |[9099](https://wowgaming.altervista.org/aowow/?npc=9099)  ||||<li> - [X] </li>|               |
 |[9179](https://wowgaming.altervista.org/aowow/?npc=9179)  ||||<li> - [X] </li>|               |
 |[9356](https://wowgaming.altervista.org/aowow/?npc=9356)  ||||<li> - [X] </li>|               |
-|[9499](https://wowgaming.altervista.org/aowow/?npc=9499)  |Plugger Spazzring|Grim Guzzler, Blackrock Depths|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231265928-599e5ba2-06d5-453e-b91c-e5e52469b54a.png)
-|               |
+|[9499](https://wowgaming.altervista.org/aowow/?npc=9499)  |Plugger Spazzring|Grim Guzzler, Blackrock Depths|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231265928-599e5ba2-06d5-453e-b91c-e5e52469b54a.png)|               |
 |[9501](https://wowgaming.altervista.org/aowow/?npc=9501)  ||||<li> - [X] </li>|               |
 |[9544](https://wowgaming.altervista.org/aowow/?npc=9544)  ||||<li> - [X] </li>|               |
 |[9548](https://wowgaming.altervista.org/aowow/?npc=9548)  ||||<li> - [X] </li>|               |
@@ -1924,11 +1923,11 @@ Gadgetzan 32407
 |[32565](https://wowgaming.altervista.org/aowow/?npc=32565)||||<li> - [X] </li>|               |
 |[32594](https://wowgaming.altervista.org/aowow/?npc=32594)||||<li> - [X] </li>|               |
 |[32631](https://wowgaming.altervista.org/aowow/?npc=32631)||||<li> - [X] </li>|               |
-|[32638](https://wowgaming.altervista.org/aowow/?npc=32638)|Hakmud of Argus|Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|               |
-|[32639](https://wowgaming.altervista.org/aowow/?npc=32639)|Gnimo          |Traveler's Tundra Mammoth|Alliance|<li> - [X] </li>|               |
-|[32641](https://wowgaming.altervista.org/aowow/?npc=32641)|Drix Blackwrench|Traveler's Tundra Mammoth|Horde|<li> - [X] </li>|               |
-|[32642](https://wowgaming.altervista.org/aowow/?npc=32642)|Mojodishu|Traveler's Tundra Mammoth|Horde|<li> - [X] </li>|               |
-|[32763](https://wowgaming.altervista.org/aowow/?npc=32763)|Sairuk|Moa'ki Harbor, Dragonblight|Neutral|<li> - [X] </li>|               |
+|[32638](https://wowgaming.altervista.org/aowow/?npc=32638)|Hakmud of Argus |Traveler's Tundra Mammoth  |Alliance|<li> - [X] </li>|               |
+|[32639](https://wowgaming.altervista.org/aowow/?npc=32639)|Gnimo           |Traveler's Tundra Mammoth  |Alliance|<li> - [X] </li>|               |
+|[32641](https://wowgaming.altervista.org/aowow/?npc=32641)|Drix Blackwrench|Traveler's Tundra Mammoth  |Horde   |<li> - [X] </li>|               |
+|[32642](https://wowgaming.altervista.org/aowow/?npc=32642)|Mojodishu       |Traveler's Tundra Mammoth  |Horde   |<li> - [X] </li>|               |
+|[32763](https://wowgaming.altervista.org/aowow/?npc=32763)|Sairuk          |Moa'ki Harbor, Dragonblight|Neutral |<li> - [X] </li>|               |
 H, AV, Might not exist 32764
 H, AV, Might not exist 32765
 |[32773](https://wowgaming.altervista.org/aowow/?npc=32773)|Logistics Officer Brighton|Valgarde, Howling Fjord|Alliance|<li> - [X] </li>|               |
