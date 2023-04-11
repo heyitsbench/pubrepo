@@ -816,21 +816,21 @@
 |[12245](https://wowgaming.altervista.org/aowow/?npc=12245)||||<li> - [X] </li>|               |
 |[12246](https://wowgaming.altervista.org/aowow/?npc=12246)||||<li> - [X] </li>|               |
 |[12384](https://wowgaming.altervista.org/aowow/?npc=12384)||||<li> - [X] </li>|               |
-A, BGs/SW? 12777
+|[12777](https://wowgaming.altervista.org/aowow/?npc=12777)|Captain Dirgehammer|Battlegrounds|Alliance|<li> - [ ] </li>|               |
 |[12778](https://wowgaming.altervista.org/aowow/?npc=12778)||||<li> - [X] </li>|               |
 |[12781](https://wowgaming.altervista.org/aowow/?npc=12781)||||<li> - [X] </li>|               |
-A, BGs/SW? 12782
+|[12782](https://wowgaming.altervista.org/aowow/?npc=12782)|Captain O'Neal|Battlegrounds|Alliance|<li> - [ ] </li>|               |
 |[12783](https://wowgaming.altervista.org/aowow/?npc=12783)||||<li> - [X] </li>|               |
 |[12784](https://wowgaming.altervista.org/aowow/?npc=12784)||||<li> - [X] </li>|               |
 |[12785](https://wowgaming.altervista.org/aowow/?npc=12785)||||<li> - [X] </li>|               |
 |[12788](https://wowgaming.altervista.org/aowow/?npc=12788)||||<li> - [X] </li>|               |
-H, BGs/Org? 12792
+|[12792](https://wowgaming.altervista.org/aowow/?npc=12792)|Lady Palanseer|Battlegrounds|Horde|<li> - [ ] </li>|               |
 |[12793](https://wowgaming.altervista.org/aowow/?npc=12793)||||<li> - [X] </li>|               |
 |[12794](https://wowgaming.altervista.org/aowow/?npc=12794)||||<li> - [X] </li>|               |
 |[12795](https://wowgaming.altervista.org/aowow/?npc=12795)||||<li> - [X] </li>|               |
 |[12796](https://wowgaming.altervista.org/aowow/?npc=12796)||||<li> - [X] </li>|               |
-H, Org 12799
-A, SW? 12805
+|[12799](https://wowgaming.altervista.org/aowow/?npc=12799)|Sergeant Ba'sha|Orgrimmar|Horde|<li> - [ ] </li>|               |
+|[12805](https://wowgaming.altervista.org/aowow/?npc=12805)|Officer Areyn|Unknown|Alliance|<li> - [ ] </li>|               |
 |[12919](https://wowgaming.altervista.org/aowow/?npc=12919)|Nat Pagle|Dustwallow Marsh|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231258848-fd5f2b8f-79d3-44cf-996c-36bb33c885e4.png)|               |
 |[12941](https://wowgaming.altervista.org/aowow/?npc=12941)||||<li> - [X] </li>|               |
 |[12942](https://wowgaming.altervista.org/aowow/?npc=12942)||||<li> - [X] </li>|               |
@@ -843,31 +843,31 @@ A, SW? 12805
 |[12960](https://wowgaming.altervista.org/aowow/?npc=12960)||||<li> - [X] </li>|               |
 |[12962](https://wowgaming.altervista.org/aowow/?npc=12962)||||<li> - [X] </li>|               |
 |[13018](https://wowgaming.altervista.org/aowow/?npc=13018)||||<li> - [X] </li>|               |
-A, AV 13216
-A, Alterac 13217
-H, Alterac 13218
-|[13219](https://wowgaming.altervista.org/aowow/?npc=13219)|Jekyll Flandring|Alterac Mountains|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230692784-e97d0355-09e4-4999-8623-92b3cceb2d1a.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230692803-d104d207-e452-43a2-8f5c-c4f851387c16.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230692870-9a28e476-bedc-4253-b326-2bbe1b475178.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/230692903-cd962b94-77ca-430f-9f77-4001e4e90064.png)|               |
-Org, Winter Veil? 13418
-Org, Winter Veil? 13420
-UC, Winter Veil? 13429
-UC, Winter Veil? 13430
-TB, Winter Veil? 13431
-TB, Winter Veil? 13432
-IF, Winter Veil? 13433
-IF, Winter Veil? 13434
-SW, Winter Veil? 13435
-SW, Winter Veil? 13436
+|[13216](https://wowgaming.altervista.org/aowow/?npc=13216)|Gaelden Hammersmith  |Alterac Valley   |Alliance|<li> - [ ] </li>|               |
+|[13217](https://wowgaming.altervista.org/aowow/?npc=13217)|Thanthaldis Snowgleam|Alterac Mountains|Alliance|<li> - [ ] </li>|               |
+|[13218](https://wowgaming.altervista.org/aowow/?npc=13218)|Grunnda Wolfheart    |Alterac Valley   |Horde   |<li> - [ ] </li>|               |
+|[13219](https://wowgaming.altervista.org/aowow/?npc=13219)|Jekyll Flandring     |Alterac Mountains|Horde   |<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/230692784-e97d0355-09e4-4999-8623-92b3cceb2d1a.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/230692803-d104d207-e452-43a2-8f5c-c4f851387c16.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/230692870-9a28e476-bedc-4253-b326-2bbe1b475178.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/230692903-cd962b94-77ca-430f-9f77-4001e4e90064.png)|               |
+|[13418](https://wowgaming.altervista.org/aowow/?npc=13418)|Kaymard Copperpinch  |Orgrimmar        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13420](https://wowgaming.altervista.org/aowow/?npc=13420)|Penney Copperpinch   |Orgrimmar        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13429](https://wowgaming.altervista.org/aowow/?npc=13429)|Nardstrum Copperpinch|Undercity        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13430](https://wowgaming.altervista.org/aowow/?npc=13430)|Jaycrue Copperpinch  |Undercity        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13431](https://wowgaming.altervista.org/aowow/?npc=13431)|Whulwert Copperpinch |Thunder Bluff    |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13432](https://wowgaming.altervista.org/aowow/?npc=13432)|Seersa Copperpinch   |Thunder Bluff    |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13433](https://wowgaming.altervista.org/aowow/?npc=13433)|Wulmort Jinglepocket |Ironforge        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13434](https://wowgaming.altervista.org/aowow/?npc=13434)|Macey Jinglepocket   |Ironforge        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13435](https://wowgaming.altervista.org/aowow/?npc=13435)|Khole Jinglepocket   |Stormwind        |Neutral |<li> - [ ] </li>|Winter Veil    |
+|[13436](https://wowgaming.altervista.org/aowow/?npc=13436)|Guchie Jinglepocket  |Stormwind        |Neutral |<li> - [ ] </li>|Winter Veil    |
 |[13476](https://wowgaming.altervista.org/aowow/?npc=13476)||||<li> - [X] </li>|               |
 |[14301](https://wowgaming.altervista.org/aowow/?npc=14301)||||<li> - [X] </li>|               |
-King, Dire Maul 14322
-Engineering 14337
-Shen'dralar, Dire Maul 14371
-Burning Steppes 14437
-A, SW 14450
-H, Org, Children's Week? 14480
-A, SW, Children's Week? 14481
-Shadow Potion, Felwood 14522
-H, BGs? 14581
+|[14322](https://wowgaming.altervista.org/aowow/?npc=14322)|Stomper Kreeg            |Dire Maul         |Neutral |<li> - [ ] </li>|Quest Gated    |
+|[14337](https://wowgaming.altervista.org/aowow/?npc=14337)|Field Repair Bot 74A     |Engineering Recipe|Neutral |<li> - [ ] </li>|               |
+|[14371](https://wowgaming.altervista.org/aowow/?npc=14371)|Shen'dralar Provisioner  |Dire Maul         |Neutral |<li> - [ ] </li>|               |
+|[14437](https://wowgaming.altervista.org/aowow/?npc=14437)|Gorzeeki Wildeyes        |Burning Steppes   |Neutral |<li> - [ ] </li>|               |
+|[14450](https://wowgaming.altervista.org/aowow/?npc=14450)|Orphan Matron Nightingale|Stormwind         |Alliance|<li> - [ ] </li>|Scourge Invasion|
+|[14480](https://wowgaming.altervista.org/aowow/?npc=14480)|Alowicious Czervik       |Orgrimmar         |Horde   |<li> - [ ] </li>|Children's Week Event|
+|[14481](https://wowgaming.altervista.org/aowow/?npc=14481)|Emmithue Smails          |Stormwind         |Alliance|<li> - [ ] </li>|Children's Week Event|
+|[14522](https://wowgaming.altervista.org/aowow/?npc=14522)|Ur'dan                   |Felwood           |Hostile |<li> - [ ] </li>|Shadow Potion  |
+|[14581](https://wowgaming.altervista.org/aowow/?npc=14581)|Sergeant Thunderhorn     |Battlegrounds     |Horde   |<li> - [ ] </li>|               |
 |[14624](https://wowgaming.altervista.org/aowow/?npc=14624)||||<li> - [X] </li>|               |
 |[14637](https://wowgaming.altervista.org/aowow/?npc=14637)|Zorbin Fandazzle|Feralas|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231058420-db715ff4-9458-4aff-b1b6-b035e7264260.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231058448-934e6ddb-8a2e-4a98-97f9-5580530d2f39.png)|               |
 |[14731](https://wowgaming.altervista.org/aowow/?npc=14731)||||<li> - [X] </li>|               |
