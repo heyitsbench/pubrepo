@@ -834,7 +834,7 @@ A, SW? 12805
 Dustwallow Marsh 12919
 |[12941](https://wowgaming.altervista.org/aowow/?npc=12941)||||<li> - [X] </li>|               |
 |[12942](https://wowgaming.altervista.org/aowow/?npc=12942)||||<li> - [X] </li>|               |
-H, WPL 12943
+|[12943](https://wowgaming.altervista.org/aowow/?npc=12943)|Werg Thickblade|Western Plaguelands|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231235498-21b69808-6dbb-4bcf-bb6e-7c5b033a56ec.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231235536-87f5b984-b119-43fb-ae6e-acf0509f067f.png)|               |
 BRD 12944
 |[12956](https://wowgaming.altervista.org/aowow/?npc=12956)||||<li> - [X] </li>|               |
 |[12957](https://wowgaming.altervista.org/aowow/?npc=12957)||||<li> - [X] </li>|               |
