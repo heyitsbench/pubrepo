@@ -1646,7 +1646,7 @@ Promotional companion? 27914
 |[28225](https://wowgaming.altervista.org/aowow/?npc=28225)|Griz Gutshank|Grim Guzzler, Blackrock Depths|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231266534-794d9b47-ee9f-4e99-9de2-45e2d9dd753d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231266572-a4fdaeef-2864-4b30-bdde-adb10e6cfeeb.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/231266598-14ba1dc1-70ca-44cb-8a1e-0e8303621339.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/231266615-11ac6323-0f21-4ad5-b2c6-ca3a7030da16.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/231266628-c86d50b0-083d-4ddb-a2de-d11f0a42f2ac.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/231266646-c36d327b-fe1c-4b6d-8483-10b008c0affe.png)|               |
 |[28344](https://wowgaming.altervista.org/aowow/?npc=28344)||||<li> - [X] </li>|               |
 |[28347](https://wowgaming.altervista.org/aowow/?npc=28347)||||<li> - [X] </li>|               |
-|[28500](https://wowgaming.altervista.org/aowow/?npc=28500)|Master Siegesmith Corvus|Acherus|Neutral|<li> - [X] </li>|               |
+|[28500](https://wowgaming.altervista.org/aowow/?npc=28500)|Master Siegesmith Corvus|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231270936-d5540fbb-c1b1-4423-8361-ce8f9ceaefbc.png)|               |
 Zul'Drak 28589
 |[28682](https://wowgaming.altervista.org/aowow/?npc=28682)||||<li> - [X] </li>|               |
 |[28685](https://wowgaming.altervista.org/aowow/?npc=28685)||||<li> - [X] </li>|               |
@@ -1716,10 +1716,10 @@ Sholazar Basin 29015
 |[29049](https://wowgaming.altervista.org/aowow/?npc=29049)||||<li> - [X] </li>|               |
 |[29121](https://wowgaming.altervista.org/aowow/?npc=29121)||||<li> - [X] </li>|               |
 Sholazar Basin 29122
-|[29203](https://wowgaming.altervista.org/aowow/?npc=29203)|Alchemist Karloff|Acherus|Neutral|<li> - [X] </li>|               |
-|[29205](https://wowgaming.altervista.org/aowow/?npc=29205)|Corpulous|Acherus|Neutral|<li> - [X] </li>|               |
-|[29207](https://wowgaming.altervista.org/aowow/?npc=29207)|Gangrenus|Acherus|Neutral|<li> - [X] </li>|               |
-|[29208](https://wowgaming.altervista.org/aowow/?npc=29208)|Fester|Acherus|Neutral|<li> - [X] </li>|               |
+|[29203](https://wowgaming.altervista.org/aowow/?npc=29203)|Alchemist Karloff|Acherus|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231271122-0973e940-5e98-4b76-a418-a0e0ee1842d1.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231271157-04cbb89b-87c6-4603-9607-5fd853bccf3f.png)|               |
+|[29205](https://wowgaming.altervista.org/aowow/?npc=29205)|Corpulous|Acherus|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231270759-7191f63a-de60-4179-84b8-0fe2fe54a40d.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231270780-d6f5a43e-79fd-4ba8-9ff6-4fcc9ddd8cf4.png)|               |
+|[29207](https://wowgaming.altervista.org/aowow/?npc=29207)|Gangrenus|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231271218-96753192-b2f5-40eb-9398-bdd390109d46.png)|               |
+|[29208](https://wowgaming.altervista.org/aowow/?npc=29208)|Fester|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231271274-59691c20-aa49-4d98-bb1b-886e99769d6b.png)|               |
 |[29244](https://wowgaming.altervista.org/aowow/?npc=29244)||||<li> - [X] </li>|               |
 |[29252](https://wowgaming.altervista.org/aowow/?npc=29252)||||<li> - [X] </li>|               |
 H, Grizzly Hills 29253
@@ -1753,7 +1753,7 @@ H, Grizzly Hills 29253
 |[29548](https://wowgaming.altervista.org/aowow/?npc=29548)||||<li> - [X] </li>|               |
 Engineering 29561
 |[29583](https://wowgaming.altervista.org/aowow/?npc=29583)|Pan'ya|Zim'torga, Zul'Drak|Neutral|<li> - [X] </li>|               |
-EPL 29587
+|[29587](https://wowgaming.altervista.org/aowow/?npc=29587)|Dread Commander Thalanor|Acherus, Eastern Plaguelands|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231270221-7f33e68a-8a9b-4d37-9a7d-bb8cb8268403.png)|               |
 |[29628](https://wowgaming.altervista.org/aowow/?npc=29628)||||<li> - [X] </li>|               |
 |[29636](https://wowgaming.altervista.org/aowow/?npc=29636)||||<li> - [X] </li>|               |
 |[29688](https://wowgaming.altervista.org/aowow/?npc=29688)||||<li> - [X] </li>|               |
