@@ -733,7 +733,7 @@
 |[8363](https://wowgaming.altervista.org/aowow/?npc=8363)  ||||<li> - [X] </li>|               |
 |[8364](https://wowgaming.altervista.org/aowow/?npc=8364)  ||||<li> - [X] </li>|               |
 |[8398](https://wowgaming.altervista.org/aowow/?npc=8398)  ||||<li> - [X] </li>|               |
-|[8401](https://wowgaming.altervista.org/aowow/?npc=8401)  |Halpa|Thunder Bluff|Horde|<li> - [ ] </li>|               |
+|[8401](https://wowgaming.altervista.org/aowow/?npc=8401)  |Halpa|Thunder Bluff|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231025489-a534510a-b0ad-454f-837c-5851d874fe4e.png)|               |
 |[8403](https://wowgaming.altervista.org/aowow/?npc=8403)  ||||<li> - [X] </li>|               |
 |[8404](https://wowgaming.altervista.org/aowow/?npc=8404)  ||||<li> - [X] </li>|               |
 |[8508](https://wowgaming.altervista.org/aowow/?npc=8508)  ||||<li> - [X] </li>|               |
