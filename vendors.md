@@ -1699,7 +1699,7 @@ Dalaran 28701, jewelcrafting?
 |[28870](https://wowgaming.altervista.org/aowow/?npc=28870)||||<li> - [X] </li>|               |
 |[28871](https://wowgaming.altervista.org/aowow/?npc=28871)||||<li> - [X] </li>|               |
 |[28872](https://wowgaming.altervista.org/aowow/?npc=28872)||||<li> - [X] </li>|               |
-DK Zone? 28943
+|[28943](https://wowgaming.altervista.org/aowow/?npc=28943)|Fineous|Scarlet Enclave, Eastern Plaguelands|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231279991-186e99ff-d745-47e3-b8c6-7543abe66793.png)|               |
 |[28951](https://wowgaming.altervista.org/aowow/?npc=28951)||||<li> - [X] </li>|               |
 |[28989](https://wowgaming.altervista.org/aowow/?npc=28989)||||<li> - [X] </li>|               |
 |[28990](https://wowgaming.altervista.org/aowow/?npc=28990)||||<li> - [X] </li>|               |
