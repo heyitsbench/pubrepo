@@ -533,7 +533,7 @@
 |[4615](https://wowgaming.altervista.org/aowow/?npc=4615)  ||||<li> - [X] </li>|               |
 |[4617](https://wowgaming.altervista.org/aowow/?npc=4617)  ||||<li> - [X] </li>|               |
 |[4730](https://wowgaming.altervista.org/aowow/?npc=4730)  |Lelanai       |Darnassus       |Alliance|<li> - [ ] </li>|               |
-|[4731](https://wowgaming.altervista.org/aowow/?npc=4731)  |Zachariah Post|Brill           |Horde   |<li> - [ ] </li>|               |
+|[4731](https://wowgaming.altervista.org/aowow/?npc=4731)  |Zachariah Post|Brill           |Horde   |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231023566-4129f41f-514a-4ad1-88bc-5681065e786f.png)|               |
 |[4775](https://wowgaming.altervista.org/aowow/?npc=4775)  |Felicia Doan  |Undercity       |Horde   |<li> - [X] </li>|               |
 |[4782](https://wowgaming.altervista.org/aowow/?npc=4782)  |Truk Wildbeard|The Hinterlands |Alliance|<li> - [X] </li>|               |
 |[4875](https://wowgaming.altervista.org/aowow/?npc=4875)  |Turhaw        |Thousand Needles|Horde   |<li> - [X] </li>|               |
