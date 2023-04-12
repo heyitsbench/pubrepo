@@ -1975,7 +1975,7 @@ A, Icecrown 33650
 A, Icecrown 33653
 A, Icecrown 33657
 Ulduar 33666
-Ulduar 33669
+|[33669](https://wowgaming.altervista.org/aowow/?npc=33669)|Demolisher Engineer Blastwrench|Ulduar|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231315200-2a605b74-f66c-4d72-a609-c26814730a47.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231315210-2828b9b3-053f-4fb4-bbd7-71a0847f78ce.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/231315228-784f4003-7853-47c5-85e8-4b2101297526.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/231315240-ac03ea03-d0e6-4acc-a057-dd89d5c3c659.png)|               |
 Aldor, Shattrath 33674
 Aldor, Shattrath 33675
 Aldor, Shattrath 33676
