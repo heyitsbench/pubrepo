@@ -1306,22 +1306,22 @@
 |[22476](https://wowgaming.altervista.org/aowow/?npc=22476)||||<li> - [X] </li>|               |
 |[22479](https://wowgaming.altervista.org/aowow/?npc=22479)||||<li> - [X] </li>|               |
 |[22491](https://wowgaming.altervista.org/aowow/?npc=22491)||||<li> - [X] </li>|               |
-A, AV 22646
-H, AV 22648
-H, AV 22650
-A, AV 22651
-A, AV 22652
-A, AV 22653
-H, AV 22654
-H, AV 22655
-A, AV 22658
-A, AV 22659
-H, AV 22660
-H, AV 22661
-A, AV 22680
-H, AV 22681
-H, Alterac 22682
-A, Alterac 22695
+|[22646](https://wowgaming.altervista.org/aowow/?npc=22646)|Brogus Thunderbrew     |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22648](https://wowgaming.altervista.org/aowow/?npc=22648)|Frostwolf Quartermaster|Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22650](https://wowgaming.altervista.org/aowow/?npc=22650)|Grelkor                |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22651](https://wowgaming.altervista.org/aowow/?npc=22651)|Jonivera Farmountain   |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22652](https://wowgaming.altervista.org/aowow/?npc=22652)|Kurdrum Barleybeard    |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22653](https://wowgaming.altervista.org/aowow/?npc=22653)|Lana Thunderbrew       |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22654](https://wowgaming.altervista.org/aowow/?npc=22654)|Rarck                  |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22655](https://wowgaming.altervista.org/aowow/?npc=22655)|Shrye Ragefist         |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22658](https://wowgaming.altervista.org/aowow/?npc=22658)|Stormpike Quartermaster|Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22659](https://wowgaming.altervista.org/aowow/?npc=22659)|Svalbrad Farmountain   |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22660](https://wowgaming.altervista.org/aowow/?npc=22660)|Yaelika Farclaw        |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22661](https://wowgaming.altervista.org/aowow/?npc=22661)|Zora Guthrek           |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22680](https://wowgaming.altervista.org/aowow/?npc=22680)|Gaelden Hammersmith    |Alterac Valley   |Alliance|<li> - [ ] </li>|Duplicate      |
+|[22681](https://wowgaming.altervista.org/aowow/?npc=22681)|Grunnda Wolfheart      |Alterac Valley   |Horde   |<li> - [ ] </li>|Duplicate      |
+|[22682](https://wowgaming.altervista.org/aowow/?npc=22682)|Jekyll Flandring       |Alterac Mountains|Horde   |<li> - [ ] </li>|Duplicate      |
+|[22695](https://wowgaming.altervista.org/aowow/?npc=22695)|Thanthaldis Snowgleam  |Alterac Mountains|Alliance|<li> - [ ] </li>|Duplicate      |
 |[23007](https://wowgaming.altervista.org/aowow/?npc=23007)||||<li> - [X] </li>|               |
 Exodar, Feast of Winter Veil 23009
 Exodar, Feast of Winter Veil 23010
