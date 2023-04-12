@@ -1323,12 +1323,12 @@
 |[22682](https://wowgaming.altervista.org/aowow/?npc=22682)|Jekyll Flandring       |Alterac Mountains|Horde   |<li> - [ ] </li>|Duplicate      |
 |[22695](https://wowgaming.altervista.org/aowow/?npc=22695)|Thanthaldis Snowgleam  |Alterac Mountains|Alliance|<li> - [ ] </li>|Duplicate      |
 |[23007](https://wowgaming.altervista.org/aowow/?npc=23007)||||<li> - [X] </li>|               |
-Exodar, Feast of Winter Veil 23009
-Exodar, Feast of Winter Veil 23010
-Silvermoon, Feast of Winter Veil 23011
-Silvermoon, Feast of Winter Veil 23012
-Shattrath, Feast of Winter Veil 23064
-Shattrath, Feast of Winter Veil 23065
+|[23009](https://wowgaming.altervista.org/aowow/?npc=23009)|Bessbi Jinglepocket |Exodar    |Neutral|<li> - [ ] </li>|Winter Veil Event|
+|[23010](https://wowgaming.altervista.org/aowow/?npc=23010)|Wolgren Jinglepocket|Exodar    |Neutral|<li> - [ ] </li>|Winter Veil Event|
+|[23011](https://wowgaming.altervista.org/aowow/?npc=23011)|Morshelz Copperpinch|Silvermoon|Neutral|<li> - [ ] </li>|Winter Veil Event|
+|[23012](https://wowgaming.altervista.org/aowow/?npc=23012)|Hotoppik Copperpinch|Silvermoon|Neutral|<li> - [ ] </li>|Winter Veil Event|
+|[23064](https://wowgaming.altervista.org/aowow/?npc=23064)|Eebee Jinglepocket  |Shattrath |Neutral|<li> - [ ] </li>|Winter Veil Event|
+|[23065](https://wowgaming.altervista.org/aowow/?npc=23065)|Olnayvi Copperpinch |Shattrath |Neutral|<li> - [ ] </li>|Winter Veil Event|
 |[23110](https://wowgaming.altervista.org/aowow/?npc=23110)||||<li> - [X] </li>|               |
 |[23112](https://wowgaming.altervista.org/aowow/?npc=23112)||||<li> - [X] </li>|               |
 |[23143](https://wowgaming.altervista.org/aowow/?npc=23143)||||<li> - [X] </li>|               |
