@@ -1334,36 +1334,36 @@
 |[23143](https://wowgaming.altervista.org/aowow/?npc=23143)||||<li> - [X] </li>|               |
 |[23144](https://wowgaming.altervista.org/aowow/?npc=23144)||||<li> - [X] </li>|               |
 |[23145](https://wowgaming.altervista.org/aowow/?npc=23145)||||<li> - [X] </li>|               |
-Black Temple 23157
-Black Temple 23159
+|[23157](https://wowgaming.altervista.org/aowow/?npc=23157)|Aluyen|Black Temple|Neutral|<li> - [ ] </li>|               |
+|[23159](https://wowgaming.altervista.org/aowow/?npc=23159)|Okuno |Black Temple|Neutral|<li> - [ ] </li>|               |
 |[23208](https://wowgaming.altervista.org/aowow/?npc=23208)||||<li> - [X] </li>|               |
-Blade's Edge 23243
-Blade's Edge 23244
-Blade's Edge 23245
+|[23243](https://wowgaming.altervista.org/aowow/?npc=23243)|Aether-tech Assistant|Blade's Edge Mountains|Neutral|<li> - [ ] </li>|               |
+|[23244](https://wowgaming.altervista.org/aowow/?npc=23244)|Aether-tech Adept    |Blade's Edge Mountains|Neutral|<li> - [ ] </li>|               |
+|[23245](https://wowgaming.altervista.org/aowow/?npc=23245)|Aether-tech Master   |Blade's Edge Mountains|Neutral|<li> - [ ] </li>|               |
 |[23263](https://wowgaming.altervista.org/aowow/?npc=23263)||||<li> - [X] </li>|               |
-Skettis 23363
+|[23363](https://wowgaming.altervista.org/aowow/?npc=23363)|Sahaak|Skettis, Terokkar Forest|Neutral|<li> - [ ] </li>|Arakkoa Disguise|
 |[23367](https://wowgaming.altervista.org/aowow/?npc=23367)||||<li> - [X] </li>|               |
 |[23373](https://wowgaming.altervista.org/aowow/?npc=23373)||||<li> - [X] </li>|               |
-Hyjal 23381
-Area 52 23396
+|[23381](https://wowgaming.altervista.org/aowow/?npc=23381)|Tydormu            |Hyjal Summit        |Neutral|<li> - [ ] </li>|               |
+|[23396](https://wowgaming.altervista.org/aowow/?npc=23396)|Krixel Pinchwhistle|Area 52, Netherstorm|Neutral|<li> - [ ] </li>|               |
 |[23428](https://wowgaming.altervista.org/aowow/?npc=23428)||||<li> - [X] </li>|               |
-Hyjal 23437
-A, SW? 23446
-H, Silvermoon? 23447
-A, IF Gates, Brewfest 23481
-A, Capital Gates, Brewfest 23482
-Scryers, Shattrath 23483
-Aldor, Shattrath 23484
-Netherwing, Shadowmoon 23489
-A? Capital Gates, Brewfest 23510
-Capital Gates, Brewfest 23511
-A? IF Gates, Brewfest 23521
-A? IF Gates, Brewfest 23522
-A? IF Gates, Brewfest 23525
-H? Capital Gates, Brewfest 23533
-|[23560](https://wowgaming.altervista.org/aowow/?npc=23560)||||<li> - [X] </li>|               |
-|[23571](https://wowgaming.altervista.org/aowow/?npc=23571)||||<li> - [X] </li>|               |
-|[23573](https://wowgaming.altervista.org/aowow/?npc=23573)||||<li> - [X] </li>|               |
+|[23437](https://wowgaming.altervista.org/aowow/?npc=23437)|Indormi                            |Hyjal Summit                       |Neutral  |<li> - [ ] </li>|               |
+|[23446](https://wowgaming.altervista.org/aowow/?npc=23446)|Lieutenant Tristia                 |Stormwind                          |Alliance |<li> - [ ] </li>|               |
+|[23447](https://wowgaming.altervista.org/aowow/?npc=23447)|Sergeant Kien                      |Orgrimmar                          |Horde    |<li> - [ ] </li>|               |
+|[23481](https://wowgaming.altervista.org/aowow/?npc=23481)|Keiran Donoghue                    |Ironforge Gates                    |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23482](https://wowgaming.altervista.org/aowow/?npc=23482)|Barleybrew Apprentice              |Various                            |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23483](https://wowgaming.altervista.org/aowow/?npc=23483)|Arcanist Xorith                    |Shattrath                          |Scryers  |<li> - [ ] </li>|               |
+|[23484](https://wowgaming.altervista.org/aowow/?npc=23484)|Haldor the Compulsive              |Shattrath                          |Aldor    |<li> - [ ] </li>|               |
+|[23489](https://wowgaming.altervista.org/aowow/?npc=23489)|Drake Dealer Hurlunk               |Netherwing Ledge, Shadowmoon Valley|Dragonmaw|<li> - [ ] </li>|               |
+|[23510](https://wowgaming.altervista.org/aowow/?npc=23510)|Thunderbrew Apprentice             |Various                            |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23511](https://wowgaming.altervista.org/aowow/?npc=23511)|Gordok Brew Apprentice             |Various                            |Neutral  |<li> - [ ] </li>|Brewfest Event |
+|[23521](https://wowgaming.altervista.org/aowow/?npc=23521)|Anne Summers                       |Ironforge Gates                    |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23522](https://wowgaming.altervista.org/aowow/?npc=23522)|Arlen Lochlan                      |Ironforge Gates                    |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23525](https://wowgaming.altervista.org/aowow/?npc=23525)|Brother Cartwright                 |Ironforge Gates                    |Alliance |<li> - [ ] </li>|Brewfest Event |
+|[23533](https://wowgaming.altervista.org/aowow/?npc=23533)|T'chali's Voodoo Brewery Apprentice|Various                            |Horde    |<li> - [ ] </li>|Brewfest Event |
+|[23560](https://wowgaming.altervista.org/aowow/?npc=23560)|Provisioner Ameenah                |Zul'Aman Entrance, Ghostlands      |Neutral  |<li> - [X] </li>|               |
+|[23571](https://wowgaming.altervista.org/aowow/?npc=23571)|Razbo Rustgear                     |Mudsprocket, Dustwallow Marsh      |Neutral  |<li> - [X] </li>|               |
+|[23573](https://wowgaming.altervista.org/aowow/?npc=23573)|Krixil Slogswitch                  |Mudsprocket, Dustwallow Marsh      |Neutral  |<li> - [X] </li>|               |
 H? Org Gates, Brewfest 23603
 H? Org Gates, Brewfest 23604
 H? Org Gates, Brewfest 23605
