@@ -1032,7 +1032,7 @@
 |[17512](https://wowgaming.altervista.org/aowow/?npc=17512)||||<li> - [X] </li>|               |
 |[17518](https://wowgaming.altervista.org/aowow/?npc=17518)|Ythyar|Karazhan|Neutral|<li> - [ ] </li>|               |
 |[17553](https://wowgaming.altervista.org/aowow/?npc=17553)||||<li> - [X] </li>|               |
-|[17584](https://wowgaming.altervista.org/aowow/?npc=17584)|Torallius the Pack Handler|The Exodar|Alliance|<li> - [ ] </li>|               |
+|[17584](https://wowgaming.altervista.org/aowow/?npc=17584)|Torallius the Pack Handler|The Exodar|Alliance|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/232273094-002f5025-4d53-45a9-bfbc-9f0a45b41d20.png)|               |
 |[17585](https://wowgaming.altervista.org/aowow/?npc=17585)||||<li> - [X] </li>|               |
 |[17598](https://wowgaming.altervista.org/aowow/?npc=17598)||||<li> - [X] </li>|               |
 |[17630](https://wowgaming.altervista.org/aowow/?npc=17630)||||<li> - [X] </li>|               |
