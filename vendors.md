@@ -1065,7 +1065,7 @@
 |[18426](https://wowgaming.altervista.org/aowow/?npc=18426)|Terellia|Tranquillien, Ghostlands|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235048401-6c2e4fd9-bfae-47af-a42d-4867b57ad450.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235048410-9e25901c-705f-42fe-9706-7d37f299568d.png)|               |
 |[18427](https://wowgaming.altervista.org/aowow/?npc=18427)||||<li> - [X] </li>|               |
 |[18484](https://wowgaming.altervista.org/aowow/?npc=18484)||||<li> - [X] </li>|               |
-|[18525](https://wowgaming.altervista.org/aowow/?npc=18525)||||<li> - [X] </li>|               |
+|[18525](https://wowgaming.altervista.org/aowow/?npc=18525)|G'eras|Shattrath City|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280901-c470fff9-96af-4b03-892a-235f41010d58.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280907-66cd1016-194b-4069-9461-2c6cfe2c3237.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280910-9901182c-f455-40ae-97b3-c8aad924ffb2.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280918-252dcafb-107d-4e32-be55-745c6ecce062.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/235280922-6d6fb7bb-62e5-4409-8662-9de9a70d4120.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/235280927-4d39e5ed-9835-4af4-95d9-45177e9a6bf8.png) [Vendor 7](https://user-images.githubusercontent.com/38561765/235280932-893e4d34-cde2-4323-8dfd-d5832a7adcd4.png) [Vendor 8](https://user-images.githubusercontent.com/38561765/235280940-b7c8dd3c-d87a-44d7-bbbc-4b9b79dbd5d1.png) [Vendor 9](https://user-images.githubusercontent.com/38561765/235280945-58f5bf2b-d6ea-4ddd-ba8e-dd2fa4a68455.png) [Vendor 10](https://user-images.githubusercontent.com/38561765/235280948-b117872b-834b-4642-b7d2-fc3803e1cea1.png) [Vendor 11](https://user-images.githubusercontent.com/38561765/235280953-f13fc9e7-3159-484e-876c-d301882bd909.png) [Vendor 12](https://user-images.githubusercontent.com/38561765/235280961-689c47b8-e8f8-4f77-9035-81a353af93aa.png) [Vendor 13](https://user-images.githubusercontent.com/38561765/235280967-42de4850-2ef2-4c79-83ef-7c91c29c23b4.png) [Vendor 14](https://user-images.githubusercontent.com/38561765/235280972-19431cbb-ea16-4bef-aa2a-d25699cfed85.png)|               |
 |[18542](https://wowgaming.altervista.org/aowow/?npc=18542)||||<li> - [X] </li>|               |
 |[18564](https://wowgaming.altervista.org/aowow/?npc=18564)||||<li> - [X] </li>|               |
 |[18581](https://wowgaming.altervista.org/aowow/?npc=18581)||||<li> - [X] </li>|               |
@@ -1154,9 +1154,9 @@
 |[19296](https://wowgaming.altervista.org/aowow/?npc=19296)||||<li> - [X] </li>|               |
 |[19314](https://wowgaming.altervista.org/aowow/?npc=19314)||||<li> - [X] </li>|               |
 |[19315](https://wowgaming.altervista.org/aowow/?npc=19315)||||<li> - [X] </li>|               |
-|[19321](https://wowgaming.altervista.org/aowow/?npc=19321)|Quartermaster Endarin|Shattrath|Aldor|<li> - [ ] </li>|               |
+|[19321](https://wowgaming.altervista.org/aowow/?npc=19321)|Quartermaster Endarin|Shattrath City|Aldor|<li> - [ ] </li>|               |
 |[19330](https://wowgaming.altervista.org/aowow/?npc=19330)||||<li> - [X] </li>|               |
-|[19331](https://wowgaming.altervista.org/aowow/?npc=19331)||||<li> - [X] </li>|               |
+|[19331](https://wowgaming.altervista.org/aowow/?npc=19331)|Quartermaster Enuril|Shattrath City|Scryers|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235281085-3a581146-c5dc-4987-9504-29181aca6393.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235281093-0a3157c8-2044-473f-a578-6ac01170d08e.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235281100-091352dc-834a-4419-86e4-9e7c3e0b9b2a.png)|               |
 |[19333](https://wowgaming.altervista.org/aowow/?npc=19333)||||<li> - [X] </li>|               |
 |[19339](https://wowgaming.altervista.org/aowow/?npc=19339)||||<li> - [X] </li>|               |
 |[19342](https://wowgaming.altervista.org/aowow/?npc=19342)||||<li> - [X] </li>|               |
@@ -1255,7 +1255,7 @@
 |[20613](https://wowgaming.altervista.org/aowow/?npc=20613)||||<li> - [X] </li>|               |
 |[20616](https://wowgaming.altervista.org/aowow/?npc=20616)|Asuur|Shattrath|Aldor|<li> - [ ] </li>|               |
 |[20807](https://wowgaming.altervista.org/aowow/?npc=20807)|Scribe Saalyn|Shattrath|Aldor|<li> - [ ] </li>|               |
-|[20808](https://wowgaming.altervista.org/aowow/?npc=20808)||||<li> - [X] </li>|               |
+|[20808](https://wowgaming.altervista.org/aowow/?npc=20808)|Scribe Veredis|Shattrath|Scryers|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235281128-92265f37-6b34-467a-98b2-8a2b028a1a1b.png)|               |
 |[20890](https://wowgaming.altervista.org/aowow/?npc=20890)||||<li> - [X] </li>|               |
 |[20891](https://wowgaming.altervista.org/aowow/?npc=20891)||||<li> - [X] </li>|               |
 |[20892](https://wowgaming.altervista.org/aowow/?npc=20892)||||<li> - [X] </li>|               |
@@ -1280,7 +1280,7 @@
 |[21145](https://wowgaming.altervista.org/aowow/?npc=21145)||||<li> - [X] </li>|               |
 |[21172](https://wowgaming.altervista.org/aowow/?npc=21172)||||<li> - [X] </li>|               |
 |[21183](https://wowgaming.altervista.org/aowow/?npc=21183)||||<li> - [X] </li>|               |
-|[21432](https://wowgaming.altervista.org/aowow/?npc=21432)||||<li> - [X] </li>|               |
+|[21432](https://wowgaming.altervista.org/aowow/?npc=21432)|Almaador|Shattrath City|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280746-6873458e-0d66-48f4-a45e-b8e1cc086605.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280753-0b262c65-8f2e-4ac7-b6ab-b39b97f07981.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280756-80c93f2f-0a8f-4463-8f9b-dd5cb9554220.png)|               |
 |[21474](https://wowgaming.altervista.org/aowow/?npc=21474)||||<li> - [X] </li>|               |
 |[21483](https://wowgaming.altervista.org/aowow/?npc=21483)||||<li> - [X] </li>|               |
 |[21484](https://wowgaming.altervista.org/aowow/?npc=21484)||||<li> - [X] </li>|               |
@@ -1614,12 +1614,12 @@ H, Dragonblight 27267
 |[27291](https://wowgaming.altervista.org/aowow/?npc=27291)||||<li> - [X] </li>|               |
 A, IF, Brewfest 27478
 H, Org, Brewfest 27489
-|[27666](https://wowgaming.altervista.org/aowow/?npc=27666)||||<li> - [X] </li>|               |
-|[27667](https://wowgaming.altervista.org/aowow/?npc=27667)||||<li> - [X] </li>|               |
+|[27666](https://wowgaming.altervista.org/aowow/?npc=27666)|Ontuvo|Shattrath City|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280840-88bfdb18-10b6-42f6-b7e0-f05432967ef5.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280845-90ebb432-a3da-4e20-abb3-c100f021b531.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280854-90a90a09-94ce-4946-bb1a-2d496d35810a.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280859-de262881-6510-4893-becb-de019b203de9.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/235280865-8bc9af53-c341-435f-bbba-eed6bd3ec96f.png)|               |
+|[27667](https://wowgaming.altervista.org/aowow/?npc=27667)|Anwehu|Shattrath City|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280782-d73ce5e8-4b1d-4757-9063-940aa477aa00.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280787-e9336fcf-9928-4fc4-8d2e-ec740755d046.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280794-b24233f3-43c4-473d-82a8-6a0df0ce43aa.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280800-f58a0cf3-f5c4-46b5-b65f-97b4d6ad8747.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/235280804-9444d706-308b-4fd9-809f-80bbff68c95b.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/235280811-792b2496-a8c5-4f58-9116-7041bb368322.png)|               |
 |[27668](https://wowgaming.altervista.org/aowow/?npc=27668)||||<li> - [X] </li>|               |
 Aldor, Shattrath 27711
 |[27721](https://wowgaming.altervista.org/aowow/?npc=27721)||||<li> - [X] </li>|               |
-|[27722](https://wowgaming.altervista.org/aowow/?npc=27722)||||<li> - [X] </li>|               |
+|[27722](https://wowgaming.altervista.org/aowow/?npc=27722)|Drolig Blastpipe|Shattrath|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235281175-1d102f70-f70c-4697-b52a-82f1e74fb475.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235281184-eebc24d4-a54e-4304-8880-5564b7fc1c64.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235281187-9a9fe546-a50c-436c-864a-81900dd96f94.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235281195-955860a0-1ace-4821-9fda-79d1c1381993.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/235281201-47f16bc4-589c-45ec-b690-4f88686efcee.png) [Vendor 6](https://user-images.githubusercontent.com/38561765/235281205-f584b19b-053c-4f31-a8e9-54c6444aebd3.png) [Vendor 7](https://user-images.githubusercontent.com/38561765/235281212-6f890904-ff93-4f71-9396-ad0288d7891e.png) [Vendor 8](https://user-images.githubusercontent.com/38561765/235281217-3d651d00-9e3a-42ad-a5cf-2ccd525fdb02.png) [Vendor 9](https://user-images.githubusercontent.com/38561765/235281223-67b76905-4843-44bb-b83f-871207feee74.png) [Vendor 10](https://user-images.githubusercontent.com/38561765/235281231-2f7ea0fe-b0f9-4928-884f-bb7964d5570e.png) [Vendor 11](https://user-images.githubusercontent.com/38561765/235281234-85629f47-9c20-4b1f-b463-631067848673.png) [Vendor 12](https://user-images.githubusercontent.com/38561765/235281240-309be878-f44c-4f62-b5a8-96ce0bdafaf0.png) [Vendor 13](https://user-images.githubusercontent.com/38561765/235281245-6f4b32d8-a4a8-4961-b226-fc927792811e.png) [Vendor 14](https://user-images.githubusercontent.com/38561765/235281250-aad4fb1a-3333-4d50-9828-f5789b0df516.png) [Vendor 15](https://user-images.githubusercontent.com/38561765/235281265-3efc3600-b186-4e3a-8fb9-9044d3ba88ab.png) [Vendor 16](https://user-images.githubusercontent.com/38561765/235281273-96ebe6ac-6ab0-4cd2-be98-8fa7b8516f7d.png) [Vendor 17](https://user-images.githubusercontent.com/38561765/235281278-53d45a77-76e5-413d-87eb-65aaaec11ae9.png) [Vendor 18](https://user-images.githubusercontent.com/38561765/235281283-8cb914c4-fae6-4f6c-b84f-9627538601ed.png) [Vendor 19](https://user-images.githubusercontent.com/38561765/235281286-47b3bf41-7e55-44bc-bfb0-ec8b9c2243a8.png) [Vendor 20](https://user-images.githubusercontent.com/38561765/235281290-c40e8435-8f90-4988-9219-cb33f4b0dd72.png) [Vendor 21](https://user-images.githubusercontent.com/38561765/235281292-69625f86-8efc-42a2-be07-9961f0dcf9ab.png) [Vendor 22...](https://user-images.githubusercontent.com/38561765/235281295-b81d78c8-74a5-4512-9cd9-e85db06e24d5.png)|               |
 H, Grizzly Hills 27730
 |[27760](https://wowgaming.altervista.org/aowow/?npc=27760)||||<li> - [X] </li>|               |
 IF/Org, Brew of the Month Jan 27806
@@ -1651,21 +1651,21 @@ Zul'Drak 28589
 |[28682](https://wowgaming.altervista.org/aowow/?npc=28682)||||<li> - [X] </li>|               |
 |[28685](https://wowgaming.altervista.org/aowow/?npc=28685)||||<li> - [X] </li>|               |
 A, Dalaran 28686, Doesn't sell anything?
-|[28687](https://wowgaming.altervista.org/aowow/?npc=28687)||||<li> - [X] </li>|               |
+|[28687](https://wowgaming.altervista.org/aowow/?npc=28687)|Amisi Azuregaze|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280398-0c84c8fc-8915-4157-9498-009a3bee233e.png)|               |
 |[28691](https://wowgaming.altervista.org/aowow/?npc=28691)||||<li> - [X] </li>|               |
 |[28692](https://wowgaming.altervista.org/aowow/?npc=28692)||||<li> - [X] </li>|               |
 Dalaran 28701, jewelcrafting?
 |[28707](https://wowgaming.altervista.org/aowow/?npc=28707)||||<li> - [X] </li>|               |
 |[28714](https://wowgaming.altervista.org/aowow/?npc=28714)||||<li> - [X] </li>|               |
 |[28715](https://wowgaming.altervista.org/aowow/?npc=28715)||||<li> - [X] </li>|               |
-|[28716](https://wowgaming.altervista.org/aowow/?npc=28716)||||<li> - [X] </li>|               |
+|[28716](https://wowgaming.altervista.org/aowow/?npc=28716)|Palja Amboss|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280642-b5561171-daa7-44bf-adf1-b569e7f6b6aa.png)|               |
 |[28718](https://wowgaming.altervista.org/aowow/?npc=28718)||||<li> - [X] </li>|               |
 |[28721](https://wowgaming.altervista.org/aowow/?npc=28721)||||<li> - [X] </li>|               |
 |[28722](https://wowgaming.altervista.org/aowow/?npc=28722)||||<li> - [X] </li>|               |
-|[28723](https://wowgaming.altervista.org/aowow/?npc=28723)||||<li> - [X] </li>|               |
+|[28723](https://wowgaming.altervista.org/aowow/?npc=28723)|Larana Drome|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280700-3903f867-6ec1-40d5-bc6d-fdc805fe3288.png)|               |
 |[28725](https://wowgaming.altervista.org/aowow/?npc=28725)||||<li> - [X] </li>|               |
 |[28726](https://wowgaming.altervista.org/aowow/?npc=28726)||||<li> - [X] </li>|               |
-|[28727](https://wowgaming.altervista.org/aowow/?npc=28727)||||<li> - [X] </li>|               |
+|[28727](https://wowgaming.altervista.org/aowow/?npc=28727)|Edward Egan|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280659-789788ba-7929-43b7-a0e8-e49111a83cac.png)|               |
 |[28728](https://wowgaming.altervista.org/aowow/?npc=28728)||||<li> - [X] </li>|               |
 |[28742](https://wowgaming.altervista.org/aowow/?npc=28742)||||<li> - [X] </li>|               |
 |[28760](https://wowgaming.altervista.org/aowow/?npc=28760)|Hargus the Geist|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231274678-884940f0-664b-48ad-937f-e36c230c9e1f.png)|               |
@@ -1702,18 +1702,18 @@ Dalaran 28701, jewelcrafting?
 |[28943](https://wowgaming.altervista.org/aowow/?npc=28943)|Fineous|Scarlet Enclave, Eastern Plaguelands|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231279991-186e99ff-d745-47e3-b8c6-7543abe66793.png)|               |
 |[28951](https://wowgaming.altervista.org/aowow/?npc=28951)||||<li> - [X] </li>|               |
 |[28989](https://wowgaming.altervista.org/aowow/?npc=28989)||||<li> - [X] </li>|               |
-|[28990](https://wowgaming.altervista.org/aowow/?npc=28990)||||<li> - [X] </li>|               |
+|[28990](https://wowgaming.altervista.org/aowow/?npc=28990)|Anthony Durain|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280613-dd30e149-2018-4605-b571-56f3b7ab8149.png)|               |
 |[28991](https://wowgaming.altervista.org/aowow/?npc=28991)||||<li> - [X] </li>|               |
 |[28992](https://wowgaming.altervista.org/aowow/?npc=28992)||||<li> - [X] </li>|               |
 |[28993](https://wowgaming.altervista.org/aowow/?npc=28993)||||<li> - [X] </li>|               |
 |[28994](https://wowgaming.altervista.org/aowow/?npc=28994)||||<li> - [X] </li>|               |
 |[28995](https://wowgaming.altervista.org/aowow/?npc=28995)||||<li> - [X] </li>|               |
-|[28997](https://wowgaming.altervista.org/aowow/?npc=28997)||||<li> - [X] </li>|               |
+|[28997](https://wowgaming.altervista.org/aowow/?npc=28997)|Griselda Hunderland|Dalaran|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280570-ca0c9373-2d1e-410e-8107-f7c5d5c9c031.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280593-9402815e-3ec0-4ff7-b917-564f9b3ec848.png)|               |
 Sholazar Basin 29014
 Sholazar Basin 29015
 |[29035](https://wowgaming.altervista.org/aowow/?npc=29035)||||<li> - [X] </li>|               |
 |[29037](https://wowgaming.altervista.org/aowow/?npc=29037)||||<li> - [X] </li>|               |
-|[29049](https://wowgaming.altervista.org/aowow/?npc=29049)||||<li> - [X] </li>|               |
+|[29049](https://wowgaming.altervista.org/aowow/?npc=29049)|Arille Azuregaze|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280457-b99c62e2-52fb-4c82-bac3-237dfdd821c9.png)|               |
 |[29121](https://wowgaming.altervista.org/aowow/?npc=29121)||||<li> - [X] </li>|               |
 Sholazar Basin 29122
 |[29203](https://wowgaming.altervista.org/aowow/?npc=29203)|Alchemist Karloff|Acherus|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231271122-0973e940-5e98-4b76-a418-a0e0ee1842d1.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231271157-04cbb89b-87c6-4603-9607-5fd853bccf3f.png)|               |
@@ -1750,7 +1750,7 @@ H, Grizzly Hills 29253
 |[29537](https://wowgaming.altervista.org/aowow/?npc=29537)||||<li> - [X] </li>|               |
 |[29538](https://wowgaming.altervista.org/aowow/?npc=29538)||||<li> - [X] </li>|               |
 |[29547](https://wowgaming.altervista.org/aowow/?npc=29547)||||<li> - [X] </li>|               |
-|[29548](https://wowgaming.altervista.org/aowow/?npc=29548)||||<li> - [X] </li>|               |
+|[29548](https://wowgaming.altervista.org/aowow/?npc=29548)|Aimee|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280517-1c03955a-9424-4139-b8b3-811e859d71fc.png)|               |
 Engineering 29561
 |[29583](https://wowgaming.altervista.org/aowow/?npc=29583)|Pan'ya|Zim'torga, Zul'Drak|Neutral|<li> - [X] </li>|               |
 |[29587](https://wowgaming.altervista.org/aowow/?npc=29587)|Dread Commander Thalanor|Acherus, Eastern Plaguelands|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231270221-7f33e68a-8a9b-4d37-9a7d-bb8cb8268403.png)|               |
@@ -1759,8 +1759,8 @@ Engineering 29561
 |[29688](https://wowgaming.altervista.org/aowow/?npc=29688)||||<li> - [X] </li>|               |
 |[29702](https://wowgaming.altervista.org/aowow/?npc=29702)||||<li> - [X] </li>|               |
 |[29703](https://wowgaming.altervista.org/aowow/?npc=29703)||||<li> - [X] </li>|               |
-|[29714](https://wowgaming.altervista.org/aowow/?npc=29714)||||<li> - [X] </li>|               |
-|[29715](https://wowgaming.altervista.org/aowow/?npc=29715)||||<li> - [X] </li>|               |
+|[29714](https://wowgaming.altervista.org/aowow/?npc=29714)|Lucian Trias|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280354-0c8dd64b-6741-451b-8242-72966ec10944.png)|               |
+|[29715](https://wowgaming.altervista.org/aowow/?npc=29715)|Fialla Sweetberry|Dalaran|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280293-954f7375-9830-4b1d-80c6-c30830670427.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280297-625d4166-73c1-4d26-a50b-25376f97b0dd.png)|               |
 |[29716](https://wowgaming.altervista.org/aowow/?npc=29716)||||<li> - [X] </li>|               |
 A, Storm Peaks 29744
 |[29904](https://wowgaming.altervista.org/aowow/?npc=29904)||||<li> - [X] </li>|               |
@@ -1842,18 +1842,18 @@ Ogri'la 30801
 |[31024](https://wowgaming.altervista.org/aowow/?npc=31024)||||<li> - [X] </li>|               |
 |[31025](https://wowgaming.altervista.org/aowow/?npc=31025)||||<li> - [X] </li>|               |
 |[31027](https://wowgaming.altervista.org/aowow/?npc=31027)||||<li> - [X] </li>|               |
-|[31031](https://wowgaming.altervista.org/aowow/?npc=31031)||||<li> - [X] </li>|               |
+|[31031](https://wowgaming.altervista.org/aowow/?npc=31031)|Misensi|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235279933-74ef447d-8a9d-4a78-8d4a-b8125e1236fe.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235279939-13081316-991f-4beb-b7f8-9c28b7a482e0.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235279942-5ee8e5ce-060b-452f-99ba-e17a7637f77f.png)|               |
 |[31032](https://wowgaming.altervista.org/aowow/?npc=31032)||||<li> - [X] </li>|               |
 A, Wintergrasp 31051
 |[31101](https://wowgaming.altervista.org/aowow/?npc=31101)||||<li> - [X] </li>|               |
 |[31115](https://wowgaming.altervista.org/aowow/?npc=31115)||||<li> - [X] </li>|               |
 |[31238](https://wowgaming.altervista.org/aowow/?npc=31238)||||<li> - [X] </li>|               |
 Storm Peaks 31247
-|[31557](https://wowgaming.altervista.org/aowow/?npc=31557)||||<li> - [X] </li>|               |
+|[31557](https://wowgaming.altervista.org/aowow/?npc=31557)|Uda the Beast|Dalaran|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235279740-fe711580-9bea-4c4c-93d5-0b14e01e4e94.png)|               |
 |[31579](https://wowgaming.altervista.org/aowow/?npc=31579)||||<li> - [X] </li>|               |
 |[31580](https://wowgaming.altervista.org/aowow/?npc=31580)||||<li> - [X] </li>|               |
-|[31581](https://wowgaming.altervista.org/aowow/?npc=31581)||||<li> - [X] </li>|               |
-|[31582](https://wowgaming.altervista.org/aowow/?npc=31582)||||<li> - [X] </li>|               |
+|[31581](https://wowgaming.altervista.org/aowow/?npc=31581)|Magister Brasael|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280091-d3c4d9c3-a567-4187-8781-40d58d060e69.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280099-1e4652a2-18ae-4e79-a4c6-68c0849c16ed.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280105-ca0227d9-8317-495a-bbf2-d7b8fd19f37c.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280116-e9529cd0-6ed7-4eb6-86d7-59aa80883d7d.png) [Vendor 5](https://user-images.githubusercontent.com/38561765/235280117-b05d2512-339f-4015-91b4-7b573343e5b0.png)|               |
+|[31582](https://wowgaming.altervista.org/aowow/?npc=31582)|Magistrix Lambriesse|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280044-7547de1a-5861-44ef-9e33-0c4c3efbf0ca.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280048-43ac736c-4148-4be3-8712-5c95936b7839.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280057-d724172f-ae2a-4d5f-95de-cb88cd6c7417.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280062-62da8c01-cb71-4688-a3c9-4c0d39494d4e.png)|               |
 A, Icec]rown 31776
 |[31781](https://wowgaming.altervista.org/aowow/?npc=31781)||||<li> - [X] </li>|               |
 |[31804](https://wowgaming.altervista.org/aowow/?npc=31804)||||<li> - [X] </li>|               |
@@ -1880,12 +1880,12 @@ A, AV 32106
 A, Alterac 32112
 |[32172](https://wowgaming.altervista.org/aowow/?npc=32172)||||<li> - [X] </li>|               |
 |[32216](https://wowgaming.altervista.org/aowow/?npc=32216)||||<li> - [X] </li>|               |
-|[32253](https://wowgaming.altervista.org/aowow/?npc=32253)||||<li> - [X] </li>|               |
+|[32253](https://wowgaming.altervista.org/aowow/?npc=32253)|Kyunghee|Dalaran|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235279826-b9674e8a-ad4f-409f-a77b-48f50bb52109.png)|               |
 |[32287](https://wowgaming.altervista.org/aowow/?npc=32287)||||<li> - [X] </li>|               |
 A, Wintergrasp 32294
 |[32296](https://wowgaming.altervista.org/aowow/?npc=32296)||||<li> - [X] </li>|               |
 |[32334](https://wowgaming.altervista.org/aowow/?npc=32334)||||<li> - [X] </li>|               |
-|[32337](https://wowgaming.altervista.org/aowow/?npc=32337)||||<li> - [X] </li>|               |
+|[32337](https://wowgaming.altervista.org/aowow/?npc=32337)|Christi Stockton|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280334-6e2aadaf-f26b-494d-b363-fd6cb1668f27.png)|               |
 |32354???
 |32355???
 |32356???
@@ -1899,15 +1899,15 @@ Area 52 32356
 |[32382](https://wowgaming.altervista.org/aowow/?npc=32382)||||<li> - [X] </li>|               |
 |[32383](https://wowgaming.altervista.org/aowow/?npc=32383)||||<li> - [X] </li>|               |
 |[32385](https://wowgaming.altervista.org/aowow/?npc=32385)||||<li> - [X] </li>|               |
-|[32403](https://wowgaming.altervista.org/aowow/?npc=32403)||||<li> - [X] </li>|               |
+|[32403](https://wowgaming.altervista.org/aowow/?npc=32403)|Sandra Bartan|Dalaran|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280439-1164b988-17a3-4eb4-9ed2-ccfe97fd2d6e.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280444-04c1aef3-389a-4f08-a49f-6a7f204e3230.png)|               |
 Area 52 32405
 Gadgetzan 32407
-|[32412](https://wowgaming.altervista.org/aowow/?npc=32412)||||<li> - [X] </li>|               |
+|[32412](https://wowgaming.altervista.org/aowow/?npc=32412)|Mato|Dalaran|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235279883-44195504-26e6-409a-a02c-a57e4c41b469.png)|               |
 |[32413](https://wowgaming.altervista.org/aowow/?npc=32413)||||<li> - [X] </li>|               |
-|[32415](https://wowgaming.altervista.org/aowow/?npc=32415)||||<li> - [X] </li>|               |
+|[32415](https://wowgaming.altervista.org/aowow/?npc=32415)|Hamaka|Dalaran|Horde|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235279845-548b9f2d-0f75-40b7-b88e-b62a93a1e3a9.png)|               |
 |[32416](https://wowgaming.altervista.org/aowow/?npc=32416)||||<li> - [X] </li>|               |
-|[32419](https://wowgaming.altervista.org/aowow/?npc=32419)||||<li> - [X] </li>|               |
-|[32420](https://wowgaming.altervista.org/aowow/?npc=32420)||||<li> - [X] </li>|               |
+|[32419](https://wowgaming.altervista.org/aowow/?npc=32419)|Umbiwa|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235279791-a822645f-c014-4eb1-b6de-dc06414b0ccc.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235279797-d5eaa383-f645-4e00-851b-5020945bad45.png)|               |
+|[32420](https://wowgaming.altervista.org/aowow/?npc=32420)|Mimbihi|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235279766-872f50e4-5085-4799-beb1-398f2522bcfb.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235279772-76746fd9-52e2-4d23-83c2-a7c084f7c920.png) |               |
 |[32421](https://wowgaming.altervista.org/aowow/?npc=32421)||||<li> - [X] </li>|               |
 |[32424](https://wowgaming.altervista.org/aowow/?npc=32424)||||<li> - [X] </li>|               |
 |[32426](https://wowgaming.altervista.org/aowow/?npc=32426)||||<li> - [X] </li>|               |
@@ -1939,7 +1939,7 @@ H, Howling Fjord 32774
 H, Howling Fjord 33018
 H, Howling Fjord 33019
 |[33026](https://wowgaming.altervista.org/aowow/?npc=33026)|Sarah Brady|Dalaran|Neutral|<li> - [X] </li>|               |
-|[33027](https://wowgaming.altervista.org/aowow/?npc=33027)|Jessica Sellers|Dalaran|Neutral|<li> - [X] </li>|               |
+|[33027](https://wowgaming.altervista.org/aowow/?npc=33027)|Jessica Sellers|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280673-2999244e-349a-4578-b4c0-cc8630d4e167.png)|               |
 A, Quest reward companion 33238
 H, Quest reward companion 33239
 A, Icecrown 33307
@@ -2019,7 +2019,7 @@ Dalaran 33938
 Gadgetzan 33939
 Area 52 33940
 Area 52 33941
-|[33963](https://wowgaming.altervista.org/aowow/?npc=33963)|Magister Sarien|Dalaran|Horde|<li> - [X] </li>|               |
+|[33963](https://wowgaming.altervista.org/aowow/?npc=33963)|Magister Sarien|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280178-7f939a7d-a1ca-4e30-8b08-abc67b5290b2.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280183-cfa62f2d-be1d-4712-8de8-59aba2ec5567.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280189-3db2f540-a7ab-4720-81c1-755ca5147aa4.png) [Vendor 4](https://user-images.githubusercontent.com/38561765/235280193-d151aaab-f882-4543-87a8-496ae68249ad.png)|               |
 |[33964](https://wowgaming.altervista.org/aowow/?npc=33964)|Arcanist Firael|Dalaran|Alliance|<li> - [X] </li>|               |
 |[33996](https://wowgaming.altervista.org/aowow/?npc=33996)|William Saldean|Brill, Tirisfal Glades|Horde|<li> - [X] </li>|               |
 H, Org? 34036
@@ -2055,7 +2055,7 @@ Dalaran 34092
 Gadgetzan 34093
 Area 52 34094
 Dalaran 34095
-|[34252](https://wowgaming.altervista.org/aowow/?npc=34252)|Dubin Clay|Dalaran|Neutral|<li> - [X] </li>|               |
+|[34252](https://wowgaming.altervista.org/aowow/?npc=34252)|Dubin Clay|Dalaran|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/235280552-5b25cf2a-6279-4600-9fe6-bbde1f344146.png)|               |
 Capitals, Day of the Dead 34382
 A, IF Gates, Pilgrim's Bounty 34645
 A, Darnassus Gates, Pilgrim's Bounty 34681
@@ -2085,7 +2085,7 @@ NYI 35497
 NYI 35498
 NYI 35500
 |[35507](https://wowgaming.altervista.org/aowow/?npc=35507)|Enchanter Isian|Dalaran|Alliance|<li> - [X] </li>|               |
-|[35508](https://wowgaming.altervista.org/aowow/?npc=35508)|Enchanter Erodin|Dalaran|Horde|<li> - [X] </li>|               |
+|[35508](https://wowgaming.altervista.org/aowow/?npc=35508)|Enchanter Erodin|Dalaran|Horde|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/235280003-44801fbc-bd6b-4a97-b595-48e64bafb82c.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/235280008-9cfb6fa1-ccee-4521-aa37-e3cf225aa672.png) [Vendor 3](https://user-images.githubusercontent.com/38561765/235280011-f2680525-c327-4dd3-bf0c-0256b361410b.png)|               |
 A, Icecrown 35573
 H, Icecrown 35574
 A, Icecrown 35575
