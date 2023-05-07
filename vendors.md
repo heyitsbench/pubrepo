@@ -184,7 +184,7 @@
 |[2394](https://wowgaming.altervista.org/aowow/?npc=2394)  ||||<li> - [X] </li>|               |
 |[2397](https://wowgaming.altervista.org/aowow/?npc=2397)  ||||<li> - [X] </li>|               |
 |[2401](https://wowgaming.altervista.org/aowow/?npc=2401)  ||||<li> - [X] </li>|               |
-|[2404](https://wowgaming.altervista.org/aowow/?npc=2404)  |Blacksmith Verringtan|Hillsbrad Foothills|Alliance|<li> - [ ] </li>|Vendor?        |
+|[2404](https://wowgaming.altervista.org/aowow/?npc=2404)  |Blacksmith Verringtan|Hillsbrad Foothills|Alliance|<li> - [ ] </li>|False positive |
 |[2480](https://wowgaming.altervista.org/aowow/?npc=2480)  |Bro'kin              |Alterac Mountains  |Neutral |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230985872-8c093b8b-d99e-4b5f-b750-12fde8d64189.png)|               |
 |[2481](https://wowgaming.altervista.org/aowow/?npc=2481)  |Bliztik              |Duskwood           |Neutral |<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/230697804-085c3d61-2787-4ffd-a979-91303a5e43f7.png)|               |
 |[2482](https://wowgaming.altervista.org/aowow/?npc=2482)  ||||<li> - [X] </li>|               |
