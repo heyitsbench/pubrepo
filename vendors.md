@@ -168,11 +168,11 @@
 |[2137](https://wowgaming.altervista.org/aowow/?npc=2137)  ||||<li> - [X] </li>|               |
 |[2140](https://wowgaming.altervista.org/aowow/?npc=2140)  ||||<li> - [X] </li>|               |
 |[2225](https://wowgaming.altervista.org/aowow/?npc=2225)  |Zora Guthrek|Alterac Valley|Horde|<li> - [ ] </li>|               |
-|[2264](https://wowgaming.altervista.org/aowow/?npc=2264)  ||||<li> - [X] </li>|               |
+|[2264](https://wowgaming.altervista.org/aowow/?npc=2264)  |Hillsbrad Tailor|Hillsbrad Foothills|Alliance|<li> - [X] </li>|               |
 |[2265](https://wowgaming.altervista.org/aowow/?npc=2265)  ||||<li> - [X] </li>|               |
 |[2303](https://wowgaming.altervista.org/aowow/?npc=2303)  ||||<li> - [X] </li>|               |
 |[2352](https://wowgaming.altervista.org/aowow/?npc=2352)  ||||<li> - [X] </li>|               |
-|[2357](https://wowgaming.altervista.org/aowow/?npc=2357)  |Merideth Carlson|Southshore, Hillsbrad Foothills|Alliance|<li> - [ ] </li>|               |
+|[2357](https://wowgaming.altervista.org/aowow/?npc=2357)  |Merideth Carlson|Southshore, Hillsbrad Foothills|Alliance|<li> - [X] </li>|               |
 |[2364](https://wowgaming.altervista.org/aowow/?npc=2364)  ||||<li> - [X] </li>|               |
 |[2365](https://wowgaming.altervista.org/aowow/?npc=2365)  ||||<li> - [X] </li>|               |
 |[2366](https://wowgaming.altervista.org/aowow/?npc=2366)  ||||<li> - [X] </li>|               |
@@ -558,7 +558,7 @@
 |[4954](https://wowgaming.altervista.org/aowow/?npc=4954)  ||||<li> - [X] </li>|               |
 |[4981](https://wowgaming.altervista.org/aowow/?npc=4981)  ||||<li> - [X] </li>|               |
 |[5049](https://wowgaming.altervista.org/aowow/?npc=5049)  ||||<li> - [X] </li>|               |
-|[5052](https://wowgaming.altervista.org/aowow/?npc=5052)  |Edward Remington|Undercity(?)|Horde|<li> - [ ] </li>|               |
+|[5052](https://wowgaming.altervista.org/aowow/?npc=5052)  |Edward Remington|Undercity|Horde|<li> - [ ] </li>|False positive?|
 |[5100](https://wowgaming.altervista.org/aowow/?npc=5100)  ||||<li> - [X] </li>|               |
 |[5101](https://wowgaming.altervista.org/aowow/?npc=5101)  ||||<li> - [X] </li>|               |
 |[5102](https://wowgaming.altervista.org/aowow/?npc=5102)  ||||<li> - [X] </li>|               |
@@ -866,7 +866,7 @@
 |[14450](https://wowgaming.altervista.org/aowow/?npc=14450)|Orphan Matron Nightingale|Stormwind         |Alliance|<li> - [ ] </li>|Scourge Invasion|
 |[14480](https://wowgaming.altervista.org/aowow/?npc=14480)|Alowicious Czervik       |Orgrimmar         |Horde   |<li> - [X] </li>|Children's Week Event|
 |[14481](https://wowgaming.altervista.org/aowow/?npc=14481)|Emmithue Smails          |Stormwind         |Alliance|<li> - [X] </li>|Children's Week Event|
-|[14522](https://wowgaming.altervista.org/aowow/?npc=14522)|Ur'dan                   |Felwood           |Hostile |<li> - [ ] </li>|Shadow Potion  |
+|[14522](https://wowgaming.altervista.org/aowow/?npc=14522)|Ur'dan                   |Felwood           |Hostile |<li> - [X] </li>|Shadow Potion  |
 |[14581](https://wowgaming.altervista.org/aowow/?npc=14581)|Sergeant Thunderhorn     |Battlegrounds     |Horde   |<li> - [ ] </li>|               |
 |[14624](https://wowgaming.altervista.org/aowow/?npc=14624)||||<li> - [X] </li>|               |
 |[14637](https://wowgaming.altervista.org/aowow/?npc=14637)|Zorbin Fandazzle|Feralas|Neutral|<li> - [X] </li> [Vendor 1](https://user-images.githubusercontent.com/38561765/231058420-db715ff4-9458-4aff-b1b6-b035e7264260.png) [Vendor 2](https://user-images.githubusercontent.com/38561765/231058448-934e6ddb-8a2e-4a98-97f9-5580530d2f39.png)|               |
