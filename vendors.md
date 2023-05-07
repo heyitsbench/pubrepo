@@ -864,8 +864,8 @@
 |[14371](https://wowgaming.altervista.org/aowow/?npc=14371)|Shen'dralar Provisioner  |Dire Maul         |Neutral |<li> - [ ] </li>|               |
 |[14437](https://wowgaming.altervista.org/aowow/?npc=14437)|Gorzeeki Wildeyes        |Burning Steppes   |Neutral |<li> - [ ] </li>|               |
 |[14450](https://wowgaming.altervista.org/aowow/?npc=14450)|Orphan Matron Nightingale|Stormwind         |Alliance|<li> - [ ] </li>|Scourge Invasion|
-|[14480](https://wowgaming.altervista.org/aowow/?npc=14480)|Alowicious Czervik       |Orgrimmar         |Horde   |<li> - [ ] </li>|Children's Week Event|
-|[14481](https://wowgaming.altervista.org/aowow/?npc=14481)|Emmithue Smails          |Stormwind         |Alliance|<li> - [ ] </li>|Children's Week Event|
+|[14480](https://wowgaming.altervista.org/aowow/?npc=14480)|Alowicious Czervik       |Orgrimmar         |Horde   |<li> - [X] </li>|Children's Week Event|
+|[14481](https://wowgaming.altervista.org/aowow/?npc=14481)|Emmithue Smails          |Stormwind         |Alliance|<li> - [X] </li>|Children's Week Event|
 |[14522](https://wowgaming.altervista.org/aowow/?npc=14522)|Ur'dan                   |Felwood           |Hostile |<li> - [ ] </li>|Shadow Potion  |
 |[14581](https://wowgaming.altervista.org/aowow/?npc=14581)|Sergeant Thunderhorn     |Battlegrounds     |Horde   |<li> - [ ] </li>|               |
 |[14624](https://wowgaming.altervista.org/aowow/?npc=14624)||||<li> - [X] </li>|               |
@@ -1353,7 +1353,7 @@
 |[23481](https://wowgaming.altervista.org/aowow/?npc=23481)|Keiran Donoghue                    |Ironforge Gates                    |Alliance |<li> - [ ] </li>|Brewfest Event |
 |[23482](https://wowgaming.altervista.org/aowow/?npc=23482)|Barleybrew Apprentice              |Various                            |Alliance |<li> - [ ] </li>|Brewfest Event |
 |[23483](https://wowgaming.altervista.org/aowow/?npc=23483)|Arcanist Xorith                    |Shattrath                          |Scryers  |<li> - [ ] </li>|               |
-|[23484](https://wowgaming.altervista.org/aowow/?npc=23484)|Haldor the Compulsive              |Shattrath                          |Aldor    |<li> - [ ] </li>|               |
+|[23484](https://wowgaming.altervista.org/aowow/?npc=23484)|Haldor the Compulsive              |Shattrath                          |Aldor    |<li> - [X] </li>|               |
 |[23489](https://wowgaming.altervista.org/aowow/?npc=23489)|Drake Dealer Hurlunk               |Netherwing Ledge, Shadowmoon Valley|Dragonmaw|<li> - [ ] </li>|               |
 |[23510](https://wowgaming.altervista.org/aowow/?npc=23510)|Thunderbrew Apprentice             |Various                            |Alliance |<li> - [ ] </li>|Brewfest Event |
 |[23511](https://wowgaming.altervista.org/aowow/?npc=23511)|Gordok Brew Apprentice             |Various                            |Neutral  |<li> - [ ] </li>|Brewfest Event |
