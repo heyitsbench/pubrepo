@@ -1647,7 +1647,7 @@
 |[28344](https://wowgaming.altervista.org/aowow/?npc=28344)||||<li> - [X] </li>|               |
 |[28347](https://wowgaming.altervista.org/aowow/?npc=28347)||||<li> - [X] </li>|               |
 |[28500](https://wowgaming.altervista.org/aowow/?npc=28500)|Master Siegesmith Corvus|Acherus|Neutral|<li> - [X] </li> [Vendor](https://user-images.githubusercontent.com/38561765/231270936-d5540fbb-c1b1-4423-8361-ce8f9ceaefbc.png)|               |
-|[28589](https://wowgaming.altervista.org/aowow/?npc=28589)|Gristlegut|Zul'Drak|Hostile|<li> - [ ] </li>|               |
+|[28589](https://wowgaming.altervista.org/aowow/?npc=28589)|Gristlegut|Zul'Drak|Hostile|<li> - [X] </li>|               |
 |[28682](https://wowgaming.altervista.org/aowow/?npc=28682)||||<li> - [X] </li>|               |
 |[28685](https://wowgaming.altervista.org/aowow/?npc=28685)||||<li> - [X] </li>|               |
 |[28686](https://wowgaming.altervista.org/aowow/?npc=28686)|Caliel Brightwillow|Dalaran|Alliance|<li> - [ ] </li>|False positive?|
