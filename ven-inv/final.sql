@@ -2067,3 +2067,1394 @@ INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, 
 INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3480, 5, 4601, 0, 0, 0, 1, 51943);
 INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3480, 6, 8950, 0, 0, 0, 1, 51943);
 
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 1, 7005, 0, 0, 0, 1, 51943); -- Tari'qa <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 2, 5956, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 3, 2901, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 4, 6256, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 5, 6217, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 6, 3371, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 7, 2320, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 8, 2321, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 9, 2678, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 10, 2880, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 11, 4289, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 12, 6529, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 13, 6530, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 14, 2605, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 15, 6260, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 16, 2604, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 17, 2324, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 18, 39354, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 19, 5486, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3482, 20, 5488, 0, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 1, 16059, 0, 0, 0, 1, 51943); -- *Halija Whitestrider <Clothier>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 2, 3428, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 3, 16060, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 4, 837, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 5, 3589, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 6, 838, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 7, 840, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 8, 3590, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 9, 839, 0, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 495, 4792, 1, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 496, 4793, 1, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 497, 4790, 1, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 498, 4782, 1, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3486, 499, 4786, 1, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 1, 6947, 0, 0, 0, 1, 51943); -- *****Hula'mahi <Reagents, Herbs & Poison Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 2, 6949, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 3, 6950, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 4, 8926, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 5, 8927, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 6, 8928, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 7, 21927, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 8, 43230, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 12, 2892, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 13, 2893, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 14, 8984, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 15, 8985, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 16, 20844, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 17, 22053, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 19, 43232, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 21, 10918, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 22, 10920, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 23, 10921, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 24, 10922, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 26, 43234, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 28, 21835, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 30, 17034, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 31, 17035, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 32, 17036, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 33, 17037, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 34, 17038, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 35, 22147, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 36, 17031, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 37, 17032, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 38, 17020, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 39, 17030, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 40, 17033, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 41, 17028, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 42, 17029, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 43, 17021, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 44, 17026, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 45, 22148, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 46, 5565, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 47, 16583, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 48, 21177, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 49, 37201, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 74, 6053, 1, 0, 0, 1, 45435);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 75, 2447, 2, 0, 0, 1, 45435);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 76, 2449, 3, 0, 0, 1, 45435);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 146, 2447, 2, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 147, 2449, 3, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 620, 2447, 1, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 621, 765, 2, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 622, 785, 1, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 657, 2447, 3, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 658, 785, 1, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 659, 2453, 2, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 672, 2447, 3, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 673, 785, 1, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 674, 2453, 1, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3490, 675, 6053, 1, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 1, 2027, 0, 0, 0, 1, 46158); -- Ironzar <Weaponsmith>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 2, 2024, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 3, 2029, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 4, 2025, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 5, 2028, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 6, 2026, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 7, 2208, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3491, 8, 2030, 0, 0, 0, 1, 46158);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 449, 5956, 0, 0, 0, 1, 45854); -- *****Gagsprocket <Engineering Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 450, 2901, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 451, 4399, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 452, 4400, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 453, 40533, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 454, 39684, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 455, 2880, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 456, 3466, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 457, 10648, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 458, 10647, 0, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 459, 4404, 1, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 460, 4382, 1, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 461, 4357, 4, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 462, 4364, 2, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 468, 14639, 1, 0, 0, 1, 45854);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3495, 469, 18648, 1, 0, 0, 1, 45854);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 1, 159, 0, 0, 0, 1, 46779); -- Jazzik <General Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 2, 1179, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 3, 1205, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 4, 4496, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 5, 4498, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 6, 2512, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 7, 2515, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 8, 2516, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 9, 2519, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 10, 4470, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 11, 5048, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 12, 25872, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 13, 25873, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 14, 29007, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3498, 15, 29008, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 3, 7005, 0, 0, 0, 1, 46779); -- *Ranik <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 4, 2901, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 5, 5956, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 6, 6256, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 7, 6217, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 8, 2320, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 9, 2321, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 10, 2678, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 11, 2880, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 12, 3371, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 13, 3372, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 14, 4289, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 15, 6529, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 16, 6530, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 17, 2324, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 18, 39354, 0, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 680, 20855, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 681, 6272, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3499, 682, 5640, 2, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 1, 4540, 0, 0, 0, 1, 52237); -- Thomas Miller <Baker>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 2, 4541, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 3, 4542, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 4, 4544, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 5, 4601, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 6, 8950, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 7, 27855, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 8, 33449, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3518, 9, 35950, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 1, 851, 0, 0, 0, 1, 46902); -- *Wallace the Blind <Weaponsmith>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 2, 1198, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 3, 853, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 4, 1196, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 5, 852, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 6, 1197, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 7, 2207, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 8, 854, 0, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 265, 4817, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 266, 4818, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 267, 11304, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3534, 268, 4778, 2, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 104, 6377, 1, 0, 0, 1, 46779); -- *****Zixil <Merchant Supreme>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 106, 5772, 1, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 107, 7561, 1, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 108, 7362, 1, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 109, 4827, 1, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1173, 4838, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1176, 4829, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1185, 6377, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1186, 5772, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1187, 7362, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3537, 1188, 7561, 1, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 1, 787, 0, 0, 0, 1, 52237); -- Hal McAllister <Fish Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 2, 4592, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 3, 4593, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 4, 4594, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 5, 21552, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3540, 6, 8957, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 1, 6947, 0, 0, 0, 1, 52237); -- Jaysin Lanyda <Poisons & Reagents>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 2, 6949, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 3, 6950, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 4, 8926, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 5, 8927, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 6, 8928, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 7, 21927, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 8, 43230, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 12, 2892, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 13, 2893, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 14, 8984, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 15, 8985, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 16, 20844, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 17, 22053, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 19, 43232, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 21, 10918, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 22, 10920, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 23, 10921, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 24, 10922, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 26, 43234, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 28, 21835, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 30, 17034, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 31, 17035, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 32, 17036, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 33, 17037, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 34, 17038, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 35, 22147, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 36, 17031, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 37, 17032, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 38, 17020, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 39, 17030, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 40, 17033, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 41, 17028, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 42, 17029, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 43, 17021, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 44, 17026, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 45, 22148, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 46, 5565, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 47, 16583, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 48, 21177, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3542, 49, 37201, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 1, 285, 0, 0, 0, 1, 52237); -- *Robert Aebischer <Superior Armorsmith>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 2, 1853, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 3, 286, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 4, 287, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 5, 1852, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 6, 718, 0, 0, 0, 1, 52237);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3543, 310, 4800, 1, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 1, 4604, 0, 0, 0, 1, 46779); -- Jason Lemieux <Mushroom Seller>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 2, 4605, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 3, 4606, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 4, 4607, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 5, 4608, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3544, 6, 8948, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 1, 4604, 0, 0, 0, 1, 46779); -- Hamlin Atkins <Mushroom Farmer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 2, 4605, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 3, 4606, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 4, 4607, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 5, 4608, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3547, 6, 8948, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 5, 6325, 0, 0, 0, 1, 46902); -- *****Martine Tramblay <Fishing Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 6, 6326, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 105, 6256, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 106, 6529, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 107, 6530, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 108, 6532, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 109, 6533, 2, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 522, 6256, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 523, 6529, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 524, 6530, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3550, 525, 6532, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 1, 846, 0, 0, 0, 1, 46902); -- *Alexandre Lefevre <Leather Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 2, 1843, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 3, 845, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 4, 843, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 5, 1844, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 6, 844, 0, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 71, 4788, 2, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3552, 72, 4789, 1, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 1, 7005, 0, 0, 0, 1, 46902); -- *Andrew Hilbert <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 2, 2901, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 3, 5956, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 4, 6256, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 5, 6217, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 6, 2320, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 7, 2321, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 8, 2678, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 9, 2880, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 10, 3371, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 11, 3372, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 12, 4289, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 13, 6529, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 14, 6530, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 15, 2324, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 16, 39354, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 19, 6892, 0, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 308, 5786, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 310, 5787, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3556, 311, 6272, 1, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 1, 851, 0, 0, 0, 1, 51943); -- *Lizzarik <Weapon Dealer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 2, 1198, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 3, 853, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 4, 1196, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 5, 852, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 6, 1197, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 7, 2207, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 8, 854, 0, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 10, 2455, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 11, 4778, 1, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 12, 4766, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 20, 4777, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 21, 4765, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 22, 4766, 1, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 23, 2455, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 24, 858, 2, 0, 0, 1, 45435);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 380, 2455, 3, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 381, 4766, 2, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 382, 4778, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 383, 858, 3, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 695, 858, 2, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 696, 2455, 3, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3658, 697, 4777, 1, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 1, 15290, 0, 0, 0, 1, 47168); -- Harb Clawhoof <Kodo Mounts>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 2, 15277, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 3, 46100, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 4, 18794, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 5, 18795, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3685, 6, 18793, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 1, 4540, 0, 0, 0, 1, 51943); -- Laer Stepperunner <Food & Drink>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 2, 4541, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 3, 4542, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 4, 4544, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 5, 4601, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 6, 8950, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 7, 159, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 8, 1179, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 9, 1205, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 10, 1708, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 11, 1645, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3689, 12, 8766, 0, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 1, 4540, 0, 0, 0, 1, 51739); -- Gruna <Food & Drink>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 2, 4541, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 3, 4542, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 4, 4544, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 5, 4601, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 6, 8950, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 7, 159, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 8, 1179, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 9, 1205, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 10, 1708, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 11, 1645, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3708, 12, 8766, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 1, 117, 0, 0, 0, 1, 46902); -- Grimtak <Butcher>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 2, 2287, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 3, 3770, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 4, 3771, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 5, 4599, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 6, 8952, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 7, 5483, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 8, 159, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 9, 1179, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 10, 1205, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 11, 1708, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 12, 1645, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3881, 13, 8766, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 1, 117, 0, 0, 0, 1, 46779); -- Zlagk <Butcher>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 2, 2287, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 3, 3770, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 4, 3771, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 5, 4599, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 6, 8952, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 7, 159, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 8, 1179, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 9, 1205, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 10, 1708, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 11, 1645, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3882, 12, 8766, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 1, 4540, 0, 0, 0, 1, 46248); -- Jhawna Oatwind <Baker>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 2, 4541, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 3, 4542, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 4, 4544, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 5, 4601, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 6, 8950, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 7, 159, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 8, 1179, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 9, 1205, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 10, 1708, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 11, 1645, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3884, 12, 8766, 0, 0, 0, 1, 46248);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 1, 4540, 0, 0, 0, 1, 46902); -- Kira Songshine <Traveling Baker>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 2, 4541, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 3, 4542, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 4, 4544, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 5, 4601, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 6, 8950, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 7, 159, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 8, 1179, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 9, 1205, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 10, 1708, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 11, 1645, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3937, 12, 8766, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 1, 5439, 0, 0, 0, 1, 46902); -- *Bhaldaran Ravenshade <Bowyer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 2, 11362, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 3, 2512, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 4, 2515, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 5, 2507, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3951, 6, 3026, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 1, 799, 0, 0, 0, 1, 46902); -- Tandaan Lightmane <Leather Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 2, 1839, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 3, 798, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 4, 796, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 5, 1840, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 6, 797, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 7, 846, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 8, 1843, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 9, 845, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 10, 843, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 11, 1844, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 12, 844, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 13, 236, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 14, 1849, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 15, 237, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 16, 238, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 17, 1850, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 18, 239, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 19, 2141, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 20, 2142, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 21, 2146, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 22, 2143, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 23, 2144, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3953, 24, 2145, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 1, 4540, 0, 0, 0, 1, 46902); -- Nantar <Baker>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 2, 4541, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 3, 4542, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 4, 4544, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 5, 4601, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 6, 8950, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 7, 159, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 8, 1179, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 9, 1205, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 10, 1708, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 11, 1645, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3959, 12, 8766, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 1, 16166, 0, 0, 0, 1, 46902); -- Maliynn <Food & Drink Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 2, 16167, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 3, 16170, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 4, 16169, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 5, 16168, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 6, 21030, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 7, 21033, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 8, 21031, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 9, 4536, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 10, 4537, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 11, 4538, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 12, 4539, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 13, 4602, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 14, 8953, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 15, 159, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 16, 1179, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 17, 1205, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 18, 1708, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 19, 1645, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (3961, 20, 8766, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 1, 159, 0, 0, 0, 1, 46158); -- Grawnal <General Goods>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 2, 1179, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 3, 1205, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 4, 4496, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 5, 4498, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 6, 2512, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 7, 2515, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 8, 2516, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 9, 2519, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 10, 4470, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 11, 5048, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 12, 25872, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 13, 25873, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 14, 29007, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4082, 15, 29008, 0, 0, 0, 1, 46158);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 1, 159, 0, 0, 0, 1, 52237); -- Dalmond <General Goods>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 2, 1179, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 3, 4496, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 4, 4498, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 5, 2512, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 6, 2515, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 7, 2516, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 8, 2519, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 9, 4470, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 10, 5042, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 11, 25861, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 12, 29007, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 13, 28979, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4182, 14, 25872, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 1, 16059, 0, 0, 0, 1, 46902); -- Shaldyn <Clothier>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 2, 3428, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 3, 16060, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 4, 837, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 5, 3589, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 6, 838, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 7, 840, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 8, 3590, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4185, 9, 839, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 1, 159, 0, 0, 0, 1, 46902); -- Taldan <Drink Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 2, 1179, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 3, 1205, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 4, 1708, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 5, 1645, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4192, 6, 8766, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 1, 2901, 0, 0, 0, 1, 46248); -- Thurgrum Deepforge <Blacksmithing Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 2, 5956, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 3, 2880, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 4, 3466, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 5, 18567, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4259, 6, 3857, 0, 0, 0, 1, 46248);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 1, 787, 0, 0, 0, 1, 52237); -- Heldan Galesong <Fisherman>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 2, 4592, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 3, 4593, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 4, 4594, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 5, 21552, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 6, 8957, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 7, 5528, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 8, 6368, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 9, 6369, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4307, 10, 17062, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 1, 159, 0, 0, 0, 1, 45942); -- Ronald Burch <Cooking Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 2, 30817, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 3, 2678, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 4, 21099, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 5, 21219, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 6, 6330, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4553, 7, 6368, 0, 0, 0, 1, 45942);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 1, 4604, 0, 0, 0, 1, 51666); -- Tawny Grisette <Mushroom Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 2, 4605, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 3, 4606, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 4, 4607, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 5, 4608, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 6, 8948, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 7, 27859, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 8, 33452, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 9, 35947, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 10, 159, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 11, 1179, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 12, 1205, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 13, 1708, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 14, 1645, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 15, 8766, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 16, 28399, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 17, 35954, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 18, 33444, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4554, 19, 33445, 0, 0, 0, 1, 51666);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 1, 159, 0, 0, 0, 1, 46248); -- Eleanor Rusk <General Goods>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 2, 1179, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 3, 1205, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 4, 1708, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 5, 1645, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 6, 8766, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 7, 4496, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 8, 4498, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 9, 2512, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 10, 2515, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 11, 2516, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 12, 2519, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 13, 4470, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 14, 5048, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 15, 25872, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 16, 25873, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 17, 29007, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 18, 29008, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 19, 4497, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 20, 3030, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 21, 11285, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 22, 28053, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 23, 3033, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 24, 11284, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 25, 28060, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 26, 25875, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 27, 25876, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 28, 29013, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 29, 29009, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 30, 29010, 0, 0, 0, 1, 46248);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4555, 31, 29014, 0, 0, 0, 1, 46248);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 1, 2131, 0, 0, 0, 1, 51739); -- Gordon Wendham <Weapons Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 2, 1194, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 3, 2134, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 4, 2479, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 5, 2130, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 6, 2480, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 7, 2139, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 8, 2132, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 9, 2488, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 10, 2489, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 11, 2490, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 12, 2491, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 13, 2492, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 14, 2493, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 15, 2494, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4556, 16, 2495, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 1, 193, 0, 0, 0, 1, 51666); -- Lauren Newcomb <Light Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 2, 3595, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 3, 194, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 4, 195, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 5, 3596, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 6, 711, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 7, 2364, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 8, 3606, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 9, 2366, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 10, 2367, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 11, 3607, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 12, 2369, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 13, 16059, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 14, 3428, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 15, 16060, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 16, 837, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 17, 3589, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 18, 838, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 19, 840, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 20, 3590, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 21, 839, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 22, 85, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 23, 1835, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 24, 209, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 25, 210, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 26, 1836, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 27, 714, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 28, 2370, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 29, 2371, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 30, 2372, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 31, 2373, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 32, 2374, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 33, 2375, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 34, 846, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 35, 1843, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 36, 845, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 37, 843, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 38, 1844, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4558, 39, 844, 0, 0, 0, 1, 51666);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 1, 2386, 0, 0, 0, 1, 51739); -- Timothy Weldon <Heavy Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 2, 2387, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 3, 2388, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 4, 2389, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 5, 2390, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 6, 2391, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 7, 2398, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 8, 2399, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 9, 2400, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 10, 2401, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 11, 2402, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 12, 2403, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 13, 17183, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 14, 1200, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 15, 17185, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 16, 2376, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 17, 17187, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4559, 18, 1202, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 1, 847, 0, 0, 0, 1, 45942); -- Walter Ellingson <Heavy Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 2, 1845, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 3, 848, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 4, 849, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 5, 1846, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 6, 850, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 7, 17187, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4560, 8, 1202, 0, 0, 0, 1, 45942);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 2, 7005, 0, 0, 0, 1, 51666); -- *Daniel Bartlett <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 3, 6256, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 4, 6217, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 5, 5956, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 6, 2901, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 7, 2320, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 8, 2321, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 9, 4291, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 10, 8343, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 11, 14341, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 12, 2678, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 13, 2880, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 14, 3466, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 15, 3857, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 16, 2604, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 17, 2325, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 18, 4341, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 19, 4342, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 20, 4340, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 21, 3371, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 22, 3372, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 23, 8925, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 24, 18256, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 25, 4289, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 26, 4399, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 27, 4400, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 28, 6530, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 29, 6532, 0, 0, 0, 1, 51666);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 48, 16217, 1, 0, 0, 1, 45942);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 50, 20854, 1, 0, 0, 1, 45942);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 315, 16217, 1, 0, 0, 1, 46158);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 318, 20854, 1, 0, 0, 1, 46158);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 794, 16217, 1, 0, 0, 1, 51666);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 795, 20854, 1, 0, 0, 1, 51666);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 1133, 16217, 1, 0, 0, 1, 46248);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4561, 1134, 20854, 1, 0, 0, 1, 46248);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 1, 17034, 0, 0, 0, 1, 46902); -- Thomas Mordan <Reagents>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 2, 17035, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 3, 17036, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 4, 17037, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 5, 17038, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 6, 22147, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 7, 44614, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 8, 17031, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 9, 17032, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 10, 17020, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 11, 17030, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 12, 17033, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 13, 17028, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 14, 17029, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 15, 44615, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 16, 17021, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 17, 17026, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 18, 22148, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 19, 44605, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 20, 5565, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 21, 16583, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 22, 21177, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4562, 23, 37201, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4570, 1, 2527, 0, 0, 0, 1, 51739); -- Sydney Upton <Staff Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4570, 2, 2535, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 1, 4604, 0, 0, 0, 1, 51666); -- Morley Bates <Fungus Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 2, 4605, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 3, 4606, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 4, 4607, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 5, 4608, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 6, 8948, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 7, 27859, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 8, 33452, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 9, 35947, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 10, 159, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 11, 1179, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 12, 1205, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 13, 1708, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 14, 1645, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 15, 8766, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 16, 28399, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 17, 35954, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 18, 33444, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4571, 19, 33445, 0, 0, 0, 1, 51666);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 1, 17034, 0, 0, 0, 1, 51666); -- Hannah Akeley <Reagents>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 2, 17035, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 3, 17036, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 4, 17037, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 5, 17038, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 6, 22147, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 7, 44614, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 8, 17031, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 9, 17032, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 10, 17020, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 11, 17030, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 12, 17033, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 13, 17028, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 14, 17029, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 15, 44615, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 16, 17021, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 17, 17026, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 18, 22148, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 19, 44605, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 20, 5565, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 21, 16583, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 22, 21177, 0, 0, 0, 1, 51666);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4575, 23, 37201, 0, 0, 0, 1, 51666);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 1, 2320, 0, 0, 0, 1, 46779); -- *Millie Gregorian <Tailoring Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 2, 2321, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 3, 4291, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 4, 8343, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 5, 14341, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 6, 38426, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 7, 2324, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 8, 2604, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 9, 6260, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 10, 2605, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 11, 4341, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 12, 4340, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 13, 6261, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 14, 2325, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 15, 4342, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 16, 10290, 0, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 396, 10323, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 397, 10326, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 399, 5772, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 400, 6275, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 401, 10321, 1, 0, 0, 1, 46902);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 512, 10326, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 513, 10321, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 514, 10323, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 515, 5772, 1, 0, 0, 1, 46779);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4577, 516, 6275, 1, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 1, 2612, 0, 0, 0, 1, 51739); -- Lucille Castleton <Robe Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 2, 2613, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 3, 2614, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 4, 2616, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 5, 2615, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 6, 2617, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4580, 7, 2618, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 219, 1181, 3, 0, 0, 1, 46902); -- *****Salazar Bloch <Book Dealer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 220, 955, 2, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 221, 1180, 1, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 222, 10648, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 223, 10647, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 224, 954, 1, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 225, 1478, 1, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 226, 2290, 2, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 473, 3012, 2, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 474, 2290, 2, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 478, 3013, 3, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 479, 1181, 3, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 480, 955, 3, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 481, 10648, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4581, 482, 10647, 0, 0, 0, 1, 46158);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 1, 6947, 0, 0, 0, 1, 46779); -- Ezekiel Graves <Poison Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 2, 6949, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 3, 6950, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 4, 8926, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 5, 8927, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 6, 8928, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 7, 21927, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 8, 43230, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 9, 43231, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 10, 3775, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 11, 5237, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 12, 2892, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 13, 2893, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 14, 8984, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 15, 8985, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 16, 20844, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 17, 22053, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 18, 22054, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 19, 43232, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 20, 43233, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 21, 10918, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 22, 10920, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 23, 10921, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 24, 10922, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 25, 22055, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 26, 43234, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 27, 43235, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 28, 21835, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4585, 29, 43237, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 1, 22250, 0, 0, 0, 1, 51943); -- Katrina Alliestar <Herbalism Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 2, 3371, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 3, 3372, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 4, 8925, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 5, 18256, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4615, 6, 40411, 0, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 2, 7005, 0, 0, 0, 1, 51943); -- *Felicia Doan <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 3, 6256, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 4, 6217, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 5, 5956, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 6, 2901, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 7, 2320, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 8, 2321, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 9, 4291, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 10, 8343, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 11, 14341, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 12, 2678, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 13, 2880, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 14, 3466, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 15, 3857, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 16, 2604, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 17, 2325, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 18, 4341, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 19, 4342, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 20, 4340, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 21, 3371, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 22, 3372, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 23, 8925, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 24, 18256, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 25, 4289, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 26, 4399, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 27, 4400, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 28, 6530, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 29, 6532, 0, 0, 0, 1, 51943);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 67, 20975, 1, 0, 0, 1, 47168);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4775, 420, 20975, 1, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 1, 117, 0, 0, 0, 1, 52237); -- Turhaw <Butcher>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 2, 2287, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 3, 3770, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 4, 3771, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 5, 4599, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 6, 8952, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 7, 159, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 8, 1179, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 9, 1205, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 10, 1708, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 11, 1645, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4875, 12, 8766, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 2, 2901, 0, 0, 0, 1, 45942); -- *Jandia <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 3, 5956, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 4, 6217, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 5, 2320, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 6, 2321, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 7, 4291, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 8, 2678, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 9, 2880, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 10, 3466, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 11, 3857, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 12, 2324, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 13, 3371, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 14, 3372, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 15, 4289, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 16, 4399, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 17, 4400, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 18, 6530, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 19, 6532, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 20, 39354, 0, 0, 0, 1, 45942);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4877, 49, 20970, 1, 0, 0, 1, 45942);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 1, 17034, 0, 0, 0, 1, 45572); -- *Montarr <Lorekeeper>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 2, 17035, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 3, 17036, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 4, 17037, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 5, 17038, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 6, 22147, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 7, 17031, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 8, 17032, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 9, 17020, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 10, 17030, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 11, 17033, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 12, 17028, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 13, 17029, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 14, 17021, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 15, 17026, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 16, 22148, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 17, 5565, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 18, 16583, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 19, 21177, 0, 0, 0, 1, 45572);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 20, 37201, 0, 0, 0, 1, 45572);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 499, 929, 2, 0, 0, 1, 45572);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 500, 954, 1, 0, 0, 1, 45572);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4878, 501, 2290, 2, 0, 0, 1, 45572);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 1, 117, 0, 0, 0, 1, 47168); -- Ogg'marr <Butcher>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 2, 2287, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 3, 3770, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 4, 3771, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 5, 4599, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 6, 8952, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 7, 159, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 8, 1179, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 9, 1205, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 10, 1708, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 11, 1645, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 12, 8766, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 13, 12228, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 14, 12232, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 15, 12239, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4879, 16, 20075, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 1, 2153, 0, 0, 0, 1, 47168); -- Krak <Armorer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 2, 2148, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 3, 2152, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 4, 2149, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 5, 2150, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4883, 6, 2151, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 1, 2520, 0, 0, 0, 1, 47168); -- *Zulrg <Weaponsmith>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 2, 2521, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 3, 2522, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 4, 2523, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 5, 2524, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 6, 2525, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 7, 2526, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4884, 8, 2527, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 1, 2153, 0, 0, 0, 1, 46902); -- Hans Weston <Armorer & Shieldsmith>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 2, 2148, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 3, 2152, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 4, 2149, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 5, 2150, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 6, 2151, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 7, 17192, 0, 0, 0, 1, 46902);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4886, 8, 2446, 0, 0, 0, 1, 46902);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 1, 5439, 0, 0, 0, 1, 52237); -- *Jensen Farran <Bowyer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 2, 11362, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 3, 2512, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 4, 2515, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 5, 3030, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 6, 11285, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 7, 28053, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 8, 3026, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4892, 9, 3027, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 1, 117, 0, 0, 0, 1, 47168); -- Uttnar <Butcher>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 2, 2287, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 3, 3770, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 4, 3771, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 5, 4599, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (4954, 6, 8952, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 1, 847, 0, 0, 0, 1, 51739); -- Mangorn Flinthammer <Heavy Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 2, 1845, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 3, 848, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 4, 849, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 5, 1846, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 6, 850, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 7, 17187, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5107, 8, 1202, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 1, 6947, 0, 0, 0, 1, 51739); -- Tynnus Venomsprout <Shady Dealer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 2, 6949, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 3, 6950, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 4, 8926, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 5, 8927, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 6, 8928, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 7, 21927, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 8, 43230, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 9, 43231, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 10, 3775, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 11, 5237, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 12, 2892, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 13, 2893, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 14, 8984, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 15, 8985, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 16, 20844, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 17, 22053, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 18, 22054, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 19, 43232, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 20, 43233, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 21, 10918, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 22, 10920, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 23, 10921, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 24, 10922, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 25, 22055, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 26, 43234, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 27, 43235, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 28, 21835, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5169, 29, 43237, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 1, 5976, 0, 0, 0, 1, 46368); -- Thrumn <Tabard Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 2, 31779, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 3, 31804, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 4, 31776, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 5, 31777, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 6, 31778, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 7, 32828, 0, 0, 1958, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 8, 31780, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 9, 31781, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 10, 32445, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 11, 31775, 0, 0, 1994, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 12, 35221, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 13, 31773, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 14, 24004, 0, 0, 0, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 15, 19505, 0, 0, 129, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 16, 19031, 0, 0, 1003, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 17, 15197, 0, 0, 7397, 1, 46368);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5189, 18, 15199, 0, 0, 7398, 1, 46368);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 1, 5976, 0, 0, 0, 1, 45942); -- Merill Pleasance <Tabard Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 2, 31779, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 3, 31804, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 4, 31776, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 5, 31777, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 6, 31778, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 7, 32828, 0, 0, 1958, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 8, 31780, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 9, 31781, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 10, 32445, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 11, 31775, 0, 0, 1994, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 12, 35221, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 13, 31773, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 14, 24004, 0, 0, 0, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 15, 19505, 0, 0, 129, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 16, 19031, 0, 0, 1003, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 17, 15197, 0, 0, 7397, 1, 45942);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5190, 18, 15199, 0, 0, 7398, 1, 45942);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 1, 2901, 0, 0, 0, 1, 46158); -- *Krinkle Goodsteel <Blacksmithing Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 2, 5956, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 3, 2880, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 4, 3466, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 5, 18567, 0, 0, 0, 1, 46158);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 6, 3857, 0, 0, 0, 1, 46158);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5411, 215, 6047, 1, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 1, 2423, 0, 0, 0, 1, 52237); -- Strumner Flintheel <Armorer>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 2, 2424, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 3, 2425, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 4, 2426, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 5, 2427, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 6, 2428, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 7, 3894, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 8, 8094, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 9, 8088, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 10, 8093, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 11, 8089, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 12, 8090, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 13, 8091, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 14, 8092, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 15, 17190, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5508, 16, 2451, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1088, 5956, 0, 0, 0, 1, 52237); -- *****Billibub Cogspinner <Engineering Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1089, 2901, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1090, 4399, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1091, 4400, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1092, 40533, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1093, 39684, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1094, 2880, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1095, 3466, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1096, 10648, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1097, 10647, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1098, 4404, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1100, 4357, 2, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5519, 1101, 4364, 4, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 1, 7005, 0, 0, 0, 1, 52237); -- Jillian Tanner <Leatherworking Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 2, 4289, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 3, 2320, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 4, 2321, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 5, 4291, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 6, 8343, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 7, 14341, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 8, 38426, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 9, 2325, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 10, 6260, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 11, 2604, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 12, 2605, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 13, 4340, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 14, 4341, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 15, 6261, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 16, 4342, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5565, 17, 10290, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 1, 3371, 0, 0, 0, 1, 52237); -- *Alchemist Pestlezugg <Alchemy Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 2, 3372, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 3, 8925, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 4, 18256, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 5, 40411, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 112, 9303, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 113, 9304, 0, 0, 0, 1, 52237);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 114, 9305, 1, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 115, 12958, 0, 0, 0, 1, 52237);
+-- INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5594, 116, 6057, 1, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 1, 2723, 0, 0, 0, 1, 52237); -- Barkeep Morag
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 2, 2593, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 3, 2596, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 4, 2594, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 5, 2595, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 6, 159, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 7, 1179, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 8, 1205, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 9, 1708, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 10, 1645, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 11, 8766, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 12, 117, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 13, 2287, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 14, 3770, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 15, 3771, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 16, 4599, 0, 0, 0, 1, 52237);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5611, 17, 8952, 0, 0, 0, 1, 52237);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 1, 4604, 0, 0, 0, 1, 46779); -- Innkeeper Renee <Innkeeper>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 2, 4605, 0, 0, 0, 1, 46779); -- (Sells Love Tokens, Perfume and Cologne Bottles for holidays)
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 3, 4606, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 4, 4607, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 5, 4608, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 6, 8948, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 7, 159, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 8, 1179, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 9, 1205, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 10, 1708, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 11, 1645, 0, 0, 0, 1, 46779);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5688, 12, 8766, 0, 0, 0, 1, 46779);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 1, 5208, 0, 0, 0, 1, 51739); -- Zane Bradford <Wand Vendor>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 2, 5209, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 3, 5210, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 4, 5211, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 5, 5236, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 6, 5347, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 7, 5238, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5754, 8, 5239, 0, 0, 0, 1, 51739);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 1, 2392, 0, 0, 0, 1, 51943); -- Tumi <Heavy Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 2, 2393, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 3, 2394, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 4, 2395, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 5, 2396, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 6, 2397, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 7, 847, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 8, 1845, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 9, 848, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 10, 849, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 11, 1846, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 12, 850, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 13, 2417, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 14, 2419, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 15, 2418, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 16, 2420, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 17, 2421, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 18, 2422, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 19, 3891, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 20, 17189, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 21, 2448, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 22, 2153, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 23, 2148, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 24, 2152, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 25, 2149, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 26, 2150, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 27, 2151, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 28, 17192, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 29, 2446, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 30, 285, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 31, 1853, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 32, 286, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 33, 287, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 34, 1852, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 35, 718, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 36, 2423, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 37, 2424, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 38, 2425, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 39, 2426, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 40, 2427, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 41, 2428, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 42, 3894, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 43, 8094, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 44, 8088, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 45, 8093, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 46, 8089, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 47, 8090, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 48, 8091, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 49, 8092, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 50, 17190, 0, 0, 0, 1, 51943);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5812, 51, 2451, 0, 0, 0, 1, 51943);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 1, 7005, 0, 0, 0, 1, 47168); -- Shimra <Trade Supplies>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 2, 2901, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 3, 5956, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 4, 6256, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 5, 6217, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 6, 2678, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 7, 30817, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 8, 2320, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 9, 2880, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 10, 3371, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 11, 4289, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 12, 6529, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 13, 2604, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 14, 2324, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 15, 6260, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 16, 10648, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 17, 39354, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 18, 2321, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 19, 6530, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 20, 2605, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 21, 3372, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 22, 4291, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 23, 3466, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 24, 3857, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 25, 4399, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 26, 4400, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 27, 6532, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 28, 8343, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 29, 14341, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 30, 2325, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 31, 4341, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 32, 4342, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 33, 4340, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 34, 8925, 0, 0, 0, 1, 47168);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5817, 35, 18256, 0, 0, 0, 1, 47168);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 1, 799, 0, 0, 0, 1, 45613); -- Gillian Moore <Leather Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 2, 1839, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 3, 798, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 4, 796, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 5, 1840, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 6, 797, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 7, 846, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 8, 1843, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 9, 845, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 10, 843, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 11, 1844, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 12, 844, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 13, 2463, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 14, 2464, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 15, 2465, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 16, 2467, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 17, 2468, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 18, 2469, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 19, 3890, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 20, 2470, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 21, 2471, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 22, 2472, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 23, 2473, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 24, 2474, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 25, 2475, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 26, 3893, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 27, 236, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 28, 1849, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 29, 237, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 30, 238, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 31, 1850, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 32, 239, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 33, 2141, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 34, 2142, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 35, 2146, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 36, 2143, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 37, 2144, 0, 0, 0, 1, 45613);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5820, 38, 2145, 0, 0, 0, 1, 45613);
+
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 1, 795, 0, 0, 0, 1, 51739); -- Sheldon Von Croy <Cloth Armor Merchant>
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 2, 3602, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 3, 794, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 4, 792, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 5, 3603, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 6, 793, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 7, 837, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 8, 3589, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 9, 838, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 10, 840, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 11, 3590, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 12, 839, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 13, 200, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 14, 3597, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 15, 201, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 16, 202, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 17, 3598, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 18, 203, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 19, 2160, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 20, 3591, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 21, 2159, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 22, 2156, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 23, 3592, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 24, 2158, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 25, 2429, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 26, 3593, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 27, 2431, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 28, 2432, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 29, 3594, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 30, 2434, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 31, 3889, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 32, 2435, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 33, 3587, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 34, 2437, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 35, 2438, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 36, 3588, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 37, 2440, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 38, 3892, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 57, 13897, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 58, 13896, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 59, 13898, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 66, 13897, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 67, 13896, 0, 0, 0, 1, 51739);
+INSERT INTO `npc_vendor_test` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `VerifiedBuild`) VALUES (5821, 68, 13898, 0, 0, 0, 1, 51739);
+
