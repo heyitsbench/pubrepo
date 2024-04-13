@@ -1,1 +1,1 @@
-2.X_PTR_Windows_enGB_0.2.0.7125
+2.X_PTR_Windows_enUS_0.2.0.7125
