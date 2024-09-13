@@ -1,11 +1,17 @@
 SERVERALERT:
 <html><body>
-<p>Here's a sample of what can be done in the server alert file.<br /><br /></p>
-<p>There's three different header styles:</p>
-<h1 align="center">This is header style 1</h1>
-<h2 align="center">This is header style 2</h2>
-<h3 align="center">This is header style 3 (like paragraph style)<br /><br /></h3>
-<p align="left">Text can be aligned left,</p>
-<p align="center">center,</p>
-<p align="right">or to the right!</p>
-</body></html>
+<h1 align="center">Changelog</h1>
+<h1 align="center">07/08/2024 - 17/08/2024</h1>
+<h2 align="left">Class issues</h2>
+<p>Elementals summoned by shamans' totems no longer follow the shaman out of combat.</p>
+<p>This has created a new issue causing elementals to attack units that they shouldn't, such as opposite faction players.<br /><br /></p>
+<h2 align="left">Instance issues</h2>
+<p align="center">Dungeons</p>
+<p>Level 70 Elite Tauren Chieftain has returned from retirement! The band now performs in the Grim Guzzler in Blackrock Depths at 8PM server time every evening.<br /><br /></p>
+<h2 align="left">Generic issues</h2>
+<p>Several improvements have been made to various spells, including Ritual of Refreshment, Souls, and Summoning. Also includes improvements to meeting stone summoning.</p>
+<p>Spells that trigger other spells that scale damage based on the level of the caster no longer get scaled twice.<br /><br /></p>
+<h2 align="left">Open world issues</h2>
+<p>The Dragonmaw racers now reset properly after they've finished a race.</p>
+<p>L70ETC will now also perform every four hours in Shattrath's World's End Tavern. The band members in Silvermoon City will also now respond to emotes.</p>
+<p>Shattrath Saul in the World's End Tavern now also properly walks around the city to herald incoming performances both from L70ETC and Perry Gatner.</p>
